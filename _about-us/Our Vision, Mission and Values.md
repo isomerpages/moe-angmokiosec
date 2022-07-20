@@ -12,7 +12,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Our%20History%20-%20AMKSS%20Vision.jpg" alt="School Uniform" style="width:75%;">  
+<body><img src="/images/Our%20History%20-%20AMKSS%20Vision.jpg" alt="Our Vision" style="width:75%;">  
   
 </body>
 
@@ -25,28 +25,107 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/our%20vision_2.png" alt="School Uniform" style="width:75%;">  
+<body><img src="/images/our%20vision_2.png" alt="Our Vision" style="width:75%;">  
   
 </body>
 
 ### Mission
 
-![](/images/our%20mission.png)
+<p style="text-align:center;"> <strong>To provide a holistic education that nurtures life long learners, responsible citizens and resilient individuals.
+</strong></p>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/our%20mission.png" alt="Our Mission" style="width:80%;">  
+  
+</body>
+
 
 ### Values
 
 ![](/images/Our%20History%20%20AMKSS%20Values%20-%20Respect.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 ![](/images/Our%20History%20%20AMKSS%20Values%20-%20Responsibility.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
 ![](/images/Our%20History%20%20AMKSS%20Values%20-%20Resilience.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 ![](/images/Our%20History%20%20AMKSS%20Values%20-%20Integrity.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
 ![](/images/Our%20History%20%20AMKSS%20Values%20-%20Compassion.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
 
 ![](/images/Our%20History%20%20AMKSS%20Values%20-%20Harmony.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
 ### School Motto
 
