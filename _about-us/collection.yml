@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - AMKSS E Brochure.md
-      - Executive and Administrative Staff.md
-      - School Management Committee.md
-      - School Advisory Committee.md
-      - Student's Creed.md
-      - Teacher's Creed.md
-      - Our Logo.md
-      - Our Vision, Mission and Values.md
       - Our History.md
+      - Our Vision, Mission and Values.md
+      - Our Logo.md
+      - Teacher's Creed.md
+      - Student's Creed.md
+      - School Advisory Committee.md
+      - School Management Committee.md
+      - Executive and Administrative Staff.md
+      - AMKSS E Brochure.md
