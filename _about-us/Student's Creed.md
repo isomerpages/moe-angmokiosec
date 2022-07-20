@@ -9,7 +9,7 @@ description: ""
 
 <p style="text-align:center;"> <strong>We will uphold integrity and harmony in our<br>work and our deeds.</strong></p>
 
-<p style="text-align:center;"> <strong>We believe we have the power to be the best<br>that we can be</strong></p>
+<p style="text-align:center;"> <strong>We will be compassionate and respectful to<br>others, and we will serve the school and<br>community with commitment and pride.</strong></p>
 
 <style>  
 img {  
