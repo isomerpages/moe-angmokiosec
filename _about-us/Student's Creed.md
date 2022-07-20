@@ -21,7 +21,7 @@ img {
 <body><img src="/images/DSC_8535%202000x1335.jpg" alt="Student's Creed" style="width:70%;">  
   
 </body>
-
+<br>
 <style>  
 img {  
   display: block;  
