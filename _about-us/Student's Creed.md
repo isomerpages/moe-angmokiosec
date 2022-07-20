@@ -3,7 +3,13 @@ title: Student's Creed
 permalink: /about-us/students-creed
 description: ""
 ---
-<p style="text-align:center;"> <strong>We believe in giving the best of ourselves in<br>all endeavours and to show care<br>and concern for our pupils and for one another.</strong></p>
+<p style="text-align:center;"> <strong>We believe we have the power to be the best<br>that we can be</strong></p>
+
+<p style="text-align:center;"> <strong>We will work creatively learn continuously<br>and strive for the best in whatever we do.</strong></p>
+
+<p style="text-align:center;"> <strong>We will uphold integrity and harmony in our<br>work and our deeds.</strong></p>
+
+<p style="text-align:center;"> <strong>We believe we have the power to be the best<br>that we can be</strong></p>
 
 <style>  
 img {  
