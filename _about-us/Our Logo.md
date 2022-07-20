@@ -3,8 +3,6 @@ title: Our Logo
 permalink: /about-us/our-logo
 description: ""
 ---
-![](/images/Ang-Mo-Kio-Secondary-School.png)
-
 <style>  
 img {  
   display: block;  
@@ -12,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ang-Mo-Kio-Secondary-School.png" alt="School Uniform" style="width:50%;">  
   
 </body>
 
@@ -28,8 +26,7 @@ The green circumference radiates energy and confidence, capturing the indomitabl
   
 
 The logo's fluidity and dynamism is balanced by the dignity and authority of the typeface which emphasizes our conviction to "**Aways Strive for the Best**".
-
-![](/images/our%20logo.png)
+<br>
 
 <style>  
 img {  
@@ -38,6 +35,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/our%20logo.png" alt="School Uniform" style="width:75%;">  
   
 </body>
