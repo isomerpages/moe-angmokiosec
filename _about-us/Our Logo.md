@@ -26,6 +26,7 @@ The green circumference radiates energy and confidence, capturing the indomitabl
   
 
 The logo's fluidity and dynamism is balanced by the dignity and authority of the typeface which emphasizes our conviction to "**Aways Strive for the Best**".
+
 <br>
 
 <style>  
