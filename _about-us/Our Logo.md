@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ang-Mo-Kio-Secondary-School.png" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Ang-Mo-Kio-Secondary-School.png" alt="School Uniform" style="width:40%;">  
   
 </body>
 
@@ -36,6 +36,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/our%20logo.png" alt="School Uniform" style="width:75%;">  
+<body><img src="/images/our%20logo.png" alt="School Uniform" style="width:85%;">  
   
 </body>
