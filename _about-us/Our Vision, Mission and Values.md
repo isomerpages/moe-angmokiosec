@@ -116,4 +116,13 @@ img {
 
 ### School Motto
 
-![](/images/Our%20History%20%20AMKSS%20School%20Motto%20-%20Always%20Strive%20for%20the%20Best.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Our%20History%20%20AMKSS%20School%20Motto%20-%20Always%20Strive%20for%20the%20Best.jpg" alt="Always strive for the best" style="width:70%;">  
+  
+</body>
