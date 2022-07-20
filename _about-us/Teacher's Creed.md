@@ -27,7 +27,7 @@ img {
   
 </body>
 
-<p style="text-align:center;"> <strong>8 am to 5.30 pm</strong></p>
+<p style="text-align:center;"> <strong>We are committed to create a harmonious<br>and gracious community where every pupil<br>and colleague is given the highest regard<br>and where diversity is valued and embraced.</strong></p>
 
 
 <style>  
