@@ -48,6 +48,7 @@ img {
 
 ### Values
 
+<h4 style="color:black" align="center">Respect</h4>
 <style>  
 img {  
   display: block;  
@@ -59,6 +60,7 @@ img {
   
 </body>
 
+<h4 style="color:black" align="center">Responsibility</h4>
 <style>  
 img {  
   display: block;  
@@ -70,6 +72,7 @@ img {
   
 </body>
 
+<h4 style="color:black" align="center">Resilience</h4>
 <style>  
 img {  
   display: block;  
@@ -81,6 +84,7 @@ img {
   
 </body>
 
+<h4 style="color:black" align="center">Intergrity</h4>
 <style>  
 img {  
   display: block;  
@@ -92,6 +96,7 @@ img {
   
 </body>
 
+<h4 style="color:black" align="center">Compassion</h4>
 <style>  
 img {  
   display: block;  
@@ -103,6 +108,7 @@ img {
   
 </body>
 
+<h4 style="color:black" align="center">Harmony</h4>
 <style>  
 img {  
   display: block;  
@@ -116,6 +122,7 @@ img {
 
 ### School Motto
 
+<h4 style="color:black" align="center">Always strive for the best</h4>
 <style>  
 img {  
   display: block;  
