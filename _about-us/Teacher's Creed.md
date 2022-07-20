@@ -15,7 +15,7 @@ img {
 <body><img src="/images/Teachers%20Creed%201.jpg" alt="Teacher's Creed" style="width:70%;">  
   
 </body>
-
+<br>
 <style>  
 img {  
   display: block;  
@@ -38,9 +38,8 @@ img {
 }  
 </style>  
 <body><img src="/images/Teachers%20Creed%203.jpg" alt="Teacher's Creed" style="width:70%;">  
-  
 </body>
-
+<br>
 <style>  
 img {  
   display: block;  
