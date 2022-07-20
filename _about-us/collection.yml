@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Teacher's Creed.md
       - Our Logo.md
       - Our Vision, Mission and Values.md
       - Our History.md
