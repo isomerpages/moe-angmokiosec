@@ -48,8 +48,6 @@ img {
 
 ### Values
 
-![](/images/Our%20History%20%20AMKSS%20Values%20-%20Respect.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -57,12 +55,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Respect.jpg" alt="Respect" style="width:70%;">  
   
 </body>
 
-![](/images/Our%20History%20%20AMKSS%20Values%20-%20Responsibility.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -70,12 +66,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Responsibility.jpg" alt="Responsibility" style="width:70%;">  
   
 </body>
 
-![](/images/Our%20History%20%20AMKSS%20Values%20-%20Resilience.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -83,12 +77,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Resilience.jpg" alt="Resilience" style="width:70%;">  
   
 </body>
 
-![](/images/Our%20History%20%20AMKSS%20Values%20-%20Integrity.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -96,12 +88,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Integrity.jpg" alt="Integrity" style="width:70%;">  
   
 </body>
 
-![](/images/Our%20History%20%20AMKSS%20Values%20-%20Compassion.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -109,13 +99,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Compassion.jpg" alt="Compassion" style="width:70%;">  
   
 </body>
 
-
-![](/images/Our%20History%20%20AMKSS%20Values%20-%20Harmony.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -123,7 +110,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Harmony.jpg" alt="Harmony" style="width:70%;">  
   
 </body>
 
