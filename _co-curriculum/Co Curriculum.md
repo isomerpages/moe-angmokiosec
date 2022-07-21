@@ -3,8 +3,7 @@ title: Co Curriculum
 permalink: /co-curriculum
 description: ""
 ---
-<img src="/images/title_Clubs%20&%20Societies.jpg"  
-style="width:35%">
+<img src="/images/title_Clubs%20&%20Societies.jpg" style="width:180px;height:30px;margin-left:15px;" align = "left">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -24,8 +23,8 @@ style="width:35%">
 </thead>
 </table>
 
-<img src="/images/title_Performing%20Arts.jpg"  
-style="width:35%">
+
+<img src="/images/title_Performing%20Arts.jpg" style="width:180px;height:30px;margin-left:15px;" align = "left">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -56,8 +55,7 @@ style="width:35%">
 </tbody>
 </table>
 
-<img src="/images/title_Sports%20and%20Games.jpg"  
-style="width:35%">
+<img src="/images/title_Sports%20and%20Games.jpg" style="width:180px;height:30px;margin-left:15px;" align = "left">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -89,9 +87,8 @@ style="width:35%">
 </tbody>
 </table>
 
+<img src="/images/title_Uniformed%20Groups.png" style="width:180px;height:30px;margin-left:15px;" align = "left">
 
-<img src="/images/title_Uniformed%20Groups.png"  
-style="width:35%">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
