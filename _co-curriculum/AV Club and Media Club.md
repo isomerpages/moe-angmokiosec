@@ -117,3 +117,17 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+The AV Media Club consists of three units, namely the Audio/Visual unit, the Media unit and the Photography unit. The club aims to cultivate interest and awareness in the use of Audio/Visual Information Technology and photography in our students.
+
+  
+
+AV Media Club equips our students with skills in photography, video production and the use of audio-visual (AV) equipment. Our students in turn make use of the skills they learn to facilitate school events by delivering reliable sound, light and multimedia services.
+
+  
+
+Character building is also emphasised upon in the CCA. We hope to nurture students who are able to work in a confident manner both individually and in teams, be adaptable, and have the self-discipline to put in their best in the tasks they are assigned. At the end of each training session, students’ works are shared and they get to learn from one another. Our students have also taken part in numerous competitions which allow them to build on their competencies and confidence.
+
+  
+
+In addition, our students are trained in simple coding and microbit. This training in computational thinking will equip them with the skills required for Singapore’s Smart Nation initiative.
