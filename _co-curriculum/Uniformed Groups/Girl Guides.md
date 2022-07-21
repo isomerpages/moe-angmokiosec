@@ -16,6 +16,24 @@ third_nav_title: Uniformed Groups
 
 ![](/images/girl%20guides%201.jpg)
 
+The AMKSS Girl Guides is a uniform group which embodies the traits of discipline, resilience and service. The Girl Guides has iterated the slogan “Be Prepared” for any situation and accordingly employ essential survival skills such as camp craft and field cooking. Through instilling moral values, the Girl Guides serves to develop the girls’ characters. They are also exposed to social issues around the world which widens their world view in many different ways which allows them to become independent individuals with a greater gusto for life.
+
+  
+
+The Guiding 5-point programme ensures the holistic development of every single guide. This is achieved through fulfilling clauses which are namely: Personal and social development, Home, Outdoor, Community and International. To make the Guiding experience more enriching, we have also collaborated with various organisations and units to conduct basic first-aid training, air pistol and kayaking workshops.
+
+  
+
+World Thinking Day, South Division Day, skills sharing, outdoor camping and community services are a regular part of the Girl Guides programme. Through these activities, our Guides learn the true meaning of commitment, leadership, teamwork and trust.
+
+  
+
+This year, some of the Guides were enrolled in the Singapore Cancer Society Smoke-Free Ambassador’s programme. Guides not only learnt about the harmful effects of smoking, they also took on an active role in advocating anti-smoking to Secondary One and Two students through the Zoom platform. Our Guides also take on the role of ambassadors at Gardens By The Bay. In addition to acquiring valuable knowledge on the sustainability efforts of the garden, they conduct garden trails and facilitate educational programmes for visitors. Additionally, our Guides learn and advocate body confidence and image myth through the ‘Free Being Me’ badge developed by Dove, cyberwellness through the ‘Surf Smart’ badge created by WAGGGS and Symantec, as well as ‘She Solves Engineering’ badge designed by BAE Systems UK Engineering.
+
+  
+
+AMKSS Girl Guides strives to achieve the highest standard of quality in order to uphold the good name of Guiding and become all-rounded individuals and leaders in the future.
+
 ![](/images/GG%2010.jpg)
 
 ![](/images/Girls%20Guide.jpg)
