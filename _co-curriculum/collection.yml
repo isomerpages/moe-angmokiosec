@@ -2,12 +2,12 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Uniformed Groups/NPCC.md
-      - Uniformed Groups/Red Cross.md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/NCC(Air).md
-      - Uniformed Groups/Boys Brigade.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Brigade.md
+      - Uniformed Groups/NCC(Air).md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/NPCC.md
       - Sports and Games/.keep
       - Sports and Games/Badminton.md
       - Sports and Games/Basketball.md
