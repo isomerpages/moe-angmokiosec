@@ -149,4 +149,18 @@ Key Initiatives
 
 ![](/images/science%20week_9.jpg)
 
+![](/images/science%20week_10.jpg)
+
+![](/images/science%20department%20instagram.jpg)
+
+![](/images/enrichment_activities%201.jpg)
+
+![](/images/enrichment_activities%202.jpg)
+
+![](/images/enrichment_activities%203.jpg)
+
+![](/images/enrichment_activities%204.jpg)
+
+![](/images/enrichment_activities%205.jpg)
+
 ![](/images/enrichment_activities%206.jpg)
