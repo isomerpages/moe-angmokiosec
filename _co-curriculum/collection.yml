@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Performing Arts/.keep
       - Club & Societies/.keep
       - Club & Societies/Art Club.md
       - Club & Societies/Environmental Club.md
