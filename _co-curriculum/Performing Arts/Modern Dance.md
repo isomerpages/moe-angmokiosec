@@ -126,6 +126,24 @@ third_nav_title: Performing Arts
 
 ![](/images/farewell%20broadway.jpg)
 
+Modern Dance Club strives to nurture and develop versatile performers. Through dance, students are empowered to express their emotions and personal stories through movement and rhythm. Students who undergo the dance training programme will be exposed to four key learning experiences: _Presenting, Responding, Appreciating and Creating_. Besides showcasing their skills to a variety of audiences, they will also be trained to think critically about artistic works, relate aesthetically, affectively and cognitively to the dance art form and the contexts of artistic works as well as explore and experiment with the art form.
+
+  
+
+Since the start of the year, the Club members have been training hard for key performances such as the school annual Awards Day and the school’s biennial production Night of Music, Arts, Drama and Dance (NOMAD). Unfortunately, the year took an unexpected turn with the Covid-19 pandemic bringing the plans to a standstill. The silver lining in this is that the members discovered a new way to keep their dance passion alive – through the introduction of e-CCA training programme. Dancers got out of their comfort zone and set up little dance corners in their homes. Dance lessons were in the form of blended learning with a mix of asynchronous and live sessions with teachers and instructor facilitating the live sessions. Dancers were also able to upgrade their knowledge of dance theory at home whilst learning about dance genres through watching video clips.
+
+  
+
+The Club looks forward to more learning for the rest of the year albeit on a smaller scale. The dancers will also look forward to 2021 as they prepare for the Singapore Youth Festival Arts Presentation 2021. This year has taught the dancers many lessons on adaptability, resilience and keeping an open mind towards learning.
+
+  
+
+We leave you with a dance philosophy that we strongly believe in:
+
+  
+
+_‘As much as talent counts, effort counts twice.’ – Angela Duckworth_
+
 ![](/images/Modern%20Dance%201.jpg)
 
 ![](/images/Modern%20Dance%202.jpg)
