@@ -2,12 +2,12 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Performing Arts/Symphonic Band.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/Malay Dance.md
-      - Performing Arts/Drama.md
-      - Performing Arts/Choir.md
       - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Symphonic Band.md
       - Club & Societies/.keep
       - Club & Societies/Art Club.md
       - Club & Societies/Environmental Club.md
