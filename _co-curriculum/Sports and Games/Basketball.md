@@ -117,3 +117,5 @@ In 2021, the National School Games was unable to continue due to the pandemic. H
   
 
 "The ABC competition is something I am grateful for. Since the COVID-19 pandemic prevented us from participating in the National School Games for two years in a row, it served as a replacement for the team to once again feel the enjoy and excitement in playing a competition. Despite the ups and downs we faced during the ABC, I felt that we managed to understand each other's personalities much better than before. It allowed better communication between the team, and made me understand more deeply the value of sportsmanship and teamwork. The ABC was truly a unique and interesting experience that I will remember for a long time." - Darren, 'B' Division Vice Captain
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQvZi5JH61t6PMCYWpt6r8shJlhHSuKg16DBqyqYOxKBmGzAScJarQAHb8htZ319kAbQGHLYKdw2eXV/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
