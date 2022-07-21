@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Performing Arts/Modern Dance.md
       - Performing Arts/Malay Dance.md
       - Performing Arts/Drama.md
       - Performing Arts/Choir.md
