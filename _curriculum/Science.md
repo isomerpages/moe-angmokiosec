@@ -113,24 +113,7 @@ Key Initiatives
 
 ![](/images/science_competition%203.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-didf{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-didf">2<br></td>
-    <td class="tg-didf">Robotics Workshop and Competition<br></td>
-    <td class="tg-didf">To give students a platform to do simple computer programming.<br>To heighten students’ interest in Science through application of scientific concepts.<br>To allow students to interact with Scientists from A*Star<br>To apply 21st century ICT skills to solve problems in real world context</td>
-    <td class="tg-didf">Sec 1</td>
-  </tr>
-</thead>
-</table>
+<table class="iveo_table ives_tab_modern2 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">2<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Robotics Workshop and Competition<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">To give students a platform to do simple computer programming.</li><li style="margin: 0px; outline: 0px; padding: 0px;">To heighten students’ interest in Science through application of scientific concepts.</li><li style="margin: 0px; outline: 0px; padding: 0px;">To allow students to interact with Scientists from A*Star</li><li style="margin: 0px; outline: 0px; padding: 0px;">To apply 21st century ICT skills to solve problems in real world context</li></ul></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Sec 1</td></tr></tbody></table>
 
 ![](/images/robotics_1.jpg)
 
@@ -145,3 +128,5 @@ Key Initiatives
 ![](/images/science%20investigative_1.png)
 
 ![](/images/science%20investigative_2.jpg)
+
+<table class="iveo_table ives_tab_modern2 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">4<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Science Week<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">To promote the love of science through hands on activities and demonstrations</li><li style="margin: 0px; outline: 0px; padding: 0px;">To enable students to apply scientific concepts through real world scenarios and situations.</li><li style="margin: 0px; outline: 0px; padding: 0px;">To help students see the relevance of science concepts across all sciences</li></ul></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">All Levels</td></tr></tbody></table>
