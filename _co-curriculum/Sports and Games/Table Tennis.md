@@ -122,6 +122,24 @@ third_nav_title: Sports and Games
 </tbody>
 </table>
 
+The AMKSS Table Tennis CCA aims to cultivate sportsmanship, team spirit, life-long skills and a sense of belonging among our student players through our regular training sessions, table tennis competitions and our Values-In-Action (VIA) programme.
+
+  
+
+Every year, we take in young paddlers and help them learn the basics and techniques of the game and progress on to intermediate or advanced level, where possible. Self-discipline is also instilled in our players as they follow a rigorous training programme during the sessions, which comprises lots of drill, followed by singles and doubles practice.
+
+  
+
+In 2021, regular training was interrupted several times by COVID measures but despite that, the 'B' Division team managed to compete in the NSG South Zone and were placed 5th in the competition. Subsequently, some trainings were replaced with e-CCA where students would hone their skills through drills provided by the coach on their own.
+
+  
+
+Sports is not only simply about competing and winning, but also developing players with R3ICH values. We recognise the importance of building chemistry among the players, especially in team sports events. As such, we organise bonding activities to allow the players from various levels to converge and get to know one another better.
+
+  
+
+Our vision is to introduce Table Tennis as a sport to all students and to nurture traits such as leadership, mental strength and a desire to excel which will see them through and beyond their years in school.
+
 ![](/images/Table%20Tennis.jpg)
 
 ![](/images/TT2.jpg)
