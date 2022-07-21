@@ -2,12 +2,17 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Boys Brigade.md
-      - Uniformed Groups/NCC(Air).md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/Red Cross.md
-      - Uniformed Groups/NPCC.md
+      - Co Curriculum.md
+      - Club & Societies/.keep
+      - Club & Societies/Art Club.md
+      - Club & Societies/Environmental Club.md
+      - Club & Societies/AV Club and Media Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Symphonic Band.md
       - Sports and Games/.keep
       - Sports and Games/Badminton.md
       - Sports and Games/Basketball.md
@@ -15,14 +20,9 @@ collections:
       - Sports and Games/Netball.md
       - Sports and Games/Table Tennis.md
       - Sports and Games/Volleyball.md
-      - Performing Arts/.keep
-      - Performing Arts/Choir.md
-      - Performing Arts/Drama.md
-      - Performing Arts/Malay Dance.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/Symphonic Band.md
-      - Club & Societies/.keep
-      - Club & Societies/Art Club.md
-      - Club & Societies/Environmental Club.md
-      - Club & Societies/AV Club and Media Club.md
-      - Co Curriculum.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Brigade.md
+      - Uniformed Groups/NCC(Air).md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/NPCC.md
