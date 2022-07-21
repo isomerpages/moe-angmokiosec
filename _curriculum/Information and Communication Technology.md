@@ -77,3 +77,60 @@ In AMKSS, Cyber Wellness (CW) is anchored by the ICT Department and CCE Departme
   
 
 At the school level, external speakers are invited to share on CW issues with students using platforms such as the school assembly time. In addition, the school commemorates Safer Internet Day by reinforcing some of the key CW messages. At the class level, teachers regularly carry out CW lessons, which are part of the broader CCE curriculum. Beyond these, the school has an approach where Peer Support Leaders (PSLs) take on the role of CW ambassadors to influence their peers positively. The PSLs undergo additional training to equip them to play their roles effectively.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mwbt{background-color:#FFF;border-color:inherit;color:#004D2E;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-bapb{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:middle}
+.tg .tg-wpup{background-color:#FFF;color:#004D2E;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mwbt"><span style="font-weight:700">Cyber Wellness Team (2022)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bapb">Mrs Linda Wang (HOD/CCE)</td>
+  </tr>
+  <tr>
+    <td class="tg-wpup">Mr Francis Teo (HOD/ICT)</td>
+  </tr>
+  <tr>
+    <td class="tg-bapb">Mr Lee Tai Shen (CW Coordinator)</td>
+  </tr>
+  <tr>
+    <td class="tg-wpup">Mr Chow Yan Bin (CW Coordinator)</td>
+  </tr>
+  <tr>
+    <td class="tg-bapb">Miss Tan Chui Ling (CW Teacher)</td>
+  </tr>
+  <tr>
+    <td class="tg-wpup">Miss Sun Ye (CW Teacher)</td>
+  </tr>
+</tbody>
+</table>
+
+Online Platforms
+----------------
+
+(i) Student Learning Space (SLS)
+
+[https://learning.moe.edu.sg](https://learning.moe.edu.sg/)
+
+  
+
+(ii) Parents Gateway
+
+[https://pg.moe.edu.sg](https://pg.moe.edu.sg/)
+
+  
+
+For resetting of passwords to access SLS, students may get in touch with their Form Teachers for assistance.
+
+For assistance in any other matters (eg. Student iCON reset, PLD issues), please contact the ICT Department.
