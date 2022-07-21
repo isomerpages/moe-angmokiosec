@@ -124,4 +124,34 @@ third_nav_title: Sports and Games
 
 ![](/images/FB%206.jpg)
 
+The ‘B’ Division team managed to complete the first round of the Football National School Games (NSG) 2020. They qualified for the League 3 Championship, which was cancelled due to the Covid-19 situation.
+
+  
+
+The senior team started out this year’s games in a group which consisted of Bendemeer, Bowen and Hougang Secondary School.
+
+  
+
+The team started the first game against Bowen Secondary conceding a late goal but bounced back with a convincing 3-0 win against Hougang Secondary.
+
+  
+
+The ‘B’ Division boys needed a win in their last game against Bendemeer Secondary to progress to the League 2 Championship. However, the opponent put up a strong performance and our boys managed to only qualify for League 3. The loss in the final game served as a good lesson for the boys and they brought home plenty of learning points; both tactically and mentally.
+
+  
+
+Despite not meeting the target of qualifying for League 2, the boys were rather upbeat about the next phase of the tournament, having been grouped together with schools that they have not encountered in the past such as Geylang Methodist School and Fajar Secondary. However, the League 3 Championship was cancelled soon after due to the pandemic.
+
+  
+
+As for the ‘C’ Division boys, they had trained and prepared hard for their Football NSGs too. Unfortunately, the circuit breaker came into effect before the tournament could start and the boys did not have the chance to display what they had been training for on a competitive stage.
+
+  
+
+Despite the cancellation of the tournament and CCA sessions, the boys were engaged in Zoom e-CCA sessions to maintain their fitness and skills with the ball.
+
+  
+
+The football team is definitely hoping for a much better performance in next year’s championship!
+
 ![](/images/Football.jpg)
