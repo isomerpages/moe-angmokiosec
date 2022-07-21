@@ -2,6 +2,7 @@ collections:
   amksian-experience:
     output: true
     order:
+      - Student Leadership.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
       - Full Subject Based Banding.md
