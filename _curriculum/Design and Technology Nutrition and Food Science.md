@@ -70,15 +70,15 @@ Staff Details
 </tbody>
 </table>
 
-Design & Technology
+Design &amp; Technology
 -------------------
 
-Design process is the learning platform in D&T. Pupils undertake a series of design and make projects progressively (from Secondary 1 to 4/5) to acquire new knowledge and skills through this learning platform.
+Design process is the learning platform in D&amp;T. Pupils undertake a series of design and make projects progressively (from Secondary 1 to 4/5) to acquire new knowledge and skills through this learning platform.
 
 Nutrition and Food Science
 --------------------------
 
-In the Nutrition and Food Science unit, the curriculum is split into lower secondary Food & Consumer Education (FCE) and upper secondary Food & Nutrition (F&N).
+In the Nutrition and Food Science unit, the curriculum is split into lower secondary Food &amp; Consumer Education (FCE) and upper secondary Food &amp; Nutrition (F&amp;N).
 
   
 
@@ -202,3 +202,4 @@ Achievements
 Photo Gallery
 -------------
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWPuyv_Z7Ul_muu7sLbTKzd3KiaxJs99Nz4rmo2HKj538bDoVqmkoL9FTOXRJ0D6iKz2grvCA_GiY0/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
