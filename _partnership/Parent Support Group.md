@@ -47,13 +47,25 @@ Registration details will be provided nearer the date.
 
 [https://go.gov.sg/moe-parentkit](https://go.gov.sg/moe-parentkit)
 
-![MOE Parent Kit](/images/MOE%20Parent%20Kit.png) 
+<html>
+<body>
+<p><a href="/student-development/learning-for-life-programme-llp">
+<img src="/images/MOE%20Parent%20Kit.png"  style="width:35%">
+</a></p>
+</body>
+</html>
 
 (b) A PSG Repository – Supporting Mental Well-being
 
 [https://go.gov.sg/psg-repository](https://go.gov.sg/psg-repository)
 
-![A PSG Repository](/images/A%20PSG%20Repository.png)
+<html>
+<body>
+<p><a href="/student-development/learning-for-life-programme-llp">
+<img src="/images/A%20PSG%20Repository.png"  style="width:35%">
+</a></p>
+</body>
+</html>
 
 6\. Events Photo
 ----------------
