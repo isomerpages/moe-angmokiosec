@@ -2,8 +2,8 @@ collections:
   amksian-experience:
     output: true
     order:
-      - Direct School Admission.md
-      - Student Leadership.md
-      - Learning for Life Programme.md
-      - Applied Learning Programme.md
       - Full Subject Based Banding.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Student Leadership.md
+      - Direct School Admission.md
