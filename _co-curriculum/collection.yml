@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Club & Societies/Environmental Club.md
       - Club & Societies/Art Club.md
       - Club & Societies/.keep
       - AV Club and Media Club.md
