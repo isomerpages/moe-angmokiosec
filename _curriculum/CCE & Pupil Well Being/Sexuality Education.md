@@ -65,3 +65,15 @@ b.  Character and Citizenship Education (CCE)
 
 <h4 style="color:black" align="center">SECONDARY 1
 </h4>
+
+<h4 style="color:black" align="center">SECONDARY 2
+</h4>
+
+<h4 style="color:black" align="center">SECONDARY 3
+</h4>
+
+<h4 style="color:black" align="center">SECONDARY 4
+</h4>
+
+<h4 style="color:black" align="center">SECONDARY 5
+</h4>
