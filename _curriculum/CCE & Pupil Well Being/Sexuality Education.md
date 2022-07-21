@@ -63,3 +63,5 @@ b.  Character and Citizenship Education (CCE)
 
 **At Ang Mo Kio Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
 
+<h4 style="color:black" align="center">SECONDARY 1
+</h4>
