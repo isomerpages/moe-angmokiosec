@@ -3,7 +3,8 @@ title: Co Curriculum
 permalink: /co-curriculum
 description: ""
 ---
-![](/images/title_Clubs%20&%20Societies.jpg)
+<img src="/images/title_Clubs%20&%20Societies.jpg"  
+style="width:60%">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -23,7 +24,8 @@ description: ""
 </thead>
 </table>
 
-![](/images/title_Performing%20Arts.jpg)
+<img src="/images/title_Performing%20Arts.jpg"  
+style="width:60%">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -54,6 +56,9 @@ description: ""
 </tbody>
 </table>
 
-![](/images/title_Sports%20and%20Games.jpg)
+<img src="/images/title_Sports%20and%20Games.jpg"  
+style="width:60%">
 
-![](/images/title_Uniformed%20Groups.png)
+
+<img src="/images/title_Uniformed%20Groups.png"  
+style="width:60%">
