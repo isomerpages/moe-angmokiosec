@@ -103,3 +103,24 @@ b.  Character and Citizenship Education (CCE)
 **At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in 2022:**
 
 ![](/images/Sex%20Ed%20e-Teen.png)
+
+Information for Parents
+-----------------------
+
+10.  Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+  
+
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf). The completed form is to be submitted by 11/02/2022.
+
+  
+
+12.  Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B_eTeens%20Parents%20Opt-out%20Form%20Sec%202022.pdf). The completed form is to be submitted by 11/02/2022.
+
+  
+
+13.  Parents can contact the school at 64548605 ext. 814 (Mrs Linda Wang) for discussion or to seek clarification about the school’s sexuality education programme.
+
+  
+
+14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
