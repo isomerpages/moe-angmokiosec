@@ -174,18 +174,29 @@ Enrichment Activities
 
 ![](/images/enrichment_activities%206.jpg)
 
+5)  Science Centre-Course on Genetic Diseases
+
 ![](/images/enrichment_activities%207.jpg)
 
 ![](/images/enrichment_activities%208.jpg)
 
+6)  SUTD Event: Going where no Singaporean has gone before
+
 ![](/images/enrichment_activities%209.jpg)
 
 ![](/images/enrichment_activities%2010.jpg)
+
+7)  Blood Bank Learning and Blood Donation
 
 ![](/images/enrichment_activities%2011.jpg)
 
 ![](/images/enrichment_activities%2012.jpg)
 
 ![](/images/enrichment_activities%2013.jpg)
+
+Achievements
+------------
+
+<table class="iveo_table ives_tab_modern2 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">National / International Competitions</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">IgnITE Skills Challenge 2021 - Gold Award, 3 Finalists<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Singapore Youth Science Fair - Distinction Award<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">10<sup style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>International Biomedical Quiz - 1 Silver, 1 Bronze, 2 Commendation, 1 Merit<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Elementz Science Project Competition - 2 Commendation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Sg Chemistry Junior Olympiad - 1 Bronze, 2 Merits</td></tr></tbody></table>
 
 ![](/images/achievements.jpg)
