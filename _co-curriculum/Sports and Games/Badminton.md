@@ -181,6 +181,8 @@ In 2019, we continued our tradition of making our presence felt in this highly c
 
 ![](/images/Badminton_9.jpg)
 
+Team AMKSS also seeks developmental opportunities that enable our student leaders and members to learn and grow through the planning and execution of bonding sessions, friendly matches and invitational tournaments for primary schools. Our Badminton club continues to grow in strength and unity.
+
 ![](/images/Badminton_10.jpg)
 
 ![](/images/Badminton_11.jpg)
