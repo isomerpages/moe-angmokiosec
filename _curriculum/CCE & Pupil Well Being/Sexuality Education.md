@@ -44,8 +44,8 @@ Overview of Ang Mo Kio Secondary School’s Sexuality Education Programme for 20
 
 5.  The subjects that incorporate topics on sexuality include:
 
-1.  Science
-2.  Character and Citizenship Education (CCE)
+a.  Science <br>
+b.  Character and Citizenship Education (CCE)
 
   
 
@@ -62,3 +62,4 @@ Overview of Ang Mo Kio Secondary School’s Sexuality Education Programme for 20
   
 
 **At Ang Mo Kio Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
+
