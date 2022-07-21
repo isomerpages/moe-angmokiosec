@@ -165,9 +165,13 @@ Badminton – referred to by some as ‘The Fastest Racquet Sport in the World�
 
 ![](/images/Badminton_3.jpg)
 
+Team AMKSS trains thrice a week in order to help the students build badminton skills and to train their grit and persistence in getting things right. Our senior school teams have consistently achieved Top 4 placing in the very competitive South Zone Badminton Competitions over the years. One of our alumni, Mr Kelvin Ho, is the national singles coach for players including Loh Kean Yew and Yeo Jia Min.
+
 ![](/images/Badminton_4.jpg)
 
 ![](/images/Badminton_5.jpg)
+
+In 2019, we continued our tradition of making our presence felt in this highly competitive arena as our B Division Girls fought hard to clinch the fourth position in the South Zone Competition. In 2020, both our B and C Division teams achieved commendable progress in the preliminary rounds of the tournament before the suspension of the National School Games. In 2021, the B Division Girls made a strong comeback and clinched the third position. This year, the team emerged as 1st runner up in the South Zone B Division Girls Competition 2022.
 
 ![](/images/Badminton_6.png)
 
