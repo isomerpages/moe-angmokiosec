@@ -11,8 +11,6 @@ Every child a creative problem solver
 Staff Details
 -------------
 
-![](/images/Aesthetics.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -20,7 +18,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Aesthetics.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Aesthetics.jpg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
