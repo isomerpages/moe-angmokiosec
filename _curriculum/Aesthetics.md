@@ -29,20 +29,20 @@ img {
 Initiatives
 -----------
 
-#### **Objectives**
+**Objectives**
 
 To inculcate an appreciation of various art forms, chiefly Visual arts, Dance, Drama and Music
 
   
 
-#### **Description**
+**Description**
 
 *   Lower secondary IAP curriculum consisted of one semester of Visual arts, Dance, Drama and Music each.
 *   At the Upper secondary level, Art & Music are offered up to ‘O’ level on a opt-in basis.
 
   
 
-#### **Target Group**
+**Target Group**
 
 *   IAP: All secondary 1 & 2 pupils
 *   Upper Sec Art: Pupils who opted to do it as an additional subject and who meet the entry requirements
