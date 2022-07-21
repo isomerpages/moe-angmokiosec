@@ -16,6 +16,20 @@ third_nav_title: Uniformed Groups
 
 ![](/images/NCC%20Air_2.jpg)
 
+The 60-strong NCC (Air) unit seeks to nurture cadets to fulfil their potential as compassionate and able leaders who contribute to development of self, unit, school and the nation.
+
+  
+
+The unit, in collaboration with the National Cadet Corps Headquarters, offers cadets exposure to activities ranging from aero-modelling, precision drills, Values-in-Action activities, military experiences such as joyrides and live range, to adventure-based activities such as high elements, rappelling, rock-wall climbing, flying fox and paintball.
+
+  
+
+The variety of activities conducted in both weekly training sessions and NCC Headquarters seek to teach the cadets values such as teamwork, skills such as communication and inculcate an intrinsic sense of discipline and resilience. In addition to training sessions, the cadets also benefit from camps such as Camp FORGE and Camp STEEL along with annual in school camps. Cadets are also taught important knowledge of military aircrafts, drills and environmental conservation to allow for the holistic development of each cadet.
+
+  
+
+Expeditions to Mount Ophir and Outward Bound Courses are also organised for selected cadets with a thirst for adventure. Selected cadets also get to attend overseas exchange programmes to countries like the UK, USA, Brunei, New Zealand and Australia to learn from our foreign counterparts and expose them to a broader world view which will prepare them well for the challenges in life. Our unit promises an experience of a lifetime and seeks to develop generations of outstanding leaders.
+
 ![](/images/NCC%20Air_3.jpg)
 
 ![](/images/NCC%20Air_4.jpg)
