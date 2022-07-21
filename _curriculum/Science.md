@@ -130,3 +130,11 @@ Key Initiatives
 ![](/images/science%20investigative_2.jpg)
 
 <table class="iveo_table ives_tab_modern2 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">4<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Science Week<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">To promote the love of science through hands on activities and demonstrations</li><li style="margin: 0px; outline: 0px; padding: 0px;">To enable students to apply scientific concepts through real world scenarios and situations.</li><li style="margin: 0px; outline: 0px; padding: 0px;">To help students see the relevance of science concepts across all sciences</li></ul></td><td valign="top" style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">All Levels</td></tr></tbody></table>
+
+![](/images/science%20week_1.jpg)
+
+![](/images/science%20week_2.jpg)
+
+![](/images/science%20week_3.jpg)
+
+![](/images/science%20week_4.jpg)
