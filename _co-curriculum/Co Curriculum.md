@@ -6,8 +6,6 @@ description: ""
 <img src="/images/title_Clubs%20&%20Societies.jpg" style="width:180px;height:30px;margin-left:15px;" align = "left">
 <br>
 <br>
-<br>
-<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -30,9 +28,7 @@ description: ""
 <img src="/images/title_Performing%20Arts.jpg" style="width:180px;height:30px;margin-left:15px;" align = "left">
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -63,8 +59,6 @@ description: ""
 </table>
 
 <img src="/images/title_Sports%20and%20Games.jpg" style="width:180px;height:30px;margin-left:15px;" align = "left">
-<br>
-<br>
 <br>
 <br>
 <style type="text/css">
@@ -98,8 +92,6 @@ description: ""
 </table>
 
 <img src="/images/title_Uniformed%20Groups.png" style="width:180px;height:30px;margin-left:15px;" align = "left">
-<br>
-<br>
 <br>
 <br>
 <style type="text/css">
