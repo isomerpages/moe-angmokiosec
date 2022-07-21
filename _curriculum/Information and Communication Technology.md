@@ -49,3 +49,31 @@ Staff Details
   </tr>
 </tbody>
 </table>
+
+ICT Goals
+---------
+
+1.  Students will engage in self-directed and collaborative learning through the use of their personal learning devices (PLDs) and a range of ICT tools.
+2.  Students will use their PLDs and ICT tools responsibly and apply knowledge of New Media Literacies accordingly.
+3.  Staff will engage in continual professional learning in effective use of PLDs and ICT tools for teaching and learning.
+
+Key Approaches
+--------------
+
+<p><u>Use of ICT in Teaching and Learning</u></p>
+
+In AMKSS, students undergo a variety of learning experiences, where ICT is used. Teachers are equipped with the knowledge and skills to design lessons that leverage the use of ICT. This allows students to experience learning, which is both self-directed and collaborative. In addition to a variety of tools commonly used in class, teachers conduct lessons that tap on the use of the Student Learning Space (SLS) and PLDs. Through the ICT-infused lessons, students are also taught responsible uses of ICT. With such learning processes, students develop important 21st Century skills such as proficiency in information processing as well as collaboration with peers.
+
+
+<p><u>Professional Development for Staff</u></p>
+
+Regular in-house workshops are conducted to allow staff to be familiar with the use of ICT in classroom teaching and learning as well as the use of SLS. Good lesson designs are shared with one another as part of the school's culture of learning. In addition, staff take the initiative to access networked learning communities such as Workplace groups to develop professionally in the use of ICT and other related ICT related domains such as Cyber Wellness and good data practices.
+
+  
+<p><u>Cyber Wellness</u></p>
+
+In AMKSS, Cyber Wellness (CW) is anchored by the ICT Department and CCE Department. With increased online use and exposure, which include the roll-out of PLDs and evolving cyber landscape, the school is rolling out various CW plans to support students in their education journey.
+
+  
+
+At the school level, external speakers are invited to share on CW issues with students using platforms such as the school assembly time. In addition, the school commemorates Safer Internet Day by reinforcing some of the key CW messages. At the class level, teachers regularly carry out CW lessons, which are part of the broader CCE curriculum. Beyond these, the school has an approach where Peer Support Leaders (PSLs) take on the role of CW ambassadors to influence their peers positively. The PSLs undergo additional training to equip them to play their roles effectively.
