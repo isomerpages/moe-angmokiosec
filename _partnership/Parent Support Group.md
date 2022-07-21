@@ -39,3 +39,21 @@ To include the following schedule for workshops:
 
   
 Registration details will be provided nearer the date.
+
+5\. Useful Resources for Parents
+--------------------------------
+
+(a) MOE Parent Kit
+
+[https://go.gov.sg/moe-parentkit](https://go.gov.sg/moe-parentkit)
+
+![MOE Parent Kit](/images/MOE%20Parent%20Kit.png) 
+
+(b) A PSG Repository – Supporting Mental Well-being
+
+[https://go.gov.sg/psg-repository](https://go.gov.sg/psg-repository)
+
+![A PSG Repository.png](https://angmokiosec.moe.edu.sg/qql/slot/u531/2022/Partnership/PSG/A%20PSG%20Repository.png)
+
+6\. Events Photo
+----------------
