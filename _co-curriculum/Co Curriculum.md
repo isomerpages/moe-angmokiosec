@@ -114,7 +114,7 @@ style="width:60%">
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hwgp"><img src="https://angmokiosec.moe.edu.sg/qql/slot/u531/style2022/sub/CCA/tn_Red%20Cross.png" alt="Red Cross" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent">Red Cross</span><br><a href="https://angmokiosec.moe.edu.sg/co-curriculum/uniformed-groups/red-cross"><span style="text-decoration:none;color:inherit;background-color:transparent">Red Cross</span></a><br><img src="https://angmokiosec.moe.edu.sg/pix/spacer.gif"></td>
+    <td class="tg-hwgp"><img src="![](/images/tn_Red%20Cross.png)" alt="Red Cross" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent">Red Cross</span><br><a href="https://angmokiosec.moe.edu.sg/co-curriculum/uniformed-groups/red-cross"><span style="text-decoration:none;color:inherit;background-color:transparent">Red Cross</span></a><br><img src="https://angmokiosec.moe.edu.sg/pix/spacer.gif"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
