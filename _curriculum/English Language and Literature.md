@@ -211,10 +211,28 @@ EL Competitions
 Photo Gallery
 -------------
 
-![Blackout Poetry (EL Week 2022)](/images/Blackout%20Poetry%20(EL%20Week%202022).jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Blackout%20Poetry%20(EL%20Week%202022).jpeg" alt="Blackout Poetry (EL Week 2022)" style="width:75%;">  
+  
+</body>
 
-**Blackout Poetry (EL Week 2022)**
+<p style="text-align:center;"> <strong>Blackout Poetry (EL Week 2022)</strong></p>
 
-![Class Debate](/images/Class%20Debate.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Class%20Debate.jpeg" alt="Class Debate" style="width:75%;">  
+  
+</body>
 
-**Class Debate**
+<p style="text-align:center;"> <strong>Class Debate</strong></p>
