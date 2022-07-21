@@ -2,4 +2,5 @@ collections:
   amksian-experience:
     output: true
     order:
+      - Applied Learning Programme.md
       - Full Subject Based Banding.md
