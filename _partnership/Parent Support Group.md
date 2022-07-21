@@ -57,3 +57,9 @@ Registration details will be provided nearer the date.
 
 6\. Events Photo
 ----------------
+
+![CNY Lohei](/images/CNY%20Lohei%204.jpg)
+
+![PSG GP2](/images/PSG%20GP2.jpg)
+
+![PSG GP1](/images/PSG%20Gp1.jpg)
