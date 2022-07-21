@@ -144,7 +144,7 @@ For further clarifications, you may contact any of the following staff:
 
 Mr. K Thanaraj
 
-thanaraj\_kalliya\_perumal@moe.edu.sg
+[thanaraj_kalliya_perumal@moe.edu.sg](mailto:thanaraj_kalliya_perumal@moe.edu.sg)
 
 Tel: 64548605 (Ext 811)
 
@@ -156,7 +156,7 @@ Tel: 64548605 (Ext 811)
 
 Ms Cheryl Ang
 
-cheryl\_ang@moe.edu.sg
+[cheryl_ang@moe.edu.sg](mailto:cheryl_ang@moe.edu.sg)
 
 Tel: 64548605 (Ext 863)
 
@@ -168,6 +168,6 @@ Tel: 64548605 (Ext 863)
 
 Ms Leona Cheong
 
-Leona\_CHEONG@schools.gov.sg
+[Leona_CHEONG@schools.gov.sg](mailto:Leona_CHEONG@schools.gov.sg)
 
 Tel: 64548605 (Ext 803)
