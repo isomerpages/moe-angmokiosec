@@ -132,3 +132,10 @@ Key Initiatives
 </thead>
 </table>
 
+![](/images/robotics_1.jpg)
+
+![](/images/robotics_2.jpg)
+
+![](/images/robotics_3.jpg)
+
+![](/images/robotics_4.jpg)
