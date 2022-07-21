@@ -140,3 +140,7 @@ Key Initiatives
 ![](/images/science%20week_4.jpg)
 
 ![](/images/science%20week_5.jpg)
+
+![](/images/science%20week_6.jpg)
+
+![](/images/enrichment_activities%206.jpg)
