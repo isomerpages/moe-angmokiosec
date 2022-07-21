@@ -27,8 +27,7 @@ iii.  To help students develop a moral compass, respect for themselves and for o
 i.  Love and respect yourself as you love and respect others; <br>
 ii.  Build positive relationships based on love and respect (which are the foundation for strong families); <br>
 iii.  Make responsible decisions for yourself, your family and society; and <br>
-iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies.
-    
+iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. <br>
     Casual sex can harm and hurt you and your loved ones.
     
 
