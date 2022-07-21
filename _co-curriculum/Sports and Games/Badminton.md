@@ -82,7 +82,84 @@ third_nav_title: Sports and Games
 </tbody>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mwif{background-color:#FFF;border-color:inherit;color:#004D2E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-avji{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ywyw{background-color:#E5E5E5;color:#004D2E;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-frvs{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-bapb{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:middle}
+.tg .tg-wpup{background-color:#FFF;color:#004D2E;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mwif">Executive Committee for 2021/2022GIRLS TEAM</th>
+    <th class="tg-avji">Executive Committee for 2021/2022BOYS TEAM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ywyw">B Division Captain<br><span style="font-weight:400;color:#004D2E">Zhang Xiangyi (4A3)</span></td>
+    <td class="tg-ywyw">B Division Captain<br><span style="font-weight:400;color:#004D2E">Goh Jing Yan (44)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-frvs">B Division Vice-Captains<br><span style="font-weight:400;color:#004D2E">Soh Wei Lin (44)</span></td>
+    <td class="tg-frvs">B Division Vice-Captains<br><span style="font-weight:400;color:#004D2E">ong Chin Foong (43)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bapb">Tan Jia Min (42)<br></td>
+    <td class="tg-bapb">Joel Tan Ying Jie (43)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-frvs">Sec 3 Captain<br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (31)</span></td>
+    <td class="tg-frvs">Sec 3 Captain<br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (31)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ywyw">Sec 3 Vice-Captains<br><span style="font-weight:400;color:#004D2E">Hebe Tan Yu Xuan (31)</span></td>
+    <td class="tg-ywyw">Sec 3 Vice-Captains<br><span style="font-weight:400;color:#004D2E">Tan Hai Yang (33)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wpup">Eliena Gau Jen Ing (32)<br></td>
+    <td class="tg-wpup">Chew Yue Yan (34)</td>
+  </tr>
+</tbody>
+</table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mwif{background-color:#FFF;border-color:inherit;color:#004D2E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-bapb{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:middle}
+.tg .tg-wpup{background-color:#FFF;color:#004D2E;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mwif">Achievements of the CCA<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bapb">South Zone Badminton Competition B Girls (3rd) in 2021<br></td>
+  </tr>
+  <tr>
+    <td class="tg-wpup">South Zone Badminton Competition B Girls (2nd) in 2022</td>
+  </tr>
+</tbody>
+</table>
+
+
+<h5 style="color:black" align="center"><i>For AMKSS, For Team, For Self - We serve</i></h5>
+
+Badminton – referred to by some as ‘The Fastest Racquet Sport in the World’ – requires agility, power, mental and physical prowess as well as endurance. Ang Mo Kio Secondary has made a name for herself in this tough but satisfying sport which hones delicate wrist-work skills, nimble footwork and perseverance.
 
 ![](/images/Badminton_2.jpg)
 
