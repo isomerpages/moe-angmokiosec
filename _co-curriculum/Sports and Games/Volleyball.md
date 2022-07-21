@@ -189,6 +189,28 @@ third_nav_title: Sports and Games
 
 ![](/images/Volleyball_3.jpg)
 
+The 2019-2020 season has been a year of ups and downs for Ang Mo Kio’s Volleyball Team. It will forever be remembered for how the team managed to pull through and adapted to the trying circumstances.
+
+  
+
+On 12 November 2019, our Volleyball Team conducted a Team Bonding Day Camp at East Coast Park. The students were divided into 4 groups and were tasked to complete a series of tasks as a group. Points were given for successful completion of each task and the group which achieved the highest number of points was declared the winner. The camp served as an opportunity for the junior players to get to know the seniors and everyone had a lot of fun during the camp.
+
+  
+
+On 22 November 2019, our ‘B’ Division Girls also took part in the VJC Invitational Volleyball Tournament. They played against seasoned volleyball powerhouses such as Victoria Junior College, Chung Cheng High, Cedar Girls School, St. Hildas Secondary and Xin Min Secondary. Despite the tough opposition, they put up a good fight and emerged 4th overall. Well done, girls!
+
+  
+
+Moving on to 2020, the National School Games for Volleyball were severely affected by the onset of the Covid-19 pandemic. Midway through the South Zone Volleyball Championships in February, the tournament organisers suspended and later cancelled the tournament. Our ‘B’ Division Girls had played exceptionally well throughout the tournament and were poised to repeat their finals showing from last year. At the time of tournament suspension, our ‘B’ Girls had qualified for the semi-finals and were in a Top 4 position. Our ‘B’ Division Boys tried their best but were unfortunately knocked out at the preliminary stages.
+
+  
+
+When CCAs were suspended during the Circuit Breaker period, we moved on to online mode. We conducted High Intensity Interval Training (HIIT) workouts with the students to engage them and help maintain their fitness. Many of the students enjoyed the sessions and continued to exercise on their own. Later in phase 1 and 2 of the Post Circuit Breaker period, the CCA continued online. Students were engaged through volleyball-related videos and quizzes. The videos explained basic volleyball rules and regulations, and the quizzes tested the students on their understanding of this knowledge. The students also did self-introduction posters and shared interesting facts about themselves so that their teammates could get to know them better.
+
+  
+
+As we look ahead to next year, our hope is that 2021 will see the discovery of a vaccine for Covid-19 and the resumption of Inter-School Competitions!
+
 ![](/images/volleyball.jpg)
 
 ![](/images/Volleyball_4.jpg)
