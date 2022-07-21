@@ -112,3 +112,23 @@ Key Initiatives
 ![](/images/science_competition%202.jpg)
 
 ![](/images/science_competition%203.jpg)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-didf{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-didf">2<br></td>
+    <td class="tg-didf">Robotics Workshop and Competition<br></td>
+    <td class="tg-didf">To give students a platform to do simple computer programming.<br>To heighten students’ interest in Science through application of scientific concepts.<br>To allow students to interact with Scientists from A*Star<br>To apply 21st century ICT skills to solve problems in real world context</td>
+    <td class="tg-didf">Sec 1</td>
+  </tr>
+</thead>
+</table>
+
