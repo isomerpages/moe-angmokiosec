@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Discipline.md
       - Design and Technology Nutrition and Food Science.md
       - CCE & Pupil Well Being/.keep
       - CCE & Pupil Well Being/Character and Citizenship Education and Pupil
