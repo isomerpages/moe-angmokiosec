@@ -53,7 +53,7 @@ Registration details will be provided nearer the date.
 
 [https://go.gov.sg/psg-repository](https://go.gov.sg/psg-repository)
 
-![A PSG Repository.png](https://angmokiosec.moe.edu.sg/qql/slot/u531/2022/Partnership/PSG/A%20PSG%20Repository.png)
+![A PSG Repository](/images/A%20PSG%20Repository.png)
 
 6\. Events Photo
 ----------------
