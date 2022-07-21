@@ -2,6 +2,8 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE & Pupil Well Being/Character and Citizenship Education and Pupil
+        Well Being.md
       - CCE & Pupil Well Being/.keep
       - Aesthetics.md
       - Curriculum.md
