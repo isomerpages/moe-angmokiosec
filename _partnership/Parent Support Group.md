@@ -47,6 +47,8 @@ Registration details will be provided nearer the date.
 
 [https://go.gov.sg/moe-parentkit](https://go.gov.sg/moe-parentkit)
 
+[](/files/journeying-through-challenging-times-together.pdf)
+
 <html>
 <body>
 <p><a href="/student-development/learning-for-life-programme-llp">
@@ -61,7 +63,7 @@ Registration details will be provided nearer the date.
 
 <html>
 <body>
-<p><a href="/student-development/learning-for-life-programme-llp">
+<p><a href="https://sites.google.com/moe.edu.sg/psg-mental-wellbeing-support/home">
 <img src="/images/A%20PSG%20Repository.png"  style="width:35%">
 </a></p>
 </body>
