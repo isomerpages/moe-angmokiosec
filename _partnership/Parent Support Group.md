@@ -51,8 +51,8 @@ Registration details will be provided nearer the date.
 
 <html>
 <body>
-<p><a href="/student-development/learning-for-life-programme-llp">
-<img src="/images/MOE%20Parent%20Kit.png"  style="width:35%">
+<p><a href="/files/journeying-through-challenging-times-together.pdf">
+<img src="/images/MOE%20Parent%20Kit.png"  style="width:40%">
 </a></p>
 </body>
 </html>
@@ -64,7 +64,7 @@ Registration details will be provided nearer the date.
 <html>
 <body>
 <p><a href="https://sites.google.com/moe.edu.sg/psg-mental-wellbeing-support/home">
-<img src="/images/A%20PSG%20Repository.png"  style="width:35%">
+<img src="/images/A%20PSG%20Repository.png"  style="width:40%">
 </a></p>
 </body>
 </html>
