@@ -116,4 +116,10 @@ third_nav_title: Sports and Games
 
 ![](/images/Net%20Ball.jpg)
 
+Netball has not always been easy going for me. Since I first picked up netball at the age of nine, I have come a long way as I continue to watch myself grow into someone more empathetic person as during training it is important for me to gain a better understanding of those surrounding me. It felt odd at first when I had to adjust to E-CCA, an environment where I do not see people around me motivating one another during training and giving encouragement too. Although we are far from each other, we were still able to communicate and bond online more often than during real life training which priotises our physical training together more. Through E-CCA, I was lucky enough to be able to form a better understanding of the team, which is important to have a bonded team. A bonded team is not only a team that has a good understanding of one another but also is able to communicate well and support each other in times of need, which is crucial in netball. Despite this challenging period, it warms my heart knowing that we are still able to adapt to the changes and take advantage of the differences.
+
+  
+
+\- NURUL AMIRA BINTE ADNAN, Captain of B Division Netball (2021)
+
 ![](/images/NB%202.jpg)
