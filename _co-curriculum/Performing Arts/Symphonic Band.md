@@ -168,6 +168,24 @@ third_nav_title: Performing Arts
 
 ![](/images/Symphonic%20Band.jpg)
 
+The Ang Mo Kio Secondary School Symphonic Band provides Amksians with opportunities to pursue their interests and passion in music making. Music making is often assumed to be a talent one simply possesses, but it is instead truly about dedication and the willingness to learn. This attitude is something the Band has undoubtedly nurtured in our members.
+
+  
+
+2020 was a relatively tough year due to the COVID-19 pandemic that struck us. Performances were cancelled and the morale of the team was down due to the shift from physical to online practices. However, under the encouragement of our conductors and teachers, we were able to bounce back with optimism and determination to make the best of 2021.
+
+  
+
+In the beginning, Band members struggled to adapt to the online eCCA sessions, but the Band seniors took the lead and initiated many interactive and engaging activities that would help juniors to learn effectively and efficiently. The band was able to adapt to the ‘new normal’ through relentless perseverance.
+
+  
+
+When the biennial Singapore Youth Festival 2021 was announced, we were delighted yet apprehensive due to the new rules that were put in place. Nevertheless, the band displayed true team spirit and adaptability to strive for the best.
+
+  
+
+Though the year 2021 was a challenging year, the band persevered and displayed the R3ICH values such as resilience and compassion. Such pertinent values will continue to benefit the band members tremendously for many more years to come.
+
 ![](/images/Band%204.jpeg)
 
 ![](/images/Band%205.jpeg)
