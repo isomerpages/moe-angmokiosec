@@ -52,6 +52,25 @@ Besides singing, the Choir organizes activities to instill, develop and promote 
 
 ![](/images/Choir.jpg)
 
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Choir</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Pass audition and interview.</li><li style="margin: 0px; outline: 0px; padding: 0px;">For the auditions, applicants must prepare the following:</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Sing one piece of music (1-2 min) of his/her choice, from the choral, classical or musical theatre genres - to be sung with/ without accompaniment.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Sing ‘Happy Birthday’ acapella (without accompaniment).</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Candidates must be able to imitate or respond to notes and rhythms according to instructions given by the instructor/ teacher.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Representation in SYF Arts Choral Presentation or representation in international choral festival competitions.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Music theory background (at least a grade 3 will be preferable).</li><li style="margin: 0px; outline: 0px; padding: 0px;">Member of school choir.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.</li></ul></div></td></tr></tbody></table>
+
+Dance Club
+----------
+
+The Dance Club specialises in 2 broad categories of dance, namely **Modern and Malay Dance**. Two external instructors, who are professionally-trained dancers, coach the two dance groups in the technical and artistic aspects of the dance. Through our yearly Dance auditions conducted at the start of the year, we hope to recruit members who are passionate about dance and are committed to undergo rigorous training to build on their flexibility, physical strength and stamina.
+
+  
+
+The **Modern Dance** group strives to nurture and develop versatile performers. Through dance, students are empowered to express their emotions and personal stories through movement and rhythm. The dance group achieved the Certificate of Distinction in 2015, 2019 and 2021 and the Certificate of Accomplishment in 2017 at the Singapore Youth Festival (SYF) Arts Presentation. The group also had the honour of performing for the SYF Opening Concert at Esplanade in 2016.
+
+  
+
+The **Malay Dance** consists of an exuberant group of students with passion in Malay Dance. We provide opportunities for students to learn and appreciate Malay Dance and culture. We aim to develop our students to be graceful dancers and disciplined students. The group achieved the Certificate of Distinction in 2015 and 2017 and the Certificate of Accomplishment in 2019 and 2021 at the SYF Arts Presentation.
+
+  
+
+Through our Dance camps and Dance Exchange Programme, we give our students opportunities to learn from other instructors as well as dancers from other schools. These programmes help build confidence in our students when performing on stage. Besides showcasing their skills to a variety of audiences, they will also be trained to think critically about artistic works; relate aesthetically, affectively and cognitively to the dance art form and the contexts of artistic works; as well as explore and experiment with the art form.
+
 ![](/images/Modern%20Dance.jpg)
 
 ![](/images/Malay%20Dance.jpg)
