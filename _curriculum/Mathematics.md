@@ -6,7 +6,16 @@ description: ""
 Vision
 ------
 
-![](/images/maths_vision.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/maths_vision.png" alt="Math Vision" style="width:75%;">  
+  
+</body>
 
 Mission
 -------
