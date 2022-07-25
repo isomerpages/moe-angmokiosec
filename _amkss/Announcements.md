@@ -53,4 +53,4 @@ FULL HOME-BASED LEARNING (FHBL)
 
 **PARENTS GATEWAY**  
 
-[The school uses Parents Gateway as a key mode of communication with parents/guardians. Click here for information on how to download and be registered on the Parents Gateway app.](https://angmokiosec.moe.edu.sg/qql/slot/u531/Announcements/PG%20Step%20by%20Step%20Guide.pdf)
+[The school uses Parents Gateway as a key mode of communication with parents/guardians. Click here for information on how to download and be registered on the Parents Gateway app.](/files/PG%20Step%20by%20Step%20Guide.pdf)
