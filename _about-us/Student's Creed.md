@@ -18,7 +18,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/DSC_8535%202000x1335.jpg" alt="Student's Creed" style="width:70%;">  
+<body><img src="/images/DSC_8535%202000x1335.jpg" alt="Student's Creed" style="width:55%;">  
   
 </body>
 <br>
@@ -29,6 +29,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/DSC_8525%202000x1335.jpg" alt="Student's Creed" style="width:70%;">  
+<body><img src="/images/DSC_8525%202000x1335.jpg" alt="Student's Creed" style="width:55%;">  
   
 </body>
