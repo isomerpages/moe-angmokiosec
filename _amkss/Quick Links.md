@@ -3,7 +3,7 @@ title: Quick Links
 permalink: /amkss/quick-links
 description: ""
 ---
-*   [Timetable for 2022 - Semester 2](https://angmokiosec.moe.edu.sg/amkss/quick-links/timetable)
+*   [Timetable for 2022 - Semester 2](/files/Semester%202%20Timetable.pdf)
 *   [Direct School Admission 2022](https://angmokiosec.moe.edu.sg/amksian-experience/direct-school-admission)
 *   [Calendar of Events 2022](https://angmokiosec.moe.edu.sg/amkss/quick-links/2022-amkss-calendar-of-events-for-students)
 *   [CCA Schedule 2022](https://angmokiosec.moe.edu.sg/amkss/quick-links/cca-schedule)
