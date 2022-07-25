@@ -55,7 +55,16 @@ Initiatives
 
 <p style="text-align:center;"> <strong>Ang Mo Kio Secondary School ACE Approach towards Character Education</strong></p>
 
-![](/images/discipline.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/discipline.png" alt="Initiative" style="width:50%;">  
+  
+</body>
 
 *   Create Awareness for AMKsians to know and judge what is good and right
 *   Staff and AMKsians understand and Care deeply about what is good and right
