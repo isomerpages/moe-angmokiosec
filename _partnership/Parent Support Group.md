@@ -47,7 +47,6 @@ Registration details will be provided nearer the date.
 
 [https://go.gov.sg/moe-parentkit](https://go.gov.sg/moe-parentkit)
 
-[](/files/journeying-through-challenging-times-together.pdf)
 
 <html>
 <body>
@@ -56,6 +55,7 @@ Registration details will be provided nearer the date.
 </a></p>
 </body>
 </html>
+
 
 (b) A PSG Repository – Supporting Mental Well-being
 
