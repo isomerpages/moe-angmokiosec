@@ -2,5 +2,5 @@ collections:
   amkss:
     output: true
     order:
-      - Quick Links.md
       - Announcements.md
+      - Quick Links.md
