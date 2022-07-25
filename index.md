@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+title: Ang Mo Kio Secondary School
+description: Ang Mo Kio Secondary School
+image: /images/schoolcrest.png
 permalink: /
 notification: ""
 sections:
@@ -16,4 +16,5 @@ sections:
           description: ""
           url: /amkss/quick-links
 ---
+
 
