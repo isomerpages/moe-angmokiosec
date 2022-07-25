@@ -218,7 +218,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Blackout%20Poetry%20(EL%20Week%202022).jpeg" alt="Blackout Poetry (EL Week 2022)" style="width:75%;">  
+<body><img src="/images/Blackout%20Poetry%20(EL%20Week%202022).jpeg" alt="Blackout Poetry (EL Week 2022)" style="width:55%;">  
   
 </body>
 
