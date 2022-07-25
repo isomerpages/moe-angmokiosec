@@ -2,6 +2,6 @@ collections:
   amkss:
     output: true
     order:
-      - privacy.md
       - Announcements.md
       - Quick Links.md
+      - privacy.md
