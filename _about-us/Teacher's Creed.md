@@ -12,7 +12,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Teachers%20Creed%201.jpg" alt="Teacher's Creed" style="width:70%;">  
+<body><img src="/images/Teachers%20Creed%201.jpg" alt="Teacher's Creed" style="width:55%;">  
   
 </body>
 <br>
@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/_TDS6503%202.jpg" alt="Teacher's Creed" style="width:70%;">  
+<body><img src="/images/_TDS6503%202.jpg" alt="Teacher's Creed" style="width:55%;">  
   
 </body>
 
@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Teachers%20Creed%203.jpg" alt="Teacher's Creed" style="width:70%;">  
+<body><img src="/images/Teachers%20Creed%203.jpg" alt="Teacher's Creed" style="width:55%;">  
 </body>
 <br>
 <style>  
@@ -47,6 +47,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/_TDS6480%202.jpg" alt="Teacher's Creed" style="width:70%;">  
+<body><img src="/images/_TDS6480%202.jpg" alt="Teacher's Creed" style="width:55%;">  
   
 </body>
