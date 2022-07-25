@@ -56,7 +56,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Respect.jpg" alt="Respect" style="width:70%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Respect.jpg" alt="Respect" style="width:55%;">  
   
 </body>
 
@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Responsibility.jpg" alt="Responsibility" style="width:70%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Responsibility.jpg" alt="Responsibility" style="width:55%;">  
   
 </body>
 
@@ -80,7 +80,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Resilience.jpg" alt="Resilience" style="width:70%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Resilience.jpg" alt="Resilience" style="width:55%;">  
   
 </body>
 
@@ -92,7 +92,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Integrity.jpg" alt="Integrity" style="width:70%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Integrity.jpg" alt="Integrity" style="width:55%;">  
   
 </body>
 
@@ -104,7 +104,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Compassion.jpg" alt="Compassion" style="width:70%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Compassion.jpg" alt="Compassion" style="width:55%;">  
   
 </body>
 
@@ -116,7 +116,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Harmony.jpg" alt="Harmony" style="width:70%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20Values%20-%20Harmony.jpg" alt="Harmony" style="width:55%;">  
   
 </body>
 
@@ -130,6 +130,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Our%20History%20%20AMKSS%20School%20Motto%20-%20Always%20Strive%20for%20the%20Best.jpg" alt="Always strive for the best" style="width:70%;">  
+<body><img src="/images/Our%20History%20%20AMKSS%20School%20Motto%20-%20Always%20Strive%20for%20the%20Best.jpg" alt="Always strive for the best" style="width:55%;">  
   
 </body>
