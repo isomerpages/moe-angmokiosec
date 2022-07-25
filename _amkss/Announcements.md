@@ -41,13 +41,13 @@ Do remember to bring along your proof of identity (EZ Link card or IC) to collec
 
 E-OPEN HOUSE 2021
 
-[Please click here for information pertaining to e-Open House 2021](https://angmokiosec-moe-edu-sg-admin.cwp.sg/e-open-house)  
+[Please click here for information pertaining to e-Open House 2021](/e-open-house)  
 
   
 
 FULL HOME-BASED LEARNING (FHBL)
 
-[Please click here for information pertaining to FHBL's School-Based Helpline](https://angmokiosec.moe.edu.sg/qql/slot/u531/Announcements/2021/Ang%20Mo%20Kio%20Secondary%20School%20-%20HBL.pdf)
+[Please click here for information pertaining to FHBL's School-Based Helpline](/files/Ang%20Mo%20Kio%20Secondary%20School%20-%20HBL.pdf)
 
   
 
