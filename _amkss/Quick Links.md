@@ -4,9 +4,9 @@ permalink: /amkss/quick-links
 description: ""
 ---
 *   [Timetable for 2022 - Semester 2](/files/Semester%202%20Timetable.pdf)
-*   [Direct School Admission 2022](https://angmokiosec.moe.edu.sg/amksian-experience/direct-school-admission)
-*   [Calendar of Events 2022](https://angmokiosec.moe.edu.sg/amkss/quick-links/2022-amkss-calendar-of-events-for-students)
-*   [CCA Schedule 2022](https://angmokiosec.moe.edu.sg/amkss/quick-links/cca-schedule)
+*   [Direct School Admission 2022](/amksian-experience/direct-school-admission)
+*   [Calendar of Events 2022](/files/2022%20Calendar%20of%20Events%20for%20Students.pdf)
+*   [CCA Schedule 2022](/files/CCA%20schedule%202022.pdf)
 *   [CCA Briefing 2022 (LEAPS 2.0)](https://angmokiosec.moe.edu.sg/qql/slot/u531/2022/Quick%20Links/CCA%20Briefing%202022%20(LEAPS%202.0)/2022%20Calendar%20of%20Events%20for%20Students.pdf)
 *   [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
 *   [Parent Support Group (PSG)](https://angmokiosec.moe.edu.sg/partnership/parent-support-group)
