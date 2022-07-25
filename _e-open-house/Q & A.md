@@ -3,15 +3,13 @@ title: Q & A
 permalink: /e-open-house/q-n-a
 description: ""
 ---
-
 <style>  
 img {  
   display: block;  
   margin-left: auto;  
   margin-right: auto;  
 }  
-</style>  
-</head>  
+</style>   
 <body>
 <img src="/images/EOP%2021.png" alt="Q & A" style="width:60%;">
 </body>
