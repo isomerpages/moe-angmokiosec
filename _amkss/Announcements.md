@@ -7,8 +7,8 @@ description: ""
 
 **2022  SEMESTER -2 TIMETABLE**   
 
-[Please click here for 2022 Semester-2 Timetable](https://angmokiosec-moe-edu-sg-admin.cwp.sg/students/current-students/timetable)
-**(link not working!)**
+[Please click here for 2022 Semester-2 Timetable](/files/Semester%202%20Timetable.pdf)
+
 
   
 
