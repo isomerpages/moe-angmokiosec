@@ -3,7 +3,7 @@ title: Co Curriculum
 permalink: /co-curriculum
 description: ""
 ---
-<img src="/images/title_Clubs%20&%20Societies.jpg" style="width:180px;height:30px;margin-left:15px;" align = "left">
+<img src="/images/title_Clubs%20&%20Societies.jpg" style="width:200px;height:40px;margin-left:15px;" align = "left">
 <br>
 <br>
 <style type="text/css">
@@ -25,7 +25,7 @@ description: ""
 </table>
 
 
-<img src="/images/title_Performing%20Arts.jpg" style="width:180px;height:30px;margin-left:15px;" align = "left">
+<img src="/images/title_Performing%20Arts.jpg" style="width:200px;height:40px;margin-left:15px;" align = "left">
 <br>
 <br>
 
@@ -58,7 +58,7 @@ description: ""
 </tbody>
 </table>
 
-<img src="/images/title_Sports%20and%20Games.jpg" style="width:180px;height:30px;margin-left:15px;" align = "left">
+<img src="/images/title_Sports%20and%20Games.jpg" style="width:200px;height:40px;margin-left:15px;" align = "left">
 <br>
 <br>
 <style type="text/css">
@@ -91,7 +91,7 @@ description: ""
 </tbody>
 </table>
 
-<img src="/images/title_Uniformed%20Groups.png" style="width:180px;height:30px;margin-left:15px;" align = "left">
+<img src="/images/title_Uniformed%20Groups.png" style="width:200px;height:40px;margin-left:15px;" align = "left">
 <br>
 <br>
 <style type="text/css">
