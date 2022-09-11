@@ -4,9 +4,11 @@ permalink: /co-curriculum/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
 ---
+<p style="text-align:center;"><a href="https://docs.google.com/spreadsheets/d/1I-6xIS6JD1ctN0a8kYlS_KX-zckLLbC9vOnHlqkWPho/edit#gid=0"><strong>Please click here for the Concert Band Schedule</strong></a></p>
 
 
 ***upload video to YouTube and embed here(?)***
+
 
 ![](/images/Band%203.jpeg)
 
