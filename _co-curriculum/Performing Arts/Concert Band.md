@@ -10,7 +10,7 @@ third_nav_title: Performing Arts
 ***upload video to YouTube and embed here(?)***
 
 
-![](/images/Band%203.jpeg)
+![Concert Band](/images/Band%203.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
