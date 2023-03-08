@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - 2023 SEC ONE REGISTRATION/.keep
-      - MOE FAS.md
       - Our History.md
       - Our Vision, Mission and Values.md
       - Our Logo.md
@@ -13,3 +11,5 @@ collections:
       - School Management Committee.md
       - Executive and Administrative Staff.md
       - AMKSS E Brochure.md
+      - MOE FAS.md
+      - 2023 SEC ONE REGISTRATION/.keep
