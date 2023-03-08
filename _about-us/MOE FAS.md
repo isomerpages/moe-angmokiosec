@@ -15,29 +15,31 @@ The Ministry of Education provides financial assistance to Singaporean students 
 
 3.  Income Criterion :   
 
-             |  |
-| --- |
-| 
-| Gross Monthly Household Income = $3,000 or below |
-| --- |
-| OR |
-| 
-Per Capita Income = $750 or below
-
-(Per Capita Income = Total Gross Monthly Household Income divided by the No. of Household Members)
-
- |
-
- |
-
-  
-
-  
-
-  
-  
-
-  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-nk7v{background-color:#EEE;color:#444;text-align:center;vertical-align:top}
+.tg .tg-x2e3{background-color:#EEE;color:#444;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-tlx9" colspan="5"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-x2e3" colspan="5"><span style="color:#444;background-color:#EEE">OR</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nk7v" colspan="5"><span style="color:#444">Per Capita Income = $750 or below</span><br><span style="color:#444">(Per Capita Income = Total Gross Monthly Household Income divided by the No. of Household Members)</span></td>
+  </tr>
+</tbody>
+</table>
 
   
 
@@ -55,9 +57,19 @@ Per Capita Income = $750 or below
 
   
 
-    [**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)
+ [**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)
 
-![FAS.jpg](https://angmokiosec.moe.edu.sg/qql/slot/u531/Announcements/2022/FAS%202022/FAS.jpg) 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src=“![](/images/MOE%20FAS.jpeg)” style=“width:50%;“>  
+  
+</body>  
+<br>
 
 5.    Please note that application via hardcopy form is required for:   
 
