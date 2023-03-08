@@ -1,6 +1,6 @@
 ---
 title: Our Logo
-permalink: /about-us/our-logo
+permalink: /about-us/our-logo/
 description: ""
 ---
 <style>  
@@ -36,6 +36,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/our%20logo.png" alt="School Uniform" style="width:85%;">  
+<body><img src="/images/our%20logo.png" alt="School Uniform" style="width:95%;">  
   
 </body>
