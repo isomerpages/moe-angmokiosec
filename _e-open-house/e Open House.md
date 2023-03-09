@@ -1,6 +1,6 @@
 ---
 title: e Open House
-permalink: /e-open-house
+permalink: /e-open-house/
 description: ""
 ---
 <style>  

@@ -1,6 +1,6 @@
 ---
 title: Our History
-permalink: /about-us/our-history
+permalink: /about-us/our-history/
 description: ""
 ---
 **Ang Mo Kio Secondary School**&nbsp;is the first secondary school to be established in Ang Mo Kio New Town. It officially started functioning on 2nd January 1979 in the premises of Hwi Yoh Secondary School with 12 Secondary One classes.

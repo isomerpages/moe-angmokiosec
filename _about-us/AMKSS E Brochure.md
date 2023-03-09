@@ -1,6 +1,6 @@
 ---
 title: AMKSS E Brochure
-permalink: /about-us/amkss-e-brochure
+permalink: /about-us/amkss-e-brochure/
 description: ""
 ---
 <p style="text-align:center;"><a href="https://online.fliphtml5.com/imxpa/wtom/#p=1">AMKSS E - Brochure</a></p>

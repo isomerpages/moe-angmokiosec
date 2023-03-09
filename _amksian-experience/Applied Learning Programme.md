@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme
-permalink: /amksian-experience/applied-learning-programme
+permalink: /amksian-experience/applied-learning-programme/
 description: ""
 ---
 The Applied Learning Programme (ALP) in Ang Mo Kio Secondary School (AMKSS) aims to create opportunities for students to apply what they have learned in class in areas of STEM (Science, Technology, Engineering & Mathematics) through activities that engage the hands and minds of our students.

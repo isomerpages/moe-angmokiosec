@@ -1,6 +1,6 @@
 ---
 title: English Language and Literature
-permalink: /curriculum/english-language-n-literature
+permalink: /curriculum/english-language-n-literature/
 description: ""
 ---
 Vision

@@ -1,6 +1,6 @@
 ---
 title: Full Subject Based Banding
-permalink: /amksian-experience/full-subject-based-banding
+permalink: /amksian-experience/full-subject-based-banding/
 description: ""
 ---
 ![Full Subject-Based Banding ](/images/SBB.jpg)

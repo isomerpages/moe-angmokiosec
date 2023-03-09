@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /amksian-experience/student-leadership
+permalink: /amksian-experience/student-leadership/
 description: ""
 ---
 ![Student Leadership](/images/student%20leadership.jpg)

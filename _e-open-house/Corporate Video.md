@@ -1,6 +1,6 @@
 ---
 title: Corporate Video
-permalink: /e-open-house/corporate-video
+permalink: /e-open-house/corporate-video/
 description: ""
 ---
 ***upload video to YouTube and embed here***

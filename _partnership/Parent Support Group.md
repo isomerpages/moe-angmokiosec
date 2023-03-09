@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /partnership/parent-support-group
+permalink: /partnership/parent-support-group/
 description: ""
 ---
 1\. Organisation Chart

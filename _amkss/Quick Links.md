@@ -1,6 +1,6 @@
 ---
 title: Quick Links
-permalink: /amkss/quick-links
+permalink: /amkss/quick-links/
 description: ""
 ---
 *   [Timetable for 2022 - Semester 2](/files/Semester%202%20Timetable.pdf)

@@ -1,6 +1,6 @@
 ---
 title: Red Cross
-permalink: /co-curriculum/uniformed-groups/red-cross
+permalink: /co-curriculum/uniformed-groups/red-cross/
 description: ""
 third_nav_title: Uniformed Groups
 ---

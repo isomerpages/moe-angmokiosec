@@ -1,6 +1,6 @@
 ---
 title: Q & A
-permalink: /e-open-house/q-n-a
+permalink: /e-open-house/q-n-a/
 description: ""
 ---
 <style>  

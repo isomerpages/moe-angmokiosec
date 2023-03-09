@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /amksian-experience/direct-school-admission
+permalink: /amksian-experience/direct-school-admission/
 description: ""
 ---
 Ang Mo Kio Secondary School Direct School Admission Exercise 2022

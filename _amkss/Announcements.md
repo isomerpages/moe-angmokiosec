@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /amkss/announcements
+permalink: /amkss/announcements/
 description: ""
 ---
 ##### **2022  SEMESTER -2 TIMETABLE**   

@@ -1,6 +1,6 @@
 ---
 title: Discipline
-permalink: /curriculum/discipline
+permalink: /curriculum/discipline/
 description: ""
 ---
 Vision

@@ -1,6 +1,6 @@
 ---
 title: Student's Creed
-permalink: /about-us/students-creed
+permalink: /about-us/students-creed/
 description: ""
 ---
 <p style="text-align:center;"> <strong>We believe we have the power to be the best<br>that we can be</strong></p>
