@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-angmokiosec-staging.netlify.app
-prod: https://moe-angmokiosec-prod.netlify.app
+staging: https://staging.d2qcf83lbf7y8u.amplifyapp.com/
+prod: https://master.d2qcf83lbf7y8u.amplifyapp.com/
 shareicon: /images/schoolcrest.png
 is_government: false
 facebook-pixel: ""
