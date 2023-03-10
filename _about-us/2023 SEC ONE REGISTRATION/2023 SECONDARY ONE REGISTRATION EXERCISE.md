@@ -32,7 +32,7 @@ third_nav_title: 2023 SEC ONE REGISTRATION
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2</span></td>
-    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/2023-email-addresses-of-secondary-one-form-teachers"><span style="text-decoration:none;color:#31C47D">2023 Email Addresses of Secondary One Form Teachers</span></a></td>
+    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/2023-email-addresses-of-sec-one-form-teachers/"><span style="text-decoration:none;color:#31C47D">2023 Email Addresses of Secondary One Form Teachers</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3</span></td>
