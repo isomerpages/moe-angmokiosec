@@ -4,7 +4,6 @@ permalink: /about-us/2023-secondary-one-registration-exercise/
 description: ""
 third_nav_title: 2023 SEC ONE REGISTRATION
 ---
-
 <h4 style="color:black" align="center">Secondary One Registration Matters</h4>
 
 <style type="text/css">
@@ -85,3 +84,7 @@ third_nav_title: 2023 SEC ONE REGISTRATION
   </tr>
 </tbody>
 </table>
+
+*   **[Appeal for 2023 Secondary one Admission](/about-us/2023-secondary-one-registration-exercise/appeal-for-admission-to-secondary-one-2023)**
+*   **[Introduction to AMKSS](https://angmokiosec.moe.edu.sg/qql/slot/u531/2022/About%20Us/2023%20Sec%201%20Registration/2023%20Introduction%20to%20School.pdf) **
+*   **[S1OC 2023 Information Kit](https://angmokiosec.moe.edu.sg/qql/slot/u531/2022/About%20Us/2023%20Sec%201%20Registration/S1OC%202023%20Information%20Kit.pdf)**
