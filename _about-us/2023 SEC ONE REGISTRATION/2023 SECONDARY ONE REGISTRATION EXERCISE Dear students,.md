@@ -28,59 +28,59 @@ third_nav_title: 2023 SEC ONE REGISTRATION
 <tbody>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">1</span></td>
-    <td class="tg-ue7x" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/how-to-get-to-amkss"><span style="text-decoration:none;color:#31C47D">How to get to AMKSS</span></a></td>
+    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/how-to-get-to-amkss"><span style="text-decoration:none;color:#31C47D">How to get to AMKSS</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2</span></td>
-    <td class="tg-ue7x" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/2023-email-addresses-of-secondary-one-form-teachers"><span style="text-decoration:none;color:#31C47D">2023 Email Addresses of Secondary One Form Teachers</span></a></td>
+    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/2023-email-addresses-of-secondary-one-form-teachers"><span style="text-decoration:none;color:#31C47D">2023 Email Addresses of Secondary One Form Teachers</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3</span></td>
-    <td class="tg-ue7x" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/purchase-of-school-uniforms"><span style="text-decoration:none;color:#31C47D">Purchase of School Uniforms</span></a></td>
+    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/purchase-of-school-uniforms"><span style="text-decoration:none;color:#31C47D">Purchase of School Uniforms</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">4</span></td>
-    <td class="tg-ue7x" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/purchase-of-textbooks-and-pe-attire"><span style="text-decoration:none;color:#31C47D">Purchase of Textbooks and PE Attire</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/purchase-of-textbooks-and-pe-attire"><span style="text-decoration:none;color:#31C47D">Purchase of Textbooks and PE Attire</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">5</span></td>
-    <td class="tg-ue7x" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/moe-financial-assistance-scheme-fas-matters"><span style="text-decoration:none;color:#31C47D">MOE Financial Assistance Scheme (FAS) Matters   </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
+    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/moe-financial-assistance-scheme-fas-matters"><span style="text-decoration:none;color:#31C47D">MOE Financial Assistance Scheme (FAS) Matters   </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> 6</span></td>
-    <td class="tg-8sxo" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/higher-mother-tongue-matters"><span style="text-decoration:none;color:#31C47D">Higher Mother Tongue Matters </span></a><span style="color:#222;background-color:#FBFFFA">      </span></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/higher-mother-tongue-matters"><span style="text-decoration:none;color:#31C47D">Higher Mother Tongue Matters </span></a><span style="color:#222;background-color:#FBFFFA">      </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">7</span></td>
-    <td class="tg-ue7x" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/subject-based-banding-sbb-matters"><span style="text-decoration:none;color:#31C47D">Subject Based Banding (SBB) Matters   </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
+    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/subject-based-banding-sbb-matters"><span style="text-decoration:none;color:#31C47D">Subject Based Banding (SBB) Matters   </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">8</span></td>
-    <td class="tg-ycii" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/medical-appeal-exercise"><span style="text-decoration:none;color:#31C47D">Medical Appeal Exercise    </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
+    <td class="tg-ycii" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/medical-appeal-exercise"><span style="text-decoration:none;color:#31C47D">Medical Appeal Exercise    </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">9 </span></td>
-    <td class="tg-ue7x" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/concessionary-travel"><span style="text-decoration:none;color:#31C47D">Concessionary Travel  </span></a><span style="color:#222;background-color:#FBFFFA">          </span><br></td>
+    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/concessionary-travel"><span style="text-decoration:none;color:#31C47D">Concessionary Travel  </span></a><span style="color:#222;background-color:#FBFFFA">          </span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">10</span></td>
-    <td class="tg-ue7x" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/general-discipline-n-school-attire-matters"><span style="text-decoration:none;color:#31C47D">General Discipline &amp; School Attire Matters</span></a><br></td>
+    <td class="tg-ue7x" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/general-discipline-n-school-attire-matters"><span style="text-decoration:none;color:#31C47D">General Discipline &amp; School Attire Matters</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">11</span><br></td>
-    <td class="tg-x43p" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/information-n-communication-technology-ict-matters"><span style="text-decoration:none;color:#31C47D">Information &amp; Communication Technology (ICT) Matters</span></a><span style="color:#222;background-color:#FBFFFA">      </span><br></td>
+    <td class="tg-x43p" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="/about-us/2023-secondary-one-registration-exercise/information-n-communication-technology-ict-matters"><span style="text-decoration:none;color:#31C47D">Information &amp; Communication Technology (ICT) Matters</span></a><span style="color:#222;background-color:#FBFFFA">      </span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">12</span><br></td>
-    <td class="tg-ue7x" colspan="4"><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/students/2022-secondary-one-registration-exercise/information-n-communication-technology-ict-matters"><span style="text-decoration:none;color:#31C47D"> </span></a><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/parent-support-group-psg"><span style="text-decoration:none;color:#31C47D">Parent Support Group (PSG)</span></a><span style="color:#222;background-color:#FBFFFA">      </span><br></td>
+    <td class="tg-ue7x" colspan="4"><a href="/students/2022-secondary-one-registration-exercise/information-n-communication-technology-ict-matters"><span style="text-decoration:none;color:#31C47D"> </span></a><a href="/about-us/2023-secondary-one-registration-exercise/parent-support-group-psg"><span style="text-decoration:none;color:#31C47D">Parent Support Group (PSG)</span></a><span style="color:#222;background-color:#FBFFFA">      </span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">13</span><br></td>
-    <td class="tg-x43p" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/first-week-of-school-matters-3rd-6th-jan-2023"><span style="text-decoration:none;color:#31C47D">First week of school matters (3rd - 6th Jan 2023)</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-x43p" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="/about-us/2023-secondary-one-registration-exercise/first-week-of-school-matters-3rd-6th-jan-2023"><span style="text-decoration:none;color:#31C47D">First week of school matters (3rd - 6th Jan 2023)</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">14</span><br></td>
-    <td class="tg-x43p" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="https://angmokiosec-moe-edu-sg-admin.cwp.sg/about-us/2023-secondary-one-registration-exercise/contact-information"><span style="text-decoration:none;color:#31C47D">Contact Information</span></a><span style="color:#222;background-color:#FBFFFA">   </span></td>
+    <td class="tg-x43p" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="/about-us/2023-secondary-one-registration-exercise/contact-information"><span style="text-decoration:none;color:#31C47D">Contact Information</span></a><span style="color:#222;background-color:#FBFFFA">   </span></td>
   </tr>
 </tbody>
 </table>
