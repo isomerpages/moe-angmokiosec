@@ -83,7 +83,7 @@ third_nav_title: 2023 SEC ONE REGISTRATION
     <td class="tg-x43p" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="/about-us/2023-secondary-one-registration-exercise/contact-information"><span style="text-decoration:none;color:#31C47D">Contact Information</span></a><span style="color:#222;background-color:#FBFFFA">   </span></td>
   </tr>
 </tbody>
-</table>
+</table><br>
 
 *   **[Appeal for 2023 Secondary one Admission](/about-us/2023-secondary-one-registration-exercise/appeal-for-admission-to-secondary-one-2023)**
 *   **[Introduction to AMKSS](/files/2023%20Introduction%20to%20School.pdf)**
