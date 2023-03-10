@@ -4,3 +4,13 @@ permalink: /about-us/2023-secondary-one-registration-exercise/how-to-get-to-amks
 description: ""
 third_nav_title: 2023 SEC ONE REGISTRATION
 ---
+  
+School Address: 6, Ang Mo Kio Street 22, Singapore 569362
+
+  
+
+Nearest MRT Station: Ang Mo Kio MRT
+
+  
+
+Bus Services : 13, 74, 76, 88, 130, 132, 133, 136, 165, 169, 265, 268, 269, 851, 852
