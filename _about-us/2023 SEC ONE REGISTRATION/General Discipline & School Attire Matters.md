@@ -24,9 +24,7 @@ Students are to wear the school socks and white canvas school shoes.
 
 • Shoulder and long hairstyles must be tied up with hairpins or hair ribbons.
 
-• Fringe extending below eyebrows must be neatly managed with a hairband or hair pins. Only black or dark blue hair bands/hair pins/hair ribbons 
-
-        are to be used.
+• Fringe extending below eyebrows must be neatly managed with a hairband or hair pins. Only black or dark blue hair bands/hair pins/hair ribbons are to be used.
 
 • Tinted Hair or dyed hair is not allowed.
 
