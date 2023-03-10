@@ -145,5 +145,4 @@ Attached is the Secondary One Booklist.
 **[Booklist for Secondary One](/files/2023%20Secondary%20One%20Booklist.pdf)**
   
 
-**<u>_Note: FAS students are required to come to school to purchase the school uniforms, textbooks and PE attire._
-</u>**
+**<em><u>Note: FAS students are required to come to school to purchase the school uniforms, textbooks and PE attire.</em></u>**
