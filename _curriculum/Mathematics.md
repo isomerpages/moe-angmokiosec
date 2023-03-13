@@ -20,11 +20,7 @@ img {
 
 To provide a supportive environment for the learning & application of mathematics
 
-  
-
-**Secondary Mathematics Curriculum**
-
-  
+**<u>Secondary Mathematics Curriculum</u>**
 
 The goals of the secondary mathematics education are:
 
