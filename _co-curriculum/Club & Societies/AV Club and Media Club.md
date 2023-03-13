@@ -4,8 +4,7 @@ permalink: /co-curriculum/clubs-n-societies/av-club-and-media-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-
-![](/images/AV%204.jpg)
+![AV Club and Media Club](/images/AV%204.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
