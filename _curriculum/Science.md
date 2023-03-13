@@ -3,15 +3,13 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
-Vision
-------
+#### Vision
 
 ![](/images/Science_Vision.jpg)
 
-Staff Details
--------------
+#### Staff Details
 
-![](/images/science%20department%20f.jpg)
+![Science Department](/images/science%20department%202.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
