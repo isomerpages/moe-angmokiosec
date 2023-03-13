@@ -58,48 +58,38 @@ Develop and maintain physical fitness through participation in physical activiti
 
 #### Key Initiatives
 
-<h5><u>Curriculum</u></h5>
+<h5><u><strong>Curriculum</strong></u></h5>
 
 Our students learn 2 sports/physical activities each year they are in school. They also have modules on Outdoor Education as well and Physical Health Fitness modules. All Sec 1 students are also taught basic CPR+AED during PE Lessons. The games our students learn are as follows:  
 
   
 
-**Sec 1 – Badminton & Netball**
-
-**Sec 2 – Floorball & Softball**
-
-**Sec 3 – Football & Volleyball**
-
-**Sec 4 – Ultimate Frisbee & Basketball**
-
+**Sec 1 – Badminton & Netball** <br>
+**Sec 2 – Floorball & Softball** <br>
+**Sec 3 – Football & Volleyball** <br>
+**Sec 4 – Ultimate Frisbee & Basketball** <br>
 **Sec 5 – Touch Rugby & Mini Tennis**
 
-  
-
-**Life Run**
+ 
+<h5><u><strong>Life Run</strong></u></h5>
 
 The Life Run is our very own version of the annual cross country which used to be held in MacRitchie Reservoir all those years ago. Our run is held at the Bishan Park. All students cover a distance of 3.2km. All students go through a training programme during PE lessons prior to the event to ensure they are well prepared to run the event. The event also serves as the 2.4km test for all our Sec 2 and 4/5 students as part of their NAPFA test. Other than prizes for the Top 10 runners in each of the 8 races, we also recognize the top classes for each level. There is also a staff race which never fails to bring the students to their feet, cheering their teachers. The event also challenges students to run a longer distance than what they will usually do and also gives them another avenue to lead a healthy lifestyle.
 
   
-
-**Sports Fiesta**
+<h5><u><strong>Sports Fiesta</strong></u></h5>
 
 The Sports Fiesta is a day of fun and games for all our students. We have a myriad of activities that keeps all students actively engaged in games and physical activity. On top of the level games, there is also the AMKSS Fitness Challenge, Fitness Workout, Station Games, Learn to play Booths by Sports SG, Abseiling, Water Football, Nerf War among others. The whole school becomes a hub of activity and even teachers joining their classes in the games. The event culminates with a Staff game which is a favourite with the students.
 
   
-
-**Inter-Class Games**
+<h5><u><strong>Inter-Class Games</strong></u></h5>
 
 The Inter-Class games are a highlight for all students. In line with the PE syllabus, we hope to give all students an opportunity to play in friendly competitions with their school mates. All students participate in the Inter-Class games and each class is randomly divided to 3-4 teams by gender and play games with other classes. They get to play at least 4-5 games. The students play one of the games that the cohort has been taught.
 
   
 
-**Sec 1- Street Netball**
-
-**Sec 2 – Floorball**
-
-**Sec 3 – Football**
-
+**Sec 1- Street Netball** <br>
+**Sec 2 – Floorball** <br>
+**Sec 3 – Football** <br>
 **Sec 4/5 - Ultimate Frisbee**
 
   
