@@ -59,7 +59,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Discipline_.png)" alt="Initiative" style="width:50%;">  
+<body><img src="/images/Discipline_.png" alt="Initiative" style="width:65%;">  
   
 </body>
 
@@ -67,8 +67,7 @@ img {
 *   Staff and AMKsians understand and Care deeply about what is good and right
 *   AMKsians Experience and do what is good and right
 
-Activities
-----------
+#### Activities
 
 *   Restorative Practise/Circle
 *   Early Bird Club
