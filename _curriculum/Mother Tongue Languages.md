@@ -9,7 +9,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
 #### Staff Details
 
-![](/images/mother%20tongue%20language%20department%202.jpeg)
+![Mother Tongue Department](/images/mother%20tongue%20language%20department%202.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -78,8 +78,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 </tbody>
 </table>
 
-Key Initiatives
----------------
+#### Key Initiatives
 
 **Reading Programme**
 
