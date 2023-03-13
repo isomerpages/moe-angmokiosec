@@ -4,7 +4,6 @@ permalink: /co-curriculum/clubs-n-societies/environmental-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-
 ![](/images/Env%20Club.jpg)
 
 <style type="text/css">
@@ -200,6 +199,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Qr%20Code.png" alt="Environmental Club’s QR Code" style="width:50%;">  
+<body><img src="/images/Qr%20Code.png" alt="Environmental Club’s QR Code" style="width:40%;">  
   
 </body>
