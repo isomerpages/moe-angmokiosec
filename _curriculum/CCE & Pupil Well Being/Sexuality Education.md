@@ -35,7 +35,7 @@ iv.  Abstinence before marriage is the best protection against STIs/HIV and unin
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-Overview of Ang Mo Kio Secondary School’s Sexuality Education Programme for 2022
+Overview of Ang Mo Kio Secondary School’s Sexuality Education Programme for 2023
 --------------------------------------------------------------------------------
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
@@ -61,12 +61,12 @@ b.  Character and Citizenship Education (CCE)
 
   
 
-**At Ang Mo Kio Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
+**At Ang Mo Kio Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
 <h4 style="color:black" align="center">SECONDARY 1
 </h4>
 
-![](/images/Sex%20Ed%20Sec%201.png)
+![Sec 1 2023](/images/S1.jpeg)
 
 <h4 style="color:black" align="center">SECONDARY 2
 </h4>
