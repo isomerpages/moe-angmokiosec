@@ -14,13 +14,11 @@ third_nav_title: Uniformed Groups
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 736px;" class="iveo_table ives_tab_modern2 ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Achievements of the CCA</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">JM Fraser Award (Gold) 2018-2021</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">BB Week- Silver Honour Roll</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Character Quest - Gold Honour Roll</div></td></tr></tbody></table>
 
-Mission &amp; Vision
-----------------
+#### Mission &amp; Vision
 
 The 64th Singapore Boys' Brigade Company aims to develop our Boys to be mentally, socially and physically strong youths. Our vision is aligned with the BB Object, which is the advancement of Christ's kingdom among the Boys and the promotion of virtues of Obedience, Reverence, Discipline and Self-respect, and all these tend towards true Christian manliness.
 
-Key Programmes
---------------
+#### Key Programmes
 
 One of the key beliefs of the Boys’ Brigade is to serve the community. We thus aim to develop Boys who have the heart and willingness to serve the community and to care for others. Our Boys have had plenty of opportunities to contribute their service for the community through various projects such as the annual BB Share-A-Gift, BB Cares and outreach to kindergartens. The Boys are also involved directly in the planning and execution of meaningful activities to demonstrate their compassion and commitment to the community.
 
