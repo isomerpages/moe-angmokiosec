@@ -3,8 +3,7 @@ title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
 ---
-Vision
-------
+#### Vision
 
 <style>  
 img {  
@@ -17,8 +16,7 @@ img {
   
 </body>
 
-Mission
--------
+#### Mission
 
 To provide a supportive environment for the learning & application of mathematics
 
