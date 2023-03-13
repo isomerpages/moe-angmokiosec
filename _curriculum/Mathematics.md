@@ -109,8 +109,7 @@ The goals of the secondary mathematics education are:
 </tbody>
 </table>
 
-Key Initiatives
----------------
+#### Key Initiatives
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -154,8 +153,7 @@ Key Initiatives
 </tbody>
 </table>
 
-Activities for the Year
------------------------
+#### Activities for the Year
 
 *   To spark students’ interest in Mathematics
 *   To apply Mathematical skills and concepts to real-life situations
@@ -200,7 +198,7 @@ Activities for the Year
 </tbody>
 </table>
 
-**External Mathematics Competitions**
+**<u>External Mathematics Competitions</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
