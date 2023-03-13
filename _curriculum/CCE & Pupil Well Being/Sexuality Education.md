@@ -71,12 +71,12 @@ b.  Character and Citizenship Education (CCE)
 <h4 style="color:black" align="center">SECONDARY 2
 </h4>
 
-![](/images/Sex%20Ed%20Sec%202.png)
+![Sec 2 2023](/images/S2.jpeg)
 
 <h4 style="color:black" align="center">SECONDARY 3
 </h4>
 
-![](/images/Sex%20Ed%20Sec%203.png)
+![Sec 3 2023](/images/S3.jpeg)
 
 <h4 style="color:black" align="center">SECONDARY 4
 </h4>
