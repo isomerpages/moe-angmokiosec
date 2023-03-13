@@ -3,13 +3,11 @@ title: Humanities
 permalink: /curriculum/humanities/
 description: ""
 ---
-Vision
-------
+#### Vision
 
 Towards greater social responsibility
 
-Staff Details
--------------
+#### Staff Details
 
 ![](/images/humanities%20department%20f.jpg)
 
