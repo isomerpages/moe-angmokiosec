@@ -3,13 +3,13 @@ title: English Language and Literature
 permalink: /curriculum/english-language-n-literature/
 description: ""
 ---
-Vision
-------
+#### Vision
 
 To be an ACE (articulate, confident and expressive) user of the English Language
 
-Staff Details
--------------
+#### Staff Details
+
+![English Language](/images/english%20language%20department%202.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
