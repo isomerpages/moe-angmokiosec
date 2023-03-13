@@ -3,15 +3,13 @@ title: Design and Technology Nutrition and Food Science
 permalink: /curriculum/design-n-technology-nutrition-and-food-science/
 description: ""
 ---
-Vision
-------
+#### Vision
 
 Every child a resourceful and creative problem solver
 
-Staff Details
--------------
+#### Staff Details
 
-![](/images/craft%20and%20technology%20department%20f.jpg)
+![craft and technology department](/images/craft%20and%20technology%20department%202.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -70,13 +68,11 @@ Staff Details
 </tbody>
 </table>
 
-Design &amp; Technology
--------------------
+#### Design &amp; Technology
 
 Design process is the learning platform in D&amp;T. Pupils undertake a series of design and make projects progressively (from Secondary 1 to 4/5) to acquire new knowledge and skills through this learning platform.
 
-Nutrition and Food Science
---------------------------
+#### Nutrition and Food Science
 
 In the Nutrition and Food Science unit, the curriculum is split into lower secondary Food &amp; Consumer Education (FCE) and upper secondary Food &amp; Nutrition (F&amp;N).
 
@@ -84,8 +80,7 @@ In the Nutrition and Food Science unit, the curriculum is split into lower secon
 
 Through our daily theory and practical lessons, we aim to provide students with the relevant nutritional and consumer knowledge, and basic culinary skills to empower them to make informed food and consumer choices in life.
 
-Key Initiatives
----------------
+#### Key Initiatives
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -137,8 +132,7 @@ Key Initiatives
 </tbody>
 </table>
 
-Activities for the Year
------------------------
+#### Activities for the Year
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -169,8 +163,7 @@ Activities for the Year
 </tbody>
 </table>
 
-Achievements
-------------
+#### Achievements
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -199,7 +192,6 @@ Achievements
 </tbody>
 </table>
 
-Photo Gallery
--------------
+#### Photo Gallery
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWPuyv_Z7Ul_muu7sLbTKzd3KiaxJs99Nz4rmo2HKj538bDoVqmkoL9FTOXRJ0D6iKz2grvCA_GiY0/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
