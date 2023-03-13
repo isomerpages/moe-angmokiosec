@@ -149,9 +149,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
   
 
-**Hari Raya Celebration**
-
-  
+##### **Hari Raya Celebration**
 
 **Activities organized for pupils:**
 
@@ -161,9 +159,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
   
 
-**Mid-Autumn Festival Celebration**
-
-  
+##### **Mid-Autumn Festival Celebration**
 
 **Objective:**
 
@@ -177,9 +173,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
   
 
-**MTL Fortnight**
-
-  
+##### **MTL Fortnight**
 
 **Objective:**
 
