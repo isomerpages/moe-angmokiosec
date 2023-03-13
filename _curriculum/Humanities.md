@@ -9,7 +9,7 @@ Towards greater social responsibility
 
 #### Staff Details
 
-![](/images/humanities%20department%20f.jpg)
+![Humanities Department](/images/humanities%20department%202.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
