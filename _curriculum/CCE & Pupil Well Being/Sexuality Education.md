@@ -100,9 +100,9 @@ b.  Character and Citizenship Education (CCE)
 
   
 
-**At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in 2022:**
+**At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in <u>2023</u>:**
 
-![](/images/Sex%20Ed%20e-Teen.png)
+![e teen 2023](/images/e-teen%202023.jpeg)
 
 Information for Parents
 -----------------------
