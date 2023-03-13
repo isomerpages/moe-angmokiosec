@@ -50,7 +50,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hwgp"><img src="/images/tn_Symphonic%20Band.png" alt="Concert Band" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/performing-arts/concert-band"><span style="text-decoration:none;color:inherit;background-color:transparent">Concert Band</span></a><br></td>
+    <td class="tg-hwgp"><img src="/images/tn_Symphonic%20Band.png" alt="Concert Band" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/performing-arts/symphonic-band"><span style="text-decoration:none;color:inherit;background-color:transparent">Symphonic Band</span></a><br></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
