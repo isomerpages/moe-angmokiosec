@@ -80,7 +80,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
 #### Key Initiatives
 
-**Reading Programme**
+##### **Reading Programme**
 
   
 
@@ -99,7 +99,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
 ---
 
-**Conversational Chinese & Conversational Malay Programme**
+##### **Conversational Chinese & Conversational Malay Programme**
 
   
 
@@ -116,8 +116,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
 *   Interests group
 
-MTL Talent Development
-----------------------
+#### MTL Talent Development
 
 **Chinese Talent Development Programmes include:**
 
@@ -133,12 +132,9 @@ MTL Talent Development
 2.  S1 Sahibba Inter-School Competition (Scrabble)
 3.  Drama Competition / VIA Programme
 
-Activities for the Year
------------------------
+#### Activities for the Year
 
-**Chinese New Year Celebration**
-
-  
+##### **Chinese New Year Celebration**
 
 **Objective:**
 
