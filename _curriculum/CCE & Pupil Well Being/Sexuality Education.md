@@ -61,34 +61,34 @@ b.  Character and Citizenship Education (CCE)
 
   
 
-**At Ang Mo Kio Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
+**At Ang Mo Kio Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2023</u>:**
 
-<h4 style="color:black" align="center">SECONDARY 1
-</h4>
+<h5 style="color:black" align="center">SECONDARY 1
+</h5>
 
 ![Sec 1 2023](/images/S1.jpeg)
 
-<h4 style="color:black" align="center">SECONDARY 2
-</h4>
+<h5 style="color:black" align="center">SECONDARY 2
+</h5>
 
 ![Sec 2 2023](/images/S2.jpeg)
 
-<h4 style="color:black" align="center">SECONDARY 3
-</h4>
+<h5 style="color:black" align="center">SECONDARY 3
+</h5>
 
 ![Sec 3 2023](/images/S3.jpeg)
 
-<h4 style="color:black" align="center">SECONDARY 4
-</h4>
+<h5 style="color:black" align="center">SECONDARY 4
+</h5>
 
 ![Sec 4 2023](/images/S4.jpeg)
 
-<h4 style="color:black" align="center">SECONDARY 5
-</h4>
+<h5 style="color:black" align="center">SECONDARY 5
+</h5>
 
 ![Sec 5 2023](/images/S5.jpeg)
 
-### _eTeens_ Programme:
+#### <u>_eTeens_ Programme:</u>
 
   
 
