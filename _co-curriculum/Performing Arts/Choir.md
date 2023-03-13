@@ -126,9 +126,7 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-![](/images/Choir%202.jpg)
-
-
+![Choir](/images/Choir%202.jpeg)
 
 Ang Mo Kio Secondary School Chorale consists of a four-part choir that is led by our new conductor, Mr Lim Tiong Kiang. The choir’s motto is ‘Semper Superne Nitens’ which translates to ‘Always Striving Upwards’. It borrows part of the school’s motto and captures the choir’s resilience to constantly work towards a better version of itself. Choristers persevere through challenges to come together and share the joy of singing.
 
