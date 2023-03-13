@@ -48,8 +48,7 @@ Discipline From Within
 </tbody>
 </table>
 
-Initiatives
------------
+#### Initiatives
 
 <p style="text-align:center;"> <strong>Ang Mo Kio Secondary School ACE Approach towards Character Education</strong></p>
 
@@ -60,7 +59,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/discipline.png" alt="Initiative" style="width:50%;">  
+<body><img src="![](/images/Discipline_.png)" alt="Initiative" style="width:50%;">  
   
 </body>
 
