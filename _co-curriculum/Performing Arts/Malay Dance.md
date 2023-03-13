@@ -116,22 +116,12 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 
-AMKSS Malay Dance Group, also known as Gemilang Sari, offers students an opportunity to learn an exciting array of Malay dance skills and techniques. Through this CCA, students are able to develop a passion for dance and cultivate a love for rhythmic and melodic expression, as well as foster a sense of care and concern for one another. In addition, dancers will also learn about the use of dance props, the importance of wearing the appropriate costumes and accessories according to the different dance genres.
+AMKSS Malay Dance Group, also known as Gemilang Sari, is a group of passionate dancers who seek to promote an appreciation of Malay dance and culture. This is a tight- knit CCA that aims to nurture our members into confident and graceful dancers and foster a sense of care and concern for one another.
 
-  
+The dance group performed at many school events, such as Awards Day, Night of Music, Arts & Dance (NOMAD) 2022, MTL Fortnight, Hari Raya Celebration and AMKsian Showcase. These platforms enhance dancers’ performance skills and provide dancers with extensive opportunities to showcase their talents and share the joy of dancing.
 
-The highlight of the year was the Singapore Youth Festival (SYF) Arts Presentation 2021. Coached by Mr Rizman Kassim, dancers underwent intensive training to perfect their dance moves. SYF 2021 proved to be more challenging than previous years with the Safety Management Measures (SMM) in place. The hard work and effort that the dancers put in truly showed their commitment and determination. Through rigorous training and close guidance from our instructor, dancers displayed a splendid performance, entitled Kenangan Silamku, and did the school proud by attaining the Certificate of Accomplishment for SYF 2021.
+Apart from actively participating in school events, selected dancers are privileged to participate in Muara Youth Dance Development Programme (MYDDP), an inaugural programme set up in conjunction with celebrating Muara Festival. This is a must-attend festival for Malay dance and music enthusiasts in the region. The selected dancers have been undergoing three phases of dance development training programme under the guidance of a professional dance troupe, ERA Dance Theatre Limited, and will put up a performance at the Esplanade Outdoor Theater. Through this programme, our dancers are able to foster camaraderie among student dancers in Singapore and further expand their network as well as create new bonds.
 
-  
-
-Apart from participating in the SYF, dancers also performed at school events like Awards Day and AMKsian Showcase. In addition to the above, dancers worked closely with the MTL department and performed for the online Hari Raya Celebration. The performances were pre-recorded in an MTV style format, which was a new experience for them. The various experiences enhanced dancers’ performance skills, stagecraft and built on their love for dance.
-
-  
-
-Due to the pandemic, dancers participated in the E-CCA training programme due to the heightened measures. With the guidance of dance teachers and the instructor, dancers were able to enhance their knowledge of dance theory from home whilst learning about dance genres through watching and discussion of video clips. In addition, dancers were exposed to watching a digital ticketed professional dance performance, Akar Subur 2021.
-
-  
-
-The Malay dancers will continue to fly high and stretch their potential to the maximum, exploring the world of dance and graduate with irreplaceable experiences and memories.
+In addition to the above, dancers were also exposed to watching a professional dance production, Kacip Mas Dulang Permata 10, at the NUS University Cultural Centre (UCC).  Through these opportunities, dancers have gained invaluable experiences that will develop them into more skillful dancers who share the same passion and develop a purposeful support group to grow and learn together.
 
 ![](/images/Malay%20Dance%202021.png)
