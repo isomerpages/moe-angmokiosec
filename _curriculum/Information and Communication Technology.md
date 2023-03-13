@@ -49,15 +49,13 @@ Enabling Possibilities through the Use of ICT
 </tbody>
 </table>
 
-ICT Goals
----------
+#### ICT Goals
 
 1.  Students will engage in self-directed and collaborative learning through the use of their personal learning devices (PLDs) and a range of ICT tools.
 2.  Students will use their PLDs and ICT tools responsibly and apply knowledge of New Media Literacies accordingly.
 3.  Staff will engage in continual professional learning in effective use of PLDs and ICT tools for teaching and learning.
 
-Key Approaches
---------------
+#### Key Approaches
 
 <p><u>Use of ICT in Teaching and Learning</u></p>
 
