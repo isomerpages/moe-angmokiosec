@@ -97,35 +97,30 @@ The Inter-Class games are a highlight for all students. In line with the PE syll
 This allows them to put into practice what they have learnt during lessons in a competitive setting. To promote active participation, multiple winners are recognized during these competitions and many students go back with medals. Most importantly they get to experience playing in competitions and displaying the right values while playing the games. These competitions also allow our student leaders to referee/umpire the games and this allows them to improve themselves in their chosen sports field.
 
   
-
-**Sec 2 Outdoor Adventure Camp**
+<h5><u><strong>Sec 2 Outdoor Adventure Camp</strong></u></h5>
 
 The Sec 2 Camp provides an opportunity for our students to experience the outdoors and lead a rugged lifestyle outside their comfort zone. It is a 4-day residential camp where activities include high elements, dragon boating, trekking and a campfire. The camp also allows our students to put into practice what they have learnt in their OE lessons. It also challenges them to work with students from different classes and make new friends through the camp. The camp also serves as a good training ground for the tougher OBS camp that they will attend in Sec 3.
 
   
 
-**Sec 3 OBS Programme**
+<h5><u><strong>Sec 3 OBS Programme</strong></u></h5>
 
 As part of the National Outdoor Education Masterplan, our Sec 3 cohort attends the Outward Bound School for a 5-day programme. Physically and mentally challenging, the programme builds resilience and character amongst our students. The camp also allows our students to work in teams with students from other schools as the camp is done with at least 2 to 3 other schools. It provides the students many opportunities to learn from others as well as share their knowledge with others. The camp has become a favourite of the students and they come back with many good experiences.
 
   
-
-**Biennial Family Day**
+<h5><u><strong>Biennial Family Day</strong></u></h5>
 
 The Family Day is the signature event in the AMKsian time in the school. Held at Sentosa, the event is another opportunity for AMKsians, staff, alumni and stakeholders to bond through a myriad of physical activities. The event has cohort games (netball, football, volleyball and ultimate frisbee) played on the beach which is a whole new experience for the students. We also have telematch, station games, mass workouts as well as a class picnic. Classes also organize their own games to keep everyone involved and engaged. In recent times, we also had our very own AMKsian Obstacle Race ala the famous Spartan Race. Family Day is a fun-filled event that is a highlight for all AMKsians! It brings all of us together as we play together as one big family.
 
   
-
-**Post-Exam Sports Programme**
+<h5><u><strong>Post-Exam Sports Programme</strong></u></h5>
 
 At the end of the year, as part of our sports exposure programme, we give our Sec 1-3 students to try out sports/physical activities that are not offered in school. The activities are as follows;
 
   
 
-**Sec 1 – Dragon Boating**
-
-**Sec 2 – Inline skating & Sports Boot camp @Sports SG**
-
+**Sec 1 – Dragon Boating** <br>
+**Sec 2 – Inline skating & Sports Boot camp @Sports SG** <br>
 **Sec 3 – Bowling**
 
   
