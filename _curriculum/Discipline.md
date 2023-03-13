@@ -3,15 +3,13 @@ title: Discipline
 permalink: /curriculum/discipline/
 description: ""
 ---
-Vision
-------
+#### Vision
 
 Discipline From Within
 
-Staff Details
--------------
+#### Staff Details
 
-![](/images/discipline%20committee%20f.jpg)
+![Discipline 2023](/images/discipline%20committee%202.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
