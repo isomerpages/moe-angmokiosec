@@ -29,10 +29,9 @@ The goals of the secondary mathematics education are:
 *   to ensure that all students will achieve a level of mastery of mathematics that will enable them to function effectively in everyday life; and
 *   for those who have the interest and ability, to learn more mathematics so that they can pursue mathematics or mathematics-related courses of study in the next stage of education.
 
-Staff Details
--------------
+#### Staff Details
 
-![](/images/mathematics%20department%20f.jpg)
+![Mathematics Department](/images/mathematics%20department%202.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
