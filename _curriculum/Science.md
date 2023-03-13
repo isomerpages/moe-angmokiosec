@@ -96,8 +96,7 @@ description: ""
 </tbody>
 </table>
 
-Key Initiatives
----------------
+#### Key Initiatives
 
 **Learning Journeys & Enrichment**
 
@@ -153,8 +152,7 @@ Key Initiatives
 
 ![](/images/science%20department%20instagram.jpg)
 
-Enrichment Activities
----------------------
+#### Enrichment Activities
 
 <table class="iveo_table ives_tab_modern2 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Students across the levels had the opportunity to learn and explore scientific concepts to see their relevance and went to the following enrichment classes/Learning journeys:</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">1)&nbsp; Fusion World<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">2)&nbsp; Energy Experience Programme<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">3)&nbsp; Nanyang Polytechnic-Enrich@Health EyeQ</td></tr></tbody></table>
 
@@ -192,8 +190,7 @@ Enrichment Activities
 
 ![](/images/enrichment_activities%2013.jpg)
 
-Achievements
-------------
+#### Achievements
 
 <table class="iveo_table ives_tab_modern2 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">National / International Competitions</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">IgnITE Skills Challenge 2021 - Gold Award, 3 Finalists<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Singapore Youth Science Fair - Distinction Award<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">10<sup style="margin: 0px; outline: 0px; padding: 0px;">th</sup><span>&nbsp;</span>International Biomedical Quiz - 1 Silver, 1 Bronze, 2 Commendation, 1 Merit<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Elementz Science Project Competition - 2 Commendation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;">Sg Chemistry Junior Olympiad - 1 Bronze, 2 Merits</td></tr></tbody></table>
 
