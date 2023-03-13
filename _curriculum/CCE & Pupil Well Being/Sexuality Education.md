@@ -4,9 +4,9 @@ permalink: /curriculum/character-and-citizenship-education-n-pupil-well-being/se
 description: ""
 third_nav_title: CCE & Pupil Well Being
 ---
-<h4 style="color:black" align="center">ANG MO KIO SECONDARY SCHOOL</h4>
+<h5 style="color:black" align="center">ANG MO KIO SECONDARY SCHOOL</h5>
 
-### MOE SEXUALITY EDUCATION IN SCHOOLS
+##### MOE SEXUALITY EDUCATION IN SCHOOLS
 
   
 
@@ -35,8 +35,7 @@ iv.  Abstinence before marriage is the best protection against STIs/HIV and unin
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-Overview of Ang Mo Kio Secondary School’s Sexuality Education Programme for 2023
---------------------------------------------------------------------------------
+##### Overview of Ang Mo Kio Secondary School’s Sexuality Education Programme for 2023
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -49,7 +48,7 @@ b.  Character and Citizenship Education (CCE)
 
   
 
-**Sexuality Education Lessons:**
+**<u>Sexuality Education Lessons:</u>**
 
   
 
@@ -104,18 +103,17 @@ b.  Character and Citizenship Education (CCE)
 
 ![e teen 2023](/images/e-teen%202023.jpeg)
 
-Information for Parents
------------------------
+##### Information for Parents
 
 10.  Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
   
 
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf). The completed form is to be submitted by 11/02/2022.
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023_Annex%20A_Opt%20Out%20Form%20Sec_27%20Jan.pdf). The completed form is to be submitted by 10/02/2023.
 
   
 
-12.  Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B_eTeens%20Parents%20Opt-out%20Form%20Sec%202022.pdf). The completed form is to be submitted by 11/02/2022.
+12.  Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023_Annex%20B_eTeens_Opt-out%20Form_27%20Jan.pdf). The completed form is to be submitted by 10/02/2023.
 
   
 
