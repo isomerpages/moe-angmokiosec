@@ -3,15 +3,14 @@ title: Information and Communication Technology
 permalink: /curriculum/information-and-communication-technology/
 description: ""
 ---
-Vision
-------
+#### Vision
 
 Enabling Possibilities through the Use of ICT
 
-Staff Details
--------------
+#### Staff Details
 
-![](/images/infocomm%20technology%20department%20f.jpg)
+![ICT department](/images/infomation%20and%20communication%20technology%20department%202.jpeg)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
