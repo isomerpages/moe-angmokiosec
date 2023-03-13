@@ -66,8 +66,7 @@ Towards greater social responsibility
 </tbody>
 </table>
 
-Key Initiatives
----------------
+#### Key Initiatives
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -115,8 +114,7 @@ Key Initiatives
 </tbody>
 </table>
 
-Activities for the Year
------------------------
+#### Activities for the Year
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -161,8 +159,7 @@ Activities for the Year
 </tbody>
 </table>
 
-Photo Gallery
--------------
+#### Photo Gallery
 
 ![](/images/Learning%20%20Humanities%201.jpg)
 
