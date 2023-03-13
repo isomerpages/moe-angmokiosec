@@ -3,15 +3,13 @@ title: Mother Tongue Languages
 permalink: /curriculum/mother-tongue-languages/
 description: ""
 ---
-Vision
-------
+#### Vision
 
 Every AMKsian is passionate about the learning of the Language and understanding of the Culture of his/her Mother Tongue
 
-Staff Details
--------------
+#### Staff Details
 
-![](/images/mother%20tongue%20language%20department%20f.jpg)
+![](/images/mother%20tongue%20language%20department%202.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
