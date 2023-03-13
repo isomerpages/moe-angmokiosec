@@ -3,13 +3,11 @@ title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
 ---
-Vision
-------
+#### Vision
 
 A gracious & resourceful AMKsian who pursues an active & healthy lifestyle
 
-Mission
--------
+#### Mission
 
 The AMKSS PE Curriculum aims to equip AMKsians with the knowledge, skills and attitude to pursue a physically active and healthy lifestyle through a fun and quality programme that enables AMKsians to:
 
@@ -17,10 +15,9 @@ The AMKSS PE Curriculum aims to equip AMKsians with the knowledge, skills and at
 
 Develop and maintain physical fitness through participation in physical activities and enjoy a variety of sports and games.
 
-Staff Details
--------------
+#### Staff Details
 
-![](/images/PE%20department%201.jpg)
+![PE Department](/images/PE%203.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -59,10 +56,9 @@ Staff Details
 </tbody>
 </table>
 
-Key Initiatives
----------------
+#### Key Initiatives
 
-**Curriculum**
+<h5><u>Curriculum</u></h5>
 
 Our students learn 2 sports/physical activities each year they are in school. They also have modules on Outdoor Education as well and Physical Health Fitness modules. All Sec 1 students are also taught basic CPR+AED during PE Lessons. The games our students learn are as follows:  
 
