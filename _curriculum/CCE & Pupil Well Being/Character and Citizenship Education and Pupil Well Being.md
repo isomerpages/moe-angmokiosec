@@ -89,7 +89,7 @@ Activities include:
 
   
 
-**National Education**
+<h5><u>National Education</u></h5>
 
 The school’s National Education programme is anchored on the following citizenship dispositions:
 
