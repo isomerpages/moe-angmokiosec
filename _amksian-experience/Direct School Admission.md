@@ -120,9 +120,9 @@ Our Volleyball programme aims to develop and sustain our students’ skills, pas
 1.  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **_5 May to 1 Jun 2022_**. For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 2.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 3.  Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
-4.  The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by **12 August 2022**.
-5.  Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from **15 July 2022** to **26 August 2022**.
-6.  The school **will not** inform applicants who **are not shortlisted** that they are unsuccessful in their application.
+4.  The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by **<u>12 August 2022</u>**.
+5.  Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from **15 July 2022** to **<u>26 August 2022</u>**.
+6.  The school **<u>will not</u>** inform applicants who **are not shortlisted** that they are unsuccessful in their application.
 7.  Shortlisted applicants will be notified of their application status by **12 Sept 2022**.
 8.  Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
