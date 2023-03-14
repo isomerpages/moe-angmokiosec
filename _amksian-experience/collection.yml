@@ -2,6 +2,7 @@ collections:
   amksian-experience:
     output: true
     order:
+      - MOE Sexuality Education in Schools.md
       - "Our Journey, Our Aspirations : Yearbook 2022.md"
       - AMKsian Showcase 2022.md
       - Full Subject Based Banding.md
