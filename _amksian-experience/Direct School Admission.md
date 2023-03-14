@@ -3,8 +3,7 @@ title: Direct School Admission
 permalink: /amksian-experience/direct-school-admission/
 description: ""
 ---
-Ang Mo Kio Secondary School Direct School Admission Exercise 2022
------------------------------------------------------------------
+#### Ang Mo Kio Secondary School Direct School Admission Exercise 2022
 
 Direct School Admission (DSA) is an MOE initiative designed to give selected schools greater flexibility in student admission, so that a more diverse range of student achievements and talents can be recognised.
 
@@ -16,8 +15,7 @@ In April 2008, MOE approved the school’s application for niche development in 
 
 In line with the school's belief to provide a balanced and holistic education, the Co-Curricular Programmes have been designed to allow our students to experience an enriching learning journey over the four years in school, and to challenge each member to attain greater heights in their chosen interest/talent area in performing arts or sports.
 
-Concert Band
-------------
+#### Concert Band
 
 Ang Mo Kio Secondary School Concert Band was first founded in the 1980s as a military band. It was converted to a symphonic band in 2001 and has a current strength of over 100 members. The Band has achieved Gold Awards and Certificates of Distinction for consecutive SYF Arts Presentation since 2005 and is currently led by conductors Mr Sebastian Koh and Mr Desmond Chow.
 
@@ -33,8 +31,7 @@ Our comprehensive band programme aims to instil a passion for music-making in ev
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Concert Band</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Pass audition and interview.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Relevant instrumental skills in primary school bands and string ensembles.</li><li style="margin: 0px; outline: 0px; padding: 0px;">For the auditions, all applicants must prepare the following:</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">1 piece of music (1-2 min) of his/her choice on the instrument in his/her talent area.</li><li style="margin: 0px; outline: 0px; padding: 0px;">2-3 scales of any key of at least 1 octave (For all instruments except non-pitched percussion instruments).</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Candidates must be able to imitate melodies and rhythms given by the instructor/teacher.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Candidates will also be given a short piece of Sec 1 music to sight-read.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must bring their own instrument and choice piece of music for the audition. Only keyboard and percussion instruments will be provided by the school.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.</li></ul></div></td></tr></tbody></table>
 
-Choir
------
+#### Choir
 
 Ang Mo Kio Secondary School Choir has a current strength of about 60 dedicated members, comprising Soprano, Alto, Tenor and Bass; and is helmed by talented chorister-conductor, Ms Cherie Chai. The choir achieved a Certificate of Distinction and Certificate of Accomplishment in SYF Arts Presentations in 2019 and 2017 respectively.
 
@@ -54,8 +51,7 @@ Besides singing, the Choir organizes activities to instill, develop and promote 
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Choir</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Pass audition and interview.</li><li style="margin: 0px; outline: 0px; padding: 0px;">For the auditions, applicants must prepare the following:</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Sing one piece of music (1-2 min) of his/her choice, from the choral, classical or musical theatre genres - to be sung with/ without accompaniment.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Sing ‘Happy Birthday’ acapella (without accompaniment).</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Candidates must be able to imitate or respond to notes and rhythms according to instructions given by the instructor/ teacher.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Representation in SYF Arts Choral Presentation or representation in international choral festival competitions.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Music theory background (at least a grade 3 will be preferable).</li><li style="margin: 0px; outline: 0px; padding: 0px;">Member of school choir.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.</li></ul></div></td></tr></tbody></table>
 
-Dance Club
-----------
+#### Dance Club
 
 The Dance Club specialises in 2 broad categories of dance, namely **Modern and Malay Dance**. Two external instructors, who are professionally-trained dancers, coach the two dance groups in the technical and artistic aspects of the dance. Through our yearly Dance auditions conducted at the start of the year, we hope to recruit members who are passionate about dance and are committed to undergo rigorous training to build on their flexibility, physical strength and stamina.
 
@@ -77,8 +73,7 @@ Through our Dance camps and Dance Exchange Programme, we give our students oppor
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Modern Dance</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;">All applicants will go through an audition and interview session.<ol style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">For the audition, all applicants will be required to prepare a solo piece of not more than 2 minutes. Applicants may choose to perform a piece from any dance genre. E.g. ballet, contemporary, jazz, street, lyrical, swing, tap, hip-hop, fusion</li><li style="margin: 0px; outline: 0px; padding: 0px;">In the second segment, shortlisted applicants will then be invited to follow our resident choreographer through a short piece of choreography</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">All applicants should audition in the dance gear and footwear suitable to their dance genre for the first segment. Applicants are required to bring their own music to accompany the dance. Audio can be played through mobile phones. Props are allowed if necessary.</li><li style="margin: 0px; outline: 0px; padding: 0px;">For the second segment of the audition, applicants are required to be in leotards and tights for girls; and T-shirt and track pants for boys.</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Preferably a member of a dance club in primary school</li><li style="margin: 0px; outline: 0px; padding: 0px;">Representation in SYF Arts Presentation / Accomplishment at National level</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity</li></ol></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Malay Dance</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;">All applicants will go through an audition and interview session.<ol style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">For the auditions, all applicants must prepare a 1-2 min dance solo(s). Applicants must choose a music that suits the dance piece. Applicants may choose to perform a piece from any of the 5 basic Malay dance genres. e.g. Inang, Asli, Joget, Zapin, Masri.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Students may perform dance(s) learnt in school (e.g. CCA, LLP) or self-choreographed pieces and should be in PE t-shirt and track pants. Props are allowed if necessary.</li><li style="margin: 0px; outline: 0px; padding: 0px;">In the second segment, applicants will then be invited to follow our resident choreographer through a short piece of choreography. Students will be taught a very brief dance sequence by the instructor and have him/her reproduce it or perform a personal interpretation of it.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Preferably a member of a dance club in primary school.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Representation in SYF Arts Presentation / Accomplishment at National level.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity</li></ol></div></td></tr></tbody></table>
 
-Drama
------
+#### Drama
 
 The Drama Club strives to develop professionalism in our members through different forms of theatre performances and giving every member opportunities to participate in drama performances in various roles. Members learn useful acting skills and develop stage awareness, as well as to improvise, think creatively and work together as a team to put up short performances. Our members are also encouraged to take turns leading the warm-up sessions and games. Through these activities, Drama Club members build up their confidence and develop leadership skills.
 
@@ -90,8 +85,7 @@ In the Singapore Youth Festival (SYF) Arts Presentation 2017 and 2019, our Drama
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">English Drama</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">All applications will be required to go through an interview and audition. The following will be tested:</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Acting &amp; Characterisation,</li><li style="margin: 0px; outline: 0px; padding: 0px;">Voice,</li><li style="margin: 0px; outline: 0px; padding: 0px;">Improvisation,</li><li style="margin: 0px; outline: 0px; padding: 0px;">Stage Presence.</li></ul></ul><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Please prepare a 3 to 5 minute solo performance of either:</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">a piece meant for only 1 performer (i.e. a monologue)<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">OR</i></b></li><li style="margin: 0px; outline: 0px; padding: 0px;">a piece meant for 2 or more performers but with only 1 character chosen for the performance<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;"><i style="margin: 0px; outline: 0px; padding: 0px;">OR</i></b></li><li style="margin: 0px; outline: 0px; padding: 0px;">a piece meant for 2 or more performers but with the same student performing different characters.</li></ul><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400;">Students may perform something scripted, devised, or improvised, and can be something learnt in school (in class or CCA). Students preparing their own performance can search for scripts of fairy tale or folk tale adaptations online or create these themselves.</div></ul><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">For the second part of the audition, students are to respond to a task which involves taking up a character role in a relatable scenario (eg meeting a schoolmate at the supermarket) with brief preparation time given (max 5 mins). Feedback will be given after the students’ first attempt for them to attempt a second time.</li></ul><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants with drama background and performance experience will be preferred. Do reference prior performance experience, or theatre performance you have watched.</li></ul><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.</li></ul></div></td></tr></tbody></table>
 
-Badminton
----------
+#### Badminton
 
 Badminton – referred to by some as ‘The Fastest Racquet Sport in the World’ – requires agility, power, mental and physical prowess as well as endurance. Badminton places tremendous demands on those who practice the sport.
 
@@ -109,8 +103,7 @@ Team AMKSS seeks opportunities that enable our players and leaders to plan, orga
 
 ![](/images/Badmintonn.jpg)
 
-Volleyball
-----------
+#### Volleyball
 
 Ang Mo Kio’s Volleyball Team was established in 1999 and has grown from strength to strength over the 21 years. The Team has consistently punched above its weight at the South Zone and National competitions, finishing among the top schools in both competitions. In 2019, the B Girls and B Boys emerged 2nd and 4th respectively in the Zonal Championships. Our B Girls finished third in 2021, and emerged runners-up in the 2022 South Zone Championship. Our Girls team is currently coached by Mr Teo Kee Theng and our Boys team is coached by Mr Gary Cheung Wan Yang. Over the years, the Team has produced talented individuals who went on to don National colours and represent the country. In 2018, one of our girls, Seah Yun Zhen Desiree was selected to represent Singapore at the 2018 ASEAN Schools Games, while our alumni, Alicia Tan Kai Yun (graduate of 2017) represented Singapore at the 2018 Asian U19 Beach Volleyball Championships in Thailand.
 
@@ -122,8 +115,7 @@ Our Volleyball programme aims to develop and sustain our students’ skills, pas
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Badminton &amp; Volleyball</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;">School team players or its equivalent in primary school<ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must pass a sports specific selection test</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must display necessary game specific skills (Technique, agility, speed) required for the chosen sport.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must also display tactical awareness in game situations.</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Show the ability to work in teams</li><li style="margin: 0px; outline: 0px; padding: 0px;">Awards/Accomplishments in relevant areas.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Good track record of performance in CCA or relevant external involvement.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Participation in Inter-school and/or International Competitions.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must also pass an interview.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Only students with relevant experience will be considered.</li></ul></div></td></tr></tbody></table>
 
-Application Procedure
----------------------
+#### Application Procedure
 
 1.  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from **_5 May to 1 Jun 2022_**. For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
 2.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
@@ -138,36 +130,27 @@ For further clarifications, you may contact any of the following staff:
 
   
 
-**For Sports matters**
+**<u>For Sports matters</u>**
 
-  
-
-Mr. K Thanaraj
-
-[thanaraj_kalliya_perumal@moe.edu.sg](mailto:thanaraj_kalliya_perumal@moe.edu.sg)
-
+Mr. K Thanaraj<br>
+[thanaraj_kalliya_perumal@moe.edu.sg](mailto:thanaraj_kalliya_perumal@moe.edu.sg) <br>
 Tel: 64548605 (Ext 811)
 
   
 
-**For Performing Arts matters**
+**<u>For Performing Arts matters</u>**
 
   
 
-Ms Cheryl Ang
-
-[cheryl_ang@moe.edu.sg](mailto:cheryl_ang@moe.edu.sg)
-
+Ms Cheryl Ang <br>
+[cheryl_ang@moe.edu.sg](mailto:cheryl_ang@moe.edu.sg) <br>
 Tel: 64548605 (Ext 863)
 
   
 
-**For Admin matters**
+**<u>For Admin matters</u>**
 
   
-
-Ms Leona Cheong
-
-[Leona_CHEONG@schools.gov.sg](mailto:Leona_CHEONG@schools.gov.sg)
-
+Ms Leona Cheong <br>
+[Leona_CHEONG@schools.gov.sg](mailto:Leona_CHEONG@schools.gov.sg) <br>
 Tel: 64548605 (Ext 803)
