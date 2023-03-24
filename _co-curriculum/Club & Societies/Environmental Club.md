@@ -200,6 +200,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Qr%20Code.png" alt="Environmental Club’s QR Code" style="width:40%;">  
+<body><img src="/images/Qr%20Code.png" alt="Environmental Club’s QR Code" style="width:30%;">  
   
 </body>
