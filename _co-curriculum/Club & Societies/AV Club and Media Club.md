@@ -62,16 +62,16 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">Chairperson<br><span style="font-weight:400;color:#004D2E">ISAAC LEE SHIJIE (SEC 32)</span></td>
+    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">ISAAC LEE SHIJIE (SEC 32)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">1st Vice-Chairperson<br><span style="font-weight:400;color:#004D2E">NURUL INSYIRAH BINTE JAMALUDIN (SEC 32)</span></td>
+    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">NURUL INSYIRAH BINTE JAMALUDIN (SEC 32)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">2nd Vice-Chairperson/Vice Chairperson (Photography)<br><span style="font-weight:400;color:#004D2E">LIAO FUQIANG, CHARLTON (SEC 31)</span></td>
+    <td class="tg-mwif"><u>2nd Vice-Chairperson/Vice Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">LIAO FUQIANG, CHARLTON (SEC 31)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Vice-Chairperson (AV)<br><span style="font-weight:400;color:#004D2E">CAYLAN LOY ZHI KA I (SEC 3A1)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">CAYLAN LOY ZHI KA I (SEC 3A1)</span></td>
   </tr>
   <tr>
     <td class="tg-ywyw">Vice-Chairperson (Media)<br><span style="font-weight:400;color:#004D2E">KHEH JUN BING RAYDON (SEC 3A4)</span></td>
