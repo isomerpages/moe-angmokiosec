@@ -116,12 +116,12 @@ third_nav_title: Sports and Games
     <td class="tg-bapb">Joel Tan Ying Jie (43)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>Sec 3 Captain<br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (31)</span></td>
-    <td class="tg-frvs">Sec 3 Captain<br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (31)</span></td>
+    <td class="tg-wpup"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (31)</span></td>
+    <td class="tg-wpup"><b></u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (31)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Sec 3 Vice-Captains<br><span style="font-weight:400;color:#004D2E">Hebe Tan Yu Xuan (31)</span></td>
-    <td class="tg-ywyw">Sec 3 Vice-Captains<br><span style="font-weight:400;color:#004D2E">Tan Hai Yang (33)</span></td>
+    <td class="tg-bapb"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Hebe Tan Yu Xuan (31)</span></td>
+    <td class="tg-bapb"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Tan Hai Yang (33)</span></td>
   </tr>
   <tr>
     <td class="tg-wpup">Eliena Gau Jen Ing (32)<br></td>
@@ -129,7 +129,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
