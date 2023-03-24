@@ -37,7 +37,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -59,7 +59,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -78,20 +78,20 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">B Division Captain<br><span style="font-weight:400;color:#004D2E">Nurul Amira Binte Adnan (4/1)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nurul Amira Binte Adnan (4/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">B Division Vice-Captain<br><span style="font-weight:400;color:#004D2E">Shanelle Sng Qi (4/2)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Shanelle Sng Qi (4/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Secondary 3 Captain<br><span style="font-weight:400;color:#004D2E">Kymber Aw (3A1)</span></td>
+    <td class="tg-bapb"><b><u>Secondary 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kymber Aw (3A1)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Secondary 3 Vice-Captain<br><span style="font-weight:400;color:#004D2E">Nur Shakira Binte Mohd Fald (3A3</span></td>
+		<td class="tg-wpup"><b><u>Secondary 3 Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Shakira Binte Mohd Fald (3A3</span></td>
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
