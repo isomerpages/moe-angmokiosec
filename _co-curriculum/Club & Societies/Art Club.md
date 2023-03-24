@@ -46,10 +46,10 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">President<br><span style="font-weight:400;color:#004D2E">Chantelle Ng Jia Xuan (3/1)</span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Chantelle Ng Jia Xuan (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Vice President(s)<br><span style="font-weight:400;color:#004D2E">Lim Hui Ru (3/3)</span><br><span style="font-weight:400;color:#004D2E">Neo Ang Ai (3/2)</span></td>
+    <td class="tg-mwbt"><u>Vice President(s)</u><br><span style="font-weight:400;color:#004D2E">Lim Hui Ru (3/3)</span><br><span style="font-weight:400;color:#004D2E">Neo Ang Ai (3/2)</span></td>
   </tr>
 </tbody>
 </table>
@@ -67,7 +67,7 @@ third_nav_title: Club & Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-74pa"><span style="font-weight:700">Achievements of the CCA</span></th>
+    <th class="tg-74pa"><span style="font-weight:700"><b>Achievements of the CCA</b></span></th>
   </tr>
 </thead>
 <tbody>
