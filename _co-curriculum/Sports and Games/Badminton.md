@@ -108,15 +108,15 @@ third_nav_title: Sports and Games
     <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Goh Jing Yan (44)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">B Division Vice-Captains<br><span style="font-weight:400;color:#004D2E">Soh Wei Lin (44)</span></td>
-    <td class="tg-frvs">B Division Vice-Captains<br><span style="font-weight:400;color:#004D2E">ong Chin Foong (43)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Soh Wei Lin (44)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">ong Chin Foong (43)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Tan Jia Min (42)<br></td>
     <td class="tg-bapb">Joel Tan Ying Jie (43)<br></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Sec 3 Captain<br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (31)</span></td>
+    <td class="tg-wpup"><b><u>Sec 3 Captain<br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (31)</span></td>
     <td class="tg-frvs">Sec 3 Captain<br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (31)</span></td>
   </tr>
   <tr>
