@@ -46,7 +46,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -72,7 +72,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -91,32 +91,32 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">Drum Major<br><span style="font-weight:400;color:#004D2E">Yeo Zhir Yee (4/3)</span></td>
+    <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Yeo Zhir Yee (4/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Band Major (Music)<br><span style="font-weight:400;color:#004D2E">Dylan Seah Jun Kiong (4/2)</span></td>
+    <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Dylan Seah Jun Kiong (4/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Band Major (Admin)<br><span style="font-weight:400;color:#004D2E">Yuvia Hng Liang Ching (4/3)</span></td>
+    <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Yuvia Hng Liang Ching (4/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Secretary<br><span style="font-weight:400;color:#004D2E">Nur Alysa Qistina Binte Norazman (4A2)</span></td>
+    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Nur Alysa Qistina Binte Norazman (4A2)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Quartermaster (Instrument - Brasses)<br><span style="font-weight:400;color:#004D2E">Wu Song Heng (4/4)</span></td>
+    <td class="tg-mwbt"><u>Quartermaster (Instrument - Brasses)</u><br><span style="font-weight:400;color:#004D2E">Wu Song Heng (4/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Quartermaster (Instrument - Woodwinds)<br><span style="font-weight:400;color:#004D2E">Amirul Haziq Bin Asman (4/1)</span></td>
+    <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Amirul Haziq Bin Asman (4/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Quartermaster (Uniform)<br><span style="font-weight:400;color:#004D2E">Khew Zhi Xuan Krystal (4/2)</span></td>
+    <td class="tg-mwbt"><u>Quartermaster (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Khew Zhi Xuan Krystal (4/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Librarian<br><span style="font-weight:400;color:#004D2E">Siti Sarah Binte Talib (4/2)</span></td>
+    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Siti Sarah Binte Talib (4/2)</span></td>
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
