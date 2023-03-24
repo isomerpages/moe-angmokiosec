@@ -37,7 +37,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -63,7 +63,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -82,20 +82,20 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">B Division Captain<br><span style="font-weight:400;color:#004D2E">Leong Mun Jiat, Bryce (3/2)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Leong Mun Jiat, Bryce (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">B Division Vice-Captain<br><span style="font-weight:400;color:#004D2E">Tham Chee Yuan Neil (3A3)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tham Chee Yuan Neil (3A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">C Division Captain<br><span style="font-weight:400;color:#004D2E">Tan Zi Yang (2/1)</span></td>
+    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan Zi Yang (2/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">C Division Vice-Captain<br><span style="font-weight:400;color:#004D2E">Soh Eng Loon (2A2)</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Soh Eng Loon (2A2)</span></td>
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -114,10 +114,10 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">B Division<br><span style="font-weight:400;color:#004D2E">Attained 4</span>th <span style="font-weight:400;color:#004D2E">Position in League 3 of Football National School Games 2019</span></td>
+		<td class="tg-bapb"><b><u>B Division</u></b><br><span style="font-weight:400;color:#004D2E">Attained 4</span>th <span style="font-weight:400;color:#004D2E">Position in League 3 of Football National School Games 2019</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">C Division<br><span style="font-weight:400;color:#004D2E">Qualified for League 2 of Football National School Games 2019</span></td>
+    <td class="tg-wpup"><b><u>C Division</u></b><br><span style="font-weight:400;color:#004D2E">Qualified for League 2 of Football National School Games 2019</span></td>
   </tr>
 </tbody>
 </table>
