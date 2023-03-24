@@ -74,25 +74,26 @@ third_nav_title: Club & Societies
     <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">CAYLAN LOY ZHI KA I (SEC 3A1)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Vice-Chairperson (Media)<br><span style="font-weight:400;color:#004D2E">KHEH JUN BING RAYDON (SEC 3A4)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">KHEH JUN BING RAYDON (SEC 3A4)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">AV Unit 1st I/C<br><span style="font-weight:400;color:#004D2E">TAN WEI YE DAMIEN (SEC 3A3)</span></td>
+    <td class="tg-mwif"><u>AV Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN WEI YE DAMIEN (SEC 3A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Media Unit 1st I/C<br><span style="font-weight:400;color:#004D2E">TAN YI JIE ELDRICK (SEC 31)</span></td>
+    <td class="tg-mwif"><u>Media Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN YI JIE ELDRICK (SEC 31)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Photography Unit 1st I/C<br><span style="font-weight:400;color:#004D2E">MICHAEL DOMINIC NGO LE MING (SEC 31)</span></td>
+    <td class="tg-mwif"><u>Photography Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">MICHAEL DOMINIC NGO LE MING (SEC 31)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">AV Unit 2nd I/C<br><span style="font-weight:400;color:#004D2E">KANG JUN WEI XANDER (JIANG JUNWEI) (S2-F)</span></td>
+    <td class="tg-mwif"><u>AV Unit 2nd I/C</u>
+<br><span style="font-weight:400;color:#004D2E">KANG JUN WEI XANDER (JIANG JUNWEI) (S2-F)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Media Unit 2nd I/C<br><span style="font-weight:400;color:#004D2E">ETHAN JAYBEN JOSHUA (S2-A)</span></td>
+    <td class="tg-mwif"><u>Media Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">ETHAN JAYBEN JOSHUA (S2-A)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Photography Unit 2nd I/C<br><span style="font-weight:400;color:#004D2E">LAU XU YUE (LIU XUYUE) (S2-B)</span></td>
+    <td class="tg-mwif"><u>Photography Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">LAU XU YUE (LIU XUYUE) (S2-B)</span></td>
   </tr>
 </tbody>
 </table>
