@@ -60,7 +60,7 @@ third_nav_title: Club & Societies
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -82,7 +82,7 @@ third_nav_title: Club & Societies
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -114,7 +114,7 @@ third_nav_title: Club & Societies
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -145,7 +145,7 @@ third_nav_title: Club & Societies
 
 ![](/images/20210825_151938.jpg)
 
-**Edible Garden Workshop (2021)**
+##### **Edible Garden Workshop (2021)**
 
   
 
@@ -157,7 +157,7 @@ In April, we organized a workshop for Environmental Club members to learn the te
 
   
 
-**Earth Day and Earth Hour Celebrations (2021)**
+##### **Earth Day and Earth Hour Celebrations (2021)**
 
   
 
@@ -165,7 +165,7 @@ The school celebrated Earth Day by participating in the “ Singapore Kosong Pla
 
   
 
-**Follow-up on Plastic Straw-Free AMKSS Campaign (2020)**
+##### **Follow-up on Plastic Straw-Free AMKSS Campaign (2020)**
 
   
 
@@ -173,7 +173,7 @@ In March 2020, Environmental Club members conducted a workshop to further reduce
 
   
 
-**Launch on Food Resilience (2020)**
+##### **Launch on Food Resilience (2020)**
 
   
 
@@ -181,7 +181,7 @@ A Food Resilience workshop was launched on 11 March 2020 as the results of the s
 
   
 
-**AMKSS Students' and Teacher support WWF Earth Hour campaign (2020)**
+##### **AMKSS Students' and Teacher support WWF Earth Hour campaign (2020)**
 
   
 
