@@ -39,7 +39,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -61,7 +61,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -80,23 +80,23 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">President<br><span style="font-weight:400;color:#004D2E">Tan Wen Hui</span></td>
+    <td class="tg-mwif"><u>President</u><br><span style="font-weight:400;color:#004D2E">Tan Wen Hui</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Vice President (Admin &amp; Resources)<br><span style="font-weight:400;color:#004D2E">Ong Yu Xin</span></td>
+    <td class="tg-mwif"><u>Vice President (Admin &amp; Resources)</u><br><span style="font-weight:400;color:#004D2E">Ong Yu Xin</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Vice President (Music Development)<br><span style="font-weight:400;color:#004D2E">Chia Yoke Yun</span></td>
+    <td class="tg-mwif"><u>Vice President (Music Development)</u><br><span style="font-weight:400;color:#004D2E">Chia Yoke Yun</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Vice President (Chorale Wellbeing)<br><span style="font-weight:400;color:#004D2E">Jayden Ng</span><br><span style="font-weight:400;color:#004D2E">Chong Wan Ting, Lynette</span></td>
+    <td class="tg-mwif"><u>Vice President (Chorale Wellbeing)</u><br><span style="font-weight:400;color:#004D2E">Jayden Ng</span><br><span style="font-weight:400;color:#004D2E">Chong Wan Ting, Lynette</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Logistics and Resource Manager<br><span style="font-weight:400;color:#004D2E">Martinez Katherine Marie Martinez</span></td>
+    <td class="tg-mwif"><u>Logistics and Resource Manager</u><br><span style="font-weight:400;color:#004D2E">Martinez Katherine Marie Martinez</span></td>
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
