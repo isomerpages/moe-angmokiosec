@@ -43,7 +43,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -62,14 +62,14 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">Boys Coach<br><span style="font-weight:400;color:#004D2E">Mr Gary Cheung</span></td>
+    <td class="tg-bapb"><b><u>Boys Coach</u></b><br><span style="font-weight:400;color:#004D2E">Mr Gary Cheung</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">Girls Coach<br><span style="font-weight:400;color:#004D2E">Mr Teo Kee Theng</span></td>
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -88,32 +88,32 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">B Boys Captain<br><span style="font-weight:400;color:#004D2E">Chia Cheng Fong, Javier</span></td>
+    <td class="tg-bapb"><b><u>B Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Chia Cheng Fong, Javier</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">B Boys Vice-Captain<br><span style="font-weight:400;color:#004D2E">Tedmund Cheong</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">B Girls Captain<br><span style="font-weight:400;color:#004D2E">Ng Shi Ting, Faith</span></td>
+    <td class="tg-bapb"><b><u>B Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Ng Shi Ting, Faith</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">B Girls Vice-Captain<br><span style="font-weight:400;color:#004D2E">Naw Deborah Htoo</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">C Boys Captain<br><span style="font-weight:400;color:#004D2E">Gan Kai En Isaac</span></td>
+    <td class="tg-bapb"><b><u>C Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Gan Kai En Isaac</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">C Boys Vice-Captain<br><span style="font-weight:400;color:#004D2E">Wong Chong Xiang, Isaiah</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">C Girls Captain<br><span style="font-weight:400;color:#004D2E">Nurin Amirah Binte Nasrul Hadi</span></td>
+    <td class="tg-bapb"><b><u>C Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nurin Amirah Binte Nasrul Hadi</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">C Girls Vice-Captain<br><span style="font-weight:400;color:#004D2E">Lim Jia Qian</span></td>
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -132,32 +132,32 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">B Boys Captain<br><span style="font-weight:400;color:#004D2E">Gan Kai En Isaac</span></td>
+    <td class="tg-bapb"><b><u>B Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Gan Kai En Isaac</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">B Boys Vice-Captain<br><span style="font-weight:400;color:#004D2E">Phua Chia Jung</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">B Girls Captain<br><span style="font-weight:400;color:#004D2E">Zhang Yixin</span></td>
+    <td class="tg-bapb"><b><u>B Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Zhang Yixin</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">B Girls Vice-Captain<br><span style="font-weight:400;color:#004D2E">Giselle Goh Zi Jun</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">C Boys Captain<br><span style="font-weight:400;color:#004D2E">Loh Zu Le Jerry</span></td>
+    <td class="tg-bapb"><b><u>C Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Loh Zu Le Jerry</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">C Boys Vice-Captain<br><span style="font-weight:400;color:#004D2E">Teh Lok Hao</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">C Girls Captain<br><span style="font-weight:400;color:#004D2E">Khoh Na Eun</span></td>
+    <td class="tg-bapb"><b><u>C Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Khoh Na Eun</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">C Girls Vice-Captain<br><span style="font-weight:400;color:#004D2E">Shi Yu Ting</span></td>
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
