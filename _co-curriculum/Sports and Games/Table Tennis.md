@@ -31,7 +31,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -53,7 +53,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -74,16 +74,16 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">Overall Captain<br><span style="font-weight:400;color:#004D2E">Loke Zhi Ching (3/2)</span></td>
+    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">Loke Zhi Ching (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">B Division Vice Captain<br><span style="font-weight:400;color:#004D2E">Chai Shuen (3/5)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Chai Shuen (3/5)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Lim Kai Yi (3/4)</td>
   </tr>
   <tr>
-    <td class="tg-frvs">C Division Vice Captain<br><span style="font-weight:400;color:#004D2E">Wong Yun Rui (2A2)</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Wong Yun Rui (2A2)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Sun Mohan (24)</td>
@@ -99,7 +99,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
