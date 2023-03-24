@@ -49,7 +49,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -81,7 +81,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -104,8 +104,8 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">B Division Captain<br><span style="font-weight:400;color:#004D2E">Zhang Xiangyi (4A3)</span></td>
-    <td class="tg-ywyw">B Division Captain<br><span style="font-weight:400;color:#004D2E">Goh Jing Yan (44)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Zhang Xiangyi (4A3)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Goh Jing Yan (44)</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">B Division Vice-Captains<br><span style="font-weight:400;color:#004D2E">Soh Wei Lin (44)</span></td>
