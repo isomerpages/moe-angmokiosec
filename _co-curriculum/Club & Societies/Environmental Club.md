@@ -27,7 +27,7 @@ third_nav_title: Club & Societies
   </tr>
 </tbody>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -46,10 +46,10 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">President<br><span style="font-weight:400;color:#004D2E">Mhoo Waddy Ko</span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Mhoo Waddy Ko</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Vice-President<br><span style="font-weight:400;color:#004D2E">Muhammad Hakim Bin Muhammad Rostam</span></td>
+    <td class="tg-mwbt"><u>Vice-President</u><br><span style="font-weight:400;color:#004D2E">Muhammad Hakim Bin Muhammad Rostam</span></td>
   </tr>
   <tr>
     <td class="tg-ywyw">Secretary<br><span style="font-weight:400;color:#004D2E">Lim Pei Xuan</span></td>
