@@ -76,13 +76,13 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">Chairperson<br><span style="font-weight:400;color:#004D2E">NURUL NADHRAH AFIQAH BINTE HASSAN (3A1)</span></td>
+    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">NURUL NADHRAH AFIQAH BINTE HASSAN (3A1)</span></td>
   </tr>
   <tr>
-    <td class="tg-frvs">Quarter Mistress<br><span style="font-weight:400;color:#004D2E">CAMELIA AMANDA BINTE JUMAAT (3A1)</span></td>
+    <td class="tg-mwif"><u>Quarter Mistress</u><br><span style="font-weight:400;color:#004D2E">CAMELIA AMANDA BINTE JUMAAT (3A1)</span></td>
   </tr>
   <tr>
-    <td class="tg-ywyw">Rehearsal Mistress<br><span style="font-weight:400;color:#004D2E">NUR 'ARMARSHA BINTE MOHAMAD RIDUWAN (3A4)</span></td>
+    <td class="tg-mwif"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">NUR 'ARMARSHA BINTE MOHAMAD RIDUWAN (3A4)</span></td>
   </tr>
 </tbody>
 </table>
