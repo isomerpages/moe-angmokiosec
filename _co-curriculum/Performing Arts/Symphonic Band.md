@@ -169,6 +169,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
+<br>
 
 ![](/images/Symphonic%20Band.jpg)
 
