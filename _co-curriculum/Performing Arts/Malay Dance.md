@@ -115,6 +115,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
+<br>
 
 AMKSS Malay Dance Group, also known as Gemilang Sari, is a group of passionate dancers who seek to promote an appreciation of Malay dance and culture. This is a tight- knit CCA that aims to nurture our members into confident and graceful dancers and foster a sense of care and concern for one another.
 
