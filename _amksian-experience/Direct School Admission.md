@@ -146,13 +146,31 @@ Over the years, our team has consistently made our presence felt in the South Zo
 
 Team AMKSS seeks opportunities that enable our players and leaders to plan, organize and implement a variety of programmes to benefit both the school and community. Annually, we organize a primary school badminton competition, the “AMKSS Invitational”, to promote the sport, encourage friendly sparring and help raise the standards of the sport amongst primary school students. In addition, players assist in the coaching of students in Ang Mo Kio and Townsville Primary Schools as part of our partnership and outreach efforts with our community.
 
-![](/images/Badmintonn.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Badmintonn.jpg" alt="Badminton" style="width:70%;">  
+  
+</body>
 
 #### Volleyball
 
 Ang Mo Kio’s Volleyball Team was established in 1999 and has grown from strength to strength over the 21 years. The Team has consistently punched above its weight at the South Zone and National competitions, finishing among the top schools in both competitions. In 2019, the B Girls and B Boys emerged 2nd and 4th respectively in the Zonal Championships. Our B Girls finished third in 2021, and emerged runners-up in the 2022 South Zone Championship. Our Girls team is currently coached by Mr Teo Kee Theng and our Boys team is coached by Mr Gary Cheung Wan Yang. Over the years, the Team has produced talented individuals who went on to don National colours and represent the country. In 2018, one of our girls, Seah Yun Zhen Desiree was selected to represent Singapore at the 2018 ASEAN Schools Games, while our alumni, Alicia Tan Kai Yun (graduate of 2017) represented Singapore at the 2018 Asian U19 Beach Volleyball Championships in Thailand.
 
-![](/images/Volleyball.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Volleyball.jpg" alt="Volleyball" style="width:70%;">  
+  
+</body>
 
 Our Volleyball programme aims to develop and sustain our students’ skills, passion and interest in Volleyball. We also strive to achieve sustained excellence in zonal and national competitions. And most importantly, we are driven to inculcate values such as teamwork, discipline and resilience in them.
 
