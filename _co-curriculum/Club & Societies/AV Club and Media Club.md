@@ -119,6 +119,7 @@ third_nav_title: Club & Societies
   </tr>
 </tbody>
 </table>
+<br>
 
 The AV Media Club consists of three units, namely the Audio/Visual unit, the Media unit and the Photography unit. The club aims to cultivate interest and awareness in the use of Audio/Visual Information Technology and photography in our students.
 
