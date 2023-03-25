@@ -56,7 +56,16 @@ The Choir showcases its talents at various school performances such as Awards Da
 
 Besides singing, the Choir organizes activities to instill, develop and promote self-discipline, teamwork, confidence and commitment in our choristers. Every chorister has a responsibility to serve both the Choir and the community; as led by the Choir's Executive Committee based on our philosophy that every AMKsian Chorister "Always Strive For the Best - to Sing, to Share and to Serve"
 
-![](/images/Choir.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Choir.jpg" alt="Choir" style="width:70%;">  
+  
+</body><br>
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Choir</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Pass audition and interview.</li><li style="margin: 0px; outline: 0px; padding: 0px;">For the auditions, applicants must prepare the following:</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Sing one piece of music (1-2 min) of his/her choice, from the choral, classical or musical theatre genres - to be sung with/ without accompaniment.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Sing ‘Happy Birthday’ acapella (without accompaniment).</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Candidates must be able to imitate or respond to notes and rhythms according to instructions given by the instructor/ teacher.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Representation in SYF Arts Choral Presentation or representation in international choral festival competitions.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Music theory background (at least a grade 3 will be preferable).</li><li style="margin: 0px; outline: 0px; padding: 0px;">Member of school choir.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.</li></ul></div></td></tr></tbody></table>
 
