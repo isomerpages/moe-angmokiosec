@@ -123,6 +123,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
+<br>
 
 ![](/images/farewell%20broadway.jpg)
 
