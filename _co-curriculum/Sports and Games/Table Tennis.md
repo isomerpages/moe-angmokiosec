@@ -121,6 +121,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
+<br>
 
 The AMKSS Table Tennis CCA aims to cultivate sportsmanship, team spirit, life-long skills and a sense of belonging among our student players through our regular training sessions, table tennis competitions and our Values-In-Action (VIA) programme.
 
