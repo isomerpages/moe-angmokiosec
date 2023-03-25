@@ -26,13 +26,13 @@ With Full SBB, we are moving towards one secondary education, with many subject 
 
 #### Full SBB at Ang Mo Kio Secondary School:
 
-##### 1. **OFFERING OF HUMANITIES SUBJECTS AT A MORE DEMANDING LEVEL FROM 2020**
+###### 1. **OFFERING OF HUMANITIES SUBJECTS AT A MORE DEMANDING LEVEL FROM 2020**
 
 As part of the pilot, our school have implemented the offering of Humanities subjects at a more demanding level for students who are in Sec 2 Normal (Academic) from 2020, and Sec 2 Normal (Technical) from 2021, based on their performance and results in Sec 1.
 
   
 
-#####  2. **RE-ORGANISING SECONDARY 1 FORM CLASSES IN NEW WAYS FROM 2021**
+######  2. **RE-ORGANISING SECONDARY 1 FORM CLASSES IN NEW WAYS FROM 2021**
 
 **This is applicable to Secondary 1 students entering our school from 2021**
 
