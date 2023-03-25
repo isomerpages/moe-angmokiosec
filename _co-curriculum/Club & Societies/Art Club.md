@@ -132,6 +132,7 @@ third_nav_title: Club & Societies
   </tr>
 </tbody>
 </table>
+<br>
 
 Art Club is a place where students’ creativity and imagination are allowed to take flight and where students develop their critical thinking skills. Pupils in the Art Club are exposed to a variety of art forms, techniques, exhibitions and other art-related activities. This year, students were taught mixed media techniques, watercolour, acrylic painting and pen drawings.
 
