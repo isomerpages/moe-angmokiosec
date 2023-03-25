@@ -3,7 +3,16 @@ title: Full Subject Based Banding
 permalink: /amksian-experience/full-subject-based-banding/
 description: ""
 ---
-![Full Subject-Based Banding ](/images/SBB.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/SBB.jpg" alt="Full Subject-Based Banding" style="width:70%;">  
+  
+</body>
 
 Ang Mo Kio Secondary School was one of the 12 secondary schools that piloted Subject-Based Banding (SBB) in 2014 to provide greater flexibility in lower secondary subject combinations. Under SBB, students who are passionate and perform well in certain subjects (English, Mother Tongue Languages, Mathematics and Science) would be given the opportunity to offer them at a higher level. Since then, SBB has been rolled out to all secondary schools.
 
