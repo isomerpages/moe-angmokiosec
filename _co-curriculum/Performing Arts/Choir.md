@@ -125,6 +125,7 @@ third_nav_title: Performing Arts
   </tr>
 </tbody>
 </table>
+<br>
 
 ![Choir](/images/Choir%202.jpeg)
 
