@@ -186,6 +186,7 @@ third_nav_title: Sports and Games
   </tr>
 </tbody>
 </table>
+<br>
 
 ![](/images/Volleyball_3.jpg)
 
