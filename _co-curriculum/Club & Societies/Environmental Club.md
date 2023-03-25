@@ -140,6 +140,7 @@ third_nav_title: Club & Societies
   </tr>
 </tbody>
 </table>
+<br>
 
 ![](/images/EnvClub2.jpg)
 
