@@ -122,7 +122,7 @@ img {
 
 <h4><font color="#ABE9CD">School Motto</font></h4> 
 
-<h4 style="color:black" align="center">Always strive for the best</h4>
+<h4 style="color:black" align="center">Always Strive for the Best</h4>
 <style>  
 img {  
   display: block;  
