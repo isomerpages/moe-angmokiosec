@@ -25,7 +25,7 @@ We would also like to invite you to join us for a Welcome Tea which will take pl
 We look forward to your participation. <br>
 Thank you. <br>
 Please click the following for more details: <br>
-<a href="/files/Synopsis_From%20Tweens%20to%20Teens.pdf"><font color="#79A65A">SYNOPSIS</font></a><br><a href="/files/Speaker%20Profile%20-%20Galvin%20Sng.pdf"><font color="#79A65A">SPEAKER PROFILE</a></font>
+<a href="/files/Synopsis_From%20Tweens%20to%20Teens.pdf"><font color="#79A65A">SYNOPSIS</font></a><br><a href="/files/Speaker%20Profile%20-%20Galvin%20Sng.pdf"><font color="#79A65A">SPEAKER PROFILE</font></a>
 
 <h4><font color="#ABE9CD">3. PSG Brochure </font></h4>
 
