@@ -54,26 +54,25 @@ Registration details will be provided nearer the date.
 <h4><font color="#ABE9CD">5. Useful Resources for Parents </font></h4>
 
 (a) MOE Parent Kit<br>
-<a href="https://go.gov.sg/moe-parentkit"><font color="#62C183">https://go.gov.sg/moe-parentkit</a></font>
+<a href="https://go.gov.sg/moe-parentkit"><font color="#62C183">https://go.gov.sg/moe-parentkit</font></a>
 
 
 <html>
 <body>
 <p><a href="/files/journeying-through-challenging-times-together.pdf">
-<img src="/images/MOE%20Parent%20Kit.png"  style="width:40%">
+<img src="/images/MOE%20Parent%20Kit.png"  style="width:30%">
 </a></p>
 </body>
 </html>
 
 
-(b) A PSG Repository – Supporting Mental Well-being
-
-[https://go.gov.sg/psg-repository](https://go.gov.sg/psg-repository)
+(b) A PSG Repository – Supporting Mental Well-being<br>
+<a href="https://go.gov.sg/psg-repository"><font color="#62C183">https://go.gov.sg/psg-repository</font></a>
 
 <html>
 <body>
 <p><a href="https://sites.google.com/moe.edu.sg/psg-mental-wellbeing-support/home">
-<img src="/images/A%20PSG%20Repository.png"  style="width:40%">
+<img src="/images/A%20PSG%20Repository.png"  style="width:30%">
 </a></p>
 </body>
 </html>
