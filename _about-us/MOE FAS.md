@@ -89,6 +89,6 @@ Please click here for :
 
 1.    <b><a href="/files/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf"><font color="#62C183">MOE FAS Pamphlet EL for Schools</font></a></b>
 
-2.   **[MOE FAS Application Form Sep 2022](/files/MOE%20FAS%20Application%20Form%20Sep%202022%20Revised.pdf)**
+2.   <b><a href="/files/MOE%20FAS%20Application%20Form%20Sep%202022%20Revised.pdf"><font color="#62C183">MOE FAS Application Form Sep 2022</font></a></b>
 
-3.   **[eFAS User Guide - AMKSS](/files/eFAS%20User%20Guide_AMKSS.pdf)**
+3.   <b><a href="/files/eFAS%20User%20Guide_AMKSS.pdf"><font color="#62C183">eFAS User Guide - AMKSS</font></a></b>
