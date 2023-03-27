@@ -29,7 +29,7 @@ Please click the following for more details: <br>
 
 <h4><font color="#ABE9CD">3. PSG Brochure </font></h4>
 
-[AMKSS PSG Brochure_for 2022.pdf](/files/AMKSS%20PSG%20Brochure_for%202022.pdf)
+<a href="/files/AMKSS%20PSG%20Brochure_for%202022.pdf"><font color="#79A65A">AMKSS PSG Brochure_for 2022.pdf</font></a>
 
 <h4><font color="#ABE9CD">4. Positive Parenting Programme </font></h4>
 
