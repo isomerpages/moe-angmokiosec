@@ -3,7 +3,6 @@ title: Alumni
 permalink: /partnership/alumni/
 description: ""
 ---
-
 <style>  
 img {  
   display: block;  
@@ -24,6 +23,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Boon%20Leo.png" alt="Boon Leo" style="width:70%;">  
+<body><img src="/images/Boon%20Leo.png" alt="Boon Leo" style="width:75%;">  
   
 </body>
