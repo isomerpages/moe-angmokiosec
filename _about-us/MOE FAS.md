@@ -25,18 +25,18 @@ The Ministry of Education provides financial assistance to Singaporean students 
 .tg .tg-nk7v{background-color:#EEE;color:#444;text-align:center;vertical-align:top}
 .tg .tg-x2e3{background-color:#EEE;color:#444;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-tlx9" colspan="5"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
+  <tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-x2e3" colspan="5"><span style="color:#444;background-color:#EEE">OR</span></td>
+  <tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
   </tr>
   <tr>
-    <td class="tg-nk7v" colspan="5"><span style="color:#444">Per Capita Income = $750 or below</span><br><span style="color:#444">(Per Capita Income = Total Gross Monthly Household Income divided by the No. of Household Members)</span></td>
+    <td class="tg-nk7v" colspan="5" style="border: 1px solid black"><span style="color:#444">Per Capita Income = $750 or below</span><br><span style="color:#444">(Per Capita Income = Total Gross Monthly Household Income divided by the No. of Household Members)</span></td>
   </tr>
 </tbody>
 </table>
