@@ -53,9 +53,8 @@ Registration details will be provided nearer the date.
 
 <h4><font color="#ABE9CD">5. Useful Resources for Parents </font></h4>
 
-(a) MOE Parent Kit
-
-[https://go.gov.sg/moe-parentkit](https://go.gov.sg/moe-parentkit)
+(a) MOE Parent Kit<br>
+<a href="https://go.gov.sg/moe-parentkit"><font color="#62C183">https://go.gov.sg/moe-parentkit</a></font>
 
 
 <html>
