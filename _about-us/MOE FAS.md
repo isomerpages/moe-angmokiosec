@@ -55,7 +55,7 @@ The Ministry of Education provides financial assistance to Singaporean students 
 
   
 
- [**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas)
+<b><a href="https://go.gov.sg/moe-efas"><font color="#62C183">https://go.gov.sg/moe-efas</font></a></b>
 
 <style>  
 img {  
