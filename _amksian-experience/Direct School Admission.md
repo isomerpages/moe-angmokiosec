@@ -34,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG-20190424-WA0000.jpg" alt="Concert Band" style="width:75%;">  
+<body><img src="/images/IMG-20190424-WA0000.jpg" alt="Concert Band" style="width:80%;">  
   
 </body><br>
 
@@ -63,7 +63,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir.jpg" alt="Choir" style="width:70%;">  
+<body><img src="/images/Choir.jpg" alt="Choir" style="width:80%;">  
   
 </body><br>
 
@@ -92,7 +92,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Modern%20Dance.jpg" alt="Modern Dance" style="width:75%;">  
+<body><img src="/images/Modern%20Dance.jpg" alt="Modern Dance" style="width:80%;">  
   
 </body><br>
 
@@ -103,7 +103,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Malay%20Dance.jpg" alt="Malay Dance" style="width:75%;">  
+<body><img src="/images/Malay%20Dance.jpg" alt="Malay Dance" style="width:80%;">  
   
 </body><br>
 
@@ -124,7 +124,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Dramaa.jpg" alt="English Drama" style="width:75%;">  
+<body><img src="/images/Dramaa.jpg" alt="English Drama" style="width:80%;">  
   
 </body><br>
 
@@ -153,7 +153,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Badmintonn.jpg" alt="Badminton" style="width:70%;">  
+<body><img src="/images/Badmintonn.jpg" alt="Badminton" style="width:80%;">  
   
 </body>
 
@@ -168,7 +168,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Volleyball.jpg" alt="Volleyball" style="width:70%;">  
+<body><img src="/images/Volleyball.jpg" alt="Volleyball" style="width:80%;">  
   
 </body>
 
