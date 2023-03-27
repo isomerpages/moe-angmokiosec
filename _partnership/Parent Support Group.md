@@ -5,9 +5,12 @@ description: ""
 ---
 #### 1\. Organisation Chart
 
+<h4><font color="#ABE9CD"> Text </font></h4>
+
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Chairman</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Janet Choy</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Vice Chairman</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Tracy Soh</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Secretary</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Jacqueline Tok</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Treasurer</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Shirley Fok &amp; Lay Choo</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Publicity &amp; Recruitment</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Tracy &amp; Lay Choo</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Fathers @ AMKSS</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Daniel Tay, Kenneth Koh</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Exco Members</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 400px;">Wong Soo Yuen<br style="margin: 0px; outline: 0px; padding: 0px;">Chen Fook Ping<br style="margin: 0px; outline: 0px; padding: 0px;">Alvin Ng<br style="margin: 0px; outline: 0px; padding: 0px;">Carolina Lau</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 400px;">Low Pui Lin<br style="margin: 0px; outline: 0px; padding: 0px;">Joanna Portilla<br style="margin: 0px; outline: 0px; padding: 0px;">Sylvie Leow<br style="margin: 0px; outline: 0px; padding: 0px;">Ali Asgar Nasir</td></tr></tbody></table>
 
 #### 2\. Upcoming Events
+<h4><font color="#ABE9CD"> Text </font></h4>
 
 <table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">21 May 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Parenting the Adolescent- “U” are important in Helping Teenagers to Transit Well into Adulthood Webinar<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">02 Jul 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Parent-Child Bonding Activity<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">16 Jul 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Building a Positive Digital Family Culture Together –Each a Part, not Apart<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">01 Sep 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Teachers’ Day Celebrations<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">17 Sep 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Parenting by Design – Different Children, Different Needs<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">TBC<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PSG Appreciation Day<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
@@ -15,10 +18,12 @@ description: ""
 Details of webinar will be updated nearer the date.
 
 #### 3\. PSG Brochure
+<h4><font color="#ABE9CD"> Text </font></h4>
 
 [AMKSS PSG Brochure_for 2022.pdf](/files/AMKSS%20PSG%20Brochure_for%202022.pdf)
 
 #### 4\. Positive Parenting Programme
+<h4><font color="#ABE9CD"> Text </font></h4>
 
 To include the following schedule for workshops:  
   
@@ -37,6 +42,7 @@ To include the following schedule for workshops:
 Registration details will be provided nearer the date.
 
 #### 5\. Useful Resources for Parents
+<h4><font color="#ABE9CD"> Text </font></h4>
 
 (a) MOE Parent Kit
 
@@ -65,6 +71,7 @@ Registration details will be provided nearer the date.
 </html>
 
 #### 6\. Events Photo
+<h4><font color="#ABE9CD"> Text </font></h4>
 
 ![CNY Lohei](/images/CNY%20Lohei%204.jpg)
 
