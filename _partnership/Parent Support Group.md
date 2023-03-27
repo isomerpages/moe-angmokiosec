@@ -9,10 +9,34 @@ description: ""
 
 <h4><font color="#ABE9CD">2. Upcoming Events</font></h4>
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">21 May 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Parenting the Adolescent- “U” are important in Helping Teenagers to Transit Well into Adulthood Webinar<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">02 Jul 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Parent-Child Bonding Activity<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">16 Jul 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Building a Positive Digital Family Culture Together –Each a Part, not Apart<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">01 Sep 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Teachers’ Day Celebrations<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">17 Sep 22<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Parenting by Design – Different Children, Different Needs<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="150px" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">TBC<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">PSG Appreciation Day<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+We warmly invite you to join us for a parenting workshop on **“From Tweens to Teens - Preparing our Children for Secondary Education".**  
+  
+This workshop seeks to provide parents with an understanding of the process of adolescence, and some practical tips on how to help your child transit smoothly into secondary school.  
+  
+
+Title: From Tweens to Teens - Preparing our Children for Secondary Education
+
+Date: 14 January 2023 (Saturday)
+
+Time: 8:30 – 10:00 am
+
+Venue: Ang Mo Kio Secondary School AVA Room (Level 3)
+
+Registration Link: [https://go.gov.sg/fromtweenstoteens](https://go.gov.sg/fromtweenstoteens)
 
   
-Details of webinar will be updated nearer the date.
+
+We would also like to invite you to join us for a Welcome Tea which will take place after the workshop from 10:00 to 11:00 am.
+
+We look forward to your participation.
+
+Thank you.
+
+Please click the following for more details:
+
+[SYNOPSIS](https://angmokiosec.moe.edu.sg/qql/slot/u531/2023/PSG/Synopsis_From%20Tweens%20to%20Teens.pdf)  
+
+[SPEAKER PROFILE](https://angmokiosec.moe.edu.sg/qql/slot/u531/2023/PSG/Speaker%20Profile%20-%20Galvin%20Sng.pdf)
 
 <h4><font color="#ABE9CD">3. PSG Brochure </font></h4>
 
