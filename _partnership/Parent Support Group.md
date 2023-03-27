@@ -9,7 +9,7 @@ description: ""
 
 <h4><font color="#ABE9CD">2. Upcoming Events</font></h4>
 
-We warmly invite you to join us for a parenting workshop on **“From Tweens to Teens - Preparing our Children for Secondary Education".**  
+We warmly invite you to join us for a parenting workshop on <b><font color="#79A65A">“From Tweens to Teens - Preparing our Children for Secondary Education".</font></b>
   
 This workshop seeks to provide parents with an understanding of the process of adolescence, and some practical tips on how to help your child transit smoothly into secondary school.  
   
