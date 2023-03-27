@@ -18,10 +18,9 @@ Title: From Tweens to Teens - Preparing our Children for Secondary Education <br
 Date: 14 January 2023 (Saturday) <br>
 Time: 8:30 – 10:00 am <br>
 Venue: Ang Mo Kio Secondary School AVA Room (Level 3) <br>
-Registration Link: [https://go.gov.sg/fromtweenstoteens](https://go.gov.sg/fromtweenstoteens)
+Registration Link: <a href="https://go.gov.sg/fromtweenstoteens"><font color="#79A65A">https://go.gov.sg/fromtweenstoteens</font></a>
 
   
-
 We would also like to invite you to join us for a Welcome Tea which will take place after the workshop from 10:00 to 11:00 am. <br>
 We look forward to your participation. <br>
 Thank you. <br>
