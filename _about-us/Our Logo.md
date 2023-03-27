@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ang-Mo-Kio-Secondary-School.png" alt="School Uniform" style="width:27%;">  
+<body><img src="/images/Ang-Mo-Kio-Secondary-School.png" alt="School Uniform" style="width:22%;">  
   
 </body>
 
