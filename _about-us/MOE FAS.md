@@ -64,7 +64,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/MOE%20FAS.jpeg" style="width:50%;">  
+<body><img src="/images/MOE%20FAS.jpeg" style="width:35%;">  
   
 </body>  
 <br>
