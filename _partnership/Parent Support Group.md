@@ -34,9 +34,9 @@ Thank you.
 
 Please click the following for more details:
 
-[SYNOPSIS](https://angmokiosec.moe.edu.sg/qql/slot/u531/2023/PSG/Synopsis_From%20Tweens%20to%20Teens.pdf)  
+[SYNOPSIS](/files/Synopsis_From%20Tweens%20to%20Teens.pdf)
 
-[SPEAKER PROFILE](https://angmokiosec.moe.edu.sg/qql/slot/u531/2023/PSG/Speaker%20Profile%20-%20Galvin%20Sng.pdf)
+[SPEAKER PROFILE](/files/Speaker%20Profile%20-%20Galvin%20Sng.pdf)
 
 <h4><font color="#ABE9CD">3. PSG Brochure </font></h4>
 
