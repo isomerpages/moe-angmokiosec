@@ -3,7 +3,7 @@ title: Our Vision, Mission and Values
 permalink: /about-us/our-vision-mission-and-values/
 description: ""
 ---
-<h4><font color="#ABE9CD"> Vision</font></h4> 
+<h4><font color="#ABE9CD">Vision</font></h4> 
 
 <style>  
 img {  
@@ -29,7 +29,7 @@ img {
   
 </body>
 
-### Mission
+<h4><font color="#ABE9CD">Mission</font></h4> 
 
 <p style="text-align:center;"> <strong>To provide a holistic education that nurtures life long learners, responsible citizens and resilient individuals.
 </strong></p>
@@ -46,7 +46,7 @@ img {
 </body>
 
 
-### Values
+<h4><font color="#ABE9CD">Values</font></h4> 
 
 <h4 style="color:black" align="center">Respect</h4>
 <style>  
