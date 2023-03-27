@@ -3,9 +3,9 @@ title: MOE Sexuality Education in Schools
 permalink: /amksian-experience/moe-sexuality-education-in-schools/
 description: ""
 ---
-<h5 style="color:black" align="center">ANG MO KIO SECONDARY SCHOOL</h5>
+<h6 style="color:black" align="center">ANG MO KIO SECONDARY SCHOOL</h6>
 
-##### MOE SEXUALITY EDUCATION IN SCHOOLS
+###### MOE SEXUALITY EDUCATION IN SCHOOLS
 
   
 
@@ -34,7 +34,7 @@ description: ""
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-##### Overview of Ang Mo Kio Secondary School’s Sexuality Education Programme for 2023
+###### Overview of Ang Mo Kio Secondary School’s Sexuality Education Programme for 2023
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -61,32 +61,32 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 **At Ang Mo Kio Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2023</u>:**
 
-<h5 style="color:black" align="center">SECONDARY 1
-</h5>
+<h6 style="color:black" align="center">SECONDARY 1
+</h6>
 
 ![Sec 1 2023](/images/S1.jpeg)
 
-<h5 style="color:black" align="center">SECONDARY 2
-</h5>
+<h6 style="color:black" align="center">SECONDARY 2
+</h6>
 
 ![Sec 2 2023](/images/S2.jpeg)
 
-<h5 style="color:black" align="center">SECONDARY 3
-</h5>
+<h6 style="color:black" align="center">SECONDARY 3
+</h6>
 
 ![Sec 3 2023](/images/S3.jpeg)
 
-<h5 style="color:black" align="center">SECONDARY 4
-</h5>
+<h6 style="color:black" align="center">SECONDARY 4
+</h6>
 
 ![Sec 4 2023](/images/S4.jpeg)
 
-<h5 style="color:black" align="center">SECONDARY 5
-</h5>
+<h6 style="color:black" align="center">SECONDARY 5
+</h6>
 
 ![Sec 5 2023](/images/S5.jpeg)
 
-#### <u>_eTeens_ Programme:</u>
+##### <u><em>eTeens</em> Programme:</u>
 
   
 
