@@ -84,7 +84,7 @@ img {
   
 </body>
 
-<h4 style="color:black" align="center">Intergrity</h4>
+<h4 style="color:black" align="center">Integrity</h4>
 <style>  
 img {  
   display: block;  
@@ -120,7 +120,7 @@ img {
   
 </body>
 
-### School Motto
+<h4><font color="#ABE9CD">School Motto</font></h4> 
 
 <h4 style="color:black" align="center">Always strive for the best</h4>
 <style>  
