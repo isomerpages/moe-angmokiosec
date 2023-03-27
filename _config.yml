@@ -1,9 +1,9 @@
 title: Ang Mo Kio Secondary School
-url: ""
+url: https://www.angmokiosec.moe.edu.sg
 favicon: /images/Ang-Mo-Kio-Secondary-School.png
 colors:
   primary-color: "#bdbd95"
-  secondary-color: "#4372d6"
+  secondary-color: "#fffcde"
   media-colors:
     - title: media-color-one
       color: "#49759a"
