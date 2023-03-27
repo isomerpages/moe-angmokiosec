@@ -31,6 +31,8 @@ Please click the following for more details: <br>
 
 <a href="/files/AMKSS%20PSG%20Brochure_for%202022.pdf"><font color="#79A65A">AMKSS PSG Brochure_for 2022.pdf</font></a>
 
+<h5><a href="https://tinyurl.com/AMKSS-PSGFORM"><font color="#79A65A">Please click here to Join PSG</font></a></h5>
+
 <h4><font color="#ABE9CD">4. Positive Parenting Programme </font></h4>
 
 To include the following schedule for workshops:  
