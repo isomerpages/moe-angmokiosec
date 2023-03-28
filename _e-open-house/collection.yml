@@ -1,0 +1,7 @@
+collections:
+  e-open-house:
+    output: true
+    order:
+      - e Open House.md
+      - Corporate Video.md
+      - Q & A.md
