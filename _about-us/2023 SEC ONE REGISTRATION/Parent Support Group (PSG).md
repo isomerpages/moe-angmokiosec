@@ -8,4 +8,6 @@ The AMKSS Parent Support Group (PSG) is set up to assist in the transition of bo
 
 A copy of the PSG Membership Form can be obtained from the following website: [https://angmokiosec.moe.edu.sg/partnership/parent-support-group](https://angmokiosec.moe.edu.sg/partnership/parent-support-group)
 
+<a href="/files/S1OC%202023%20Information%20Kit.pdf"><font color="#62C183">https://angmokiosec.moe.edu.sg/partnership/parent-support-group</font></a>
+
 You can also sign up to join the PSG by emailing to the following email address:  [AMKSSPSG@gmail.com](mailto:AMKSSPSG@gmail.com)
