@@ -14,7 +14,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/2023%20S1%20Appeal%20admission%20form.png" style="width:40%;">  
+<body><img src="/images/2023%20S1%20Appeal%20admission%20form.png" style="width:35%;">  
   
 </body>  
 <br>
