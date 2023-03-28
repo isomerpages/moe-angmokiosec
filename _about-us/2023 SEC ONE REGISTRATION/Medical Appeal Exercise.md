@@ -13,5 +13,5 @@ Transfer of school under the medical appeal exercise would only be considered fo
 
 Parents can either 
 
-* email their applications with supporting documents to [amkss@moe.edu.sg](mailto:amkss@moe.edu.sg) **<u>by 22nd Dec (Thu) 12pm</u>**  or 
+* email their applications with supporting documents to <a href="mailto:amkss@moe.edu.sg"><b><font color="#62C183">amkss@moe.edu.sg</font></b></a> **<u>by 22nd Dec (Thu) 12pm</u>**  or 
 * submit their applications with supporting documents personally to the General Office **<u>by 22nd Dec(Thu) 12pm</u>**
