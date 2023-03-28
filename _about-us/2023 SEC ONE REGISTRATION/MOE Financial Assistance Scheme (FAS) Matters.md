@@ -17,5 +17,4 @@ Please refer to our school website for a copy of the FAS application form and br
 Attached is the MOE FAS Application Form
 
   
-
-**[MOE FAS Application Form](/files/MOE%20FAS%20Application%20Form.pdf)**
+<a href="/files/MOE%20FAS%20Application%20Form.pdf"><b><font color="#62C183">MOE FAS Application Form</font></b></a>
