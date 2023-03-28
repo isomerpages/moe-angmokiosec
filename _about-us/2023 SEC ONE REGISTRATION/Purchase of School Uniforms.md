@@ -146,6 +146,6 @@ Singapore 588177 <br>
 Contact: 64665697/ 90295135 <br>
 Mon – Sat : 12.00 noon to 7.00 pm <br>
 (Closed on Sunday and Public Holidays.) <br>
-Email: [finestfashioncentre@gmail.com](mailto:finestfashioncentre@gmail.com) <br>
-Website:  [www.finestuniform.com/collections/ang-mo-kio-secondary-school](http://www.finestuniform.com/collections/ang-mo-kio-secondary-school) <br>
+Email: <a href="mailto:finestfashioncentre@gmail.com"><font color="#62C183">finestfashioncentre@gmail.com</font></a> <br>
+Website: <a href="www.finestuniform.com/collections/ang-mo-kio-secondary-school"><font color="#62C183">www.finestuniform.com/collections/ang-mo-kio-secondary-school</font></a><br>
 Password: AMKSS22
