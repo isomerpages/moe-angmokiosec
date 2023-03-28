@@ -14,10 +14,10 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-495d"><img src="/images/Aesthetics.png" alt="Aesthetics" style="width:320px"><br><a href="/curriculum/aesthetics"><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><b><span style="text-decoration:none;color:#000000;background-color:transparent">Aesthetics</span></b></a><br></th>
+    <th class="tg-495d"><img src="/images/Aesthetics.png" alt="Aesthetics" style="width:335px"><br><a href="/curriculum/aesthetics"><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><b><span style="text-decoration:none;color:#000000;background-color:transparent">Aesthetics</span></b></a><br></th>
     <th class="tg-495d"><img src="/images/Character%20and%20Citizenship%20Education%20n%20Pupil%20Well-Being.png" alt="Character and Citizenship Education n Pupil Well-Being" style="width:200px"><br><a href="/curriculum/character-and-citizenship-education-n-pupil-well-being"><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><b><span style="text-decoration:none;color:#000000;background-color:transparent">Character and Citizenship Education n Pupil Well-Being</span></b></a><br></th>
     <th class="tg-495d"><img src="/images/Design%20n%20Technology_Nutrition%20and%20Food%20Science.png" alt="Design & Technology / Nutrition & Food Science" style="width:200px"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/curriculum/design-n-technology-nutrition-and-food-science"><b><span style="text-decoration:none;color:#000000;background-color:transparent">Design &amp; Technology / Nutrition &amp; Food Science</span></b></a><br></th>
-    <th class="tg-495d"><img src="/images/Discipline.png" alt="Discipline" style="width:320px"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/curriculum/discipline"><b><span style="text-decoration:none;color:#000000;background-color:transparent">Discipline</span></b></a><br></th>
+    <th class="tg-495d"><img src="/images/Discipline.png" alt="Discipline" style="width:335px"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/curriculum/discipline"><b><span style="text-decoration:none;color:#000000;background-color:transparent">Discipline</span></b></a><br></th>
   </tr>
 </thead>
 <tbody>
