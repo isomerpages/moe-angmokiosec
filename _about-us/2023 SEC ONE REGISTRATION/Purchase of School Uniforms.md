@@ -8,8 +8,7 @@ Students are strongly encouraged to purchase their school uniforms online and se
 
   
 
-For online purchase, click [https://finestuniform.com/collections/ang-mo-kio-secondary-school](https://finestuniform.com/collections/ang-mo-kio-secondary-school)
-<br>(School passcode: AMKSS22) 
+For online purchase, click <a href="https://finestuniform.com/collections/ang-mo-kio-secondary-school"><font color="#62C183">https://finestuniform.com/collections/ang-mo-kio-secondary-school</font></a><br>(School passcode: AMKSS22) 
 
   
 
