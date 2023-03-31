@@ -8,7 +8,7 @@ description: ""
 [The school uses Parents Gateway as a key mode of communication with parents/guardians. Click here for information on how to download and be registered on the Parents Gateway app.](/files/PG%20Step%20by%20Step%20Guide.pdf)
 
 ##### **2023 MOE FAS Application**
-[Please click here for information pertaining to 2023 MOE FAS Application]
+[Please click here for information pertaining to 2023 MOE FAS Application](https://staging.d2qcf83lbf7y8u.amplifyapp.com/about-us/moe-fas/)
 
 ##### **2023  SEMESTER -1 TIMETABLE**   
 
@@ -21,4 +21,3 @@ description: ""
 ##### **Home Based Learning (HBL)**
 
 [Please click here for information pertaining to FHBL's School-Based Helpline](/files/Ang%20Mo%20Kio%20Secondary%20School%20-%20HBL.pdf)
-
