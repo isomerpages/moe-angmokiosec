@@ -12,7 +12,7 @@ description: ""
 * [CCA Briefing 2023 (LEAPS 2.0)](/files/ccabriefing2023.pdf)
 * [PLD Initiative Parents Briefing 2023](/files/2023pld.pdf)
 * [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
-* [Parent Support Group (PSG)]
+* [Parent Support Group (PSG)](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/parent-support-group/)
 * [MOE Sexuality Education in Schools]
 * [School Achievements]
 * [Mission, Vision & School Values]
