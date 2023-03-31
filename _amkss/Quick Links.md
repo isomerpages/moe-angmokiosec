@@ -11,7 +11,7 @@ description: ""
 * [S1OC 2023 Parent Engagement (Principal's Welcome Address)](/files/sec1oc2023.pdf)
 * [CCA Briefing 2023 (LEAPS 2.0)](/files/ccabriefing2023.pdf)
 * [PLD Initiative Parents Briefing 2023](/files/2023pld.pdf)
-* [Application Form for LOA]
+* [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
 * [Parent Support Group (PSG)]
 * [MOE Sexuality Education in Schools]
 * [School Achievements]
