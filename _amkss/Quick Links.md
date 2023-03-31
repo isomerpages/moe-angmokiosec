@@ -8,9 +8,9 @@ description: ""
 * [Student Calendar 2023](/files/studentcalender.pdf)
 * [Classroom Allocation 2023](/files/2023classroomallocation.pdf)
 * [CCA Training Schedule 2023](/files/ccatrainingschedule2023.pdf)
-* [S1OC 2023 Parent Engagement (Principal's Welcome Address)]
-* [CCA Briefing 2023 (LEAPS 2.0)]
-* [PLD Initiative Parents Briefing 2023]
+* [S1OC 2023 Parent Engagement (Principal's Welcome Address)](/files/sec1oc2023.pdf)
+* [CCA Briefing 2023 (LEAPS 2.0)](/files/ccabriefing2023.pdf)
+* [PLD Initiative Parents Briefing 2023](/files/2023pld.pdf)
 * [Application Form for LOA]
 * [Parent Support Group (PSG)]
 * [MOE Sexuality Education in Schools]
