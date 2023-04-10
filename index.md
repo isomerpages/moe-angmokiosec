@@ -2,7 +2,7 @@
 layout: homepage
 title: Ang Mo Kio Secondary School
 description: Ang Mo Kio Secondary School
-image: /images/schoolcrest.png
+image: /images/Ang-Mo-Kio-Secondary-School.png
 permalink: /
 notification: ""
 sections:
@@ -16,5 +16,3 @@ sections:
           description: ""
           url: /amkss/quick-links
 ---
-
-
