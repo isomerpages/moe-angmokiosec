@@ -20,9 +20,4 @@ contacts:
       - email: amkss@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: .
 ---
