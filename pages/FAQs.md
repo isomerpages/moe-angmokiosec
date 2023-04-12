@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /permalink/
+permalink: /faqs/
 description: ""
 ---
 Page is under construction.
