@@ -4,9 +4,8 @@ permalink: /co-curriculum/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-***upload video to YouTube and embed here(?)***
+![](/images/choir%202023-1.jpg)
 
-![](/images/Choir%205.jpg)
 
 <br>
 <style type="text/css">
@@ -30,14 +29,12 @@ third_nav_title: Performing Arts
     <td class="tg-bapb">Ms Daphne Chang Wei Shin<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Ms Jananee D/O Yegambaram<br></td>
+    <td class="tg-wpup">Miss Edna Pan<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Miss Edna Pan<br></td>
+    <td class="tg-bapb">Mdm Sun Ying<br></td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mdm Sun Ying</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
@@ -130,7 +127,7 @@ third_nav_title: Performing Arts
 
 ![Choir](/images/Choir%202.jpeg)
 
-Ang Mo Kio Secondary School Chorale consists of a four-part choir that is led by our new conductor, Mr Lim Tiong Kiang. The choir’s motto is ‘Semper Superne Nitens’ which translates to ‘Always Striving Upwards’. It borrows part of the school’s motto and captures the choir’s resilience to constantly work towards a better version of itself. Choristers persevere through challenges to come together and share the joy of singing.
+Ang Mo Kio Secondary School Chorale consists of a four-part choir that is led by our new conductor, Ms Cherie Chai. The choir’s motto is ‘Semper Superne Nitens’ which translates to ‘Always Striving Upwards’. It borrows part of the school’s motto and captures the choir’s resilience to constantly work towards a better version of itself. Choristers persevere through challenges to come together and share the joy of singing.
 
   
 
@@ -156,9 +153,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir%203.jpeg" alt="Choir" style="width:75%;">  
+<img src="/images/Choir%203.jpeg" alt="Choir" style="width:75%;">  
   
-</body>
+
 <br>
 <style>  
 img {  
@@ -167,6 +164,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir%204.jpeg" alt="Choir" style="width:75%;">  
-  
-</body>
+<img src="/images/Choir%204.jpeg" alt="Choir" style="width:75%;">
