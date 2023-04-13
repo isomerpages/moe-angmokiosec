@@ -110,7 +110,7 @@ third_nav_title: Sports and Games
   </tr>
   <tr>
     <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Soh Wei Lin (44)</span></td>
-    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">ong Chin Foong (43)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Ong Chin Foong (43)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Tan Jia Min (42)<br></td>
@@ -118,7 +118,7 @@ third_nav_title: Sports and Games
   </tr>
   <tr>
     <td class="tg-wpup"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (31)</span></td>
-    <td class="tg-wpup"><b></u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (31)</span></td>
+    <td class="tg-wpup"><b>Sec 3 Captain</b><br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (31)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Hebe Tan Yu Xuan (31)</span></td>
