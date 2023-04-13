@@ -24,7 +24,7 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Tan Wee Hong</span><br><span style="font-weight:400;color:#004D2E">Mr Tan Wee Hong</span><br><span style="font-weight:400;color:#004D2E">Miss Tan Chui Ling</span><br><span style="font-weight:400;color:#004D2E">Madam Komathi Tharumar</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Tan Wee Hong</span><br><span style="font-weight:400;color:#004D2E"></span><span style="font-weight:400;color:#004D2E">Miss Tan Chui Ling</span><br><span style="font-weight:400;color:#004D2E">Madam Komathi Tharumar</span></td>
   </tr>
 </tbody>
 </table>
