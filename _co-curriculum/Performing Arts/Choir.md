@@ -30,14 +30,12 @@ third_nav_title: Performing Arts
     <td class="tg-bapb">Ms Daphne Chang Wei Shin<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Ms Jananee D/O Yegambaram<br></td>
+    <td class="tg-wpup">Miss Edna Pan<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Miss Edna Pan<br></td>
+    <td class="tg-bapb">Mdm Sun Ying<br></td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mdm Sun Ying</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
@@ -156,9 +154,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir%203.jpeg" alt="Choir" style="width:75%;">  
+<img src="/images/Choir%203.jpeg" alt="Choir" style="width:75%;">  
   
-</body>
+
 <br>
 <style>  
 img {  
@@ -167,6 +165,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Choir%204.jpeg" alt="Choir" style="width:75%;">  
-  
-</body>
+<img src="/images/Choir%204.jpeg" alt="Choir" style="width:75%;">
