@@ -4,8 +4,6 @@ permalink: /co-curriculum/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 ![](/images/choir%202023-1.jpg)
 
 
