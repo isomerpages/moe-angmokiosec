@@ -25,30 +25,25 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Ms Tan Jieying<br></td>
+    <td class="tg-bapb">Mdm Rosemalina Abdul Ghan (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mdm Rosemalina Abdul Ghani<br></td>
+    <td class="tg-wpup">Mr Lui Jian Long (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Lee Bing Qiang Eric<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mdm G Ananthalakshmi<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Ms Siti Nuruljannah<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mr Ng Khiam Siong<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Ms Amiliyah<br></td>
+    <td class="tg-bapb">Miss Tan Jieying<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">Mr Bryan Yam<br></td>
   </tr>
-</tbody>
+  <tr>
+    <td class="tg-bapb">Mr Ng Khiam Siong<br></td>
+  </tr>
+  <tr>
+    <td class="tg-wpup">Ms Amiliyah<br></td>
+  </tr>
+  <tr>    
+</tr></tbody>
 </table>
 <br>
 <style type="text/css">
