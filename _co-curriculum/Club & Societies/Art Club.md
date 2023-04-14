@@ -2,7 +2,7 @@
 title: Art Club
 permalink: /co-curriculum/clubs-n-societies/art-club/
 description: ""
-third_nav_title: Club & Societies
+third_nav_title: Club &amp; Societies
 ---
 ![](/images/Art%20Club%202.jpg)
 
@@ -24,7 +24,7 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">Mdm Tan Jimei Melinda</td>
+    <td class="tg-ymba">Mdm Tan Jimei Melinda (IC)</td>
   </tr>
 </tbody>
 </table>

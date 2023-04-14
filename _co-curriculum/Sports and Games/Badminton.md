@@ -25,30 +25,25 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Ms Tan Jieying<br></td>
+    <td class="tg-bapb">Mdm Rosemalina Abdul Ghan (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mdm Rosemalina Abdul Ghani<br></td>
+    <td class="tg-wpup">Mr Lui Jian Long (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Lee Bing Qiang Eric<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mdm G Ananthalakshmi<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Ms Siti Nuruljannah<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mr Ng Khiam Siong<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Ms Amiliyah<br></td>
+    <td class="tg-bapb">Miss Tan Jieying<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">Mr Bryan Yam<br></td>
   </tr>
-</tbody>
+  <tr>
+    <td class="tg-bapb">Mr Ng Khiam Siong<br></td>
+  </tr>
+  <tr>
+    <td class="tg-wpup">Ms Amiliyah<br></td>
+  </tr>
+  <tr>    
+</tr></tbody>
 </table>
 <br>
 <style type="text/css">
@@ -110,7 +105,7 @@ third_nav_title: Sports and Games
   </tr>
   <tr>
     <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Soh Wei Lin (44)</span></td>
-    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">ong Chin Foong (43)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Ong Chin Foong (43)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Tan Jia Min (42)<br></td>
@@ -118,7 +113,7 @@ third_nav_title: Sports and Games
   </tr>
   <tr>
     <td class="tg-wpup"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (31)</span></td>
-    <td class="tg-wpup"><b></u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (31)</span></td>
+    <td class="tg-wpup"><b>Sec 3 Captain</b><br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (31)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Hebe Tan Yu Xuan (31)</span></td>

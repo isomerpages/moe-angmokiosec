@@ -25,17 +25,14 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Ms Linda Soh<br></td>
+    <td class="tg-bapb">Ms Linda Soh (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mrs Jessica Knapp<br></td>
+    <td class="tg-wpup">Mrs Jessica Knapp (2IC)<br></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mrs Joselyn Luei<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Miss Rachael Wu Caifen</td>
-  </tr>
+  </tr>  
 </tbody>
 </table>
 <br>

@@ -2,7 +2,7 @@
 title: AV Club and Media Club
 permalink: /co-curriculum/clubs-n-societies/av-club-and-media-club/
 description: ""
-third_nav_title: Club & Societies
+third_nav_title: Club &amp; Societies
 ---
 ![AV Club and Media Club](/images/AV%204.jpg)
 
@@ -25,13 +25,13 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Koh Kian Neng Wilson<br></td>
+    <td class="tg-bapb">Mr Koh Kian Neng Wilson (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mdm Kwa Leng Leng<br></td>
+    <td class="tg-wpup">Mdm Kwa Leng Leng (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms Siti Radziah<br></td>
+    <td class="tg-bapb">Mdm Siti Radziah<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">Miss Audrey Ferng<br></td>

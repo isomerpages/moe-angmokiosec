@@ -25,10 +25,10 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Robert Ho</td>
+    <td class="tg-bapb">Mr Robert Ho (IC)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mrs Rajan Bhattarai</td>
+    <td class="tg-wpup">Mrs Bhattarai (2IC)</td>
   </tr>
 </tbody>
 </table>

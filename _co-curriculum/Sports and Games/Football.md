@@ -25,16 +25,16 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Mohamed Faizal</td>
+    <td class="tg-bapb">Mr Mohamed Faizal (IC)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Lim Wui Meng</td>
+    <td class="tg-wpup">Mr Lim Wui Meng (2IC)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Mushthafiah</td>
+    <td class="tg-bapb">Ms NurMushthafiah</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Mohamed Yasin Abdul Latif</td>
+    <td class="tg-wpup">Mr Mohamed Yasin</td>
   </tr>
 </tbody>
 </table>
