@@ -25,13 +25,13 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Marcus Tan<br></td>
+    <td class="tg-bapb">Mr Soh Kee Tong (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Liu Zhen Bo<br></td>
+    <td class="tg-wpup">Mr Ng Jun Lin (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms Zoe Chai</td>
+    <td class="tg-bapb">Mr Alvin Yap (Advisor)</td>
   </tr>
 </tbody>
 </table>
