@@ -13,22 +13,31 @@ third_nav_title: Performing Arts
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mwif{background-color:#FFF;border-color:inherit;color:#004D2E;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-t70x{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:top}
+.tg .tg-avji{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-bapb{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:middle}
+.tg .tg-wpup{background-color:#FFF;color:#004D2E;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Teachers-in-charge<br></th>
+    <th class="tg-avji">Teachers-in-charge<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Tan Wee Hong (IC)</span><br><span style="font-weight:400;color:#004D2E"></span><span style="font-weight:400;color:#004D2E">Miss Tan Chui Ling (2IC)</span><br><span style="font-weight:400;color:#004D2E">Madam Komathi</span></td>
+    <td class="tg-bapb">Mr Tan Wee Hong (IC)<br></td>
   </tr>
+  <tr>
+    <td class="tg-wpup">Miss Tan Chui Ling (2IC)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-bapb">Madam Komathi<br></td>
+  </tr>  
 </tbody>
 </table>
-<br>
+
+<table class="tg">
+<tbody>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -38,7 +47,7 @@ third_nav_title: Performing Arts
 .tg .tg-mwif{background-color:#FFF;border-color:inherit;color:#004D2E;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-bapb{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+</tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-mwif">Instructors<br></th>
