@@ -52,10 +52,11 @@ third_nav_title: Performing Arts
 </tbody></table><table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Instructors<br></th>
+    <th class="tg-avji">Instructors<br></th>
   </tr>
 </thead>
 <tbody>
+</tbody><tbody>
   <tr>
     <td class="tg-bapb">Ms Nina Chabra</td>
   </tr>
