@@ -26,22 +26,22 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Ms Callie Goh<br></td>
+    <td class="tg-bapb">Ms Callie Goh (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Lui Jian Long<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Miss Zhang Rui Fang<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mdm Zhang Lixin<br></td>
+    <td class="tg-wpup">Miss Zhang Rui Fang<br></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mrs Koh Hui Teng<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Sebastian Wang Wei Quan</td>
+    <td class="tg-wpup">Mr Sebastian Wang<br></td>
+  </tr>
+  <tr>
+    <td class="tg-bapb">Ms Zhang Lixin<br></td>
+  </tr>
+  <tr>
+    <td class="tg-wpup">Ms Shalynn Sasha Chua</td>
   </tr>
 </tbody>
 </table>
