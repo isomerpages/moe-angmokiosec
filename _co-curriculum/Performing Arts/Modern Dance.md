@@ -25,7 +25,7 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mrs Elina Hairul</td>
+    <td class="tg-bapb">Mrs Elina Hairul (IC)</td>
   </tr>
   <tr>
     <td class="tg-wpup">Mrs Clara Tan</td>
@@ -128,7 +128,7 @@ third_nav_title: Performing Arts
 
 ![](/images/farewell%20broadway.jpg)
 
-Modern Dance Club strives to nurture and develop versatile performers. Through dance, students are empowered to express their emotions and personal stories through movement and rhythm. Students who undergo the dance training programme will be exposed to four key learning experiences: _Presenting, Responding, Appreciating and Creating_. Besides showcasing their skills to a variety of audiences, they will also be trained to think critically about artistic works, relate aesthetically, affectively and cognitively to the dance art form and the contexts of artistic works as well as explore and experiment with the art form.
+Modern Dance Club strives to nurture and develop versatile performers. Through dance, students are empowered to express their emotions and personal stories through movement and rhythm. Students who undergo the dance training programme will be exposed to four key learning experiences:&nbsp;_Presenting, Responding, Appreciating and Creating_. Besides showcasing their skills to a variety of audiences, they will also be trained to think critically about artistic works, relate aesthetically, affectively and cognitively to the dance art form and the contexts of artistic works as well as explore and experiment with the art form.
 
   
 
