@@ -27,20 +27,17 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Ms Cheryl Ang</td>
+    <td class="tg-bapb">Ms Cheryl Ang (IC)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mrs Seah Kwan Chaet</td>
+    <td class="tg-wpup">Ms Ong Lay Hoon</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms Ong Lay Hoon</td>
+    <td class="tg-bapb">Mrs Seah Kwan Chaet</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Ms Evelyn Yong</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Mr Ian Mui Jun Xian</td>
-  </tr>
+    <td class="tg-wpup">Mr Ian Mui Jun Xian</td>
+  </tr>  
 </tbody>
 </table>
 <br>
