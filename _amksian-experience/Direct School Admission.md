@@ -186,7 +186,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Badmintonn.jpg" alt="Badminton" style="width:80%;">
+<img src="/images/dsa_football.jpg" alt="Football" style="width:90%;">
 
         
 **Basketball**
@@ -201,7 +201,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Badmintonn.jpg" alt="Badminton" style="width:80%;">
+<img src="/images/dsa_basketball.jpg" alt="Basketball" style="width:100%;">
    
 
 
