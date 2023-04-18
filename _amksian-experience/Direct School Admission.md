@@ -166,8 +166,7 @@ img {
 <img src="/images/Volleyball.jpg" alt="Volleyball" style="width:80%;">  
 
 <br>
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:10.0pt; margin-left:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri; mso-ansi-language:EN-GB;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-fareast-font-family:Calibri; mso-hansi-font-family:Calibri; mso-bidi-font-family:Calibri; mso-ansi-language:EN-GB;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:10.0pt; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
+       
 **Football**
 
 Football, “The Beautiful Game”, is watched and enjoyed by millions all over the world. It is no different in Ang Mo Kio Secondary School. AMKSS Football has come a long way and made a name for herself by nurturing several players who have gone on to play at the highest level in Singapore and overseas.&nbsp; Singapore National Team Football players such as Shakir Hamzah and Zulfahmi Arifin are players who started their budding football journey in AMKSS. Both players were part of Young Lions squad in 2009 and 2010 respectively, progressing to the National Team which they are still a part of. Both have also gone on to play in foreign leagues in the region.
@@ -210,4 +209,4 @@ _“The selection criteria and process for the talent areas will be updated from
 
 _For more information on DSA-Sec,_
 
-_please refer to the MOE website at https://www.moe.gov.sg/dsa-sec”_
+_please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)_
