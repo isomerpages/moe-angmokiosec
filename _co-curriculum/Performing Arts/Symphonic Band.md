@@ -59,7 +59,7 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Sebastian Koh</td>
+    <td class="tg-bapb">Mr Daniel Kiang</td>
   </tr>
   <tr>
     <td class="tg-wpup">Mr Desmond Chow</td>
