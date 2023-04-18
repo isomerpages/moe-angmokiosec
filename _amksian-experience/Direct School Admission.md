@@ -188,41 +188,26 @@ img {
 </style>  
 <img src="/images/Badmintonn.jpg" alt="Badminton" style="width:80%;">
 
+        
+**Basketball**
+
+Basketball was reinstated as a full CCA in 2016. Having been a second CCA for many years, the school decided to start developing the boys from Secondary 1 due to the overwhelming interest shown by our students. The CCA stresses the importance of sportsmanship, fair play, respect, and excellence to enhance our athletes’ ability to perform at a higher level.&nbsp; Our team trains up to three times a week to help students develop the necessary skill sets, physical fitness and more importantly, mental resilience to face all possible challenges they will face both on and off the court.
+
+The team is currently coached by Mr. Nai Hai Kiat who has a wealth of experience in coaching schools as well as clubs in the local basketball league. Under his stewardship, we hope to take our boys to the next level in terms of their skills as well as game play. We also hope to develop our boys to challenge themselves with more established schools in the basketball arena. Our basketball programme aims to develop and sustain our students’ skills, passion, and interest in the sport. As we continue to strive for excellence in competitions, we are driven to develop leaders and inculcate values of discipline and resilience in all our students.
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/Badmintonn.jpg" alt="Badminton" style="width:80%;">
    
 
-#### Application Procedure
 
-1.  Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp;**_5 May to 1 Jun 2022_**. For more details, please refer to MOE website –&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).
-2.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-3.  Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
-4.  The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by&nbsp;**<u>12 August 2022</u>**.
-5.  Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from&nbsp;**15 July 2022**&nbsp;to&nbsp;**<u>26 August 2022</u>**.
-6.  The school&nbsp;**<u>will not</u>**&nbsp;inform applicants who&nbsp;**are not shortlisted**&nbsp;that they are unsuccessful in their application.
-7.  Shortlisted applicants will be notified of their application status by&nbsp;**12 Sept 2022**.
-8.  Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
+      
+_“The selection criteria and process for the talent areas will be updated from early-May._
 
-For further clarifications, you may contact any of the following staff:
+_For more information on DSA-Sec,_
 
-  
-
-**<u>For Sports matters</u>**
-
-Mr. K Thanaraj<br><a href="mailto:thanaraj_kalliya_perumal@moe.edu.sg"><font color="#000000">thanaraj_kalliya_perumal@moe.edu.sg</font></a><br>
-Tel: 64548605 (Ext 811)
-
-  
-
-**<u>For Performing Arts matters</u>**
-
-  
-
-Ms Cheryl Ang <br><a href="mailto:cheryl_ang@moe.edu.sg"><font color="#000000">cheryl_ang@moe.edu.sg</font></a><br>
-Tel: 64548605 (Ext 863)
-
-  
-
-**<u>For Admin matters</u>**
-
-  
-Ms Leona Cheong <br><a href="mailto:Leona_CHEONG@schools.gov.sg"><font color="#000000">Leona_CHEONG@schools.gov.sg</font></a><br>
-Tel: 64548605 (Ext 803)
+_please refer to the MOE website at https://www.moe.gov.sg/dsa-sec”_
