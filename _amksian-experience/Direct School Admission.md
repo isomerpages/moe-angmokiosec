@@ -9,7 +9,7 @@ Direct School Admission (DSA) is an MOE initiative designed to give selected sch
 
   
 
-In April 2008, MOE approved the school’s application for niche development in the area of Symphonic Band. Since then, Ang Mo Kio Secondary School (AMKSS) has been offering discretionary admission to talented band students who displayed the passion for band music. With the introduction of the Learning for Life Programme (LLP) in Arts Education, AMKSS has offered DSA places for a wider range of performing arts from 2017. From 2019, we have broadened our DSA offerings to include the area of Sports as well. Up to 20% of the Secondary One vacancies will be offered for DSA places for&nbsp;**Concert Band, Choir, Modern Dance, Malay Dance, English Drama, Badminton and Volleyball**.
+In April 2008, MOE approved the school’s application for niche development in the area of Symphonic Band. Since then, Ang Mo Kio Secondary School (AMKSS) has been offering discretionary admission to talented band students who displayed the passion for band music. With the introduction of the Learning for Life Programme (LLP) in Arts Education, AMKSS has offered DSA places for a wider range of performing arts from 2017. From 2019, we have broadened our DSA offerings to include the area of Sports as well. Up to 20% of the Secondary One vacancies will be offered for DSA places for&nbsp;**Concert Band, Choir, Modern Dance, Malay Dance, English Drama, Badminton, Basketball, Football and Volleyball**.
 
   
 
