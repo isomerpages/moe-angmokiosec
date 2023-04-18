@@ -17,7 +17,7 @@ In line with the school's belief to provide a balanced and holistic education, t
 
 #### Concert Band
 
-Ang Mo Kio Secondary School Concert Band was first founded in the 1980s as a military band. It was converted to a symphonic band in 2001 and has a current strength of over 100 members. The Band has achieved Gold Awards and Certificates of Distinction for consecutive SYF Arts Presentation since 2005 and is currently led by conductors Mr Sebastian Koh and Mr Desmond Chow.
+Ang Mo Kio Secondary School Concert Band was first founded in the 1980s as a military band. It was converted to a symphonic band in 2001 and has a current strength of over 100 members. The Band has achieved Gold Awards and Certificates of Distinction for consecutive SYF Arts Presentation since 2005 and is currently led by conductors Mr Daniel Kiang and Mr Desmond Chow.
 
   
 
