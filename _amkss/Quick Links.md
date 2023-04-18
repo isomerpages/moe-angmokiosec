@@ -16,5 +16,5 @@ description: ""
 * [MOE Sexuality Education in Schools](https://staging.d2qcf83lbf7y8u.amplifyapp.com/curriculum/character-and-citizenship-education-n-pupil-well-being/sexuality-education/)
 * [School Achievements](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/alumni/)
 * [Mission, Vision & School Values](https://staging.d2qcf83lbf7y8u.amplifyapp.com/about-us/our-vision-mission-and-values/)
-* [Direct School Admission 2022](https://staging.d2qcf83lbf7y8u.amplifyapp.com/amksian-experience/direct-school-admission/)
+* [Direct School Admission](https://staging.d2qcf83lbf7y8u.amplifyapp.com/amksian-experience/direct-school-admission/)
 * [Open House 2022](https://angmokiosec-moe-edu-sg-admin.cwp.sg/open-house)
