@@ -185,7 +185,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/dsa_football.jpg" alt="Football" style="width:90%;">
+<img src="/images/dsa_football.jpg" alt="Football" style="width:80%;">
 
         
 #### Basketball (Boys)
