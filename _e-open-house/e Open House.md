@@ -10,9 +10,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Tagline%20photo.png" alt="e Open House" style="width:70%;"> 
-	<img src="/images/student.png" alt="e Open House" style="width:70%;">
-  
+
+	
+  <img src="/images/amkss 2022 school cover poster.png" alt="e Open House" style="width:90%;">
 
 
 <br>
