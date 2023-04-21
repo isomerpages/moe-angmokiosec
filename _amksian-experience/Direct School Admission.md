@@ -3,7 +3,7 @@ title: Direct School Admission
 permalink: /amksian-experience/direct-school-admission/
 description: ""
 ---
-#### Ang Mo Kio Secondary School Direct School Admission Exercise 2024
+#### Ang Mo Kio Secondary School Direct School Admission 2023
 
 Direct School Admission (DSA) is an MOE initiative designed to give selected schools greater flexibility in student admission, so that a more diverse range of student achievements and talents can be recognised.
 
@@ -167,7 +167,7 @@ img {
 
 <br>
        
-#### Football
+#### Football (Boys)
 
 Football, “The Beautiful Game”, is watched and enjoyed by millions all over the world. It is no different in Ang Mo Kio Secondary School. AMKSS Football has come a long way and made a name for herself by nurturing several players who have gone on to play at the highest level in Singapore and overseas.&nbsp; Singapore National Team Football players such as Shakir Hamzah and Zulfahmi Arifin are players who started their budding football journey in AMKSS. Both players were part of Young Lions squad in 2009 and 2010 respectively, progressing to the National Team which they are still a part of. Both have also gone on to play in foreign leagues in the region.
 
@@ -188,7 +188,7 @@ img {
 <img src="/images/dsa_football.jpg" alt="Football" style="width:90%;">
 
         
-#### Basketball
+#### Basketball (Boys)
 
 Basketball was reinstated as a full CCA in 2016. Having been a second CCA for many years, the school decided to start developing the boys from Secondary 1 due to the overwhelming interest shown by our students. The CCA stresses the importance of sportsmanship, fair play, respect, and excellence to enhance our athletes’ ability to perform at a higher level.&nbsp; Our team trains up to three times a week to help students develop the necessary skill sets, physical fitness and more importantly, mental resilience to face all possible challenges they will face both on and off the court.
 
