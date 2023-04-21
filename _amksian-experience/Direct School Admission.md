@@ -188,7 +188,7 @@ img {
 <img src="/images/dsa_football.jpg" alt="Football" style="width:90%;">
 
         
-#### Basketball
+#### Basketball (Boys)
 
 Basketball was reinstated as a full CCA in 2016. Having been a second CCA for many years, the school decided to start developing the boys from Secondary 1 due to the overwhelming interest shown by our students. The CCA stresses the importance of sportsmanship, fair play, respect, and excellence to enhance our athletes’ ability to perform at a higher level.&nbsp; Our team trains up to three times a week to help students develop the necessary skill sets, physical fitness and more importantly, mental resilience to face all possible challenges they will face both on and off the court.
 
