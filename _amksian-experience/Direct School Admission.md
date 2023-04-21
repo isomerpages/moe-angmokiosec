@@ -167,7 +167,7 @@ img {
 
 <br>
        
-#### Football
+#### Football (Boys)
 
 Football, “The Beautiful Game”, is watched and enjoyed by millions all over the world. It is no different in Ang Mo Kio Secondary School. AMKSS Football has come a long way and made a name for herself by nurturing several players who have gone on to play at the highest level in Singapore and overseas.&nbsp; Singapore National Team Football players such as Shakir Hamzah and Zulfahmi Arifin are players who started their budding football journey in AMKSS. Both players were part of Young Lions squad in 2009 and 2010 respectively, progressing to the National Team which they are still a part of. Both have also gone on to play in foreign leagues in the region.
 
