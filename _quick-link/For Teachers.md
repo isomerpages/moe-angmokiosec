@@ -40,6 +40,22 @@ description: ""
   </tr><tr>
     <td class="tg-mwbt">SC Mobile<br><span style="font-weight:400;color:#004D2E">https://scmobile.moe.edu.sg/</span></td>
   </tr><tr>
-    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
+    <td class="tg-mwbt">School cockpit (Admin and Reports)<br><span style="font-weight:400;color:#004D2E">https://schoolcockpit.moe.gov.sg/</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">School cockpit (Result Entry)<br><span style="font-weight:400;color:#004D2E">https://schoolcockpit.moe.gov.sg/academic</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">Student Learning Space (SLS)<br><span style="font-weight:400;color:#004D2E">https://vle.learning.moe.edu.sg/login</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">
+SSOE 2 Service Portal<br><span style="font-weight:400;color:#004D2E">https://ssoe2.moe.edu.sg/</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">MOE ICON Email<br><span style="font-weight:400;color:#004D2E">https://workspace.google.com/dashboard</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">Form SG<br><span style="font-weight:400;color:#004D2E">https://form.gov.sg/</span></td>
+  </tr>
+	<tr>
+    <td class="tg-mwbt">Go.gov.sg short links<br><span style="font-weight:400;color:#004D2E">https://go.gov.sg</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">All Ears Forms Builder<br><span style="font-weight:400;color:#004D2E">Forms (moe.edu.sg)</span></td>
   </tr>
   <tr></tr></tbody></table>
