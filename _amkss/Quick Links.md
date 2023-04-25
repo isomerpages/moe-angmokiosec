@@ -17,4 +17,4 @@ description: ""
 * [School Achievements](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/alumni/)
 * [Mission, Vision & School Values](https://staging.d2qcf83lbf7y8u.amplifyapp.com/about-us/our-vision-mission-and-values/)
 * [Direct School Admission](https://staging.d2qcf83lbf7y8u.amplifyapp.com/amksian-experience/direct-school-admission/)
-* [Open House 2022](https://angmokiosec-moe-edu-sg-admin.cwp.sg/open-house)
+* [Open House ](https://www.angmokiosec.moe.edu.sg/e-open-house/)

@@ -125,7 +125,9 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <th class="tg-74pa"><span style="font-weight:700">Achievements of the CCA</span></th>
-  </tr>
+  </tr><tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 - Symphonic Band (Distinction)</td>
+	</tr>
 </thead>
 <tbody>
   <tr>
