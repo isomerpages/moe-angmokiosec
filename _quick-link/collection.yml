@@ -1,7 +1,0 @@
-collections:
-  quick-link:
-    output: true
-    order:
-      - For Students/.keep
-      - For Teachers/.keep
-      - For Parents/.keep
