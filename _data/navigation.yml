@@ -13,4 +13,11 @@ links:
   - title: Open House
     url: /e-open-house/
   - title: Quick Link
-    resource_room: true
+    url: /permalink
+    sublinks:
+      - title: For Students
+        url: /permalink
+      - title: For Teachers
+        url: /permalink
+      - title: For Parents
+        url: /permalink
