@@ -21,7 +21,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
+    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">(http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)</span></td>
   </tr>
 	<tr>
     <td class="tg-mwbt">HRP<br><span style="font-weight:400;color:#004D2E">https://www.hrp.gov.sg</span></td>
