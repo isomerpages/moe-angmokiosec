@@ -26,15 +26,19 @@ description: ""
 	<tr>
     <td class="tg-mwbt">HRP<br><span style="font-weight:400;color:#004D2E">https://www.hrp.gov.sg</span></td>
   </tr><tr>
+    <td class="tg-mwbt">MOE Intranet Applications<br><span style="font-weight:400;color:#004D2E">https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">OPAL 2.0<br><span style="font-weight:400;color:#004D2E">https://idm.opal2.moe.edu.sg/</span></td>
+  </tr><tr>
     <td class="tg-mwbt">iEXAMS<br><span style="font-weight:400;color:#004D2E">https://iexams.seab.gov.sg/</span></td>
   </tr><tr>
     <td class="tg-mwbt">MIMS Password Reset<br><span style="font-weight:400;color:#004D2E">https://idp.mims.moe.gov.sg/nidp/saml2/sso</span></td>
   </tr><tr>
-    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
+    <td class="tg-mwbt">Parents Gateway<br><span style="font-weight:400;color:#004D2E">https://pg.moe.edu.sg/</span></td>
   </tr><tr>
-    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
+    <td class="tg-mwbt">Resource Booking System<br><span style="font-weight:400;color:#004D2E">https://rbs.avero-tech.com/login.html</span></td>
   </tr><tr>
-    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
+    <td class="tg-mwbt">SC Mobile<br><span style="font-weight:400;color:#004D2E">https://scmobile.moe.edu.sg/</span></td>
   </tr><tr>
     <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
   </tr>
