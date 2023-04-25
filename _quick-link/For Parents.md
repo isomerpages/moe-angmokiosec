@@ -29,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/apple pg.png" alt="concert band" style="width:80%;">  
+<img src="/images/apple pg.png" alt="concert band" style="width:50%;">  
   <br>
 			<style>  
 img {  
@@ -38,7 +38,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/android.png" alt="Concert Band" style="width:80%;">  
+<img src="/images/android.png" alt="Concert Band" style="width:50%;">  
   
 <br>
 (Please note that you will need to sign in using SingPass)<br>
