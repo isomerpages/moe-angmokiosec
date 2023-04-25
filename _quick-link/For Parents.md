@@ -20,6 +20,11 @@ description: ""
 		</tr><tr>
     <td class="tg-mwbt">After-School DMA Option Form<br><span style="font-weight:400;color:#004D2E">https://go.gov.sg/amkssdma</span></td>
   </tr>
+	<tr>
+    <td class="tg-mwbt">Parents Gateway<br><span style="font-weight:400;color:#004D2E">Download apps on <br> 
+(Please note that you will need to sign in using SingPass)<br>
+More info: [Parents Gateway](https://pg.moe.edu.sg/faq)</span></td>
+  </tr>
   
 </thead>
 <tbody></tbody></table>
