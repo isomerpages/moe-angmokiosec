@@ -23,4 +23,19 @@ description: ""
   <tr>
     <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
   </tr>
+	<tr>
+    <td class="tg-mwbt">HRP<br><span style="font-weight:400;color:#004D2E">https://www.hrp.gov.sg</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">iEXAMS<br><span style="font-weight:400;color:#004D2E">https://iexams.seab.gov.sg/</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">MIMS Password Reset<br><span style="font-weight:400;color:#004D2E">https://idp.mims.moe.gov.sg/nidp/saml2/sso</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
+  </tr><tr>
+    <td class="tg-mwbt">HR Online<br><span style="font-weight:400;color:#004D2E">http://intranet.moe.gov.sg/hronline/Pages/Home.aspx</span></td>
+  </tr>
   <tr></tr></tbody></table>
