@@ -22,8 +22,28 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-mwbt">Parents Gateway<br><span style="font-weight:400;color:#004D2E">Download apps on <br> 
+			<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/apple pg.png" alt="concert band" style="width:80%;">  
+  <br>
+			<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/android.png" alt="Concert Band" style="width:80%;">  
+  
+<br>
 (Please note that you will need to sign in using SingPass)<br>
-More info: [Parents Gateway](https://pg.moe.edu.sg/faq)</span></td>
+			<br>
+More info: (https://pg.moe.edu.sg/faq)</span></td>
   </tr>
   
 </thead>
