@@ -64,7 +64,7 @@ SSOE 2 Service Portal<br><span style="font-weight:400;color:#004D2E">https://sso
 *   [HRP](https://www.hrp.gov.sg)
 *   [MOE INTRANET APPLICATIONS](https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx)
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg)
-*   [iEXAMS](https://iexams.seab.gov.sg)
+*   [iEXAMS2](https://iexams.seab.gov.sg)
 *   [MIMS PASSWORD RESET](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
 *   [PARENTS GATEWAY](https://pg.moe.edu.sg/)
 *   [RESOURCE BOOKING SYSTEM](https://rbs.avero-tech.com/login.html)
