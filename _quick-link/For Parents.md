@@ -39,10 +39,9 @@ img {
 <img src="/images/android.png" alt="Concert Band" style="width:30%;">  
   
 <br>
-(Please note that you will need to sign in using SingPass)<br>
-
+(Please note that you will need to sign in using SingPass)
 </span></td></tr></thead>
 <tbody></tbody></table>
 
-*   [PG FAQs](https://pg.moe.edu.sg/faq)
-*   
+* [PARENTS GATEWAY FAQs](https://pg.moe.edu.sg/faq)
+* [AMKSS DMA OPTION FORM](https://go.gov.sg/amkssdma)
