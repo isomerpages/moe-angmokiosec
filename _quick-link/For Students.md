@@ -19,5 +19,6 @@ description: ""
     <th class="tg-mwbt"><span style="font-weight:700">Information  Links</span></th>
 		</tr>
   </thead>
-<tbody>
-</tbody></table>
+</table>
+
+*   [STUDENT LEARNING SPACE](https://vle.learning.moe.edu.sg/login/)
