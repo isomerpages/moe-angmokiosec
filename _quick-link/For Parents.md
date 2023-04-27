@@ -43,4 +43,6 @@ img {
 
 </span></td></tr></thead>
 <tbody></tbody></table>
-	
+
+*   [PG FAQs](https://pg.moe.edu.sg/faq)
+*   
