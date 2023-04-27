@@ -59,3 +59,12 @@ SSOE 2 Service Portal<br><span style="font-weight:400;color:#004D2E">https://sso
     <td class="tg-mwbt">All Ears Forms Builder<br><span style="font-weight:400;color:#004D2E">Forms (moe.edu.sg)</span></td>
   </tr>
   <tr></tr></tbody></table>
+	
+*   [HR ONLINE](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
+*   [HRP](https://www.hrp.gov.sg)
+*   [STUDENT LEARNING SPACE](https://vle.learning.moe.edu.sg/login/)
+*   [STUDENT LEARNING SPACE](https://vle.learning.moe.edu.sg/login/)
+*   [STUDENT LEARNING SPACE](https://vle.learning.moe.edu.sg/login/)
+*   [STUDENT LEARNING SPACE](https://vle.learning.moe.edu.sg/login/)
+*   [STUDENT LEARNING SPACE](https://vle.learning.moe.edu.sg/login/)
+*   [STUDENT LEARNING SPACE](https://vle.learning.moe.edu.sg/login/)
