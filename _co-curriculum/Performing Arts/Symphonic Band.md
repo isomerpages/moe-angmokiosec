@@ -4,7 +4,7 @@ permalink: /co-curriculum/performing-arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p><a href="https://docs.google.com/spreadsheets/d/1I-6xIS6JD1ctN0a8kYlS_KX-zckLLbC9vOnHlqkWPho/edit#gid=0"><strong>Please click here for the Symphonic Band Schedule</strong></a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1I-6xIS6JD1ctN0a8kYlS_KX-zckLLbC9vOnHlqkWPho/edit#gid=0"><strong>Please click here for the Concert Band Schedule</strong></a></p>
 
 ![Symphonic Band](/images/Band%203.jpeg)
 
@@ -169,7 +169,7 @@ third_nav_title: Performing Arts
 
 ![](/images/Symphonic%20Band.jpg)
 
-The Ang Mo Kio Secondary School Symphonic Band provides Amksians with opportunities to pursue their interests and passion in music making. Music making is often assumed to be a talent one simply possesses, but it is instead truly about dedication and the willingness to learn. This attitude is something the Band has undoubtedly nurtured in our members.
+The Ang Mo Kio Secondary School Concert Band provides Amksians with opportunities to pursue their interests and passion in music making. Music making is often assumed to be a talent one simply possesses, but it is instead truly about dedication and the willingness to learn. This attitude is something the Band has undoubtedly nurtured in our members.
 
   
 
