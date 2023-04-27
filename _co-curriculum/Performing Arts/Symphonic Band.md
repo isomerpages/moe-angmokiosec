@@ -80,7 +80,7 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2021/2022</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2022/2023</span></th>
   </tr>
 </thead>
 <tbody>
@@ -126,15 +126,15 @@ third_nav_title: Performing Arts
   <tr>
     <th class="tg-74pa"><span style="font-weight:700">Achievements of the CCA</span></th>
   </tr><tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 - Symphonic Band (Distinction)</td>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 - Concert Band (Distinction)</td>
 	</tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 - Symphonic Band (Percussion) (Distinction)</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 - Concert Band (Percussion) (Distinction)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 - Symphonic Band (Flexi) (Accomplishment)</td>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 - Concert Band (Flexi) (Accomplishment)</td>
   </tr>
   <tr>
     <td class="tg-bapb">Singapore Youth Festival (9 April 2019) awarded with Certificate of Distinction</td>
