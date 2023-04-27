@@ -76,4 +76,4 @@ SSOE 2 Service Portal<br><span style="font-weight:400;color:#004D2E">https://sso
 *   [MOE iCON EMAIL](https://workspace.google.com/dashboard)
 *   [FORM SG](https://form.gov.sg/)
 *   [GO.GOV.SG SHORT LINKS](https://go.gov.sg)
-*   [ALL EARS FORMS BUILDER](Forms (moe.edu.sg))
+*   [ALL EARS FORMS BUILDER](https://forms.moe.edu.sg/)
