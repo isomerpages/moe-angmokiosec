@@ -3,7 +3,7 @@ title: Co Curriculum
 permalink: /co-curriculum/
 description: ""
 ---
-<img src="/images/title_Clubs%20&%20Societies.jpg" style="width:200px;height:40px;margin-left:15px;" align = "left">
+<img src="/images/title_Clubs%20&amp;%20Societies.jpg" style="width:200px;height:40px;margin-left:15px;" align="left">
 <br>
 <br>
 <style type="text/css">
@@ -18,14 +18,14 @@ description: ""
 <thead>
   <tr>
     <td class="tg-hwgp"><img src="/images/tn_artclub.png" alt="Art Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/clubs-n-societies/art-club"><span style="text-decoration:none;color:#000000;background-color:transparent"><b>Art Club</b></span></a><br></td>
-    <td class="tg-hwgp"><img src="/images/tn_av.png" alt="AV & Media Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/clubs-n-societies/av-club-and-media-club"><span style="text-decoration:none;color:#000000;background-color:transparent"><b>AV &amp; Media Club</b></span></a><br></td>
+    <td class="tg-hwgp"><img src="/images/tn_av.png" alt="AV &amp; Media Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/clubs-n-societies/av-club-and-media-club"><span style="text-decoration:none;color:#000000;background-color:transparent"><b>AV &amp; Media Club</b></span></a><br></td>
     <td class="tg-hwgp"><img src="/images/tn_Environmental%20Club.png" alt="Environmental Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/clubs-n-societies/environmental-club"><span style="text-decoration:none;color:#000000;background-color:transparent"><b>Environmental Club</b></span></a><br></td>
   </tr>
 </thead>
 </table>
 
 
-<img src="/images/title_Performing%20Arts.jpg" style="width:200px;height:40px;margin-left:15px;" align = "left">
+<img src="/images/title_Performing%20Arts.jpg" style="width:200px;height:40px;margin-left:15px;" align="left">
 <br>
 <br>
 
@@ -50,7 +50,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-hwgp"><img src="/images/tn_Symphonic%20Band.png" alt="Concert Band" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/performing-arts/symphonic-band"><span style="text-decoration:none;color:#000000;background-color:transparent"><b>Symphonic Band</b></span></a><br></td>
+    <td class="tg-hwgp"><img src="/images/tn_Symphonic%20Band.png" alt="Concert Band" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/performing-arts/concert-band"><span style="text-decoration:none;color:#000000;background-color:transparent"><b>Concert Band</b></span></a><br></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
@@ -58,7 +58,7 @@ description: ""
 </tbody>
 </table>
 
-<img src="/images/title_Sports%20and%20Games.jpg" style="width:200px;height:40px;margin-left:15px;" align = "left">
+<img src="/images/title_Sports%20and%20Games.jpg" style="width:200px;height:40px;margin-left:15px;" align="left">
 <br>
 <br>
 <style type="text/css">
@@ -91,7 +91,7 @@ description: ""
 </tbody>
 </table>
 
-<img src="/images/title_Uniformed%20Groups.png" style="width:200px;height:40px;margin-left:15px;" align = "left">
+<img src="/images/title_Uniformed%20Groups.png" style="width:200px;height:40px;margin-left:15px;" align="left">
 <br>
 <br>
 <style type="text/css">

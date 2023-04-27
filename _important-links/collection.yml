@@ -1,0 +1,7 @@
+collections:
+  important-links:
+    output: true
+    order:
+      - For Parents.md
+      - For Teachers.md
+      - For Students.md
