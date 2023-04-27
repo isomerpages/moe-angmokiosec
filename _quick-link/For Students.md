@@ -17,9 +17,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-mwbt"><span style="font-weight:700">Information  Links</span></th>
-		</tr><tr>
-    <td class="tg-mwbt">[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)<br><span style="font-weight:400;color:#004D2E"></span></td>
-  </tr>
-  
-</thead>
-<tbody></tbody></table>
+		</tr>
+  </thead>
+<tbody>
+</tbody></table>
