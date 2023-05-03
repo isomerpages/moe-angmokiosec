@@ -216,11 +216,11 @@ img {
 
 3.&nbsp; Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
-4.&nbsp; The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by&nbsp; <u> ***18 August 2023*** </u>.
+4.&nbsp; The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by&nbsp; ***18 August 2023*** .
 
-5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from <u>***15 June 2023***</u> to <u>***30 August 2023***</u>.
+5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from ***15 June 2023*** to ***30 August 2023***.
 
-6.&nbsp; The school <u>***will not***</u> inform applicants who ***are not shortlisted*** that they are unsuccessful in their application.
+6.&nbsp; The school ***will not*** inform applicants who ***are not shortlisted*** that they are unsuccessful in their application.
 
 7.&nbsp; Shortlisted applicants will be notified of their application status by ***14 Sept 2023***.
 
@@ -228,17 +228,17 @@ img {
 
 For further clarifications, you may contact any of the following staff:
 
-<u>***For Sports matters***</u>
+***For Sports matters:***
 
 Mr. K Thanaraj<br><a href="mailto:thanaraj\_kalliya\_perumal@moe.edu.sg"><font color="#000000">thanaraj\_kalliya\_perumal@moe.edu.sg</font></a><br>
 Tel: 64548605 (Ext 811)
 
-<u>***For Performing Arts matters***</u>
+***For Performing Arts matters:***
 
 Ms Cheryl Ang <br><a href="mailto:cheryl\_ang@moe.edu.sg"><font color="#000000">cheryl\_ang@moe.edu.sg</font></a><br>
 Tel: 64548605 (Ext 863)
 
-<u>***For Admin matters***</u>
+***For Admin matters:***
 
 Ms Leona Cheong <br><a href="mailto:Leona\_CHEONG@schools.gov.sg"><font color="#000000">Leona\_CHEONG@schools.gov.sg</font></a><br>
 Tel: 64548605 (Ext 803)
