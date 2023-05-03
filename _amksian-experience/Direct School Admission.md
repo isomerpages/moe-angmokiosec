@@ -230,15 +230,15 @@ For further clarifications, you may contact any of the following staff:
 
 ***For Sports matters:***
 
-Mr. K Thanaraj<br><a href="mailto:thanaraj\_kalliya\_perumal@moe.edu.sg"><font color="#000000">thanaraj\_kalliya\_perumal@moe.edu.sg</font></a><br>
+Mr. K Thanaraj<br><a href="mailto:thanaraj\_kalliya\_perumal@moe.edu.sg"><font color="#000000">thanaraj_kalliya_perumal@moe.edu.sg</font></a><br>
 Tel: 64548605 (Ext 811)
 
 ***For Performing Arts matters:***
 
-Ms Cheryl Ang <br><a href="mailto:cheryl\_ang@moe.edu.sg"><font color="#000000">cheryl\_ang@moe.edu.sg</font></a><br>
+Ms Cheryl Ang <br><a href="mailto:cheryl\_ang@moe.edu.sg"><font color="#000000">cheryl_ang@moe.edu.sg</font></a><br>
 Tel: 64548605 (Ext 863)
 
 ***For Admin matters:***
 
-Ms Leona Cheong <br><a href="mailto:Leona\_CHEONG@schools.gov.sg"><font color="#000000">Leona\_CHEONG@schools.gov.sg</font></a><br>
+Ms Leona Cheong <br><a href="mailto:Leona\_CHEONG@schools.gov.sg"><font color="#000000">Leona_CHEONG@schools.gov.sg</font></a><br>
 Tel: 64548605 (Ext 803)
