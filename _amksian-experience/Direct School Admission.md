@@ -217,7 +217,7 @@ img {
 
 5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from <u>**15 June 2023**</u> to <u>**30 August 2023**</u>.
 
-6.&nbsp; The school&nbsp;\*\*<u>will not</u>\*\*&nbsp;inform applicants who&nbsp;\*\*are not shortlisted\*\*&nbsp;that they are unsuccessful in their application.
+6.&nbsp; The school <u>**will not**</u> inform applicants who **are not shortlisted** that they are unsuccessful in their application.
 
 7.&nbsp; Shortlisted applicants will be notified of their application status by&nbsp;\*\*12 Sept 2022\*\*.
 
