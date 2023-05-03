@@ -85,7 +85,7 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Yeo Zhir Yee (4/3)</span></td>
+    <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Cerrer Avigail Bayudan (4A3)</span></td>
   </tr>
   <tr>
     <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Dylan Seah Jun Kiong (4/2)</span></td>
