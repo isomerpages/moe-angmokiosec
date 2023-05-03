@@ -216,29 +216,29 @@ img {
 
 3.&nbsp; Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
-4.&nbsp; The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by <u>**18 August 2023**</u>.
+4.&nbsp; The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by <u>***18 August 2023***</u>.
 
-5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from <u>**15 June 2023**</u> to <u>**30 August 2023**</u>.
+5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from <u>***15 June 2023***</u> to <u>***30 August 2023***</u>.
 
-6.&nbsp; The school <u>**will not**</u> inform applicants who **are not shortlisted** that they are unsuccessful in their application.
+6.&nbsp; The school <u>***will not***</u> inform applicants who ***are not shortlisted*** that they are unsuccessful in their application.
 
-7.&nbsp; Shortlisted applicants will be notified of their application status by **14 Sept 2023**.
+7.&nbsp; Shortlisted applicants will be notified of their application status by ***14 Sept 2023***.
 
 8.&nbsp; Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
 For further clarifications, you may contact any of the following staff:
 
-<u>**For Sports matters**</u>
+<u>***For Sports matters***</u>
 
 Mr. K Thanaraj<br><a href="mailto:thanaraj\_kalliya\_perumal@moe.edu.sg"><font color="#000000">thanaraj\_kalliya\_perumal@moe.edu.sg</font></a><br>
 Tel: 64548605 (Ext 811)
 
-<u>**For Performing Arts matters**</u>
+<u>***For Performing Arts matters***</u>
 
 Ms Cheryl Ang <br><a href="mailto:cheryl\_ang@moe.edu.sg"><font color="#000000">cheryl\_ang@moe.edu.sg</font></a><br>
 Tel: 64548605 (Ext 863)
 
-<u>**For Admin matters**</u>
+<u>***For Admin matters***</u>
 
 Ms Leona Cheong <br><a href="mailto:Leona\_CHEONG@schools.gov.sg"><font color="#000000">Leona\_CHEONG@schools.gov.sg</font></a><br>
 Tel: 64548605 (Ext 803)
