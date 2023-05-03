@@ -2,7 +2,7 @@
 title: Art Club
 permalink: /co-curriculum/clubs-n-societies/art-club/
 description: ""
-third_nav_title: Club &amp; Societies
+third_nav_title: Club & Societies
 ---
 ![](/images/Art%20Club%202.jpg)
 
