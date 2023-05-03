@@ -108,11 +108,11 @@ third_nav_title: Performing Arts
   <tr>
     <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Yasmin Lok Sze Yin (4/2)</span></td>
   </tr>
-  <tr>
-    <td class="tg-mwbt"><u>Quartermaster (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Khew Zhi Xuan Krystal (4/2)</span></td>
+	<tr>
+    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Clara Han Xin Ying (4A1)</span></td>
   </tr>
-  <tr>
-    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Siti Sarah Binte Talib (4/2)</span></td>
+    <tr>
+    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Gladys Tan Yan Tong (4/2)</span></td>
   </tr>
 </tbody>
 </table>
