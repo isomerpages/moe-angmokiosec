@@ -225,13 +225,13 @@ img {
 
 For further clarifications, you may contact any of the following staff:
 
-\*\*<u>For Sports matters</u>\*\*
+<u>**For Sports matters**</u>
 
 Mr. K Thanaraj<br><a href="mailto:thanaraj\_kalliya\_perumal@moe.edu.sg"><font color="#000000">thanaraj\_kalliya\_perumal@moe.edu.sg</font></a><br>
 
 Tel: 64548605 (Ext 811)
 
-\*\*<u>For Performing Arts matters</u>\*\*
+<u>**For Performing Arts matters**</u>
 
 Ms Cheryl Ang <br><a href="mailto:cheryl\_ang@moe.edu.sg"><font color="#000000">cheryl\_ang@moe.edu.sg</font></a><br>
 
