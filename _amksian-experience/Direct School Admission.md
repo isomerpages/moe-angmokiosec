@@ -210,7 +210,7 @@ img {
 
 #### Application Procedure 
          
-1.&nbsp; Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp; ***4 May to 31 May 2023***. For more details, please refer to MOE website [https://www.moe.gov.sg/dsa-sec\](https://www.moe.gov.sg/dsa-sec).
+1.&nbsp; Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp; ***4 May to 31 May 2023***. For more details, please refer to [MOE Website].
 
 2.&nbsp; Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
