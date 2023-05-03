@@ -172,6 +172,14 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 <br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/tn_Symphonic Band.png" alt="Basketball" style="width:100%;">
 
 ![](/images/Symphonic%20Band.jpg)
 
