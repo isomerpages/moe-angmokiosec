@@ -218,7 +218,7 @@ img {
 
 4.&nbsp; The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by&nbsp; ***18 August 2023*** .
 
-5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from ***15 June 2023***  to ***30 August 2023***.
+5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from ***26 June 2023***  to ***11 September 2023***.
 
 6.&nbsp; The school ***will not*** inform applicants who ***are not shortlisted*** that they are unsuccessful in their application.
 
