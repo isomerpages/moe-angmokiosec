@@ -228,26 +228,18 @@ For further clarifications, you may contact any of the following staff:
 <u>**For Sports matters**</u>
 
 Mr. K Thanaraj<br><a href="mailto:thanaraj\_kalliya\_perumal@moe.edu.sg"><font color="#000000">thanaraj\_kalliya\_perumal@moe.edu.sg</font></a><br>
-
 Tel: 64548605 (Ext 811)
 
 <u>**For Performing Arts matters**</u>
 
 Ms Cheryl Ang <br><a href="mailto:cheryl\_ang@moe.edu.sg"><font color="#000000">cheryl\_ang@moe.edu.sg</font></a><br>
-
 Tel: 64548605 (Ext 863)
 
-\*\*<u>For Admin matters</u>\*\*
+<u>**For Admin matters**</u>
 
 Ms Leona Cheong <br><a href="mailto:Leona\_CHEONG@schools.gov.sg"><font color="#000000">Leona\_CHEONG@schools.gov.sg</font></a><br>
-
 Tel: 64548605 (Ext 803)
    
 
 
       
-_“The selection criteria and process for the talent areas will be updated from early-May._
-
-_For more information on DSA-Sec,_
-
-_please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)_
