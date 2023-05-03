@@ -88,7 +88,7 @@ third_nav_title: Performing Arts
     <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Cerrer Avigail Bayudan (4A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Dylan Seah Jun Kiong (4/2)</span></td>
+    <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Jaziel Wang Ye Ze (4/3)</span></td>
   </tr>
   <tr>
     <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Yuvia Hng Liang Ching (4/3)</span></td>
