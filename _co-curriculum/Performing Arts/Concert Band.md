@@ -181,7 +181,6 @@ img {
 </style>  
 <img src="/images/tn_Symphonic Band.png" alt="Basketball" style="width:100%;">
 
-![](/images/Symphonic%20Band.jpg)
 
 The Ang Mo Kio Secondary School Concert Band provides Amksians with opportunities to pursue their interests and passion in music making. Music making is often assumed to be a talent one simply possesses, but it is instead truly about dedication and the willingness to learn. This attitude is something the Band has undoubtedly nurtured in our members.
 
