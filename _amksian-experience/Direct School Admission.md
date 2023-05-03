@@ -216,7 +216,7 @@ img {
 
 3.&nbsp; Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
-4.&nbsp; The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by <u>***18 August 2023***</u>.
+4.&nbsp; The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by&nbsp; <u> ***18 August 2023*** </u>.
 
 5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from <u>***15 June 2023***</u> to <u>***30 August 2023***</u>.
 
