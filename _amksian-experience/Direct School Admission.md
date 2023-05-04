@@ -222,7 +222,7 @@ img {
 
 6.&nbsp; The school ***will not*** inform applicants who ***are not shortlisted*** that they are unsuccessful in their application.
 
-7.&nbsp; Shortlisted applicants will be notified of their application status by ***14 Sept 2023***.
+7.&nbsp; Shortlisted applicants will be notified of their application status by ***11 Sept 2023***.
 
 8.&nbsp; Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
