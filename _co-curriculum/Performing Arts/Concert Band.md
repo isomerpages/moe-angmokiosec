@@ -85,28 +85,34 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Yeo Zhir Yee (4/3)</span></td>
+    <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Cerrer Avigail Bayudan (4A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Dylan Seah Jun Kiong (4/2)</span></td>
+    <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Jaziel Wang Ye Ze (4/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Yuvia Hng Liang Ching (4/3)</span></td>
+    <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Ashley Ong Qian Hui (4/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Nur Alysa Qistina Binte Norazman (4A2)</span></td>
+    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Cheah Yan Le Ryan (4/2)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-mwbt"><u>Quartermaster Uniform</u><br><span style="font-weight:400;color:#004D2E">Foo Jing Chen Nathaniel (4A1)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-mwbt"><u>Quartermaster Uniform</u><br><span style="font-weight:400;color:#004D2E">Lin Xiaoshu (4/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Quartermaster (Instrument - Brasses)</u><br><span style="font-weight:400;color:#004D2E">Wu Song Heng (4/4)</span></td>
+    <td class="tg-mwbt"><u>Quartermaster (Instrument - Brasses)</u><br><span style="font-weight:400;color:#004D2E">Ng Yong Xu Ayden (4/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Amirul Haziq Bin Asman (4/1)</span></td>
+    <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Yasmin Lok Sze Yin (4/2)</span></td>
   </tr>
-  <tr>
-    <td class="tg-mwbt"><u>Quartermaster (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Khew Zhi Xuan Krystal (4/2)</span></td>
+	<tr>
+    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Clara Han Xin Ying (4A1)</span></td>
   </tr>
-  <tr>
-    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Siti Sarah Binte Talib (4/2)</span></td>
+    <tr>
+    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Gladys Tan Yan Tong (4/2)</span></td>
   </tr>
 </tbody>
 </table>
@@ -166,8 +172,15 @@ third_nav_title: Performing Arts
 </tbody>
 </table>
 <br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/tn_Symphonic Band.png" alt="Concert Band" style="width:100%;">
 
-![](/images/Symphonic%20Band.jpg)
 
 The Ang Mo Kio Secondary School Concert Band provides Amksians with opportunities to pursue their interests and passion in music making. Music making is often assumed to be a talent one simply possesses, but it is instead truly about dedication and the willingness to learn. This attitude is something the Band has undoubtedly nurtured in our members.
 
