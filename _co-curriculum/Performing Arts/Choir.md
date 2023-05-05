@@ -112,6 +112,9 @@ third_nav_title: Performing Arts
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 (Accomplishment)<br></td>
+  </tr>
   <tr>
     <td class="tg-bapb">Distinction for Singapore Youth Festival 2019<br></td>
   </tr>
