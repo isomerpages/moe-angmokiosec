@@ -131,19 +131,23 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <th class="tg-74pa"><span style="font-weight:700">Achievements of the CCA</span></th>
-  </tr><tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 - Concert Band (Distinction)</td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 - Percussion Ensemble (Accomplishment)</td>
 	</tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 - Concert Band (Percussion) (Distinction)</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 - Percussion Ensemble (Distinction)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 - Concert Band (Flexi) (Accomplishment)</td>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 - Flexi (Accomplishment)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Singapore Youth Festival (9 April 2019) awarded with Certificate of Distinction</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
   </tr>
   <tr>
     <td class="tg-wpup">Limelight 2019 @ Esplanade Concert Hall (23 April 2019)</td>
