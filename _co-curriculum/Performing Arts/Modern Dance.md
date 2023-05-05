@@ -82,7 +82,7 @@ third_nav_title: Performing Arts
     <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ooi En Ting (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Rehearsal Master</u><br><span style="font-weight:400;color:#004D2E">Muhammad Amin Bin Mohammad Yunos (3A2)</span></td>
+    <td class="tg-uzvj"><u>Secretary cum Treasurer</u><br><span style="font-weight:400;color:#004D2E">Shew Hui Yan (3/1)</span></td>
   </tr>
   <tr>
     <td class="tg-uzvj"><u>Quarter Mistresses (Costumes) cum Treasurer</u><br><span style="font-weight:400;color:#004D2E">Lim Zhiyu (3/2)</span></td>
