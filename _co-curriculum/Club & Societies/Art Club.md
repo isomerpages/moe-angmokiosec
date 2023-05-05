@@ -82,6 +82,15 @@ third_nav_title: Club & Societies
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">2022 Singapore Youth Festival, Artvocacy, Participation</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">2022 Live On Festival, Participation </td>
+  </tr>
   <tr>
     <td class="tg-bapb">2020 Singapore Youth Festival (Visual Arts) - Special Provision</td>
   </tr>
