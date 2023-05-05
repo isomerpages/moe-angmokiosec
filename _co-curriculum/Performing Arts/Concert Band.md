@@ -97,11 +97,9 @@ third_nav_title: Performing Arts
     <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Cheah Yan Le Ryan (4/2)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Quartermaster Uniform</u><br><span style="font-weight:400;color:#004D2E">Foo Jing Chen Nathaniel (4A1)</span></td>
+    <td class="tg-mwbt"><u>Quartermaster Uniform</u><br><span style="font-weight:400;color:#004D2E">Foo Jing Chen Nathaniel (4A1)</span><br><span style="font-weight:400;color:#004D2E">Lin Xiaoshu (4/4)</span></td>
   </tr>
-	<tr>
-    <td class="tg-mwbt"><u>Quartermaster Uniform</u><br><span style="font-weight:400;color:#004D2E">Lin Xiaoshu (4/4)</span></td>
-  </tr>
+	
   <tr>
     <td class="tg-mwbt"><u>Quartermaster (Instrument - Brasses)</u><br><span style="font-weight:400;color:#004D2E">Ng Yong Xu Ayden (4/1)</span></td>
   </tr>
