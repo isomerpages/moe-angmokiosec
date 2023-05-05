@@ -116,7 +116,7 @@ third_nav_title: Performing Arts
     <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 (Accomplishment)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Distinction for Singapore Youth Festival 2019<br></td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">National level performances at CHJIMES , Victoria Concert Hall<br></td>
