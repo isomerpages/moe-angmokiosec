@@ -51,11 +51,9 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Muhammad Sharul Bin Mohammed (Main Instructor)<br></td>
+    <td class="tg-bapb">Mr Mohammad Elfi Bin Ismail<br></td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mdm Wefi Sofianah (Assistant Instructor)</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
@@ -101,18 +99,21 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Achievements of the CCA for 2021<br></th>
+    <th class="tg-mwif">Achievements of the CCA<br></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-bapb">Certificate of Accomplishment at the Singapore Malay Dance Arts Presentation 2021<br></td>
+	<tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 (Distinction)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Certificate of Accomplishment at the Singapore Malay Dance Arts Presentation 2019<br></td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 (Accomplishment)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Certificate of Distinction at the Singapore Malay Dance Arts Presentation 2017</td>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2019 (Accomplishment)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2017 (Distinction)</td>
   </tr>
 </tbody>
 </table>

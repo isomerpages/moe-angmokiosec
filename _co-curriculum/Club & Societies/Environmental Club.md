@@ -47,17 +47,20 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Mhoo Waddy Ko</span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Mhoo Waddy Ko (4/1)<br>
+<span style="font-weight:400;color:#004D2E">Jessie Lin Jia Xi (2G)</span>
+			</span></td>
+  </tr>
+	 
+  <tr>
+    <td class="tg-mwbt"><u>Vice-President</u><br><span style="font-weight:400;color:#004D2E">Muhammad Hakim Bin Muhammad Rostam</span><br><span style="font-weight:400;color:#004D2E">Koh Wei Jia (2H) </span><br><span style="font-weight:400;color:#004D2E">Seow Jingwen, Andrea (2G)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Vice-President</u><br><span style="font-weight:400;color:#004D2E">Muhammad Hakim Bin Muhammad Rostam</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Lim Pei Xuan</span></td>
+    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Lim Pei Xuan (4/2)</span></td>
   </tr>
   <tr>
     <td class="tg-mwbt">
-<u>Lower Secondary IC</u><br><span style="font-weight:400;color:#004D2E">Leong Yu Hung, Ryan</span></td>
+<u>Lower Secondary IC</u><br><span style="font-weight:400;color:#004D2E">Leong Yu Hung, Ryan (4/4)</span></td>
   </tr>
 </tbody>
 </table>
@@ -79,7 +82,16 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Awarded International Green Flag by WWF Singapore (2020-2021)</td>
+    <td class="tg-bapb">Organised Bishan Park Nature Tour (2022)</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Organised NEWater Plant Trip (2022)</td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">Organised Qian Hu Fish Farm Tour (2022)</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Awarded International Green Flag by WWF Singapore (2020-2021)</td>
   </tr>
 </tbody>
 </table>
@@ -202,6 +214,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Qr%20Code.png" alt="Environmental Club’s QR Code" style="width:25%;">  
-  
-</body>
+<img src="/images/Qr%20Code.png" alt="Environmental Club’s QR Code" style="width:25%;">

@@ -71,27 +71,28 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2021/2022</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2022/2023</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-uzvj"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Low Xin Yi Naomi (3/4)</span></td>
+    <td class="tg-uzvj"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Teo Ling Fong Rachell (3A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Du Xinyao (3/2)</span></td>
+    <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ooi En Ting (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Rehearsal Master</u><br><span style="font-weight:400;color:#004D2E">Muhammad Amin Bin Mohammad Yunos (3A2)</span></td>
+    <td class="tg-uzvj"><u>Secretary cum Treasurer</u><br><span style="font-weight:400;color:#004D2E">Shew Hui Yan (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Quarter Mistresses (Costumes) cum Treasurer</u><br><span style="font-weight:400;color:#004D2E">Lim Zhiyu (3/2)</span></td>
+    <td class="tg-uzvj"><u>Quarter - Mistress (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Ng Xue Li (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Quarter Mistresses (Make Up / Props) cum Assistant Treasurer</u><br><span style="font-weight:400;color:#004D2E">Lee Ying Xuan (3/4)</span></td>
+    <td class="tg-uzvj"><u>Quarter Mistress (Make Up / Props) </u><br><span style="font-weight:400;color:#004D2E">Koh Yun Ning (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Publicity In Charge</u><br><span style="font-weight:400;color:#004D2E">Mandario Vashti Eliya Baylan (3A2)</span></td>
+    <td class="tg-uzvj"><u>Publicity In Charge</u><br><span style="font-weight:400;color:#004D2E">Renfred Lim Ren Fu (3/3
+			)</span></td>
   </tr>
 </tbody>
 </table>
@@ -113,6 +114,9 @@ third_nav_title: Performing Arts
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
+  </tr>
   <tr>
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 (Distinction)</td>
   </tr>

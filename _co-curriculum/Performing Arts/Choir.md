@@ -78,19 +78,22 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwif"><u>President</u><br><span style="font-weight:400;color:#004D2E">Tan Wen Hui</span></td>
+    <td class="tg-mwif"><u>President</u><br><span style="font-weight:400;color:#004D2E">Tan Wen Hui (4/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice President (Admin &amp; Resources)</u><br><span style="font-weight:400;color:#004D2E">Ong Yu Xin</span></td>
+    <td class="tg-mwif"><u>Vice President (Admin &amp; Resources)</u><br><span style="font-weight:400;color:#004D2E">Ong Yu Xin (4/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice President (Music Development)</u><br><span style="font-weight:400;color:#004D2E">Chia Yoke Yun</span></td>
+    <td class="tg-mwif"><u>Vice President (Music Development)</u><br><span style="font-weight:400;color:#004D2E">Chia Yoke Yun (4/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice President (Chorale Wellbeing)</u><br><span style="font-weight:400;color:#004D2E">Jayden Ng</span><br><span style="font-weight:400;color:#004D2E">Chong Wan Ting, Lynette</span></td>
+    <td class="tg-mwif"><u>Vice President (Welfare)</u><br><span style="font-weight:400;color:#004D2E">Jayden Ng (4A3)</span><br><span style="font-weight:400;color:#004D2E">Chong Wan Ting, Lynette (4/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Logistics and Resource Manager</u><br><span style="font-weight:400;color:#004D2E">Martinez Katherine Marie Martinez</span></td>
+    <td class="tg-mwif"><u>Logistics and Resource Manager</u><br><span style="font-weight:400;color:#004D2E">Martinez Katherine Marie Martinez (3/2)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-mwif"><u>Section Leaders</u><br><span style="font-weight:400;color:#004D2E">Chia Yoke Yun (3/1)</span><br><span style="font-weight:400;color:#004D2E">Jayden Ng (3A3)</span></td>
   </tr>
 </tbody>
 </table>
@@ -112,8 +115,14 @@ third_nav_title: Performing Arts
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Accomplishment)<br></td>
+  </tr>
+	 <tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 (Special Consideraton)<br></td>
+  </tr>
   <tr>
-    <td class="tg-bapb">Distinction for Singapore Youth Festival 2019<br></td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">National level performances at CHJIMES , Victoria Concert Hall<br></td>

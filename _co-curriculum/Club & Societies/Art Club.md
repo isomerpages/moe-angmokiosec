@@ -42,16 +42,26 @@ third_nav_title: Club & Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2021 / 2022</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2022 / 2023</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Chantelle Ng Jia Xuan (3/1)</span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Vance Tang Qi Zhi (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Vice President(s)</u><br><span style="font-weight:400;color:#004D2E">Lim Hui Ru (3/3)</span><br><span style="font-weight:400;color:#004D2E">Neo Ang Ai (3/2)</span></td>
+    <td class="tg-mwbt"><u>Vice President(s)</u><br><span style="font-weight:400;color:#004D2E">Janice Khoo May Lynn (3/4)</span><br><span style="font-weight:400;color:#004D2E">Venice Grace Visican De Jesus (3A2)</span></td>
   </tr>
+	<tr>
+		<td class="tg-mwbt"><u>Arts Council</u><br><span style="font-weight:400;color:#004D2E">Pestano Yuanne Carlos Santiago (2C)</span></td>
+	</tr>
+	<tr>
+		<td class="tg-mwbt"><u>Welfare Officer, Upper Secondary</u><br><span style="font-weight:400;color:#004D2E">Haidah Nadhirah Binte Khairil Azhar (2A)</span></td>
+	</tr>
+	<tr>
+		<td class="tg-mwbt"><u>Welfare Officer, Lower Secondary</u><br><span style="font-weight:400;color:#004D2E">Gillian Teo Zhi Ling (2F)</span></td>
+	</tr>
+	
 </tbody>
 </table>
 <br>
@@ -72,6 +82,15 @@ third_nav_title: Club & Societies
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">2022 Singapore Youth Festival, Artvocacy, Participation</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">2022 Live On Festival, Participation </td>
+  </tr>
   <tr>
     <td class="tg-bapb">2020 Singapore Youth Festival (Visual Arts) - Special Provision</td>
   </tr>

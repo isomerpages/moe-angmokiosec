@@ -58,43 +58,43 @@ third_nav_title: Club & Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Executive Committee for 2021/2022<br></th>
+    <th class="tg-mwif">Executive Committee for 2022/2023<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">ISAAC LEE SHIJIE (SEC 32)</span></td>
+    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">ISAAC LEE SHIJIE (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">NURUL INSYIRAH BINTE JAMALUDIN (SEC 32)</span></td>
+    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">NURUL INSYIRAH BINTE JAMALUDIN (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>2nd Vice-Chairperson/Vice Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">LIAO FUQIANG, CHARLTON (SEC 31)</span></td>
+    <td class="tg-mwif"><u>2nd Vice-Chairperson/Vice Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">LIAO FUQIANG, CHARLTON (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">CAYLAN LOY ZHI KA I (SEC 3A1)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">CAYLAN LOY ZHI KA I (3A1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">KHEH JUN BING RAYDON (SEC 3A4)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">KHEH JUN BING RAYDON (3A4)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>AV Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN WEI YE DAMIEN (SEC 3A3)</span></td>
+    <td class="tg-mwif"><u>AV Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN WEI YE DAMIEN (3A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Media Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN YI JIE ELDRICK (SEC 31)</span></td>
+    <td class="tg-mwif"><u>Media Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN YI JIE ELDRICK (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Photography Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">MICHAEL DOMINIC NGO LE MING (SEC 31)</span></td>
+    <td class="tg-mwif"><u>Photography Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">MICHAEL DOMINIC NGO LE MING (3/1)</span></td>
   </tr>
   <tr>
     <td class="tg-mwif"><u>AV Unit 2nd I/C</u>
-<br><span style="font-weight:400;color:#004D2E">KANG JUN WEI XANDER (JIANG JUNWEI) (S2-F)</span></td>
+<br><span style="font-weight:400;color:#004D2E">KANG JUN WEI XANDER (JIANG JUNWEI) (2F)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Media Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">ETHAN JAYBEN JOSHUA (S2-A)</span></td>
+    <td class="tg-mwif"><u>Media Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">ETHAN JAYBEN JOSHUA (2A)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Photography Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">LAU XU YUE (LIU XUYUE) (S2-B)</span></td>
+    <td class="tg-mwif"><u>Photography Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">LAU XU YUE (LIU XUYUE) (2B)</span></td>
   </tr>
 </tbody>
 </table>
@@ -116,7 +116,7 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">3D-Tronics 2022 - Most Friendlist Award</span><br><span style="font-weight:400;color:#004D2E">Canon Youth Photography Awards 2021 – “Discovering Nature” – Secondary Category - Winner</span><br><span style="font-weight:400;color:#004D2E">IgnITE Skills Challenge 2021 - 2 teams (Finalist)</span><br><span style="font-weight:400;color:#004D2E">MOE Our Schools, Our Stories Photo Contest 2021 - Honourable Mention</span><br><span style="font-weight:400;color:#004D2E">PacificLight Crea8 Sustainability Re-Crea8 Competition 2021</span><br><span style="font-weight:400;color:#004D2E">1st Runner Up (Lower Secondary)</span><br><span style="font-weight:400;color:#004D2E">Winner ( Upper Secondary)</span><br><span style="font-weight:400;color:#004D2E">CAPTURE Youth Photography Challenge – Advanced</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">3D-Tronics Digital Making Competition 2022 - Most Friendlist Award</span><br><span style="font-weight:400;color:#004D2E">Canon Youth Photography Awards 2021 – “Discovering Nature” – Secondary Category - Winner</span><br><span style="font-weight:400;color:#004D2E">IgnITE Skills Challenge 2021 - 2 teams (Finalist)</span><br><span style="font-weight:400;color:#004D2E">MOE Our Schools, Our Stories Photo Contest 2021 - Honourable Mention</span><br><span style="font-weight:400;color:#004D2E">PacificLight Crea8 Sustainability Re-Crea8 Competition 2021</span><br><span style="font-weight:400;color:#004D2E">1st Runner Up (Lower Secondary)</span><br><span style="font-weight:400;color:#004D2E">Winner ( Upper Secondary)</span><br><span style="font-weight:400;color:#004D2E">CAPTURE Youth Photography Challenge – Advanced</span></td>
   </tr>
 </tbody>
 </table>

@@ -97,11 +97,9 @@ third_nav_title: Performing Arts
     <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Cheah Yan Le Ryan (4/2)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Quartermaster Uniform</u><br><span style="font-weight:400;color:#004D2E">Foo Jing Chen Nathaniel (4A1)</span></td>
+    <td class="tg-mwbt"><u>Quartermasters (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Foo Jing Chen Nathaniel (4A1)</span><br><span style="font-weight:400;color:#004D2E">Lin Xiaoshu (4/4)</span></td>
   </tr>
-	<tr>
-    <td class="tg-mwbt"><u>Quartermaster Uniform</u><br><span style="font-weight:400;color:#004D2E">Lin Xiaoshu (4/4)</span></td>
-  </tr>
+	
   <tr>
     <td class="tg-mwbt"><u>Quartermaster (Instrument - Brasses)</u><br><span style="font-weight:400;color:#004D2E">Ng Yong Xu Ayden (4/1)</span></td>
   </tr>
@@ -109,12 +107,8 @@ third_nav_title: Performing Arts
     <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Yasmin Lok Sze Yin (4/2)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Clara Han Xin Ying (4A1)</span></td>
-  </tr>
-    <tr>
-    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Gladys Tan Yan Tong (4/2)</span></td>
-  </tr>
-</tbody>
+    <td class="tg-mwbt"><u>Librarians</u><br><span style="font-weight:400;color:#004D2E">Clara Han Xin Ying (4A1)</span><br><span style="font-weight:400;color:#004D2E">Gladys Tan Yan Tong (4/2)</span></td>  
+</tr></tbody>
 </table>
 <br>
 <style type="text/css">
@@ -131,19 +125,23 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <th class="tg-74pa"><span style="font-weight:700">Achievements of the CCA</span></th>
-  </tr><tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 - Concert Band (Distinction)</td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 - Percussion Ensemble (Accomplishment)</td>
 	</tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 - Concert Band (Percussion) (Distinction)</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 - Percussion Ensemble (Distinction)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 - Concert Band (Flexi) (Accomplishment)</td>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 - Flexi (Accomplishment)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Singapore Youth Festival (9 April 2019) awarded with Certificate of Distinction</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
   </tr>
   <tr>
     <td class="tg-wpup">Limelight 2019 @ Esplanade Concert Hall (23 April 2019)</td>
