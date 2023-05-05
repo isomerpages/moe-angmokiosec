@@ -52,8 +52,11 @@ third_nav_title: Performing Arts
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-wpup">Mr Dwayne Ng<br></td>
+  </tr>
   <tr>
-    <td class="tg-bapb">Ms Nina Chabra</td>
+    <td class="tg-bapb">Ms Nina Chabra (Semester 1)</td>
   </tr>
 </tbody>
 </table>
