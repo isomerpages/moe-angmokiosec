@@ -47,8 +47,11 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Mhoo Waddy Ko</span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Mhoo Waddy Ko (4/1)<br>
+<span style="font-weight:400;color:#004D2E">Jessie Lin Jia Xi (2G)</span>
+			</span></td>
   </tr>
+	 
   <tr>
     <td class="tg-mwbt"><u>Vice-President</u><br><span style="font-weight:400;color:#004D2E">Muhammad Hakim Bin Muhammad Rostam</span></td>
   </tr>
@@ -202,6 +205,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Qr%20Code.png" alt="Environmental Club’s QR Code" style="width:25%;">  
-  
-</body>
+<img src="/images/Qr%20Code.png" alt="Environmental Club’s QR Code" style="width:25%;">
