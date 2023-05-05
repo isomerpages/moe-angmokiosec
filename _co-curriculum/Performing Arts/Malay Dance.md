@@ -51,11 +51,9 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Muhammad Sharul Bin Mohammed (Main Instructor)<br></td>
+    <td class="tg-bapb">Mr Mohammad Elfi Bin Ismail<br></td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mdm Wefi Sofianah (Assistant Instructor)</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
