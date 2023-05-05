@@ -85,13 +85,14 @@ third_nav_title: Performing Arts
     <td class="tg-uzvj"><u>Secretary cum Treasurer</u><br><span style="font-weight:400;color:#004D2E">Shew Hui Yan (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Quarter Mistresses (Costumes) cum Treasurer</u><br><span style="font-weight:400;color:#004D2E">Lim Zhiyu (3/2)</span></td>
+    <td class="tg-uzvj"><u>Quarter - Mistress (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Ng Xue Li (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Quarter Mistresses (Make Up / Props) cum Assistant Treasurer</u><br><span style="font-weight:400;color:#004D2E">Lee Ying Xuan (3/4)</span></td>
+    <td class="tg-uzvj"><u>Quarter Mistress (Make Up / Props) </u><br><span style="font-weight:400;color:#004D2E">Koh Yun Ning (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Publicity In Charge</u><br><span style="font-weight:400;color:#004D2E">Mandario Vashti Eliya Baylan (3A2)</span></td>
+    <td class="tg-uzvj"><u>Publicity In Charge</u><br><span style="font-weight:400;color:#004D2E">Renfred Lim Ren Fu (3/3
+			)</span></td>
   </tr>
 </tbody>
 </table>
