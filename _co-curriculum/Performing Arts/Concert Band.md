@@ -97,7 +97,7 @@ third_nav_title: Performing Arts
     <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Cheah Yan Le Ryan (4/2)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Quartermaster Uniform</u><br><span style="font-weight:400;color:#004D2E">Foo Jing Chen Nathaniel (4A1)</span><br><span style="font-weight:400;color:#004D2E">Lin Xiaoshu (4/4)</span></td>
+    <td class="tg-mwbt"><u>Quartermasters (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Foo Jing Chen Nathaniel (4A1)</span><br><span style="font-weight:400;color:#004D2E">Lin Xiaoshu (4/4)</span></td>
   </tr>
 	
   <tr>
@@ -107,12 +107,8 @@ third_nav_title: Performing Arts
     <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Yasmin Lok Sze Yin (4/2)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Clara Han Xin Ying (4A1)</span></td>
-  </tr>
-    <tr>
-    <td class="tg-mwbt"><u>Librarian</u><br><span style="font-weight:400;color:#004D2E">Gladys Tan Yan Tong (4/2)</span></td>
-  </tr>
-</tbody>
+    <td class="tg-mwbt"><u>Librarians</u><br><span style="font-weight:400;color:#004D2E">Clara Han Xin Ying (4A1)</span><br><span style="font-weight:400;color:#004D2E">Gladys Tan Yan Tong (4/2)</span></td>  
+</tr></tbody>
 </table>
 <br>
 <style type="text/css">
