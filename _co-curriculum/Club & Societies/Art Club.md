@@ -42,12 +42,12 @@ third_nav_title: Club & Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2021 / 2022</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2022 / 2023</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Chantelle Ng Jia Xuan (3/1)</span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Vance Tang Qi Zhi (3/4)</span></td>
   </tr>
   <tr>
     <td class="tg-mwbt"><u>Vice President(s)</u><br><span style="font-weight:400;color:#004D2E">Lim Hui Ru (3/3)</span><br><span style="font-weight:400;color:#004D2E">Neo Ang Ai (3/2)</span></td>
