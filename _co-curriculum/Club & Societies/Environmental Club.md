@@ -82,7 +82,16 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Awarded International Green Flag by WWF Singapore (2020-2021)</td>
+    <td class="tg-bapb">Organised Bishan Park Nature Tour (2022)</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Organised NEWater Plant Trip (2022)</td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">Organised Qian Hu Fish Farm Tour (2022)</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Awarded International Green Flag by WWF Singapore (2020-2021)</td>
   </tr>
 </tbody>
 </table>
