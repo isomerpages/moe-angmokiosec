@@ -53,14 +53,14 @@ third_nav_title: Club & Societies
   </tr>
 	 
   <tr>
-    <td class="tg-mwbt"><u>Vice-President</u><br><span style="font-weight:400;color:#004D2E">Muhammad Hakim Bin Muhammad Rostam</span></td>
+    <td class="tg-mwbt"><u>Vice-President</u><br><span style="font-weight:400;color:#004D2E">Muhammad Hakim Bin Muhammad Rostam</span><br><span style="font-weight:400;color:#004D2E">Koh Wei Jia (2H) </span><br><span style="font-weight:400;color:#004D2E">Seow Jingwen, Andrea (2G)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Lim Pei Xuan</span></td>
+    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Lim Pei Xuan (4/2)</span></td>
   </tr>
   <tr>
     <td class="tg-mwbt">
-<u>Lower Secondary IC</u><br><span style="font-weight:400;color:#004D2E">Leong Yu Hung, Ryan</span></td>
+<u>Lower Secondary IC</u><br><span style="font-weight:400;color:#004D2E">Leong Yu Hung, Ryan (4/4)</span></td>
   </tr>
 </tbody>
 </table>
