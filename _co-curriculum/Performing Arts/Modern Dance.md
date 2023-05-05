@@ -71,15 +71,15 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2021/2022</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2022/2023</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-uzvj"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Low Xin Yi Naomi (3/4)</span></td>
+    <td class="tg-uzvj"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Teo Ling Fong Rachell (3A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Du Xinyao (3/2)</span></td>
+    <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ooi En Ting (3/2)</span></td>
   </tr>
   <tr>
     <td class="tg-uzvj"><u>Rehearsal Master</u><br><span style="font-weight:400;color:#004D2E">Muhammad Amin Bin Mohammad Yunos (3A2)</span></td>
