@@ -113,10 +113,10 @@ third_nav_title: Performing Arts
 
 
   <tr>
-    <td class="tg-ymba">Certificate of Distinction for Singapore Youth Festival Arts Presentation (Drama) for 2017 and 2019<br></td>
+    <td class="tg-ymba">Singapore Youth Festival Arts Presentation 2021 (Accomplishment)<br></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Certificate of Accomplishment for Singapore Youth Festival Arts Presentation (Drama) for 2021<br></td>
+    <td class="tg-nrix">Singapore Youth Festival Arts Presentation 2017 and 2019 (Distinction)<br></td>
   </tr>
 </tbody>
 </table>
