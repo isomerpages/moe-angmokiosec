@@ -54,9 +54,7 @@ description: ""
   <tr>
     <td class="tg-wpup">Mr Ronnie Pang</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Yeo Chee Keong Spencer</td>
-  </tr>
+  
   <tr>
     <td class="tg-wpup">Mr Chow Yan Bin</td>
   </tr>
@@ -66,9 +64,7 @@ description: ""
   <tr>
     <td class="tg-wpup">Mr Roysmond Sim</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mrs Jessica Knapp</td>
-  </tr>
+  
   <tr>
     <td class="tg-wpup">Ms Ferng Yung Ying Audrey</td>
   </tr>
@@ -78,15 +74,11 @@ description: ""
   <tr>
     <td class="tg-wpup">Miss Tan Jieying</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Ms Chai Jia Yi Zoe</td>
-  </tr>
+ 
   <tr>
     <td class="tg-wpup">Mr Ng Jun Lin</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Ms Hun Li Shee</td>
-  </tr>
+  
   <tr>
     <td class="tg-wpup">Mdm Nurshuaidah Musa</td>
   </tr>
