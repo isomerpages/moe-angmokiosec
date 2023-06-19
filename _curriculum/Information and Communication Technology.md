@@ -43,9 +43,7 @@ Enabling Possibilities through the Use of ICT
   <tr>
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Hairi Bin Saffee</span><br><span style="font-weight:400;color:#004D2E">(Desktop Engineer)</span></td>
   </tr>
-  <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mdm Nurhayati Binte Dahlan</span><br><span style="font-weight:400;color:#004D2E">(Librarian)</span></td>
-  </tr>
+  
 </tbody>
 </table>
 
