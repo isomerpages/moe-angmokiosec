@@ -9,7 +9,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
 #### Staff Details
 
-![Mother Tongue Department](/images/mother%20tongue%20language%20department%202.jpeg)
+![Mother Tongue Department](/images/2023%20Department%20photos/mother%20tongue%20language%20department%202.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -99,7 +99,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
 ---
 
-##### **Conversational Chinese & Conversational Malay Programme**
+##### **Conversational Chinese &amp; Conversational Malay Programme**
 
   
 
