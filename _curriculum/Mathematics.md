@@ -85,26 +85,24 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-bapb">Mr Mohamed Faizal</td>
   </tr>
+  
   <tr>
-    <td class="tg-wpup">Miss Rachael Wu Caifen</td>
+    <td class="tg-wpup">Mrs Seah Kwan Chaet</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mrs Seah Kwan Chaet</td>
+    <td class="tg-bapb">Mr Soh Kee Tong</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Soh Kee Tong</td>
+    <td class="tg-wpup">Mr Tan Wee Hong</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Tan Wee Hong</td>
+    <td class="tg-bapb">Mr Ng Khiam Siong</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Ng Khiam Siong</td>
+    <td class="tg-wpup">Mr Muhammad Haziq Bin Harisfadillah</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Muhammad Haziq Bin Harisfadillah</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mr Ang Yew Weng</td>
+    <td class="tg-bapb">Mr Ang Yew Weng</td>
   </tr>
 </tbody>
 </table>
