@@ -9,7 +9,7 @@ Discipline From Within
 
 #### Staff Details
 
-![Discipline 2023](/images/discipline%20committee%202.jpeg)
+![Discipline 2023](/images/2023%20Department%20photos/discipline%20committee%201.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -59,9 +59,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Discipline_.png" alt="Initiative" style="width:65%;">  
+<img src="/images/Discipline_.png" alt="Initiative" style="width:65%;">  
   
-</body>
+
 
 *   Create Awareness for AMKsians to know and judge what is good and right
 *   Staff and AMKsians understand and Care deeply about what is good and right
