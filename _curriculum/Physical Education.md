@@ -5,7 +5,7 @@ description: ""
 ---
 #### Vision
 
-A gracious & resourceful AMKsian who pursues an active & healthy lifestyle
+A gracious &amp; resourceful AMKsian who pursues an active &amp; healthy lifestyle
 
 #### Mission
 
@@ -17,7 +17,7 @@ Develop and maintain physical fitness through participation in physical activiti
 
 #### Staff Details
 
-![PE Department](/images/PE%203.jpeg)
+![PE Department](/images/2023%20Department%20photos/physical%20education%20department%201.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -64,11 +64,11 @@ Our students learn 2 sports/physical activities each year they are in school. Th
 
   
 
-**Sec 1 – Badminton & Netball** <br>
-**Sec 2 – Floorball & Softball** <br>
-**Sec 3 – Football & Volleyball** <br>
-**Sec 4 – Ultimate Frisbee & Basketball** <br>
-**Sec 5 – Touch Rugby & Mini Tennis**
+**Sec 1 – Badminton &amp; Netball** <br>
+**Sec 2 – Floorball &amp; Softball** <br>
+**Sec 3 – Football &amp; Volleyball** <br>
+**Sec 4 – Ultimate Frisbee &amp; Basketball** <br>
+**Sec 5 – Touch Rugby &amp; Mini Tennis**
 
  
 <h5><u><strong>Life Run</strong></u></h5>
@@ -120,7 +120,7 @@ At the end of the year, as part of our sports exposure programme, we give our Se
   
 
 **Sec 1 – Dragon Boating** <br>
-**Sec 2 – Inline skating & Sports Boot camp @Sports SG** <br>
+**Sec 2 – Inline skating &amp; Sports Boot camp @Sports SG** <br>
 **Sec 3 – Bowling**
 
   
