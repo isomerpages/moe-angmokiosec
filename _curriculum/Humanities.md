@@ -63,6 +63,9 @@ Towards greater social responsibility
   <tr>
     <td class="tg-bapb">Mr Ian Mui Jun Xian</td>
   </tr>
+	<tr>
+    <td class="tg-wpup">Miss Reeja Rachel Fernandez</td>
+  </tr>
 </tbody>
 </table>
 
