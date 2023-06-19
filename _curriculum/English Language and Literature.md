@@ -51,12 +51,7 @@ To be an ACE (articulate, confident and expressive) user of the English Language
   <tr>
     <td class="tg-bapb">Mr Lim Wui Meng</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Yeo Keng Hui</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Miss Jananee D/O Yegambaram</td>
-  </tr>
+ 
   <tr>
     <td class="tg-wpup">Ms Daphne Chang Wei Shin</td>
   </tr>
