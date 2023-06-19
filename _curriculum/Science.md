@@ -56,13 +56,13 @@ description: ""
   </tr>
   
   <tr>
-    <td class="tg-wpup">Mr Chow Yan Bin</td>
+    <td class="tg-bapb">Mr Chow Yan Bin</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Muhammad Haziq Bin Harisfadillah</td>
+    <td class="tg-wpup">Mr Muhammad Haziq Bin Harisfadillah</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Roysmond Sim</td>
+    <td class="tg-bapb">Mr Roysmond Sim</td>
   </tr>
   
   <tr>
@@ -76,7 +76,7 @@ description: ""
   </tr>
  
   <tr>
-    <td class="tg-wpup">Mr Ng Jun Lin</td>
+    <td class="tg-bapb">Mr Ng Jun Lin</td>
   </tr>
   
   <tr>
