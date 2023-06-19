@@ -12,13 +12,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/maths_vision.png" alt="Math Vision" style="width:75%;">  
+<img src="/images/maths_vision.png" alt="Math Vision" style="width:75%;">  
   
-</body>
+
 
 #### Mission
 
-To provide a supportive environment for the learning & application of mathematics
+To provide a supportive environment for the learning &amp; application of mathematics
 
 **<u>Secondary Mathematics Curriculum</u>**
 
@@ -31,7 +31,7 @@ The goals of the secondary mathematics education are:
 
 #### Staff Details
 
-![Mathematics Department](/images/mathematics%20department%202.jpeg)
+![Mathematics Department](/images/2023%20Department%20photos/mathematics%20department%201.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
