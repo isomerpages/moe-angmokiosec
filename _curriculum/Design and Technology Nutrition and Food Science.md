@@ -9,7 +9,7 @@ Every child a resourceful and creative problem solver
 
 #### Staff Details
 
-![craft and technology department](/images/craft%20and%20technology%20department%202.jpeg)
+![craft and technology department](/images/2023%20Department%20photos/craft%20and%20technology%20department%201.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
