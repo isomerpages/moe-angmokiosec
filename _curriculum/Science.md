@@ -9,7 +9,7 @@ description: ""
 
 #### Staff Details
 
-![Science Department](/images/science%20department%202.jpeg)
+![Science Department](/images/2023%20Department%20photos/science%20department%202.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -54,21 +54,17 @@ description: ""
   <tr>
     <td class="tg-wpup">Mr Ronnie Pang</td>
   </tr>
+  
   <tr>
-    <td class="tg-bapb">Mr Yeo Chee Keong Spencer</td>
+    <td class="tg-bapb">Mr Chow Yan Bin</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Chow Yan Bin</td>
+    <td class="tg-wpup">Mr Muhammad Haziq Bin Harisfadillah</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Muhammad Haziq Bin Harisfadillah</td>
+    <td class="tg-bapb">Mr Roysmond Sim</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Roysmond Sim</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Mrs Jessica Knapp</td>
-  </tr>
+  
   <tr>
     <td class="tg-wpup">Ms Ferng Yung Ying Audrey</td>
   </tr>
@@ -78,15 +74,11 @@ description: ""
   <tr>
     <td class="tg-wpup">Miss Tan Jieying</td>
   </tr>
+ 
   <tr>
-    <td class="tg-bapb">Ms Chai Jia Yi Zoe</td>
+    <td class="tg-bapb">Mr Ng Jun Lin</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Ng Jun Lin</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Ms Hun Li Shee</td>
-  </tr>
+  
   <tr>
     <td class="tg-wpup">Mdm Nurshuaidah Musa</td>
   </tr>
@@ -98,7 +90,7 @@ description: ""
 
 #### Key Initiatives
 
-**Learning Journeys & Enrichment**
+**Learning Journeys &amp; Enrichment**
 
   
 
@@ -162,7 +154,7 @@ description: ""
 
 ![](/images/enrichment_activities%203.jpg)
 
-4)  NKF
+4)&nbsp; NKF
 
 ![](/images/enrichment_activities%204.jpg)
 
@@ -170,19 +162,19 @@ description: ""
 
 ![](/images/enrichment_activities%206.jpg)
 
-5)  Science Centre-Course on Genetic Diseases
+5)&nbsp; Science Centre-Course on Genetic Diseases
 
 ![](/images/enrichment_activities%207.jpg)
 
 ![](/images/enrichment_activities%208.jpg)
 
-6)  SUTD Event: Going where no Singaporean has gone before
+6)&nbsp; SUTD Event: Going where no Singaporean has gone before
 
 ![](/images/enrichment_activities%209.jpg)
 
 ![](/images/enrichment_activities%2010.jpg)
 
-7)  Blood Bank Learning and Blood Donation
+7)&nbsp; Blood Bank Learning and Blood Donation
 
 ![](/images/enrichment_activities%2011.jpg)
 

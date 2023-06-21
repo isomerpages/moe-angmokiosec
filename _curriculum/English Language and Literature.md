@@ -9,7 +9,7 @@ To be an ACE (articulate, confident and expressive) user of the English Language
 
 #### Staff Details
 
-![English Language](/images/english%20language%20department%202.jpeg)
+![English Language](/images/2023%20Department%20photos/english%20language%20department%201.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -51,12 +51,7 @@ To be an ACE (articulate, confident and expressive) user of the English Language
   <tr>
     <td class="tg-bapb">Mr Lim Wui Meng</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Yeo Keng Hui</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Miss Jananee D/O Yegambaram</td>
-  </tr>
+ 
   <tr>
     <td class="tg-wpup">Ms Daphne Chang Wei Shin</td>
   </tr>
@@ -90,7 +85,7 @@ _Target Group: All_
 
   
 
-##### **English & Literature Creative Performance Tasks**
+##### **English &amp; Literature Creative Performance Tasks**
 
 _Target Group: Respective Levels_
 
@@ -216,9 +211,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Blackout%20Poetry%20(EL%20Week%202022).jpeg" alt="Blackout Poetry (EL Week 2022)" style="width:40%;">  
+<img src="/images/Blackout%20Poetry%20(EL%20Week%202022).jpeg" alt="Blackout Poetry (EL Week 2022)" style="width:40%;">  
   
-</body>
+
 
 <p style="text-align:center;"> <strong>Blackout Poetry (EL Week 2022)</strong></p>
 
@@ -229,8 +224,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Class%20Debate.jpeg" alt="Class Debate" style="width:75%;">  
+<img src="/images/Class%20Debate.jpeg" alt="Class Debate" style="width:75%;">  
   
-</body>
+
 
 <p style="text-align:center;"> <strong>Class Debate</strong></p>

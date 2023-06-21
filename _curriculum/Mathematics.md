@@ -12,13 +12,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/maths_vision.png" alt="Math Vision" style="width:75%;">  
+<img src="/images/maths_vision.png" alt="Math Vision" style="width:75%;">  
   
-</body>
+
 
 #### Mission
 
-To provide a supportive environment for the learning & application of mathematics
+To provide a supportive environment for the learning &amp; application of mathematics
 
 **<u>Secondary Mathematics Curriculum</u>**
 
@@ -31,7 +31,7 @@ The goals of the secondary mathematics education are:
 
 #### Staff Details
 
-![Mathematics Department](/images/mathematics%20department%202.jpeg)
+![Mathematics Department](/images/2023%20Department%20photos/mathematics%20department%201.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -85,26 +85,24 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-bapb">Mr Mohamed Faizal</td>
   </tr>
+  
   <tr>
-    <td class="tg-wpup">Miss Rachael Wu Caifen</td>
+    <td class="tg-wpup">Mrs Seah Kwan Chaet</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mrs Seah Kwan Chaet</td>
+    <td class="tg-bapb">Mr Soh Kee Tong</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Soh Kee Tong</td>
+    <td class="tg-wpup">Mr Tan Wee Hong</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Tan Wee Hong</td>
+    <td class="tg-bapb">Mr Ng Khiam Siong</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Ng Khiam Siong</td>
+    <td class="tg-wpup">Mr Muhammad Haziq Bin Harisfadillah</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Muhammad Haziq Bin Harisfadillah</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mr Ang Yew Weng</td>
+    <td class="tg-bapb">Mr Ang Yew Weng</td>
   </tr>
 </tbody>
 </table>

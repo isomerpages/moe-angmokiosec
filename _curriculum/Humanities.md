@@ -9,7 +9,7 @@ Towards greater social responsibility
 
 #### Staff Details
 
-![Humanities Department](/images/humanities%20department%202.jpeg)
+![Humanities Department](/images/2023%20Department%20photos/humanities%20department%201.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -62,6 +62,9 @@ Towards greater social responsibility
   </tr>
   <tr>
     <td class="tg-bapb">Mr Ian Mui Jun Xian</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Miss Reeja Rachel Fernandez</td>
   </tr>
 </tbody>
 </table>
