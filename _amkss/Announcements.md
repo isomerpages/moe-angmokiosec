@@ -20,7 +20,7 @@ Do remember to bring along your proof of identity (EZ Link card or IC) to collec
 
 ##### **2023  SEMESTER -2 TIMETABLE**   
 
-[Please click here for 2023 Semester 2 Timetable](/files/mediaDirectory/files/editMediaSettings/sem%202_class_2023_22june2023.pdf)
+[Please click here for 2023 Semester 2 Timetable](/files/sem%202_class_2023_22june2023.pdf)
 
 ##### **2023 CLASSROOM ALLOCATION**   
 
