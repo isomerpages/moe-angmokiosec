@@ -18,9 +18,9 @@ Do remember to bring along your proof of identity (EZ Link card or IC) to collec
 ##### **2023 MOE FAS Application**
 [Please click here for information pertaining to 2023 MOE FAS Application](https://staging.d2qcf83lbf7y8u.amplifyapp.com/about-us/moe-fas/)
 
-##### **2023  SEMESTER -1 TIMETABLE**   
+##### **2023  SEMESTER -2 TIMETABLE**   
 
-[Please click here for 2023 Semester 1 Timetable](/files/2023sem1timetable.pdf)
+[Please click here for 2023 Semester 2 Timetable](/files/sem%202_class_2023_22june2023.pdf)
 
 ##### **2023 CLASSROOM ALLOCATION**   
 
