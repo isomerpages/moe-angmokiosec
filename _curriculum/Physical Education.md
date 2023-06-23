@@ -39,10 +39,10 @@ Develop and maintain physical fitness through participation in physical activiti
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr K Thanaraj</span><br><span style="font-weight:400;color:#004D2E">(HOD Physical Education &amp; CCA)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr K Thanaraj</span><br><span style="font-weight:400;color:#004D2E">(HOD / Physical Education &amp; CCA)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Yap Wee Leong Alvin</span><br><span style="font-weight:400;color:#004D2E">(SH Physical Education &amp; CCA)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Yap Wee Leong Alvin</span><br><span style="font-weight:400;color:#004D2E">(SH / Physical Education &amp; CCA)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mr Lui Jian Long</td>
