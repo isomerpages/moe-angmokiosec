@@ -31,19 +31,19 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Lew Ching Min Jessica</span><br><span style="font-weight:400;color:#004D2E">(HOD Science)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Lew Ching Min Jessica</span><br><span style="font-weight:400;color:#004D2E">(HOD / Science)</span></td>
   </tr>
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Vincent Voo Tech Hong</span><br><span style="font-weight:400;color:#004D2E">(School Staff Developer)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Ms Gina Lim</span><br><span style="font-weight:400;color:#004D2E">(SH Science)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Ms Gina Lim</span><br><span style="font-weight:400;color:#004D2E">(SH / Science)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Joselyn Luei Sin Yen</span><br><span style="font-weight:400;color:#004D2E">(Assistant Year Head - Upper Sec)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Joselyn Luei Sin Yen</span><br><span style="font-weight:400;color:#004D2E">(Assistant Year Head / Upper Sec)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Miss Tay Siew Peng</span><br><span style="font-weight:400;color:#004D2E">(ST Chemistry)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Miss Tay Siew Peng</span><br><span style="font-weight:400;color:#004D2E">(ST / Chemistry)</span></td>
   </tr>
   <tr>
     <td class="tg-wpup">Mr Lee Tai Shen</td>

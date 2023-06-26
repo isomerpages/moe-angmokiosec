@@ -31,10 +31,10 @@ Discipline From Within
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Muhammad Lewin Sim</span><br><span style="font-weight:400;color:#004D2E">(HOD Discipline)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Muhammad Lewin Sim</span><br><span style="font-weight:400;color:#004D2E">(HOD / Discipline)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Yap Wee Leong Alvin</span><br><span style="font-weight:400;color:#004D2E">(SH Physical Education &amp; CCA)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Yap Wee Leong Alvin</span><br><span style="font-weight:400;color:#004D2E">(SH / Physical Education &amp; CCA)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mr Ronnie Pang</td>

@@ -30,7 +30,7 @@ Every child a resourceful and creative problem solver
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Peggy Teng Choy Ling</span><br><span style="font-weight:400;color:#004D2E">(SH Design &amp; Technology)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Peggy Teng Choy Ling</span><br><span style="font-weight:400;color:#004D2E">(SH / Design &amp; Technology)</span></td>
   </tr>
   <tr>
     <td class="tg-wpup">Mr Victor Tan</td>

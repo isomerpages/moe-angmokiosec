@@ -53,28 +53,28 @@ The goals of the secondary mathematics education are:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Ng Kae Pheng</span><br><span style="font-weight:400;color:#004D2E">(HOD Mathematics)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Ng Kae Pheng</span><br><span style="font-weight:400;color:#004D2E">(HOD /  Mathematics)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Deepa Sharav</span><br><span style="font-weight:400;color:#004D2E">(Year Head - Upper Sec)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Deepa Sharav</span><br><span style="font-weight:400;color:#004D2E">(Year Head / Upper Sec)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Muhammad Lewin Sim</span><br><span style="font-weight:400;color:#004D2E">(HOD Discipline)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Muhammad Lewin Sim</span><br><span style="font-weight:400;color:#004D2E">(HOD / Discipline)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Linda Wang Mui Kiang</span><br><span style="font-weight:400;color:#004D2E">(HOD CCE)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Linda Wang Mui Kiang</span><br><span style="font-weight:400;color:#004D2E">(HOD / CCE)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Ah Geok Teng Karen</span><br><span style="font-weight:400;color:#004D2E">(SH/Additional Math)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Karen Teng Ah Geok</span><br><span style="font-weight:400;color:#004D2E">(SH / Additional Math)</span></td>
   </tr>
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Desmond Tong Kian Kiong</span><br><span style="font-weight:400;color:#004D2E">(SH / Data Management)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Koh Hui Teng</span><br><span style="font-weight:400;color:#004D2E">(Assistant Year Head - Lower Sec)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Koh Hui Teng</span><br><span style="font-weight:400;color:#004D2E">(Assistant Year Head / Lower Sec)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Lee Bing Qiang Eric</span><br><span style="font-weight:400;color:#004D2E">(SH Student Leadership)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Lee Bing Qiang Eric</span><br><span style="font-weight:400;color:#004D2E">(SH / Student Leadership)</span></td>
   </tr>
   <tr>
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Lim Kwang Hock</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
@@ -99,11 +99,9 @@ The goals of the secondary mathematics education are:
     <td class="tg-bapb">Mr Ng Khiam Siong</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Muhammad Haziq Bin Harisfadillah</td>
+    <td class="tg-wpup">Mr Ang Yew Weng</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Ang Yew Weng</td>
-  </tr>
+  
 </tbody>
 </table>
 

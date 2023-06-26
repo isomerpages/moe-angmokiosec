@@ -31,10 +31,10 @@ Towards greater social responsibility
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Nor Azahar Bin Mohd Ismail</span><br><span style="font-weight:400;color:#004D2E">(HOD Humanities)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Nor Azahar Bin Mohd Ismail</span><br><span style="font-weight:400;color:#004D2E">(HOD / Humanities)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Mohammad Suhaimi</span><br><span style="font-weight:400;color:#004D2E">(SH Humanities)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Mohammad Suhaimi</span><br><span style="font-weight:400;color:#004D2E">(SH / Humanities)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mdm G Anantha</td>
