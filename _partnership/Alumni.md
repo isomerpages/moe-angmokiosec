@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/phoebe%20tok%20class%2043(2019).jpg" alt="Esther Joice" style="width:70%;">  
+<img src="/images/phoebe%20tok%20class%2043(2019).jpg" alt="Esther Joice" style="width:60%;">  
   
 
 
