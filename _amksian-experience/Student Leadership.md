@@ -32,3 +32,11 @@ The Class Committee provides a platform for student leaders to practice servant 
   
 
 Ang Mo Kio Secondary School provides our students with multiple pathways to strive for their best in their journey as leaders with the belief that every child can be a leader and should be developed as one in their own field of expertise.
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/2023%20Department%20photos/student%20leadership%20committee%202.jpg" alt="Student Leadership" style="width:70%;">  
