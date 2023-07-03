@@ -14,8 +14,9 @@ img {
   
 
 
-In a rapidly changing and increasingly complex world, leaders with upright morals and clear purpose, in every sphere and at every level is needed to inspire us to contribute our best in our efforts to improve the well-being of those around us. Driven by this motivation, Ang Mo Kio Secondary School provides platforms that caters for students to experience leadership at different pace and levels. At the cohort level, other than being exposed to the concept of leadership in the classroom, self-reflecting through the National Youth Achievement Award journey, students are also involved in level camps as well as other activities for experiential learning in leadership. Supporting these efforts are the Student Councillors, CCA Leaders and Class Committee Directed at honing leadership in their various spectrum of influence, CCA Leaders are provided with numerous opportunities such as the Leadership Through Sports programme by SportSG, the Youth Sports Leaders’ Camp organised by ActiveSG as well as CCA based camps, workshops and attachments. These programmes aim to develop students’ character, communication skills and competencies by providing various practical experiences within multiple platforms in school and the wider community. <br>
-Members.
+In a rapidly changing and increasingly complex world, leaders with upright morals and clear purpose, in every sphere and at every level is needed to inspire us to contribute our best in our efforts to improve the well-being of those around us. Driven by this motivation, Ang Mo Kio Secondary School provides platforms that caters for students to experience leadership at different pace and levels. At the cohort level, other than being exposed to the concept of leadership in the classroom, self-reflecting through the National Youth Achievement Award journey, students are also involved in level camps as well as other activities for experiential learning in leadership. Supporting these efforts are the Student Councillors, CCA Leaders and Class Committee Directed at honing leadership in their various spectrum of influence, CCA Leaders are provided with numerous opportunities such as the Leadership Through Sports programme by SportSG, the Youth Sports Leaders’ Camp organised by ActiveSG as well as CCA based camps, workshops and attachments. These programmes aim to develop students’ character, communication skills and competencies by providing various practical experiences within multiple platforms in school and the wider community members. <br>
+
+<img src="/images/Student%20Leadership%202023/picture%201.jpeg" alt="Student Leadership" style="width:70%;">
 
   
 
@@ -39,4 +40,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/2023%20Department%20photos/student%20leadership%20committee%202.jpg" alt="Student Leadership" style="width:70%;">  
+<img src="/images/Student%20Leadership%202023/picture%201.jpeg" alt="Student Leadership" style="width:70%;">
+<br>
+<img src="/images/Student%20Leadership%202023/picture%201.jpeg" alt="Student Leadership" style="width:70%;">
