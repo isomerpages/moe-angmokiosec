@@ -33,8 +33,9 @@ Directed at honing leadership in their various spectrum of influence, CCA Leader
   
 
 The Class Committee provides a platform for student leaders to practice servant leadership by leading their class based on the role entrusted to them. Students are groomed through developmental opportunities that are specific to their roles. By participating in the management of their class, class committee members are empowered to organise and lead their class in various school activities and capacity.
+<br>
+<img src="/images/Student%20Leadership%202023/picture%202.JPG" alt="Student Leadership" style="width:70%;">
 
-  
 
 Ang Mo Kio Secondary School provides our students with multiple pathways to strive for their best in their journey as leaders with the belief that every child can be a leader and should be developed as one in their own field of expertise.
 
