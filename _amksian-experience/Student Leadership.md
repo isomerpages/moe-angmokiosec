@@ -21,10 +21,14 @@ In a rapidly changing and increasingly complex world, leaders with upright moral
   
 
 A team of elected student leaders with the aim of serving the school with dedication and pride, the student council bonds the school in its role as a bridge, as the voice of the students. Through workshops, training camps and participation in various key events such as the Secondary One Orientation Camp, Teachers’ and EAS Day Celebrations etc, student councillors are nurtured to become role models – positively influencing their peers as they reach out to serve actively, bringing about improvement in school and fostering strong school spirit.
+<br>
+<img src="/images/Student%20Leadership%202023/picture%204.jpeg" alt="Student Leadership" style="width:70%;">
 
   
 
 Directed at honing leadership in their various spectrum of influence, CCA Leaders are provided with numerous opportunities such as the Leadership Through Sports programme by SportSG, the Youth Sports Leaders’ Camp organised by ActiveSG as well as CCA based camps, workshops and attachments. These programmes aim to develop students’ character, communication skills and competencies by providing various practical experiences within multiple platforms in school and the wider community.
+<br>
+<img src="/images/Student%20Leadership%202023/picture%205.jpeg" alt="Student Leadership" style="width:70%;">
 
   
 
@@ -33,13 +37,6 @@ The Class Committee provides a platform for student leaders to practice servant 
   
 
 Ang Mo Kio Secondary School provides our students with multiple pathways to strive for their best in their journey as leaders with the belief that every child can be a leader and should be developed as one in their own field of expertise.
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Student%20Leadership%202023/picture%201.jpeg" alt="Student Leadership" style="width:70%;">
+
 <br>
-<img src="/images/Student%20Leadership%202023/picture%201.jpeg" alt="Student Leadership" style="width:70%;">
+<img src="/images/Student%20Leadership%202023/picture%203.jpeg" alt="Student Leadership" style="width:70%;">
