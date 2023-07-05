@@ -3,8 +3,7 @@ title: Applied Learning Programme
 permalink: /amksian-experience/applied-learning-programme/
 description: ""
 ---
-  ENVIRONMENTAL SUSTAINABILITY THROUGH STEM
-<br>
+#### ENVIRONMENTAL SUSTAINABILITY THROUGH STEM
 <br>
 Our Applied Learning Programme (ALP) – Environmental Sustainability through STEM aims to equip students with the knowledge, skills and passion necessary to tackle pressing environmental challenges. By integrating the principles of biodiversity, energy resources, coding and electronics, our programme provides a comprehensive approach to fostering sustainability practices. Through engaging our students through our unique curriculum and learning journeys, we aim to provide enriching experiences to develop a deep understanding of environmental issues in our students. 
 <br>
@@ -18,7 +17,7 @@ Recognizing the pivotal role of technology in driving environmental sustainabili
 <br>
 Our programme also offers a wide range of learning journeys and enrichment opportunities to broaden students’ perspectives and provide them with exposure to related fields. These include visits to research institutions and sustainable businesses. Students will interact with experts, participate in workshops and engage in collaborative projects. Students will also get the chance to participate in Applied Learning Modules (ApLM@Poly). These experiences will not only deepen their understanding but also inspire them to pursue further studies or careers in related fields.<br>
 <br>
-We hope to provide a holistic educational experience by integrating various disciplines, enabling students to see the interconnectedness of environmental sustainability and STEM. Students will gain hands-on experience and be equipped with practical skills to address environmental challenges. Through the programme, students can foster a deeper understanding on environmental issues, and be empowered to become environmentally conscious individuals. Our programme offers students a unique opportunity to explore the crucial intersection of environmental conservation and STEM disciplines and inspire students to make a positive impact on the environment. 
+We hope to provide a holistic educational experience by integrating various disciplines, enabling students to see the interconnectedness of environmental sustainability and STEM. Students will gain hands-on experience and be equipped with practical skills to address environmental challenges. Through the programme, students can foster a deeper understanding on environmental issues, and be empowered to become environmentally conscious individuals. Our programme offers students a unique opportunity to explore the crucial intersection of environmental conservation and STEM disciplines and inspire students to make a positive impact on the environment. <br><br>
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1BDxAAyFryKv4EL1Dsjt5JVPXa3R4cKncdjFsjGv5Bt_H6FmgUxfaUWwGLpBOuEkSsvaYSuZFxQyg/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
