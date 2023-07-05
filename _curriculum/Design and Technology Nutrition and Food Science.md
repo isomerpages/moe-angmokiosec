@@ -194,4 +194,4 @@ Through our daily theory and practical lessons, we aim to provide students with 
 
 #### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWPuyv_Z7Ul_muu7sLbTKzd3KiaxJs99Nz4rmo2HKj538bDoVqmkoL9FTOXRJ0D6iKz2grvCA_GiY0/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAZNs9zqz4H3KDXnS4VFMnAjEQfFDnMjrrJzsSupKJHx6Xh763rxr0XmLMQpXw2JVonpqx2vAH7T70/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
