@@ -21,3 +21,28 @@ We hope to provide a holistic educational experience by integrating various disc
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1BDxAAyFryKv4EL1Dsjt5JVPXa3R4cKncdjFsjGv5Bt_H6FmgUxfaUWwGLpBOuEkSsvaYSuZFxQyg/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<br>
+
+#### Applied Learning Programme (ALP) the AMKSS Way
+
+##### Key Takeaways
+“I enjoy the school’s ALP because it offers students many opportunities to engage in hands-on projects, such as creating a bottle that lights up the bulb.’
+
+“Growing the vegetables and being able to harvest them is very satisfying!”
+
+The above reflections resonate the common sentiments of the Secondary 1 cohort at Ang Mo Kio Secondary School (AMKSS) who underwent the Biodiversity and Energy and Resources modules under ALP @AMKSS.
+
+Multi-disciplinary Learning Festival 2023 
+The recent AMKSS Learning Festival serves as a valuable platform for multi-disciplinary and authentic learning experiences. The ALP Committee innovatively explored collaborating with the Humanities Department to organise an ALP–GI (Geographical Investigation) learning journey to Sungei Buloh Wetland Reserve for the Secondary Ones. 
+
+Not only did the students gain the chance for hands-on learning, but they also developed strong appreciation for the diversity in the mangrove forest and became more aware of the intricate relationship between human actions and nature. 
+
+Le Xuan (IF)’s reflection testifies to the deep learning she gained from this learning journey: ‘I learnt that mangroves support biotic life well and is very important in many ways. A lot of animals live near the mangroves, and I also learnt about the mutualistic relationship between organisms. Sometimes I do not recycle and that can lead to the emission of carbon dioxide into the atmosphere. I learnt more about the importance of ‘Reduce, Reuse, Recycle’. We should also take actions towards a more sustainable way of living. I am encouraged and will motivate others to do so too, so that more people can make a positive change to our environment.’ 
+
+Ian Mui, Humanities teacher and co-organiser of this ALP-GI learning journey, shares: ‘Such experiential learning opportunities give students the chance of first-hand exploration of their surroundings outside the confines of the classroom, giving rise to novel observations of the various flora and fauna’s interactions with their surroundings, as well as human interference and influence. It was heartening to see students drawing connections between what they observed as possible extension of human interference and their daily life actions. This authentic exploration of Sungei Buloh gets students to reflect on their own actions, further developing themselves as concerned citizens for the environment.’ 
+
+To further their learning about food security and sustainability, and its importance, as well as how farming helps promote a more inclusive and healthy society, a visit to the Edible Garden City was planned for the festival. Through this learning journey, the students learnt about the closed-loop and minimal-waste model of growing vegetables in the urban setting. 
+
+##### Moving on… 
+Heartened by the rich learning and student engagement in these Learning Festival programmes, AMKSS will continue to explore and organise meaningful and authentic learning opportunities for our students to grow holistically in areas of STEM (Science, Technology, Engineering &amp; Mathematics).
+
