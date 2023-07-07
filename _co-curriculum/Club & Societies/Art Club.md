@@ -116,13 +116,13 @@ third_nav_title: Club & Societies
     <td class="tg-wpup">2018 Uniquely Us Art Exhibition @ Ang Mo Kio Library</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Draw My Stamp Story Competition- Most Commendable Award</td>
+    <td class="tg-bapb">2018 Draw My Stamp Story Competition- Most Commendable Award</td>
   </tr>
   <tr>
     <td class="tg-wpup">2018 Ang Mo Kio Division’s Neighbourliness Design Competition - Certificate of Participation</td>
   </tr>
   <tr>
-    <td class="tg-bapb">2018 Singapore Youth Festival- Certificate of Participation</td>
+    <td class="tg-bapb">2018 Singapore Youth Festival (Visual Arts)- Certificate of Participation</td>
   </tr>
 </tbody>
 </table>
