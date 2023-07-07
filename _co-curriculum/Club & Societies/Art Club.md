@@ -86,7 +86,7 @@ third_nav_title: Club & Societies
     <td class="tg-wpup">2023 World Trauma Day 2023 Design Youth Challenge, Second Place</td>
   </tr>
 	<tr>
-    <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
+    <td class="tg-wpup">2023 Suzhou International Youth Postcard Drawing, Participation</td>
   </tr>
 	<tr>
     <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
