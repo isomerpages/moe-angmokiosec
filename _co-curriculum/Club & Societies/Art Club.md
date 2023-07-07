@@ -47,19 +47,19 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Vance Tang Qi Zhi (3/4)</span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Pestano Yuanne Carlos Santiago </span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Vice President(s)</u><br><span style="font-weight:400;color:#004D2E">Janice Khoo May Lynn (3/4)</span><br><span style="font-weight:400;color:#004D2E">Venice Grace Visican De Jesus (3A2)</span></td>
+    <td class="tg-mwbt"><u>Vice President(s)</u><br><span style="font-weight:400;color:#004D2E">Haidah Nadhirah Binte Khairil Azhar</span><br><span style="font-weight:400;color:#004D2E">Tay Kay Xin</span></td>
   </tr>
 	<tr>
-		<td class="tg-mwbt"><u>Arts Council</u><br><span style="font-weight:400;color:#004D2E">Pestano Yuanne Carlos Santiago (2C)</span></td>
+		<td class="tg-mwbt"><u>Welfare Officer, Upper Secondary</u><br><span style="font-weight:400;color:#004D2E">Claire Ng Jia Li</span></td>
 	</tr>
 	<tr>
-		<td class="tg-mwbt"><u>Welfare Officer, Upper Secondary</u><br><span style="font-weight:400;color:#004D2E">Haidah Nadhirah Binte Khairil Azhar (2A)</span></td>
+		<td class="tg-mwbt"><u>Welfare Officer, Lower Secondary</u><br><span style="font-weight:400;color:#004D2E">Han Wen</span></td>
 	</tr>
 	<tr>
-		<td class="tg-mwbt"><u>Welfare Officer, Lower Secondary</u><br><span style="font-weight:400;color:#004D2E">Gillian Teo Zhi Ling (2F)</span></td>
+		<td class="tg-mwbt"><u>Logistics Officer</u><br><span style="font-weight:400;color:#004D2E">Tan Si En Micole</span></td>
 	</tr>
 	
 </tbody>
