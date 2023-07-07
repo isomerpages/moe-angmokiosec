@@ -86,13 +86,19 @@ third_nav_title: Club & Societies
     <td class="tg-wpup">2023 World Trauma Day 2023 Design Youth Challenge, Second Place</td>
   </tr>
 	<tr>
-    <td class="tg-wpup">2023 Suzhou International Youth Postcard Drawing, Participation</td>
+    <td class="tg-bapb">2023 Suzhou International Youth Postcard Drawing, Participation</td>
   </tr>
 	<tr>
     <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
   </tr>
 	<tr>
     <td class="tg-bapb">2022 Singapore Youth Festival, Artvocacy, Participation</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">2022 Live On Festival, Participation </td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">2021 40th UOB Painting of the year, Certificate of Participation </td>
   </tr>
 	<tr>
     <td class="tg-wpup">2022 Live On Festival, Participation </td>
