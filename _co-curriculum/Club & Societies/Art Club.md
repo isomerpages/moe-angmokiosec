@@ -101,7 +101,7 @@ third_nav_title: Club & Societies
     <td class="tg-bapb">2021 40th UOB Painting of the year, Certificate of Participation </td>
   </tr>
 	<tr>
-    <td class="tg-wpup">2022 Live On Festival, Participation </td>
+    <td class="tg-wpup">2021 SYFgoesOnline!, Participation </td>
   </tr>
   <tr>
     <td class="tg-bapb">2020 Singapore Youth Festival (Visual Arts) - Special Provision</td>
