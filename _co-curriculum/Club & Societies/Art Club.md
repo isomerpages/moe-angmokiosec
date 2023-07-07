@@ -42,7 +42,7 @@ third_nav_title: Club & Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2022 / 2023</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2023</span></th>
   </tr>
 </thead>
 <tbody>
@@ -82,6 +82,12 @@ third_nav_title: Club & Societies
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-wpup">2023 World Trauma Day 2023 Design Youth Challenge, Second Place</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
+  </tr>
 	<tr>
     <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
   </tr>
