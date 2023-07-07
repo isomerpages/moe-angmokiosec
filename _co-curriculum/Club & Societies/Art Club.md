@@ -225,6 +225,3 @@ Art Club aims to provide a platform for all members to engage in the following p
 </tbody>
 </table>
 
-![](/images/Art%20Club%209.jpg)
-
-![](/images/Art%20Club%208.jpg)
