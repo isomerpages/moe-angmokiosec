@@ -13,3 +13,5 @@ For more information, check out the canteen's ECG noticeboard.
 <h5 style="color:black" align="center">
 </h5>
 
+![Sec 1 2023](images/ecgc_publicity%20poster.png)
+
