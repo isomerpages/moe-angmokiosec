@@ -166,19 +166,13 @@ third_nav_title: Club & Societies
 </table>
 <br>
 
-Art Club is a place where students’ creativity and imagination are allowed to take flight and where students develop their critical thinking skills. Pupils in the Art Club are exposed to a variety of art forms, techniques, exhibitions and other art-related activities. This year, students were taught mixed media techniques, watercolour, acrylic painting and pen drawings.
+Art Club is a place where students’ creativity and imagination are allowed to take flight. It also provides an avenue for students to develop their critical thinking skills. Pupils in the Art Club are exposed to a variety of art forms, techniques, exhibitions and other art-related activities. This year, students were taught mixed media techniques, watercolour, acrylic painting and pen drawings.
+ 
+As part of an effort to cultivate appreciation for the visual arts, Art Club ran the Secondary 1 Museum Based Learning (Virtual) for the school. The Art club members were also tasked to produce art pieces for fund-raising and tokens of appreciation for special guests. Through weekly sessions of fun filled activities, we hope to foster a strong sense of belonging as well as develop positive values in all members.
 
-  
-
-As part of the effort to cultivate an appreciation for the visual arts, Art Club run the Secondary 1 Museum Based Learning (Virtual) for the school. The Art club members were also tasked to produce art pieces as corporate gifts as well as to beautify the school environment. Through the weekly sessions of fun filled activities, we hope to foster a strong sense of belonging as well as develop positive values in all members.
-
-  
-
-We strive to cultivate a love and appreciation for the visual arts in every member of the club. We aim to reach out to the community by engaging in various community projects such as Art outreach Programme for MOE Kindergarten @ Fern Green Primary School, Art Festival - Engaging the Public @ Compass One Mall, Painting Workshops @ AMK Library and exhibiting of artworks to spread awareness.
-
-  
-
-Art Club aims to provide a platform for all members to engage in the following possible art forms:
+Art Club strives to cultivate a love and appreciation for the visual arts in every member of the club. We aim to make an impact in the community by engaging in various types of community projects through art outreach programmes, art festivals (Compass One Mall) and painting workshops (AMK Library).
+ 
+We aim to provide a platform for all members to engage in the following art forms:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -224,4 +218,3 @@ Art Club aims to provide a platform for all members to engage in the following p
   </tr>
 </tbody>
 </table>
-
