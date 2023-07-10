@@ -190,9 +190,9 @@ We aim to provide a platform for all members to engage in the following art form
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-74pa"><span style="font-weight:700">2 D Art Forms</span></th>
-    <th class="tg-74pa"><span style="font-weight:700">3 D Art Forms</span></th>
-    <th class="tg-74pa"><span style="font-weight:700">Digital Art Form</span></th>
+    <th class="tg-60pa"><span style="font-weight:700">2 D Art Forms</span></th>
+    <th class="tg-60pa"><span style="font-weight:700">3 D Art Forms</span></th>
+    <th class="tg-60pa"><span style="font-weight:700">Digital Art Form</span></th>
   </tr>
 </thead>
 <tbody>
