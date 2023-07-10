@@ -9,3 +9,7 @@ Our ECG Counsellor supports students (individually or in small groups) with the 
 An appointment can be made with the ECG Counsellor [here](https://go.gov.sg/ecgcamkss).
 
 For more information, check out the canteen's ECG noticeboard.
+
+<h5 style="color:black" align="center">
+</h5>
+
