@@ -197,24 +197,20 @@ We aim to provide a platform for all members to engage in the following art form
 </thead>
 <tbody>
   <tr>
-    <td class="tg-60xp">Print Making</td>
+    <td class="tg-60xp">Acrylic Painting</td>
     <td class="tg-60xp">Ceramics</td>
-    <td class="tg-60xp">Poster Designing</td>
+    <td class="tg-60xp">Photography</td>
   </tr>
   <tr>
-    <td class="tg-xar3">Acrylic Painting</td>
-    <td class="tg-nlyn"></td>
-    <td class="tg-xar3">Photography</td>
+    <td class="tg-xar3">Charcoal Drawing</td>
+    <td class="tg-nlyn">Paper Mache Sculpture</td>
+    <td class="tg-xar3">Poster Design</td>
   </tr>
   <tr>
-    <td class="tg-60xp">Charcoal Drawing</td>
-    <td class="tg-didf"></td>
+    <td class="tg-60xp">Watercolour Painting</td>
+    <td class="tg-didf">Special Effects</td>
     <td class="tg-60xp">Digital Drawing with Procreate</td>
   </tr>
-  <tr>
-    <td class="tg-xar3">Watercolour Painting</td>
-    <td class="tg-nlyn"></td>
-    <td class="tg-0lax"></td>
-  </tr>
+  
 </tbody>
 </table>
