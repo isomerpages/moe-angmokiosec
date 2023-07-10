@@ -4,7 +4,7 @@ permalink: /co-curriculum/clubs-n-societies/art-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-![](/images/Art%20Club%202.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0ev4JU5ZfxGCObcijXELkU7tyQiejMbDbbco_YtrihHCRZwXZMm0bgCUrAEXbtgFBurq4gm1HpDvf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -42,24 +42,24 @@ third_nav_title: Club & Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2022 / 2023</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2023</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Vance Tang Qi Zhi (3/4)</span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Pestano Yuanne Carlos Santiago </span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Vice President(s)</u><br><span style="font-weight:400;color:#004D2E">Janice Khoo May Lynn (3/4)</span><br><span style="font-weight:400;color:#004D2E">Venice Grace Visican De Jesus (3A2)</span></td>
+    <td class="tg-mwbt"><u>Vice President(s)</u><br><span style="font-weight:400;color:#004D2E">Haidah Nadhirah Binte Khairil Azhar</span><br><span style="font-weight:400;color:#004D2E">Tay Kay Xin</span></td>
   </tr>
 	<tr>
-		<td class="tg-mwbt"><u>Arts Council</u><br><span style="font-weight:400;color:#004D2E">Pestano Yuanne Carlos Santiago (2C)</span></td>
+		<td class="tg-mwbt"><u>Welfare Officer, Upper Secondary</u><br><span style="font-weight:400;color:#004D2E">Claire Ng Jia Li</span></td>
 	</tr>
 	<tr>
-		<td class="tg-mwbt"><u>Welfare Officer, Upper Secondary</u><br><span style="font-weight:400;color:#004D2E">Haidah Nadhirah Binte Khairil Azhar (2A)</span></td>
+		<td class="tg-mwbt"><u>Welfare Officer, Lower Secondary</u><br><span style="font-weight:400;color:#004D2E">Han Wen</span></td>
 	</tr>
 	<tr>
-		<td class="tg-mwbt"><u>Welfare Officer, Lower Secondary</u><br><span style="font-weight:400;color:#004D2E">Gillian Teo Zhi Ling (2F)</span></td>
+		<td class="tg-mwbt"><u>Logistics Officer</u><br><span style="font-weight:400;color:#004D2E">Tan Si En Micole</span></td>
 	</tr>
 	
 </tbody>
@@ -83,6 +83,12 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-wpup">2023 World Trauma Day 2023 Design Youth Challenge, Second Place</td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">2023 Suzhou International Youth Postcard Drawing, Participation</td>
+  </tr>
+	<tr>
     <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
   </tr>
 	<tr>
@@ -90,6 +96,12 @@ third_nav_title: Club & Societies
   </tr>
 	<tr>
     <td class="tg-wpup">2022 Live On Festival, Participation </td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">2021 40th UOB Painting of the year, Certificate of Participation </td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">2021 SYFgoesOnline!, Participation </td>
   </tr>
   <tr>
     <td class="tg-bapb">2020 Singapore Youth Festival (Visual Arts) - Special Provision</td>
@@ -104,13 +116,13 @@ third_nav_title: Club & Societies
     <td class="tg-wpup">2018 Uniquely Us Art Exhibition @ Ang Mo Kio Library</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Draw My Stamp Story Competition- Most Commendable Award</td>
+    <td class="tg-bapb">2018 Draw My Stamp Story Competition- Most Commendable Award</td>
   </tr>
   <tr>
     <td class="tg-wpup">2018 Ang Mo Kio Division’s Neighbourliness Design Competition - Certificate of Participation</td>
   </tr>
   <tr>
-    <td class="tg-bapb">2018 Singapore Youth Festival- Certificate of Participation</td>
+    <td class="tg-bapb">2018 Singapore Youth Festival (Visual Arts)- Certificate of Participation</td>
   </tr>
 </tbody>
 </table>
@@ -154,19 +166,13 @@ third_nav_title: Club & Societies
 </table>
 <br>
 
-Art Club is a place where students’ creativity and imagination are allowed to take flight and where students develop their critical thinking skills. Pupils in the Art Club are exposed to a variety of art forms, techniques, exhibitions and other art-related activities. This year, students were taught mixed media techniques, watercolour, acrylic painting and pen drawings.
+Art Club is a place where students’ creativity and imagination are allowed to take flight. It also provides an avenue for students to develop their critical thinking skills. Pupils in the Art Club are exposed to a variety of art forms, techniques, exhibitions and other art-related activities. This year, students were taught mixed media techniques, watercolour, acrylic painting and pen drawings.
+ 
+As part of an effort to cultivate appreciation for the visual arts, Art Club ran the Secondary 1 Museum Based Learning (Virtual) for the school. The Art club members were also tasked to produce art pieces for fund-raising and tokens of appreciation for special guests. Through weekly sessions of fun filled activities, we hope to foster a strong sense of belonging as well as develop positive values in all members.
 
-  
-
-As part of the effort to cultivate an appreciation for the visual arts, Art Club run the Secondary 1 Museum Based Learning (Virtual) for the school. The Art club members were also tasked to produce art pieces as corporate gifts as well as to beautify the school environment. Through the weekly sessions of fun filled activities, we hope to foster a strong sense of belonging as well as develop positive values in all members.
-
-  
-
-We strive to cultivate a love and appreciation for the visual arts in every member of the club. We aim to reach out to the community by engaging in various community projects such as Art outreach Programme for MOE Kindergarten @ Fern Green Primary School, Art Festival - Engaging the Public @ Compass One Mall, Painting Workshops @ AMK Library and exhibiting of artworks to spread awareness.
-
-  
-
-Art Club aims to provide a platform for all members to engage in the following possible art forms:
+Art Club strives to cultivate a love and appreciation for the visual arts in every member of the club. We aim to make an impact in the community by engaging in various types of community projects through art outreach programmes, art festivals (Compass One Mall) and painting workshops (AMK Library).
+ 
+We aim to provide a platform for all members to engage in the following art forms:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -184,35 +190,27 @@ Art Club aims to provide a platform for all members to engage in the following p
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-74pa"><span style="font-weight:700">2 D Art Forms</span></th>
-    <th class="tg-74pa"><span style="font-weight:700">3 D Art Forms</span></th>
-    <th class="tg-74pa"><span style="font-weight:700">Digital Art Form</span></th>
+    <th class="tg-60pa"><span style="font-weight:700">2 D Art Forms</span></th>
+    <th class="tg-60pa"><span style="font-weight:700">3 D Art Forms</span></th>
+    <th class="tg-60pa"><span style="font-weight:700">Digital Art Form</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-60xp">Print Making</td>
+    <td class="tg-60xp">Acrylic Painting</td>
     <td class="tg-60xp">Ceramics</td>
-    <td class="tg-60xp">Poster Designing</td>
+    <td class="tg-60xp">Photography</td>
   </tr>
   <tr>
-    <td class="tg-xar3">Acrylic Painting</td>
-    <td class="tg-nlyn"></td>
-    <td class="tg-xar3">Photography</td>
+    <td class="tg-xar3">Charcoal Drawing</td>
+    <td class="tg-nlyn">Paper Mache Sculpture</td>
+    <td class="tg-xar3">Poster Design</td>
   </tr>
   <tr>
-    <td class="tg-60xp">Charcoal Drawing</td>
-    <td class="tg-didf"></td>
+    <td class="tg-60xp">Watercolour Painting</td>
+    <td class="tg-didf">Special Effects</td>
     <td class="tg-60xp">Digital Drawing with Procreate</td>
   </tr>
-  <tr>
-    <td class="tg-xar3">Watercolour Painting</td>
-    <td class="tg-nlyn"></td>
-    <td class="tg-0lax"></td>
-  </tr>
+  
 </tbody>
 </table>
-
-![](/images/Art%20Club%209.jpg)
-
-![](/images/Art%20Club%208.jpg)
