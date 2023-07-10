@@ -10,4 +10,4 @@ An appointment can be made with the ECG Counsellor [here](https://go.gov.sg/ecgc
 
 For more information, check out the canteen's ECG noticeboard.
 
-<img src="/images/ecgc_publicity%20poster.png" alt="Esther Joice" style="width:60%;">  
+<img src="/images/ecgc_publicity%20poster.png" style="width:70%;">
