@@ -113,11 +113,11 @@ Students experience working with acrylic in Display Stand Project and aluminum i
 <br>Students will go through 3 to 4 practical lessons to acquire the basic culinary skills, and familiarise with basic kitchen hygiene and safety guidelines.<br>
 A simplified coursework where students need to conduct some form of research and present their information either in a poster, report or PowerPoint slides.<br>
 Lessons will focus on the following:
-Balanced diet
-Nutrients, their functions and sources
-Various methods of cooking
-Food &amp; kitchen safety
-Money management
+Balanced diet <br>
+Nutrients, their functions and sources <br>
+Various methods of cooking <br>
+Food &amp; Kitchen safety <br>
+Money management <br>
 Being a discerning consumer
 </td>
     <td class="tg-didf">Secondary 1</td>
