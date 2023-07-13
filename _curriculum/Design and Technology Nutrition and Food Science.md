@@ -161,7 +161,7 @@ Being a discerning consumer
     <th class="tg-0ouz"><span style="font-weight:700">S/No</span></th>
     <th class="tg-mcu8"><span style="font-weight:700">Name of Programme</span></th>
     <th class="tg-mcu8"><span style="font-weight:700">Objective(s)</span></th>
-    <th class="tg-mcu8"><span style="font-weight:700">Levels</span></th>
+    
   </tr>
 </thead>
 <tbody>
@@ -173,7 +173,7 @@ Being a discerning consumer
 		'Taste' - Identify the healthier drink<br>
 		'Touch' - Identify the 'hidden' food item<br>
 		'Smell' - Identify the fruit/food/flavour</td>
-    <td class="tg-didf"><br><br><br><br><br><br><br><br>Secondary 2<br><br><br><br><br><br><br><br><br><br><br><br>Secondary 1</td>
+   
   </tr>
 </tbody>
 </table>
