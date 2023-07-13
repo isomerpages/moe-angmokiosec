@@ -130,8 +130,8 @@ Being a discerning consumer
   </tr>
   <tr>
     <td class="tg-didf">3</td>
-    <td class="tg-657w">D&amp;T<br><br>Coursework 1: Canteen Scenario<br>Coursework 2: Entertainment<br><br>FCE<br></td>
-    <td class="tg-didf">Students do research to understand and define user needs, explore and develop design solutions, and realise their ideas using hand tools/equipment/machines when embarking their design journeys in the two coursework.<br>Students will go through a series of practical sessions to acquire advance culinary skills such as cutting and portioning a whole chicken, and the various methods of cake-making such as rubbing-in, whisking and creaming.Students will complete a full coursework base on the following components:<br><br><br>Task analysis<br>Information gathering (Research &amp; Development)<br>Decision making<br>Planning for execution<br>EvaluationBy the end of the coursework, students would have completed the practical exam and produce a comprehensive report to showcase their learnings.<br></td>
+    <td class="tg-657w">D&amp;T<br><br>Coursework : 3 mini-projects<br><br><br><br><br><br><br><br><br>FCE<br></td>
+    <td class="tg-didf">Students do research to understand and define user needs, explore and develop design solutions, and realise their ideas using hand tools/equipment/machines when embarking their design journeys in the three mini projects.<br>Students explore how things work to learn the three technologies, i.e. Mechanisms, Electronics and Structure.<br><br><br>Students will go through a series of practical sessions to acquire advance culinary skills such as cutting and portioning a whole chicken, and the various methods of cake-making such as rubbing-in, whisking and creaming.Students will complete a full coursework base on the following components:<br><br><br>Task analysis<br>Information gathering (Research &amp; Development)<br>Decision making<br>Planning for execution<br>EvaluationBy the end of the coursework, students would have completed the practical exam and produce a comprehensive report to showcase their learnings.<br></td>
     <td class="tg-didf">Secondary 3</td>
   </tr>
   <tr>
