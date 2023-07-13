@@ -136,7 +136,7 @@ Being a discerning consumer
   </tr>
   <tr>
     <td class="tg-nlyn">4</td>
-    <td class="tg-24tc">D&amp;T / F&amp;N<br><br>Coursework: GCE ‘O’ and ‘N’ Level Coursework</td>
+    <td class="tg-24tc">D&amp;T / NFS<br>Coursework: GCE ‘O’ and ‘N’ Level Coursework</td>
     <td class="tg-nlyn">Students will be working on their GCE ‘O’ and ‘N’ Level coursework examination from Term 1 to Term 3</td>
     <td class="tg-nlyn">Secondary 4/5</td>
   </tr>
