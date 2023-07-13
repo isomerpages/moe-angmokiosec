@@ -48,11 +48,9 @@ Develop and maintain physical fitness through participation in physical activiti
     <td class="tg-bapb">Mr Lui Jian Long</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Marcus Tan</td>
+    <td class="tg-wpup">Mr Mohamed Yasin Bin Abdul Latif</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Mohamed Yasin Bin Abdul Latif</td>
-  </tr>
+ 
 </tbody>
 </table>
 
