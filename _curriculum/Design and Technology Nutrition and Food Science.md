@@ -167,8 +167,12 @@ Being a discerning consumer
 <tbody>
   <tr>
     <td class="tg-didf">1</td>
-    <td class="tg-didf">Junior Show<br><br><br><br><br><br><br>D&amp;T<br><br><br><br><br><br><br><br><br><br>FCE</td>
-    <td class="tg-didf">A collaboration with the Aesthetic department to showcase students’ projects that are done with the knowledge and skills acquired in the Art, D&amp;T and FCE subjects<br><br><br>D&amp;T<br>In 2019, the sec 2 students designed and made catapults during the curriculum time, evaluated and tested to choose the best three catapults within each class to compete with the rest of the students at Junior Show for the Precision Catapult Category and the Distance Catapult Category.<br><br>FCE<br>In 2019, the Sec 1 students participated in the ‘Singapore Book of Records’ on the “Largest Word Formation Using Sandwiches’. The students prepared and decorated the sandwiches in an hour and formed the words ‘AMKSS 40’ to commemorate the school’s 40th Anniversary. Two teams from each class were awarded the most attractive sandwiches with AMKSS 40th anniversary celebration theme infused.<br></td>
+    <td class="tg-didf">Junior Show<br><br><br><br><br><br><br>D&amp;T<br><br><br><br><br><br><br><br><br><br>NFS</td>
+    <td class="tg-didf">A collaboration with the Aesthetic department to showcase students’ projects that are done with the knowledge and skills acquired in the Art, D&amp;T and FCE subjects<br><br><br>D&amp;T<br>In 2019, the sec 2 students designed and made catapults during the curriculum time, evaluated and tested to choose the best three catapults within each class to compete with the rest of the students at Junior Show for the Precision Catapult Category and the Distance Catapult Category.<br><br>NFS<br>In 2023, selected Sec 2 students participated in the ‘Best Poster Presentation’ and “Junior Master Chef competitions’.<br>For the poster presentation, students were tasked to showcase their practical exam dish, nutritional and health benefits attractively in A3 posters.<br> For the Junior master chef, students were required to prepare ,cook and serve a healthy snack attractively, within 1 hour.<br>
+			The Sec 3 NFS students set up sensory booths, namely, 'Taste', 'Touch', 'Smell', to engage their juniors.<br>
+		'Taste' - Identify the healthier drink<br>
+		'Touch' - Identify the 'hidden' food item<br>
+		'Smell' - Identify the fruit/food/flavour</td>
     <td class="tg-didf"><br><br><br><br><br><br><br><br>Secondary 2<br><br><br><br><br><br><br><br><br><br><br><br>Secondary 1</td>
   </tr>
 </tbody>
