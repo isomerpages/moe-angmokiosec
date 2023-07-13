@@ -108,7 +108,7 @@ Through our daily theory and practical lessons, we aim to provide students with 
   <tr>
     <td class="tg-didf">1</td>
     <td class="tg-657w">D&amp;T<br><br>Project 1: Display Stand for Toy Car<br>Project 2: Key Tag<br><br><br><br><br><br><br><br><br>FCE<br></td>
-    <td class="tg-didf">In Secondary 1, students learn Lines and Circles technique to sketch their ideas. Students learn and develop freehand sketching skills through idea generation and development. They also go through the tactile experiences when they tinker, test and evaluate ideas through building quick mock-up and finally constructing the prototype as their final design proposal.
+    <td class="tg-didf">In Secondary 1, students learn Lines and Circles technique to sketch their ideas. Students learn and develop freehand sketching skills through idea generation and development. They also go through the tactile experiences when they tinker, test and evaluate ideas through building quick mock-up and finally constructing the prototype as their final design proposal.<br>
 Students experience working with acrylic in Display Stand Project and aluminum in Key Tag Project.<br>
 <br>Students will go through 3 to 4 practical lessons to acquire the basic culinary skills, and familiarise with basic kitchen hygiene and safety guidelines.<br>
 A simplified coursework where students need to conduct some form of research and present their information either in a poster, report or PowerPoint slides.<br>
@@ -124,8 +124,8 @@ Being a discerning consumer
   </tr>
   <tr>
     <td class="tg-nlyn">2</td>
-    <td class="tg-24tc">D&amp;T<br><br>Project 1: Night Light<br>Project 2: Catapult Challenge<br><br><br><br><br><br><br>FCE<br></td>
-    <td class="tg-nlyn">Students learn basic electronics and simple soldering in the Night Light Project.<br>Students learn basic mechanisms and working principles and apply the knowledge in the designing and making of the catapult.<br>Students experience working with acrylic and jelutong in Night Light Project and jelutong in Catapult Project.<br>Students will go through 2 to 3 practical lessons to acquire more basic culinary skills, and showcase their kitchen hygiene and safety knowledge.<br>A simplified coursework where students need to conduct some form of research and present their information either in a poster, report or PowerPoint slides.Lessons will focus on the following:<br><br><br>Diet related health problems<br>Nutritional needs of different age groups<br>Evaluation of food<br>Food culture in Singapore</td>
+    <td class="tg-24tc">D&amp;T<br><br>Project 1: Balancing Toy <br>Project 2: Night Light<br><br><br><br><br>FCE<br></td>
+    <td class="tg-nlyn">In Secondary 2, students learn Shape Borrow technique to sketch ideas for their 2 projects. Students also learn basic electronics in the Night Light Project. <br> Students experience working with jelutong (wood) in the Balancing Toy Project, and acrylic and jelutong in the Night Light Project.<br><br>Students will go through 2 to 3 practical lessons to acquire more basic culinary skills, and showcase their kitchen hygiene and safety knowledge.<br>A simplified coursework where students need to conduct some form of research and present their information either in a poster, report or PowerPoint slides.Lessons will focus on the following:<br><br><br>Diet related health problems<br>Nutritional needs of different age groups<br>Evaluation of food<br>Food culture in Singapore</td>
     <td class="tg-nlyn">Secondary 2</td>
   </tr>
   <tr>
