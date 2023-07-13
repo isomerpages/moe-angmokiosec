@@ -74,7 +74,7 @@ Design process is the learning platform in D&amp;T. Pupils undertake a series of
 
 #### Nutrition and Food Science
 
-In the Nutrition and Food Science unit, the curriculum is split into lower secondary Food &amp; Consumer Education (FCE) and upper secondary Food &amp; Nutrition (F&amp;N).
+In the Nutrition and Food Science unit, the curriculum is split into lower secondary Food &amp; Consumer Education (FCE) and upper secondary Nutrition and Food Science (NFS).
 
   
 
