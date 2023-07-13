@@ -173,6 +173,14 @@ Being a discerning consumer
 		'Taste' - Identify the healthier drink<br>
 		'Touch' - Identify the 'hidden' food item<br>
 		'Smell' - Identify the fruit/food/flavour</td>
+	</tr><tr>
+    <td class="tg-nlyn">2</td>
+    <td class="tg-20tc">NFS<br></td>
+    <td class="tg-nlyn">NFS
+Upper Secondary NFS students went for an enrichment workshop to learn how to make macarons at BITC Tai Seng.
+They were introduced to the basics of making French macarons and chocolate ganache filling.
+It was an enriching and fulfilling session as all the students succeeded and brought back boxes of colourful and delicious macarons.
+</td>	
    
   </tr>
 </tbody>
