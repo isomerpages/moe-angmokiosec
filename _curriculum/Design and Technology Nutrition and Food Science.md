@@ -167,7 +167,7 @@ Being a discerning consumer
 <tbody>
   <tr>
     <td class="tg-didf">1</td>
-    <td class="tg-didf">Junior Show<br><br><br><br><br><br><br>D&amp;T<br><br><br><br><br><br><br><br><br><br>NFS</td>
+    <td class="tg-didf">Junior Show<br><br><br><br><br><br>D&amp;T<br><br><br><br><br><br><br><br><br>NFS</td>
     <td class="tg-didf">A collaboration with the Aesthetic department to showcase students’ projects that are done with the knowledge and skills acquired in the Art, D&amp;T and FCE subjects<br><br><br>D&amp;T<br>In 2019, the sec 2 students designed and made catapults during the curriculum time, evaluated and tested to choose the best three catapults within each class to compete with the rest of the students at Junior Show for the Precision Catapult Category and the Distance Catapult Category.<br><br>NFS<br>In 2023, selected Sec 2 students participated in the ‘Best Poster Presentation’ and “Junior Master Chef competitions’.<br>For the poster presentation, students were tasked to showcase their practical exam dish, nutritional and health benefits attractively in A3 posters.<br> For the Junior master chef, students were required to prepare ,cook and serve a healthy snack attractively, within 1 hour.<br>
 			The Sec 3 NFS students set up sensory booths, namely, 'Taste', 'Touch', 'Smell', to engage their juniors.<br>
 		'Taste' - Identify the healthier drink<br>
@@ -176,7 +176,7 @@ Being a discerning consumer
 	</tr><tr>
     <td class="tg-nlyn">2</td>
     <td class="tg-20tc">NFS<br></td>
-    <td class="tg-nlyn">NFS
+    <td class="tg-nlyn">NFS<br>
 Upper Secondary NFS students went for an enrichment workshop to learn how to make macarons at BITC Tai Seng.
 They were introduced to the basics of making French macarons and chocolate ganache filling.
 It was an enriching and fulfilling session as all the students succeeded and brought back boxes of colourful and delicious macarons.
