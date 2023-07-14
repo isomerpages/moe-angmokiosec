@@ -134,8 +134,8 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-didf">1</td>
     <td class="tg-didf">Performance Task</td>
- <td class="tg-didf"><span style="font-weight:400;color:#004D2E">To apply problem solving skills to real-life Mathematical Tasks, shift focus of assessment from skills &amp; concepts to include process, metacognition and attitude</span><br>Wall Design for Children’s Playroom<br>Representing data using statistical diagrams<br>An Investigative Journey on Statistics<br>Designing an International Friendship Day badge <br>Learning Experience on Design Your Own Bedroom</td>
-    <td class="tg-didf">1E/1NA<br>1NT<br><br><br>2E/2NA/2NT<br>3E/3NA<br><br><br>3NT</td>
+ <td class="tg-didf"><span style="font-weight:400;color:#004D2E">To apply problem solving skills to real-life Mathematical Tasks, shift focus of assessment from skills &amp; concepts to include process, metacognition and attitude</span><br><br>&gt; Wall Design for Children’s Playroom<br><br>&gt; Representing data using statistical diagrams<br><br>&gt; An Investigative Journey on Statistics<br><br>&gt; Designing an International Friendship Day badge <br><br>&gt; Learning Experience on Design Your Own Bedroom</td>
+    <td class="tg-didf"><br><br><br><br><br><br>1E/1NA<br><br><br>1NT<br><br><br>2E/2NA/2NT<br><br><br>3E/3NA<br><br><br>3NT</td>
   </tr>
   <tr>
     <td class="tg-nlyn">2</td>
