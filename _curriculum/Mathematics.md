@@ -222,14 +222,14 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-didf">1</td>
     <td class="tg-didf">Lower Sec</td>
-    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Singapore and Asian Maths Olympiad (SASMO)</span></td>
-    <td class="tg-didf">1 Gold, 2 Silver, 13 Bronze</td>
+    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Singapore and Asian Maths Olympiad (SASMO) 2023</span></td>
+    <td class="tg-didf">1 Gold, 5 Silver, 14 Bronze</td>
   </tr>
   <tr>
     <td class="tg-nlyn">2</td>
     <td class="tg-nlyn">All Levels</td>
-    <td class="tg-nlyn">Australian Maths Competition (AMC)</td>
-    <td class="tg-nlyn">Junior category: 4 Distinctions, 11 Credits<br><br>Senior category: 5 Credits</td>
+    <td class="tg-nlyn">Australian Maths Competition (AMC) 2022</td>
+    <td class="tg-nlyn">13 Distinctions, 76 Credits</td>
   </tr>
 </tbody>
 </table>
