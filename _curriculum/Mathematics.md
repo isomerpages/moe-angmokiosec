@@ -65,7 +65,7 @@ The goals of the secondary mathematics education are:
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Linda Wang Mui Kiang</span><br><span style="font-weight:400;color:#004D2E">(HOD / CCE)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Karen Teng Ah Geok</span><br><span style="font-weight:400;color:#004D2E">(SH / Additional Math)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Karen Teng </span><br><span style="font-weight:400;color:#004D2E">(SH / Additional Math)</span></td>
   </tr>
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Desmond Tong Kian Kiong</span><br><span style="font-weight:400;color:#004D2E">(SH / Data Management)</span></td>
@@ -99,7 +99,10 @@ The goals of the secondary mathematics education are:
     <td class="tg-bapb">Mr Ng Khiam Siong</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Ang Yew Weng</td>
+    <td class="tg-wpup">Mr Robert Ho</td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">Mr Ang Yew Weng</td>
   </tr>
   
 </tbody>
