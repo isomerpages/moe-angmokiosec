@@ -139,8 +139,8 @@ The goals of the secondary mathematics education are:
   </tr>
   <tr>
     <td class="tg-nlyn">2</td>
-    <td class="tg-nlyn">Algemaster Programme</td>
-    <td class="tg-nlyn">To strengthen pupils’ foundation in Algebra in lower secondary so as to reap spin-off effects at upper secondary<br>To consolidate basic concepts in a more concrete way as well as to excite and sparks pupils’ interest in the topic by using more learner-centred strategies/activities<br>To design modules to cater to the different learning abilities of pupils in leaning Algebra</td>
+    <td class="tg-nlyn">Algebra Mastery at Lower Sec</td>
+    <td class="tg-nlyn">&gt; To strengthen pupils’ foundation in Algebra in lower secondary to reap spin-off effects at upper secondary<br><br>&gt; To consolidate basic concepts in a more concrete way as well as to excite and sparks pupils’ interest in the topic by using more learner-centred strategies/activities<br><br>&gt; To design modules to cater to the different learning abilities of pupils in leaning Algebra</td>
     <td class="tg-nlyn">Lower Sec Levels and Streams</td>
   </tr>
   <tr>
