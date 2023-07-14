@@ -146,7 +146,7 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-didf">3</td>
     <td class="tg-didf">Use of Technology in Math Class</td>
-    <td class="tg-didf">To build a culture of academic excellence amongst our students and motivates them to take greater ownership of their learning and work collaboratively with their peers<br><br>Student Learning Space (SLS)<br>Ace-learning Website<br>Desmos<br>Kahoot Quizzes<br>Ipad apps</td>
+    <td class="tg-didf">To build a culture of academic excellence amongst our students and motivates them to take greater ownership of their learning and work collaboratively with their peers<br><br>&gt; Student Learning Space (SLS)<br>&gt; Desmos<br>&gt; Kahoot Quizzes<br>&gt; Ipad apps</td>
     <td class="tg-didf">All Levels and Streams</td>
   </tr>
 </tbody>
