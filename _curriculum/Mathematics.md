@@ -182,17 +182,17 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-60xp">1</td>
     <td class="tg-60xp">Sec 1</td>
-    <td class="tg-didf">Math Trail @ Changi Airport</td>
+    <td class="tg-didf">MATH-OPOLY</td>
   </tr>
   <tr>
     <td class="tg-xar3">2</td>
     <td class="tg-xar3">Sec 2</td>
-    <td class="tg-nlyn">Math Trail @ Nanyang Polytechnic</td>
+    <td class="tg-nlyn">Math/Humanities/EL Trail @ Changi Airport</td>
   </tr>
   <tr>
     <td class="tg-didf">3</td>
     <td class="tg-didf">Sec 3</td>
-    <td class="tg-didf">Battle Quest @ Marina Bay Sands<br>STEM Learning Journey @ Garden by the Bay</td>
+    <td class="tg-didf">Math/Science/Humanities Trail @ Marina Bay Sands<br>STEM Learning Journey @ Gardens by the Bay</td>
   </tr>
 </tbody>
 </table>
