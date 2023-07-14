@@ -208,8 +208,8 @@ It was an enriching and fulfilling session as all the students succeeded and bro
 </thead>
 <tbody>
   <tr>
-    <td class="tg-didf">Sec 1</td>
-    <td class="tg-didf">D&amp;T Awards 2019<br>Boo Siao Shan (5A1 2018)</td>
+    <td class="tg-didf"> 1</td>
+    <td class="tg-didf">D&amp;T Awards 2023<br>Gisbelle Chan (41 2022)</td>
     <td class="tg-didf">Creative Aesthetic Award</td>
   </tr>
 </tbody>
