@@ -18,7 +18,7 @@ img {
 
 #### Mission
 
-To provide a supportive environment for the learning &amp; application of mathematics
+Nurturing critical thinkers and problem solvers with a passion for Mathematics
 
 **<u>Secondary Mathematics Curriculum</u>**
 
@@ -65,7 +65,7 @@ The goals of the secondary mathematics education are:
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Linda Wang Mui Kiang</span><br><span style="font-weight:400;color:#004D2E">(HOD / CCE)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Karen Teng Ah Geok</span><br><span style="font-weight:400;color:#004D2E">(SH / Additional Math)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Karen Teng </span><br><span style="font-weight:400;color:#004D2E">(SH / Additional Math)</span></td>
   </tr>
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Desmond Tong Kian Kiong</span><br><span style="font-weight:400;color:#004D2E">(SH / Data Management)</span></td>
@@ -99,7 +99,10 @@ The goals of the secondary mathematics education are:
     <td class="tg-bapb">Mr Ng Khiam Siong</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Ang Yew Weng</td>
+    <td class="tg-wpup">Mr Robert Ho</td>
+  </tr>
+	<tr>
+    <td class="tg-bapb">Mr Ang Yew Weng</td>
   </tr>
   
 </tbody>
@@ -131,19 +134,19 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-didf">1</td>
     <td class="tg-didf">Performance Task</td>
-    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">To apply problem solving skills to real-life Mathematical Tasks, shift focus of assessment from skills &amp; concepts to include process, metacognition and attitude</span><br>Wall Design for Children’s Playroom<br>Representing data using statistical diagrams<br>An Investigative Journey on Statistics<br>Design a Monument for School’s 40th Anniversary Celebration<br>Learning Experience on Design Your Own Bedroom</td>
-    <td class="tg-didf">1E/1NA<br>1NT<br><br><br>2E/2NA/2NT<br>3E/3NA<br><br><br>3NT</td>
+ <td class="tg-didf"><span style="font-weight:400;color:#004D2E">To apply problem solving skills to real-world Mathematical Tasks, shift focus of assessment from skills &amp; concepts to include process, metacognition and attitude</span><br><br>&gt; Wall Design for Children’s Playroom<br><br>&gt; Representing data using statistical diagrams<br><br>&gt; An Investigative Journey on Statistics<br><br>&gt; Designing an International Friendship Day badge <br><br>&gt; Learning Experience on Design Your Own Bedroom</td>
+    <td class="tg-didf"><br><br><br><br>1E/1NA<br><br>1NT<br><br>2E/2NA/2NT<br><br>3E/3NA<br><br>3NT</td>
   </tr>
   <tr>
     <td class="tg-nlyn">2</td>
-    <td class="tg-nlyn">Algemaster Programme</td>
-    <td class="tg-nlyn">To strengthen pupils’ foundation in Algebra in lower secondary so as to reap spin-off effects at upper secondary<br>To consolidate basic concepts in a more concrete way as well as to excite and sparks pupils’ interest in the topic by using more learner-centred strategies/activities<br>To design modules to cater to the different learning abilities of pupils in leaning Algebra</td>
+    <td class="tg-nlyn">Algebra Mastery at Lower Sec</td>
+    <td class="tg-nlyn">&gt; To strengthen pupils’ foundation in Algebra in lower secondary to reap spin-off effects at upper secondary<br><br>&gt; To consolidate basic concepts in a more concrete way as well as to excite and sparks pupils’ interest in the topic by using more learner-centred strategies/activities<br><br>&gt; To design modules to cater to the different learning abilities of pupils in leaning Algebra</td>
     <td class="tg-nlyn">Lower Sec Levels and Streams</td>
   </tr>
   <tr>
     <td class="tg-didf">3</td>
     <td class="tg-didf">Use of Technology in Math Class</td>
-    <td class="tg-didf">To build a culture of academic excellence amongst our students and motivates them to take greater ownership of their learning and work collaboratively with their peers<br><br>Student Learning Space (SLS)<br>Ace-learning Website<br>Desmos<br>Kahoot Quizzes<br>Ipad apps</td>
+    <td class="tg-didf">To build a culture of academic excellence amongst our students and motivates them to take greater ownership of their learning and work collaboratively with their peers<br><br>&gt; Student Learning Space (SLS)<br>&gt; Desmos<br>&gt; Kahoot Quizzes<br>&gt; Ipad apps</td>
     <td class="tg-didf">All Levels and Streams</td>
   </tr>
 </tbody>
@@ -179,17 +182,17 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-60xp">1</td>
     <td class="tg-60xp">Sec 1</td>
-    <td class="tg-didf">Math Trail @ Changi Airport</td>
+    <td class="tg-didf">MATH-OPOLY</td>
   </tr>
   <tr>
     <td class="tg-xar3">2</td>
     <td class="tg-xar3">Sec 2</td>
-    <td class="tg-nlyn">Math Trail @ Nanyang Polytechnic</td>
+    <td class="tg-nlyn">Math/Humanities/EL Trail @ Changi Airport</td>
   </tr>
   <tr>
     <td class="tg-didf">3</td>
     <td class="tg-didf">Sec 3</td>
-    <td class="tg-didf">Battle Quest @ Marina Bay Sands<br>STEM Learning Journey @ Garden by the Bay</td>
+    <td class="tg-didf">Math/Science/Humanities Trail @ Marina Bay Sands<br>STEM Learning Journey @ Gardens by the Bay</td>
   </tr>
 </tbody>
 </table>
@@ -219,14 +222,14 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-didf">1</td>
     <td class="tg-didf">Lower Sec</td>
-    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Singapore and Asian Maths Olympiad (SASMO)</span></td>
-    <td class="tg-didf">1 Gold, 2 Silver, 13 Bronze</td>
+    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Singapore and Asian Maths Olympiad (SASMO) 2023</span></td>
+    <td class="tg-didf">1 Gold, 5 Silver, 14 Bronze</td>
   </tr>
   <tr>
     <td class="tg-nlyn">2</td>
     <td class="tg-nlyn">All Levels</td>
-    <td class="tg-nlyn">Australian Maths Competition (AMC)</td>
-    <td class="tg-nlyn">Junior category: 4 Distinctions, 11 Credits<br><br>Senior category: 5 Credits</td>
+    <td class="tg-nlyn">Australian Maths Competition (AMC) 2022</td>
+    <td class="tg-nlyn">13 Distinctions, 76 Credits</td>
   </tr>
 </tbody>
 </table>
