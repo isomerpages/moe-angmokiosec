@@ -18,7 +18,7 @@ img {
 
 #### Mission
 
-To provide a supportive environment for the learning &amp; application of mathematics
+Nurturing critical thinkers and problem solvers with a passion for Mathematics
 
 **<u>Secondary Mathematics Curriculum</u>**
 
