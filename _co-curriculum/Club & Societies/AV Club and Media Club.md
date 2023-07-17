@@ -72,7 +72,7 @@ third_nav_title: Club & Societies
     <td class="tg-mwif"><u>2nd Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ethan Jayben Joshua (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">Song Cheng Hong (3A3)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">Song Cheng Hong (3A1)</span></td>
   </tr>
 	<tr>
     <td class="tg-mwif"><u>Vice-Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">Kopparthi Nitya Sri Sowmya (2C)</span></td>
