@@ -58,18 +58,18 @@ third_nav_title: Club & Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Executive Committee for 2022/2023<br></th>
+    <th class="tg-mwif">Executive Committee for 2023/2024<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">ISAAC LEE SHIJIE (3/2)</span></td>
+    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Kang Jun Wei Xander (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">NURUL INSYIRAH BINTE JAMALUDIN (3/2)</span></td>
+    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Lau Xu Yue (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>2nd Vice-Chairperson/Vice Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">LIAO FUQIANG, CHARLTON (3/1)</span></td>
+    <td class="tg-mwif"><u>2nd Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ethan Jayben Joshua (3/1)</span></td>
   </tr>
   <tr>
     <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">CAYLAN LOY ZHI KA I (3A1)</span></td>
