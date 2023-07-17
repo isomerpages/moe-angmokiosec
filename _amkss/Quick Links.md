@@ -5,7 +5,7 @@ description: ""
 ---
 * [2023 MOE FAS Application](https://staging.d2qcf83lbf7y8u.amplifyapp.com/about-us/moe-fas/)
 * [Class Timetable for 2023 - Semester 2](/files/sem%202_class_2023_22june2023.pdf)
-* [Student Calendar Semester 2 2023](/files/mediaDirectory/files/editMediaSettings/student%20calendar_semester%202_2023.pdf)
+* [Student Calendar Semester 2 2023](https://cms.isomer.gov.sg/sites/moe-angmokiosec/media/files/mediaDirectory/files/editMediaSettings/student%20calendar_semester%202_2023.pdf)
 * [Classroom Allocation 2023](/files/2023classroomallocation.pdf)
 * [CCA Training Schedule 2023](/files/ccatrainingschedule2023.pdf)
 * [S1OC 2023 Parent Engagement (Principal's Welcome Address)](/files/sec1oc2023.pdf)
