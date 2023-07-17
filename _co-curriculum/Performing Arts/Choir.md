@@ -162,7 +162,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Choir%203.jpeg" alt="Choir" style="width:75%;">  
+<img src="/images/Choir%202023/image%203.jpg" alt="Choir" style="width:100%;">  
   
 
 <br>
@@ -173,4 +173,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Choir%204.jpeg" alt="Choir" style="width:75%;">
+<img src="/images/Choir%202023/image%204.JPG" alt="Choir" style="width:100%;">
