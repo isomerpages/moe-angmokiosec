@@ -74,11 +74,14 @@ third_nav_title: Club & Societies
   <tr>
     <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">Song Cheng Hong (3A3)</span></td>
   </tr>
-  <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">KHEH JUN BING RAYDON (3A4)</span></td>
+	<tr>
+    <td class="tg-mwif"><u>Vice-Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">Kopparthi Nitya Sri Sowmya (2C)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>AV Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN WEI YE DAMIEN (3A3)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">Teo Jing Jing (2E)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mwif"><u>AV Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Tay Jun Wee (3A1)</span></td>
   </tr>
   <tr>
     <td class="tg-mwif"><u>Media Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN YI JIE ELDRICK (3/1)</span></td>
