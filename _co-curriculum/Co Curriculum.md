@@ -19,7 +19,7 @@ description: ""
   <tr>
     <td class="tg-hwgp"><img src="/images/tn_artclub.png" alt="Art Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/clubs-n-societies/art-club"><span style="text-decoration:none;color:#000000;background-color:transparent"><b>Art Club</b></span></a><br></td>
     <td class="tg-hwgp"><img src="/images/tn_av.png" alt="AV &amp; Media Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/clubs-n-societies/av-club-and-media-club"><span style="text-decoration:none;color:#000000;background-color:transparent"><b>AV &amp; Media Club</b></span></a><br></td>
-    <td class="tg-hwgp"><img src="/images/tn_Environmental%20Club.png" alt="Environmental Club" width="290" height="208"><br><span style="font-weight:600;text-decoration:none;color:#004D2E;background-color:transparent"></span><a href="/co-curriculum/clubs-n-societies/environmental-club"><span style="text-decoration:none;color:#000000;background-color:transparent"><b>Environmental Club</b></span></a><br></td>
+    
   </tr>
 </thead>
 </table>
