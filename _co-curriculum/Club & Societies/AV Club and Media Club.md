@@ -4,7 +4,7 @@ permalink: /co-curriculum/clubs-n-societies/av-club-and-media-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-![AV Club and Media Club](/images/AV%204.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY5O2DZDjBlsjqm84ibSlbs5-dtEEJT98fGoH9wjS93f31Js4yAxxg-trkW3UZZyVjmt5nyahENUn0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
