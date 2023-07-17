@@ -72,7 +72,7 @@ third_nav_title: Club & Societies
     <td class="tg-mwif"><u>2nd Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ethan Jayben Joshua (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">CAYLAN LOY ZHI KA I (3A1)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">Song Cheng Hong (3A3)</span></td>
   </tr>
   <tr>
     <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">KHEH JUN BING RAYDON (3A4)</span></td>
