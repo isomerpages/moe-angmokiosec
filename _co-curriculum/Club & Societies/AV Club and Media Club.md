@@ -4,7 +4,7 @@ permalink: /co-curriculum/clubs-n-societies/av-club-and-media-club/
 description: ""
 third_nav_title: Club & Societies
 ---
-![AV Club and Media Club](/images/AV%204.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY5O2DZDjBlsjqm84ibSlbs5-dtEEJT98fGoH9wjS93f31Js4yAxxg-trkW3UZZyVjmt5nyahENUn0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -58,43 +58,46 @@ third_nav_title: Club & Societies
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Executive Committee for 2022/2023<br></th>
+    <th class="tg-mwif">Executive Committee for 2023/2024<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">ISAAC LEE SHIJIE (3/2)</span></td>
+    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Kang Jun Wei Xander (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">NURUL INSYIRAH BINTE JAMALUDIN (3/2)</span></td>
+    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Lau Xu Yue (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>2nd Vice-Chairperson/Vice Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">LIAO FUQIANG, CHARLTON (3/1)</span></td>
+    <td class="tg-mwif"><u>2nd Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ethan Jayben Joshua (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">CAYLAN LOY ZHI KA I (3A1)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">Song Cheng Hong (3A1)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-mwif"><u>Vice-Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">Kopparthi Nitya Sri Sowmya (2C)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">KHEH JUN BING RAYDON (3A4)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">Teo Jing Jing (2E)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>AV Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN WEI YE DAMIEN (3A3)</span></td>
+    <td class="tg-mwif"><u>AV Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Tay Jun Wee (3A1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Media Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">TAN YI JIE ELDRICK (3/1)</span></td>
+    <td class="tg-mwif"><u>Media Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Jeremy Ng Jun Hong (2B)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Photography Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">MICHAEL DOMINIC NGO LE MING (3/1)</span></td>
+    <td class="tg-mwif"><u>Photography Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Tan Zhi Ming Ryan (2C)</span></td>
   </tr>
   <tr>
     <td class="tg-mwif"><u>AV Unit 2nd I/C</u>
-<br><span style="font-weight:400;color:#004D2E">KANG JUN WEI XANDER (JIANG JUNWEI) (2F)</span></td>
+<br><span style="font-weight:400;color:#004D2E">Goh Jun Yu (2G)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Media Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">ETHAN JAYBEN JOSHUA (2A)</span></td>
+    <td class="tg-mwif"><u>Media Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">Eric Knya Yi Kai (2E)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Photography Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">LAU XU YUE (LIU XUYUE) (2B)</span></td>
+    <td class="tg-mwif"><u>Photography Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">Huang Zen Tuo Keane (2B)</span></td>
   </tr>
 </tbody>
 </table>
@@ -122,16 +125,12 @@ third_nav_title: Club & Societies
 </table>
 <br>
 
-The AV Media Club consists of three units, namely the Audio/Visual unit, the Media unit and the Photography unit. The club aims to cultivate interest and awareness in the use of Audio/Visual Information Technology and photography in our students.
+The school’s Audio-Visual (AV) Media Club provides students with valuable technical skills and inculcates the spirit of volunteerism and initiative. Our regular activities include setting up the public announcement (PA) system for morning assembly on Monday &amp; Thursday and afternoon assembly on Wednesday and for all school events. Our students are also resident photographers for all school performances and special occasions. 
 
-  
+This year the AV Media Club students were involved in numerous major school events, Awards’ Day 2023, Family Day 2023, Teachers’ Day cum EAS Celebrations and Farewell Assembly.
 
-AV Media Club equips our students with skills in photography, video production and the use of audio-visual (AV) equipment. Our students in turn make use of the skills they learn to facilitate school events by delivering reliable sound, light and multimedia services.
+Our members also participated in various competitions this year, Character building is also emphasized upon in the CCA. We hope to nurture students who are able to work in a confident manner both individually and in teams, be adaptable, and have the self-discipline to put in their best in the tasks they are assigned. At the end of each training session, students’ works are shared and they get to learn from one another. 
 
-  
+This year our students have also taken part in numerous competitions such as 2023 Crea8 Sustainability Competition, Our School, Our Stories Photography and Videography Contest 2023 which allow them to build on their competencies and confidence. 
 
-Character building is also emphasised upon in the CCA. We hope to nurture students who are able to work in a confident manner both individually and in teams, be adaptable, and have the self-discipline to put in their best in the tasks they are assigned. At the end of each training session, students’ works are shared and they get to learn from one another. Our students have also taken part in numerous competitions which allow them to build on their competencies and confidence.
-
-  
-
-In addition, our students are trained in simple coding and microbit. This training in computational thinking will equip them with the skills required for Singapore’s Smart Nation initiative.
+In addition, our students are trained in simple coding, microbit and Game Maker. This training in computational thinking will equip them with the skills required for Singapore’s Smart Nation initiative. Learning journeys were also organized to allow students to relate and apply what they have learnt in the CCA.
