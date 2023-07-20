@@ -76,7 +76,7 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2022/2023<br></th>
+    <th class="tg-avji">Executive Committee for 2023/2024<br></th>
   </tr>
 </thead>
 <tbody>
