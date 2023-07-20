@@ -26,13 +26,16 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Ms Daphne Chang Wei Shin<br></td>
+    <td class="tg-bapb">Mrs Daphne Chong (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Edna Pan<br></td>
+    <td class="tg-wpup">Miss Edna Pan (2IC)<br></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mdm Sun Ying<br></td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Mdm G Anantha<br></td>
   </tr>
   
 </tbody>
