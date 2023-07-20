@@ -121,10 +121,10 @@ third_nav_title: Performing Arts
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">National level performances at CHJIMES , Victoria Concert Hall<br></td>
+    <td class="tg-wpup">National level performances at CHJIMES , Victoria Concert Hall &amp; Arts House Performances<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">School Performances for events such as Awards Day and AMKsian Showcase</td>
+    <td class="tg-bapb">School Performances for events such as Awards Day, AMKsian Showcase and Chinese New Year</td>
   </tr>
 </tbody>
 </table>
