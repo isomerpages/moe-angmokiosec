@@ -81,26 +81,19 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwif"><u>President</u><br><span style="font-weight:400;color:#004D2E">Tan Wen Hui (4/4)</span></td>
+    <td class="tg-mwif"><u>President</u><br><span style="font-weight:400;color:#004D2E">Kayla Chong Jin Ying (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice President (Admin &amp; Resources)</u><br><span style="font-weight:400;color:#004D2E">Ong Yu Xin (4/4)</span></td>
+    <td class="tg-mwif"><u>Vice President (Music)</u><br><span style="font-weight:400;color:#004D2E">Gagui Maria Beatrice Asuero (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice President (Music Development)</u><br><span style="font-weight:400;color:#004D2E">Chia Yoke Yun (4/1)</span></td>
+    <td class="tg-mwif"><u>Vice President (Admin)</u><br><span style="font-weight:400;color:#004D2E">Ethel Ywa Eh Lin (3/1)<br>Chan Si Ting (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice President (Welfare)</u><br><span style="font-weight:400;color:#004D2E">Jayden Ng (4A3)</span><br><span style="font-weight:400;color:#004D2E">Chong Wan Ting, Lynette (4/2)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>Logistics and Resource Manager</u><br><span style="font-weight:400;color:#004D2E">Martinez Katherine Marie Martinez (3/2)</span></td>
-  </tr>
-	<tr>
-    <td class="tg-mwif"><u>Section Leaders</u><br><span style="font-weight:400;color:#004D2E">Chia Yoke Yun (3/1)</span><br><span style="font-weight:400;color:#004D2E">Jayden Ng (3A3)</span></td>
-  </tr>
+    <td class="tg-mwif"><u>Vice President (Welfare)</u><br><span style="font-weight:400;color:#004D2E">Seow, Jingwen Andrea (3/2)</span><br><span style="font-weight:400;color:#004D2E">Teh Kai Qi (3/2)</span></td>
+  </tr>  
 </tbody>
 </table>
-<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
