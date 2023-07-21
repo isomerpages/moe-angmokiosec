@@ -81,13 +81,13 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwif"><u>President</u><br><span style="font-weight:400;color:#004D2E">Kayla Chong Jin Ying (3/2)</span></td>
+    <td class="tg-bapb"><u>President</u><br><span style="font-weight:400;color:#004D2E">Kayla Chong Jin Ying (3/2)</span></td>
   </tr>
   <tr>
     <td class="tg-mwif"><u>Vice President (Music)</u><br><span style="font-weight:400;color:#004D2E">Gagui Maria Beatrice Asuero (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice President (Admin)</u><br><span style="font-weight:400;color:#004D2E">Ethel Ywa Eh Lin (3/1)<br>Chan Si Ting (3/1)</span></td>
+    <td class="tg-bapb"><u>Vice President (Admin)</u><br><span style="font-weight:400;color:#004D2E">Ethel Ywa Eh Lin (3/1)<br>Chan Si Ting (3/1)</span></td>
   </tr>
   <tr>
     <td class="tg-mwif"><u>Vice President (Welfare)</u><br><span style="font-weight:400;color:#004D2E">Seow, Jingwen Andrea (3/2)</span><br><span style="font-weight:400;color:#004D2E">Teh Kai Qi (3/2)</span></td>
