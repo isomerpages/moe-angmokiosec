@@ -4,7 +4,7 @@ permalink: /co-curriculum/performing-arts/drama/
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/Drama%204.png)
+![](images/Drama%202023/b2205293.jpeg)
 
 <br>
 <style type="text/css">
