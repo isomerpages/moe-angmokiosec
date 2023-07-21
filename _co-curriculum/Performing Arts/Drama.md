@@ -141,7 +141,6 @@ The Drama club also provides students with a safe space to explore current issue
 
 It has definitely been a year of growth for the club and the members have responded well to changes in the conduct of CCA by actively contributing in their e-CCA sessions where the focus has been on monologue development. We look forward to more growth and development in 2021 which can provide our Drama Club students with more opportunities to pursue their interests and talents in the Arts.
 
-![](images/Drama%202023/drama%20syf%202.jpg
-)
+![](images/Drama%202023/drama%20syf%202.jpg)
 
-![](/images/Drama%209.jpg)
+![](images/Drama%202023/dsc_0160%20(1).JPG)
