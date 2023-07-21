@@ -135,23 +135,11 @@ third_nav_title: Performing Arts
 
 ![Choir](/images/Choir%202023/image%202.jpeg)
 
-Ang Mo Kio Secondary School Chorale consists of a four-part choir that is led by our new conductor, Ms Cherie Chai. The choir’s motto is ‘Semper Superne Nitens’ which translates to ‘Always Striving Upwards’. It borrows part of the school’s motto and captures the choir’s resilience to constantly work towards a better version of itself. Choristers persevere through challenges to come together and share the joy of singing.
+"Semper Superne Nitens" (Ever Striving Upward). The three-part SAB Ang Mo Kio Secondary School Choir, under the capable baton of our accomplished vocalist-conductor, Ms. Cherie Chai, has been actively contributing to the musical culture in school, as well as livening up celebrations and events even under dampened global conditions. Envisioning personal skills, character and leadership development of our members, the Choir makes use of multiple platforms to showcase our choristers' talents as well as share our music appreciation with others.
 
-  
+With our motto, 'Semper Superne Nitens', the choir is passionately committed to learning, performing and sharing our music so that we can grow ourselves and mentor others. Despite difficult global restrictions in recent years, the choir's songs could not be restrained as we pivoted smoothly online and just as smoothly took up in-person activities when regulations were relaxed. Displaying resilience, we enthusiastically volunteered to perform at school events like Awards Day and Night of Music, Arts and Dance (NOMAD), and led the school in mass singalongs during Chinese New Year and National Day Celebrations. We look forward to sharing our love for music and public performances such as inter-school cultural exchanges and Values-In-Action singing activities with charitable organisations.
 
-During each chorale session, the choristers work on honing basic singing techniques such as breath and voice control to develop them into better singers. The students also spend time working on fundamental exercises to improve their singing posture. To ascertain that the choristers are able to sing to the best of their abilities, they partake in some light physical exercises during practices. The chorale organises bonding activities frequently to build strong bonds between the members. The AMKSS chorale values discipline, teamwork, and perseverance, aiming to develop students holistically through the shared passion of singing.
 
-  
-
-The chorale is well established in performing in all sorts of venues, ranging from indoor performances at the Victoria Concert hall and CHJIMES to outdoor venues such as the school’s 40th anniversary concert. In an attempt to encourage holistic students who give back to the community, the choristers also take on additional Values-In-Action projects. One notable project was when the students performed for the seniors in Thye Hua Kwan Hospital, having an extremely fulfilling and memorable experience.
-
-  
-
-During the e-chorale sessions that the choir embarked on post circuit breaker, the choir worked on a number of songs, sharpening their singing skills. The various sections embraced the opportunity to work with the choir conductor to build on their foundational knowledge of music. Choristers also enjoyed playing bonding games online, getting to know their peers better and forming ties with one another.
-
-  
-
-The chorale looks forward to performing and contesting once the pandemic situation is resolved. Sharing the love and joy of singing with everyone remains the choir’s priority.
 
 
 <style>  
