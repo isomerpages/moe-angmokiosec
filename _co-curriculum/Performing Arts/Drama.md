@@ -125,7 +125,7 @@ third_nav_title: Performing Arts
 </table>
 <br>
 
-![](/images/Drama.jpg)
+![](images/Drama%202023/drama%20syf%201.jpg)
 
 The Ang Mo Kio Secondary School Drama Club provides students with a space to explore their interest for the Arts by providing them with various opportunities to take on different roles; be it on stage or off stage.
 
