@@ -77,14 +77,14 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-mwif"><u>President</u><br><span style="font-weight:400;color:#004D2E">Fong Jing Si (3/1)</span></td>
+    <td class="tg-bapb"><u>President</u><br><span style="font-weight:400;color:#004D2E">Fong Jing Si (3/1)</span></td>
   </tr>
   
   <tr>
 		<td class="tg-mwif"><u>Vice-President</u><br><span style="font-weight:400;color:#004D2E">Ng Swee Tek, Darren (3/2)</span></td>
   </tr>
   <tr>
-		<td class="tg-mwif"><u>Production IC</u><br><span style="font-weight:400;color:#004D2E">Syaziyah Farisqah Binte Faddy (3A1)</span></td>
+		<td class="tg-bapb"><u>Production IC</u><br><span style="font-weight:400;color:#004D2E">Syaziyah Farisqah Binte Faddy (3A1)</span></td>
   </tr>
   <tr>
 		<td class="tg-mwif"><u>Lower Secondary Coordinator</u><br><span style="font-weight:400;color:#004D2E">Lok Yan En (Luo Yan'En) (3/2)</span></td>
