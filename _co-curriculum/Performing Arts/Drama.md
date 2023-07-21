@@ -133,7 +133,7 @@ The Ang Mo Kio Secondary School Drama Club provides students with a space to exp
 
 In their time in the Drama Club, students were able to try out acting as well as crew work such as lighting, sounds and even prop and set designing. Students are also given opportunities to work in teams to devise their own interpretation of plays to put their own spin on it before they showcase it to the other members of the club.
 
-  
+  ![](images/Drama%202023/dsc_0301%20(1).JPG)
 
 The Drama club also provides students with a safe space to explore current issues to raise awareness of themselves, by putting up short skits, as well as encourages students to be problem solvers by resolving the conflicts they bring up in their skits. This year, the Drama Club worked on a piece titled ‘Beleaf’, which aimed to deliver the message that no dream is too small. Students worked on highlighting challenges they might have and how with a growth mindset, they were able to overcome these adversities.
 
