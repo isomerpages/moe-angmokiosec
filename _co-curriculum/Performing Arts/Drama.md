@@ -127,19 +127,18 @@ third_nav_title: Performing Arts
 
 ![](images/Drama%202023/drama%20syf%201.jpg)
 
-The Ang Mo Kio Secondary School Drama Club provides students with a space to explore their interest for the Arts by providing them with various opportunities to take on different roles; be it on stage or off stage.
-
-  
-
-In their time in the Drama Club, students were able to try out acting as well as crew work such as lighting, sounds and even prop and set designing. Students are also given opportunities to work in teams to devise their own interpretation of plays to put their own spin on it before they showcase it to the other members of the club.
-
+The Ang Mo Kio Secondary School Drama Club provides students with a space to explore their interest for the Arts by providing them with various opportunities to take on different roles; be it on stage or off stage.<br><br>
+In their time in the Drama Club, students were able to try out acting as well as crew work such as lighting, sounds and even prop and set designing. Students are also given opportunities to work in teams to devise their own interpretation of plays to put their own spin on it before they showcase it to the other members of the club. <br><br>
+The Drama club also provides students with a safe space to explore current issues to raise awareness of themselves, by putting up short skits, as well as encourages students to be problem solvers by resolving the conflicts they bring up in their skits.  <br><br>
+2022 was an eventful year for the Drama Club. After the less hectic 2020 and 2021, the easing of Covid-19 restrictions saw the Club participate in more performances. The members were rather eager to be back to face-to face training sessions. The students were initially split into two groups where the secondary two and three students attended on different days to keep to the maximum group size. We also had a sizable number of Secondary One students who joined us and these students attended the training sessions with the Secondary Three students on Thursdays. <br><br>
+One of the highlights of last year was our performance for the school’s Awards Day. As some Covid-19 restrictions were still in place, the Drama Club performance was recorded and played to the school during the Awards Day concert. It was a comedy about a girl who wanted to achieve her dream to become a world-renowned comedian. The students who acted in the play were rather impressive and left the audience members in stitches with their comic timing. The actors rendered their lines with much aplomb and it was obvious that the students had learned much from their trainers even during the online sessions. <br><br>
   ![](images/Drama%202023/dsc_0301%20(1).JPG)
 
-The Drama club also provides students with a safe space to explore current issues to raise awareness of themselves, by putting up short skits, as well as encourages students to be problem solvers by resolving the conflicts they bring up in their skits. This year, the Drama Club worked on a piece titled ‘Beleaf’, which aimed to deliver the message that no dream is too small. Students worked on highlighting challenges they might have and how with a growth mindset, they were able to overcome these adversities.
+After a hiatus of two years, the school finally organized NOMAD. This time round, although it was on a much smaller scale, our Drama Club was proud to be part of the concert. They performed a play which brought us back to the days when Singapore was just a fishing village and when Sang Nila Utama spotted a lion on our shores. This play was a chance for our Secondary Two students to finally showcase their acting talents. Our members were extremely thrilled and enthusiastic about the performance and did not mind attending the rehearsals even during the June holidays. 
 
-  
+In 2023, the Drama Club put up an adaptation of Arsehammers, by Claire Dowie, which follows a young girl named Claudia who has a vivid imagination and believes that her grandfather has magical powers. The play is intended to educate and highlight the struggles of people with Alzheimer’s as well as their family and caretakers. With a strong cast of characters and creative stage directing, we were awarded the Certificate of Accomplishment for our efforts. It was an affirmation of the effort put in by all the members of the Drama Club, trainers and teachers.
 
-It has definitely been a year of growth for the club and the members have responded well to changes in the conduct of CCA by actively contributing in their e-CCA sessions where the focus has been on monologue development. We look forward to more growth and development in 2021 which can provide our Drama Club students with more opportunities to pursue their interests and talents in the Arts.
+We look forward to further growth and development in for the rest of 2023 and 2024!
 
 ![](images/Drama%202023/drama%20syf%202.jpg)
 
