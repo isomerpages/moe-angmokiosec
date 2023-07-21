@@ -126,6 +126,9 @@ third_nav_title: Performing Arts
   <tr>
     <td class="tg-bapb">School Performances for events such as Awards Day, AMKsian Showcase and Chinese New Year</td>
   </tr>
+	 <tr>
+    <td class="tg-wpup">SuperNova (Choir Exchange with other secondary schools)<br></td>
+  </tr>
 </tbody>
 </table>
 <br>
