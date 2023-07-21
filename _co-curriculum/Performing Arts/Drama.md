@@ -72,12 +72,12 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2022/2023<br></th>
+    <th class="tg-avji">Executive Committee for 2023/2024<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">President<br><span style="font-weight:400;color:#004D2E">MATTHEW CHIA JING KANG (3/2)</span></td>
+    <td class="tg-ywyw">President<br><span style="font-weight:400;color:#004D2E">Fong Jing Si (3/1)</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">Vice-President<br><span style="font-weight:400;color:#004D2E">HUANG HUIXIN, ATHENA (3/2)</span></td>
