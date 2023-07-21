@@ -77,7 +77,7 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ywyw">President<br><span style="font-weight:400;color:#004D2E">Fong Jing Si (3/1)</span></td>
+		<td class="tg-ywyw"><u>President</u><br><span style="font-weight:400;color:#004D2E">Fong Jing Si (3/1)</span></td>
   </tr>
   <tr>
     <td class="tg-frvs">Vice-President<br><span style="font-weight:400;color:#004D2E">Ng Swee Tek, Darren (3/2)</span></td>
