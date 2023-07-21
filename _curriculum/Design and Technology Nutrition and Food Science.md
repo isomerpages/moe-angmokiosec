@@ -209,7 +209,7 @@ It was an enriching and fulfilling session as all the students succeeded and bro
 <tbody>
   <tr>
     <td class="tg-didf"> 1</td>
-    <td class="tg-didf">D&amp;T Awards 2023<br>Gisbelle Chan (41 2022)</td>
+    <td class="tg-didf">D&amp;T Awards 2023<br>Gisbelle Chan (4/1 2022)</td>
     <td class="tg-didf">Creative Aesthetic Award</td>
   </tr>
 </tbody>
