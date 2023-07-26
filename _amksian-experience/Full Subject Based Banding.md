@@ -10,9 +10,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/SBB.jpg" alt="Full Subject-Based Banding" style="width:70%;">  
+<img src="/images/fsbb%20photo%202023.JPG" alt="Full Subject-Based Banding" style="width:90%;">  
   
-</body>
+
 
 Ang Mo Kio Secondary School was one of the 12 secondary schools that piloted Subject-Based Banding (SBB) in 2014 to provide greater flexibility in lower secondary subject combinations. Under SBB, students who are passionate and perform well in certain subjects (English, Mother Tongue Languages, Mathematics and Science) would be given the opportunity to offer them at a higher level. Since then, SBB has been rolled out to all secondary schools.
 
@@ -22,7 +22,7 @@ Ang Mo Kio Secondary School is of the 28 secondary schools selected by the Minis
 
 #### Purpose of Full SBB
 
-With Full SBB, we are moving towards one secondary education, with many subject bands, to better meet our students’ learning needs. This is part of the broader shift in our education system to recognise the strengths and interests of our children, to help them build their confidence and develop an intrinsic motivation to learn for life in them. The MOE video link explains in greater details what FSBB is all about: [https://www.youtube.com/watch?v=JMc\_GispPmk&feature=emb\_logo](https://www.youtube.com/watch?v=JMc_GispPmk&feature=emb_logo)
+With Full SBB, we are moving towards one secondary education, with many subject bands, to better meet our students’ learning needs. This is part of the broader shift in our education system to recognise the strengths and interests of our children, to help them build their confidence and develop an intrinsic motivation to learn for life in them. The MOE video link explains in greater details what FSBB is all about:&nbsp;[https://www.youtube.com/watch?v=JMc\_GispPmk&amp;feature=emb\_logo](https://www.youtube.com/watch?v=JMc_GispPmk&amp;feature=emb_logo)
 
 #### Full SBB at Ang Mo Kio Secondary School:
 
@@ -38,7 +38,7 @@ As part of the pilot, our school have implemented the offering of Humanities sub
 
 *   Each form class may comprise students from the Express, Normal (Academic) and Normal (Technical) courses.
 *   This common learning experience creates a valuable setting for students from diverse background and abilities to work together, build meaningful friendships, and appreciate each other’s strengths which will benefit them in life.
-*   The students will take a set of 6 Common Curriculum subjects together at lower secondary levels, namely Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music, and Physical Education. The Common Curriculum subjects are designed to ensure accessibility to all students. There will be common curriculum coverage and assessment tasks & rubrics that will allow all students to meet each subject’s requirements.
+*   The students will take a set of 6 Common Curriculum subjects together at lower secondary levels, namely Art, Character &amp; Citizenship Education, Design &amp; Technology, Food &amp; Consumer Education, Music, and Physical Education. The Common Curriculum subjects are designed to ensure accessibility to all students. There will be common curriculum coverage and assessment tasks &amp; rubrics that will allow all students to meet each subject’s requirements.
 *   For all other subjects, they will be grouped in classes according to the level at which they offer each subject, i.e. Express, Normal (Academic) and Normal (Technical).
 
-For more information on Full SBB, you may contact us at: [amkss@moe.edu.sg](mailto:amkss@moe.edu.sg)
+For more information on Full SBB, you may contact us at:&nbsp;[amkss@moe.edu.sg](mailto:amkss@moe.edu.sg)
