@@ -46,7 +46,7 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Instructors<br></th>
+    <th class="tg-mwif">Instructor<br></th>
   </tr>
 </thead>
 <tbody>
