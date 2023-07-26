@@ -28,7 +28,7 @@ third_nav_title: Performing Arts
     <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Sun Ye</td>
+    <td class="tg-wpup">Ms Cheryl Lau</td>
   </tr>
 </tbody>
 </table>
