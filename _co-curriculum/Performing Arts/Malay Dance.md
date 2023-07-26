@@ -70,19 +70,23 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2022/2023<br></th>
+    <th class="tg-avji">Executive Committee for 2023/2024<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">NURUL NADHRAH AFIQAH BINTE HASSAN (3A1)</span></td>
+    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Nur Insyirah Binte Yusoff (3A3)</span></b></td>
+  </tr>
+	<tr>
+    <td class="tg-mwif"><u><b>Rehearsal Mistress</b></u><b><br><span style="font-weight:400;color:#004D2E">Risha Laiyinah Binte Roslan (3A3)</span></b></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Quarter Mistress</u><br><span style="font-weight:400;color:#004D2E">CAMELIA AMANDA BINTE JUMAAT (3A1)</span></td>
+    <td class="tg-bapb"><u><b>Quarter Mistress (Costumes / Makeup / Props)</b></u><b><br><span style="font-weight:400;color:#004D2E">Nurul Anisah Binte Shamsul Ambri (3A2)</span></b></td>
   </tr>
-  <tr>
-    <td class="tg-mwif"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">NUR 'ARMARSHA BINTE MOHAMAD RIDUWAN (3A4)</span></td>
+	<tr>
+    <td class="tg-mwif"><u><b>Publicity In Charge</b></u><b><br><span style="font-weight:400;color:#004D2E">Seri Syariezaty Nur'Aqilah Binte Pazili (3A3)</span></b></td>
   </tr>
+  
 </tbody>
 </table>
 <br>
