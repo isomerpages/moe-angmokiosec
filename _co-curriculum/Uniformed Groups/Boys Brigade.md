@@ -34,6 +34,3 @@ We have also been training the students to play the bagpipe and drums since last
 
 Annually we attend the enrolment service in April where the members of 64th BB and 31st GB companies work closely together to orientate the new Secondary one members and officers into the Company. Due to the situation this year, we instead met online and proceeded with the Promotion Ceremony of our Company members. We are thankful to have 10 new members joining us this year, increasing our company strength for the year to 42.
 
-![](/images/Boys%20brigade.jpg)
-
-![](/images/Boys%20Brigade%202.jpg)
