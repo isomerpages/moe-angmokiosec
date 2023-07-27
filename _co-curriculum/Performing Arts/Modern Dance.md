@@ -4,7 +4,7 @@ permalink: /co-curriculum/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/ModernDance.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTI9LdUORxPy0ezqak1CPFH24JmqcmsCfb05OoOIuBUpe_ubhaf2yuhgpsyCLMqWUw9UmitO9F0SMZG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -29,10 +29,7 @@ third_nav_title: Performing Arts
   </tr>
   <tr>
     <td class="tg-wpup">Mrs Clara Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Ms Nur Adilah</td>
-  </tr>
+  </tr>  
 </tbody>
 </table>
 <br>
@@ -71,28 +68,28 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2022/2023</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2023/2024
+			</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-uzvj"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Teo Ling Fong Rachell (3A3)</span></td>
+    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Lim En (3/4)</span></b></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ooi En Ting (3/2)</span></td>
+    <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Tan Yu Qi Jaslyn (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Secretary cum Treasurer</u><br><span style="font-weight:400;color:#004D2E">Shew Hui Yan (3/1)</span></td>
+    <td class="tg-bapb"><u><b>Secretary</b></u><b><br><span style="font-weight:400;color:#004D2E">Rishi Ng (Huang Qijing) (3/2)</span></b></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Quarter - Mistress (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Ng Xue Li (3/4)</span></td>
+    <td class="tg-uzvj"><u>Wardrobe (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Oh An Ya, Megan (3A2)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Quarter Mistress (Make Up / Props) </u><br><span style="font-weight:400;color:#004D2E">Koh Yun Ning (3/4)</span></td>
+    <td class="tg-bapb"><u><b>Wardrobe (Make Up and Props) </b></u><b><br><span style="font-weight:400;color:#004D2E">Ng Jia Pei Clare (Huang Jiapei) (3A2)</span></b></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Publicity In Charge</u><br><span style="font-weight:400;color:#004D2E">Renfred Lim Ren Fu (3/3
-			)</span></td>
+    <td class="tg-uzvj"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">Sara Grace Kueh Minn (3A3)</span></td>
   </tr>
 </tbody>
 </table>
@@ -115,41 +112,20 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 (Distinction)</td>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 (Distinction)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2017 (Accomplishment)</td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 <br>
 
-![](/images/farewell%20broadway.jpg)
-
-Modern Dance Club strives to nurture and develop versatile performers. Through dance, students are empowered to express their emotions and personal stories through movement and rhythm. Students who undergo the dance training programme will be exposed to four key learning experiences:&nbsp;_Presenting, Responding, Appreciating and Creating_. Besides showcasing their skills to a variety of audiences, they will also be trained to think critically about artistic works, relate aesthetically, affectively and cognitively to the dance art form and the contexts of artistic works as well as explore and experiment with the art form.
-
-  
-
-Since the start of the year, the Club members have been training hard for key performances such as the school annual Awards Day and the school’s biennial production Night of Music, Arts, Drama and Dance (NOMAD). Unfortunately, the year took an unexpected turn with the Covid-19 pandemic bringing the plans to a standstill. The silver lining in this is that the members discovered a new way to keep their dance passion alive – through the introduction of e-CCA training programme. Dancers got out of their comfort zone and set up little dance corners in their homes. Dance lessons were in the form of blended learning with a mix of asynchronous and live sessions with teachers and instructor facilitating the live sessions. Dancers were also able to upgrade their knowledge of dance theory at home whilst learning about dance genres through watching video clips.
-
-  
-
-The Club looks forward to more learning for the rest of the year albeit on a smaller scale. The dancers will also look forward to 2021 as they prepare for the Singapore Youth Festival Arts Presentation 2021. This year has taught the dancers many lessons on adaptability, resilience and keeping an open mind towards learning.
-
-  
-
-We leave you with a dance philosophy that we strongly believe in:
-
-  
-
-_‘As much as talent counts, effort counts twice.’ – Angela Duckworth_
-
-![](/images/Modern%20Dance%201.jpg)
-
-![](/images/Modern%20Dance%202.jpg)
+Modern Dance Club strives to nurture and develop versatile performers. Through dance, students are empowered to express their emotions and personal stories through movement and rhythm. Students who undergo the dance training programme will be exposed to four key learning experiences: *Presenting, Responding, Appreciating and Creating*. Besides showcasing their skills to a variety of audiences, they will also be trained to think critically about artistic works, relate aesthetically, affectively, and cognitively to the dance art form and the contexts of artistic works as well as explore and experiment with the art form.<br><br>
+One of the key highlights for the year was the Singapore Youth Festival (SYF) Arts Presentation 2023. The Club has attained a Certificate of Distinction for the past 3 SYF Arts Presentations. Since the start of the year, the Club members have been training hard for key performances such as the SYF, the school annual Awards Day and community performances. The Club is delighted to welcome the return of live performances and the dancers relish the chance to perform in front of a live audience since the Covid-19 pandemic halted such performances. The performances this year are centred around the theme of strength, unity, and growth to reflect the Club’s journey and progress.<br><br>
+The Club looks forward to more learning and performance opportunities. In dance, we believe that everyone should strive to shatter their own glass ceilings and progress in their own ways. The dancers will trust the wait, embrace the uncertainty, enjoy the beauty of becoming. Where nothing is certain, anything is possible.<br><br>
+We leave you with a dance philosophy that we strongly believe in:<br>
+‘As much as talent counts, effort counts twice.’ – Angela Duckworth
