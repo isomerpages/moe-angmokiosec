@@ -4,7 +4,7 @@ permalink: /co-curriculum/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-![](/images/ModernDance.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTI9LdUORxPy0ezqak1CPFH24JmqcmsCfb05OoOIuBUpe_ubhaf2yuhgpsyCLMqWUw9UmitO9F0SMZG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
