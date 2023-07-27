@@ -74,19 +74,19 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Lim En (3/4)</span></td>
+    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Lim En (3/4)</span></b></td>
   </tr>
   <tr>
     <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Tan Yu Qi Jaslyn (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Rishi Ng (Huang Qijing) (3/2)</span></td>
+    <td class="tg-bapb"><u><b>Secretary</b></u><b><br><span style="font-weight:400;color:#004D2E">Rishi Ng (Huang Qijing) (3/2)</span></b></td>
   </tr>
   <tr>
     <td class="tg-uzvj"><u>Wardrobe (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Oh An Ya, Megan (3A2)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><u>Wardrobe (Make Up and Props) </u><br><span style="font-weight:400;color:#004D2E">Ng Jia Pei Clare (Huang Jiapei) (3A2)</span></td>
+    <td class="tg-bapb"><u><b>Wardrobe (Make Up and Props) </b></u><b><br><span style="font-weight:400;color:#004D2E">Ng Jia Pei Clare (Huang Jiapei) (3A2)</span></b></td>
   </tr>
   <tr>
     <td class="tg-uzvj"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">Sara Grace Kueh Minn (3A3)</span></td>
@@ -120,10 +120,7 @@ third_nav_title: Performing Arts
   <tr>
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2017 (Accomplishment)</td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 <br>
 
