@@ -74,23 +74,22 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-uzvj"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Lim En (3/4)</span></td>
+    <td class="tg-bapb"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Lim En (3/4)</span></td>
   </tr>
   <tr>
     <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Tan Yu Qi Jaslyn (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Rishi Ng (Huang Qijing) (3/2)</span></td>
+    <td class="tg-bapb"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Rishi Ng (Huang Qijing) (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Wardrobe (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Ng Xue Li (3/4)</span></td>
+    <td class="tg-uzvj"><u>Wardrobe (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Oh An Ya, Megan (3A2)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Quarter Mistress (Make Up / Props) </u><br><span style="font-weight:400;color:#004D2E">Koh Yun Ning (3/4)</span></td>
+    <td class="tg-bapb"><u>Wardrobe (Make Up and Props) </u><br><span style="font-weight:400;color:#004D2E">Ng Jia Pei Clare (Huang Jiapei) (3A2)</span></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Publicity In Charge</u><br><span style="font-weight:400;color:#004D2E">Renfred Lim Ren Fu (3/3
-			)</span></td>
+    <td class="tg-uzvj"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">Sara Grace Kueh Minn (3A3)</span></td>
   </tr>
 </tbody>
 </table>
@@ -113,16 +112,16 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 (Distinction)</td>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 (Distinction)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2017 (Accomplishment)</td>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2017 (Accomplishment)</td>
   </tr>
 </tbody>
 </table>
