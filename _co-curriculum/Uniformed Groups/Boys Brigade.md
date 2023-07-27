@@ -14,23 +14,8 @@ third_nav_title: Uniformed Groups
 <br>
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; width: 736px;" class="iveo_table ives_tab_modern2 ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Achievements of the CCA</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">JM Fraser Award (Gold) 2018-2021</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">BB Week- Silver Honour Roll</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Character Quest - Gold Honour Roll</div></td></tr></tbody></table>
 
-#### Mission &amp; Vision
+The 64th Singapore Boys Brigade Company of AMKSS nurtures a group of disciplined and well-mannered boys who seek to develop their skills further by engaging in fun and exciting activities as well as leadership developing opportunities for all to grow together. The Boys Brigade is like a band of Brothers being united together where they care for one another, going through thick and thin, conquering whatever obstacles daunting upon them.
 
-The 64th Singapore Boys' Brigade Company aims to develop our Boys to be mentally, socially and physically strong youths. Our vision is aligned with the BB Object, which is the advancement of Christ's kingdom among the Boys and the promotion of virtues of Obedience, Reverence, Discipline and Self-respect, and all these tend towards true Christian manliness.
+One unique activity about us would be our pipe band, where we can expose the boys to the Bagpipes and Drums taught by professional instructors from the company Beyond the Octave. The band is being cared for and overseen by our Pipe and Drum Sergeants, who genuinely hope to bring out the musical and talented side of the boys. Just last year in November, the band performed for the company's 30th Anniversary in front of  Prime Minister Lee and important stakeholders of Teck Ghee Community Club. The band also performed for the yearly Enrolment &amp; Dedication Ceremony where we welcomed the new Secondary 1’s and bid farewell to the outgoing Secondary 4’s.
 
-#### Key Programmes
-
-One of the key beliefs of the Boys’ Brigade is to serve the community. We thus aim to develop Boys who have the heart and willingness to serve the community and to care for others. Our Boys have had plenty of opportunities to contribute their service for the community through various projects such as the annual BB Share-A-Gift, BB Cares and outreach to kindergartens. The Boys are also involved directly in the planning and execution of meaningful activities to demonstrate their compassion and commitment to the community.
-
-  
-
-During weekly parades and training over the course of a year, our Boys are exposed to a variety of activities, such as foot drills, kayaking, flying fox. They also attend leadership camps and life skill courses such as first aid, map reading and navigation. At the end of the BB journey, outstanding Boys can aim to attain the Founder’s Award, which is the most prestigious award a student can obtain in the Senior’s Programme.
-
-  
-
-We have also been training the students to play the bagpipe and drums since last year. Our Boys are given the option to take up the bagpipes or drums and be taught by accomplished trainers. Through this training, our Boys will be presented with the opportunity to perform in various school and brigade-level events such as the annual Speech Day, AMKsian Showcase, JM Fraser ceremony and future outreach sessions in kindergartens.
-
-  
-
-Annually we attend the enrolment service in April where the members of 64th BB and 31st GB companies work closely together to orientate the new Secondary one members and officers into the Company. Due to the situation this year, we instead met online and proceeded with the Promotion Ceremony of our Company members. We are thankful to have 10 new members joining us this year, increasing our company strength for the year to 42.
-
+Some of the Boys also attended the National Day Observance Ceremony at Teck Ghee Community Centre on National day, where they helped raise the flag in front of Prime Minister Lee Hsein Loong and was a memorable and significant milestone for them. The band was also invited to perform at the school’s National Day Celebration leaving behind significant and wonderful memories.
