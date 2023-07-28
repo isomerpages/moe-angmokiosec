@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/phoebe%20tok%20class%2043(2019).jpg" alt="Esther Joice" style="width:60%;">  
+<img src="/images/lee%20cheng%20ze_nanyang%20poly.jpeg" alt="Esther Joice" style="width:60%;">  
   <br>
 	<style>  
 img {  
@@ -19,7 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/phoebe%20tok%20class%2043(2019).jpg" alt="Esther Joice" style="width:60%;">  
+<img src="/images/phoebe%20tok%20class%2043(2019).jpg" alt="Phoebe" style="width:60%;">  
   
 
 
