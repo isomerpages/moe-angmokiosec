@@ -80,34 +80,34 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2022/2023</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2023/2024</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Cerrer Avigail Bayudan (4A3)</span></td>
+    <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Lim Ke Ying (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Jaziel Wang Ye Ze (4/3)</span></td>
+    <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Wong Xin Yi (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Ashley Ong Qian Hui (4/4)</span></td>
+    <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Lim En Yu (Lin Enyu) (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Cheah Yan Le Ryan (4/2)</span></td>
+    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Tan Hui Yu (3/4)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Quartermasters (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Foo Jing Chen Nathaniel (4A1)</span><br><span style="font-weight:400;color:#004D2E">Lin Xiaoshu (4/4)</span></td>
+    <td class="tg-mwbt"><u>Quartermasters (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Jason Pak Yong Yeow (3A2)</span><br><span style="font-weight:400;color:#004D2E">Koh Wei Jia (3/4)</span></td>
   </tr>
 	
   <tr>
-    <td class="tg-mwbt"><u>Quartermaster (Instrument - Brasses)</u><br><span style="font-weight:400;color:#004D2E">Ng Yong Xu Ayden (4/1)</span></td>
+    <td class="tg-mwbt"><u>Quartermaster (Instrument - Brasses)</u><br><span style="font-weight:400;color:#004D2E">Chey Tze Hym Reuel (3/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Yasmin Lok Sze Yin (4/2)</span></td>
+    <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Jessie Lin Jia Xi (3/4)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Librarians</u><br><span style="font-weight:400;color:#004D2E">Clara Han Xin Ying (4A1)</span><br><span style="font-weight:400;color:#004D2E">Gladys Tan Yan Tong (4/2)</span></td>  
+    <td class="tg-mwbt"><u>Librarians</u><br><span style="font-weight:400;color:#004D2E">Tan Zi Qian (3A1)</span><br><span style="font-weight:400;color:#004D2E">Chan En Xi Genevieve (3A1)</span></td>  
 </tr></tbody>
 </table>
 <br>
