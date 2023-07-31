@@ -94,7 +94,7 @@ third_nav_title: Performing Arts
     <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Lim En Yu (Lin Enyu) (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Cheah Yan Le Ryan (4/2)</span></td>
+    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Tan Hui Yu (3/4)</span></td>
   </tr>
 	<tr>
     <td class="tg-mwbt"><u>Quartermasters (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Foo Jing Chen Nathaniel (4A1)</span><br><span style="font-weight:400;color:#004D2E">Lin Xiaoshu (4/4)</span></td>
