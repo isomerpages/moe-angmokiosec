@@ -107,7 +107,7 @@ third_nav_title: Performing Arts
     <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Jessie Lin Jia Xi (3/4)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Librarians</u><br><span style="font-weight:400;color:#004D2E">Tan Zi Qian (3A1)</span><br><span style="font-weight:400;color:#004D2E">Chan En Xi Genevieve (4/2)</span></td>  
+    <td class="tg-mwbt"><u>Librarians</u><br><span style="font-weight:400;color:#004D2E">Tan Zi Qian (3A1)</span><br><span style="font-weight:400;color:#004D2E">Chan En Xi Genevieve (3A1)</span></td>  
 </tr></tbody>
 </table>
 <br>
