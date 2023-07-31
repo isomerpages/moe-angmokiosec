@@ -131,8 +131,16 @@ img {
 </tbody>
 </table>
 <br>
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/Drama%202023/drama%20syf%201.jpg" alt="Drama" style="width:100%;">  
 
-![](images/Drama%202023/drama%20syf%201.jpg)
+
 
 The Ang Mo Kio Secondary School Drama Club provides students with a space to explore their interest for the Arts by providing them with various opportunities to take on different roles; be it on stage or off stage.<br><br>
 In their time in the Drama Club, students were able to try out acting as well as crew work such as lighting, sounds and even prop and set designing. Students are also given opportunities to work in teams to devise their own interpretation of plays to put their own spin on it before they showcase it to the other members of the club. <br><br>
