@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images\Drama%202023/b2205293.jpeg" alt="Drama" style="width:100%;">  
+<img src="/images/Drama%202023/b2205293.jpeg" alt="Drama" style="width:100%;">  
 
 
 <br>
