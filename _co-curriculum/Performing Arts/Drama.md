@@ -162,7 +162,15 @@ After a hiatus of two years, the school finally organized NOMAD. This time round
 In 2023, the Drama Club put up an adaptation of Arsehammers, by Claire Dowie, which follows a young girl named Claudia who has a vivid imagination and believes that her grandfather has magical powers. The play is intended to educate and highlight the struggles of people with Alzheimer’s as well as their family and caretakers. With a strong cast of characters and creative stage directing, we were awarded the Certificate of Accomplishment for our efforts. It was an affirmation of the effort put in by all the members of the Drama Club, trainers and teachers.
 
 We look forward to further growth and development in for the rest of 2023 and 2024!
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/Drama%202023/drama%20syf%202.jpg" alt="Drama" style="width:80%;">  
 
-![](images/Drama%202023/drama%20syf%202.jpg)
+<br>
+<img src="/images/Drama%202023/dsc_0160%20(1).JPG" alt="Drama" style="width:80%;"> 
 
-![](images/Drama%202023/dsc_0160%20(1).JPG)
