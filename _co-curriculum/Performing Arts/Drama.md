@@ -172,5 +172,4 @@ img {
 <img src="/images/Drama%202023/drama%20syf%202.jpg" alt="Drama" style="width:80%;">  
 
 <br>
-<img src="/images/Drama%202023/dsc_0160%20(1).JPG" alt="Drama" style="width:80%;"> 
-
+<img src="/images/Drama%202023/dsc_0160%20(1).JPG" alt="Drama" style="width:80%;">
