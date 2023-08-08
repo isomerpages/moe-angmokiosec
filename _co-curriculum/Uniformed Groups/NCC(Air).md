@@ -32,7 +32,3 @@ The variety of activities conducted in both weekly training sessions and NCC Hea
   
 
 Expeditions to Mount Ophir and Outward Bound Courses are also organised for selected cadets with a thirst for adventure. Selected cadets also get to attend overseas exchange programmes to countries like the UK, USA, Brunei, New Zealand and Australia to learn from our foreign counterparts and expose them to a broader world view which will prepare them well for the challenges in life. Our unit promises an experience of a lifetime and seeks to develop generations of outstanding leaders.
-
-![](/images/NCC%20Air_3.jpg)
-
-![](/images/NCC%20Air_4.jpg)
