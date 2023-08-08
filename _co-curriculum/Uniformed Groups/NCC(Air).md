@@ -17,9 +17,9 @@ third_nav_title: Uniformed Groups
 
 <h6 style="text-align:center;"><a href="https://sites.google.com/view/amkss-ncc-air/home">Please click here to check on our CCA Microsite</a></h6>
 
-![](/images/NCC%20Air_2.jpg)
 
-The 60-strong NCC (Air) unit seeks to nurture cadets to fulfil their potential as compassionate and able leaders who contribute to development of self, unit, school and the nation.
+
+The 80-strong NCC (Air) unit seeks to nurture cadets to fulfil their potential as compassionate and able leaders who contribute to development of self, unit, school and the nation.
 
   
 
