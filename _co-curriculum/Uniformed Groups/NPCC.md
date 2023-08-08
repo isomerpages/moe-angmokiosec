@@ -28,9 +28,3 @@ Besides the weekly training, cadets also attend courses such as Crime Scene Inve
   
 
 We are proud and extremely delighted to be awarded Gold in the annual Unit Overall Proficiency Award for 2019. It signifies the excellence in standard of the trainings and activities that are planned for our NPCC cadets. The cadets are guided by our passionate and committed Cadet Inspectors, who also facilitate many of the trainings.
-
-![](/images/NPCC%206.jpg)
-
-![](/images/AMK%20Sec%20CCA%20Open%20House_20200110%20-%20Edited%20Web-04685.jpg)
-
-![](/images/NPCC.jpg)
