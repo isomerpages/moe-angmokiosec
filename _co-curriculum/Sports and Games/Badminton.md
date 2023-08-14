@@ -154,39 +154,9 @@ third_nav_title: Sports and Games
 <h5 style="color:black" align="center"><i>For AMKSS, For Team, For Self - We serve</i></h5>
 
 Badminton – referred to by some as ‘The Fastest Racquet Sport in the World’ – requires agility, power, mental and physical prowess as well as endurance. Ang Mo Kio Secondary has made a name for herself in this tough but satisfying sport which hones delicate wrist-work skills, nimble footwork and perseverance.
-
-![](/images/Badminton_2.jpg)
-
-![](/images/Badminton_3.jpg)
-
 Team AMKSS trains thrice a week in order to help the students build badminton skills and to train their grit and persistence in getting things right. Our senior school teams have consistently achieved Top 4 placing in the very competitive South Zone Badminton Competitions over the years. One of our alumni, Mr Kelvin Ho, is the national singles coach for players including Loh Kean Yew and Yeo Jia Min.
-
-![](/images/Badminton_4.jpg)
-
-![](/images/Badminton_5.jpg)
-
-In 2019, we continued our tradition of making our presence felt in this highly competitive arena as our B Division Girls fought hard to clinch the fourth position in the South Zone Competition. In 2020, both our B and C Division teams achieved commendable progress in the preliminary rounds of the tournament before the suspension of the National School Games. In 2021, the B Division Girls made a strong comeback and clinched the third position. This year, the team emerged as 1st runner up in the South Zone B Division Girls Competition 2022.
-
-![](/images/Badminton_6.png)
-
-![](/images/Badminton_7.png)
-
-![](/images/Badminton_8.jpg)
-
-![](/images/Badminton_9.jpg)
-
-Team AMKSS also seeks developmental opportunities that enable our student leaders and members to learn and grow through the planning and execution of bonding sessions, friendly matches and invitational tournaments for primary schools. Our Badminton club continues to grow in strength and unity.
-
-![](/images/Badminton_10.jpg)
-
-![](/images/Badminton_11.jpg)
-
-![](/images/Badminton_12.jpg)
-
-![](/images/Badminton_13.jpg)
-
-![](/images/Badminton_14.png)
-
-![](/images/Badminton_15.png)
-
-![](/images/Badminton_16.png)
+In 2021 and 2022, our B Division Girls continued our tradition of making our presence felt in this highly competitive arena by coming in third and second places respectively. This year, even though none of the teams made it to Top 4 for zonals, three of our teams at least made it to Top 8. Our team hopes to take the lessons learnt from this season’s competition back to the drawing board and do better in next year’s edition.
+Besides pushing boundaries in the sports arena, Team AMKSS also seeks developmental opportunities that enable our student leaders and members to learn and grow through the planning and execution of bonding sessions, friendly matches and VIA programme for primary schools.
+This year, our CCA had the privilege to work with Ang Mo Kio Primary School (AMKPS). During one of the VIA sessions, our students played the role of coaches by helping to refine their junior counterparts’ basic skills like lobbing, lifting and pushing and also played friendly matches with them. There was also a sharing session by some of our players to give more insight on the rigours and challenges of Secondary School life. It was a light-hearted moment seeing the students from AMKPS thanking our players for their efforts and taking pictures with them at the end of the VIA session. 
+We also collaborated with AMKSS 64th Singapore Boys’ Brigade (BB) Company, imparting basic badminton skills by having Inter-CCA VIA sessions together. The BB were fast learners and easy to manage. Through these interactions, the pupils can learn from different age groups, hence it's a good learning experience for them.
+As we look ahead to 2024, our hope is for the Badminton club to continue to grow in strength and unity.
