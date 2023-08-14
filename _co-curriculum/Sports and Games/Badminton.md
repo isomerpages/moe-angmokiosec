@@ -25,7 +25,7 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mdm Rosemalina Abdul Ghan (IC)<br></td>
+    <td class="tg-bapb">Mdm Rosemalina Abdul Ghani (IC)<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">Mr Lui Jian Long (2IC)<br></td>
