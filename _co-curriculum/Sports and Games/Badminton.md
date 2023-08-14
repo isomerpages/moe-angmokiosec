@@ -89,35 +89,29 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Executive Committee for 2021/2022GIRLS TEAM</th>
-    <th class="tg-avji">Executive Committee for 2021/2022BOYS TEAM</th>
+    <th class="tg-mwif">Executive Committee for 2023/2024 GIRLS TEAM</th>
+    <th class="tg-avji">Executive Committee for 2023/2024 BOYS TEAM</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Zhang Xiangyi (4A3)</span></td>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Goh Jing Yan (44)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (4/1)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (4/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Soh Wei Lin (44)</span></td>
-    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Ong Chin Foong (43)</span></td>
-  </tr>
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Hebe Tan Yu Xuan (4/1)<br>Eliena Gau Jen Ing (4/2)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Tan Hai Yang (4/3)<br>Chew Yue Yan (4/4)</span></td>
+  </tr>  
   <tr>
-    <td class="tg-bapb">Tan Jia Min (42)<br></td>
-    <td class="tg-bapb">Joel Tan Ying Jie (43)<br></td>
+    <td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Wong Kar Wai Kaylin (3/4)</span></td>
+		<td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Bryan Lim En Song (3/3)</span></td>
   </tr>
-  <tr>
-    <td class="tg-wpup"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (31)</span></td>
-    <td class="tg-wpup"><b>Sec 3 Captain</b><br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (31)</span></td>
+	<tr>
+    <td class="tg-wpup"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Karina Ling Sing Tee (3/2)<br>Chloe Choo Shi Mun (3/4)</span></td>
+    <td class="tg-wpup"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Chen Wei Chen (3/1)<br>Kwok Zung Han (3/4)</span></td>
   </tr>
-  <tr>
-    <td class="tg-bapb"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Hebe Tan Yu Xuan (31)</span></td>
-    <td class="tg-bapb"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Tan Hai Yang (33)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Eliena Gau Jen Ing (32)<br></td>
-    <td class="tg-wpup">Chew Yue Yan (34)</td>
-  </tr>
+  
+  
 </tbody>
 </table>
 <br>
