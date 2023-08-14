@@ -4,7 +4,7 @@ permalink: /co-curriculum/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/Badminton_1.png)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6NbC4cjfludegOL55M2ArVVagQVna2vG4O0RVMFJqCFMxBqz8A8BOiVYyFY9JhLGOXG8aKm2qXuMO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
