@@ -37,10 +37,10 @@ third_nav_title: Sports and Games
     <td class="tg-wpup">Mr Bryan Yam<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Ng Khiam Siong<br></td>
+    <td class="tg-bapb">Ms Amiliyah<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Ms Amiliyah<br></td>
+    <td class="tg-wpup">Mr Ng Khiam Siong<br></td>
   </tr>
   <tr>    
 </tr></tbody>
@@ -67,14 +67,9 @@ third_nav_title: Sports and Games
     <td class="tg-bapb">Mr Ashwin Kumar<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Edwin Si<br></td>
+    <td class="tg-wpup">Mr Kenny Quek<br></td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Jr Joe Grospe Tan<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mr Kenny Quek</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
