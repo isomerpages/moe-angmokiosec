@@ -29,8 +29,11 @@ third_nav_title: Sports and Games
   <tr>
     <td class="tg-wpup">Mr Ng Jun Lin (2IC)<br></td>
   </tr>
+	<tr>
+    <td class="tg-bapb">Mr Spencer Yeo<br></td>
+  </tr>
   <tr>
-    <td class="tg-bapb">Mr Alvin Yap (Advisor)</td>
+    <td class="tg-wpup">Mr Alvin Yap (Advisor)</td>
   </tr>
 </tbody>
 </table>
