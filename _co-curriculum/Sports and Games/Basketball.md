@@ -4,8 +4,7 @@ permalink: /co-curriculum/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/ava.jpg)
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiL3t53ro2lyH55WsdPsla0pqL9OqdulQwOVJ4_JL11K3ATdxg8YUF39lBW3mpnxajNUOM4T6z2yaA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
