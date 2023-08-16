@@ -51,31 +51,31 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Office Bearers for 2022 / 2023<br></th>
+    <th class="tg-mwif">Office Bearers for 2023 / 2024<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">KAN YI XUAN (3A3)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stanley Doss Antonio (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">BRAYDON NG (3/1)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Heng Yong Sheng (3A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>Physical Training Instructors</u></b><br><span style="font-weight:400;color:#004D2E">CHONG DONG SHYANG (3/4)</span><br><span style="font-weight:400;color:#004D2E">ZANTUA AIDAN EMMANUEL (3A4)</span></td>
+    <td class="tg-bapb"><b><u>Physical Training Instructors</u></b><br><span style="font-weight:400;color:#004D2E">Irving Chen Qihui (3A1)</span><br><span style="font-weight:400;color:#004D2E">Seow Chen Kai Leroy (3A1)<br>Pua Yan Zhe (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">IRVING CHEN QIHUI (2F)</span></td>
+    <td class="tg-wpup"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kwa Kai Jie, Kayden (2D)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">PUA YAN ZHE (2C)</span></td>
+    <td class="tg-bapb"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Lee Si Kai, Samuel (2D)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>Physical Training Instructors</u></b><br><span style="font-weight:400;color:#004D2E">HENG YONG SHENG (2B)</span><br><span style="font-weight:400;color:#004D2E">SEOW CHEN KAI LEROY (2E)</span></td>
+    <td class="tg-wpup"><b><u>Physical Training Instructors</u></b><br><span style="font-weight:400;color:#004D2E">Albert Lau Zi Hang (1E)</span></td>
   </tr>
 </tbody>
 </table>
-<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
