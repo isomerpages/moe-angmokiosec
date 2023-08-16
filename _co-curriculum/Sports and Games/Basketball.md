@@ -108,8 +108,5 @@ third_nav_title: Sports and Games
 </tbody>
 </table>
 <br>
-The AMKBB team strives to instill the values of self-discipline, respect and teamwork among players. Our trainings are structured to allow students to develop physical strength and endurance, build their technique through drills, and foster team spirit during friendly matches. The CCA leaders take charge of leading their teams to complete specific training plans at the start of each session, such as skipping, running 2.4km and circuit exercises. In addition, the coach works closely with the boys to ensure they learn tactical plays and also communicate with one another on court.
+The AMKBB team strives to instill the values of self-discipline, respect and teamwork among players. Our trainings are structured to allow students to develop physical strength and endurance, build their technique through drills, and foster team spirit during friendly matches. The CCA leaders take charge of leading their teams to complete specific training plans at the start of each session, such as skipping, running 2.4km and circuit exercises. In addition, the coach works closely with the boys to ensure they learn tactical plays and also communicate with one another on court.<br><br>
 In 2022, the National School Games was finally able to continue after lifting of the Covid restrictions. To prepare the B and C division teams for the competition, friendly matches with various schools were organised for the teams to gain competition experience. The teams fought hard in every match but failed to advance to the next stage of the competition. The teams gained the much needed competition experience and will be better prepared in the coming years.
-
-
-
