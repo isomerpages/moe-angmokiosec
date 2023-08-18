@@ -4,7 +4,7 @@ permalink: /co-curriculum/sports-and-games/netball/
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/NB1.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDxF2kAO4i2X6uMeQ30fxg5x3mAwYotaYv5M0pZV2evkIDknVig1UVpHcKbM9ORg8_S1nVc3EENzdp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -28,10 +28,7 @@ third_nav_title: Sports and Games
     <td class="tg-bapb">Ms Linda Soh (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mrs Jessica Knapp (2IC)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Mrs Joselyn Luei<br></td>
+    <td class="tg-wpup">Mrs Joselyn Luei<br></td>
   </tr>  
 </tbody>
 </table>
@@ -48,12 +45,12 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Sports Values<br></th>
+    <th class="tg-mwif">The Star Player<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Miss Elizabeth Cheong</td>
+    <td class="tg-bapb">Coach Lim Siew May</td>
   </tr>
 </tbody>
 </table>
@@ -71,21 +68,27 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2021 / 2022<br></th>
+    <th class="tg-avji">Executive Committee for 2022 / 2023<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nurul Amira Binte Adnan (4/1)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kymber Aw (4A1)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Shanelle Sng Qi (4/2)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Shakira Binte Mohd Fald (4A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>Secondary 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kymber Aw (3A1)</span></td>
+    <td class="tg-bapb"><b><u>Secondary 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Quraisha Binte Mohamed Shawal</span></td>
   </tr>
   <tr>
-		<td class="tg-wpup"><b><u>Secondary 3 Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Shakira Binte Mohd Fald (3A3</span></td>
+		<td class="tg-wpup"><b><u>Secondary 3 Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Zoey Foo</span></td>
+  </tr>
+	<tr>
+    <td class="tg-bapb"><b><u>Secondary 2 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stacey Soh En-Huey</span></td>
+  </tr>
+  <tr>
+		<td class="tg-wpup"><b><u>Secondary 2 Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
   </tr>
 </tbody>
 </table>
