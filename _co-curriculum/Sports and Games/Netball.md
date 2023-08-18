@@ -88,7 +88,7 @@ third_nav_title: Sports and Games
     <td class="tg-bapb"><b><u>Secondary 2 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stacey Soh En-Huey</span></td>
   </tr>
   <tr>
-		<td class="tg-wpup"><b><u>Secondary 2 Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
+		<td class="tg-wpup"><b><u>Secondary 2 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
   </tr>
 </tbody>
 </table>
@@ -110,18 +110,17 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">M1 Schools Challenge League: 3rd in the C Division group<br></td>
+    <td class="tg-ymba">South Zone Netball Competition C Girls (Top 8) in 2022<br></td>
+  </tr>
+	<tr>
+    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Netops Carnival 2023 C Division Second Runner Up</span></td>
   </tr>
 </tbody>
 </table>
-<br>
 
-![](/images/Net%20Ball.jpg)
+I started learning Netball at the age of 8 and that was when it ignited my spark for the sport. The sport has led me to become a more confident person. Despite the challenges due to the pandemic, we learnt to be resilient and did our best in the National School Games this year with strong and amiable friendships. It is invigorating to see how eager the team is to improve as we meet challenges through our matches. This year, the C Division Girls also qualified for the quarter finals in the South Zone National School Game. 
 
-Netball has not always been easy going for me. Since I first picked up netball at the age of nine, I have come a long way as I continue to watch myself grow into someone more empathetic person as during training it is important for me to gain a better understanding of those surrounding me. It felt odd at first when I had to adjust to E-CCA, an environment where I do not see people around me motivating one another during training and giving encouragement too. Although we are far from each other, we were still able to communicate and bond online more often than during real life training which priotises our physical training together more. Through E-CCA, I was lucky enough to be able to form a better understanding of the team, which is important to have a bonded team. A bonded team is not only a team that has a good understanding of one another but also is able to communicate well and support each other in times of need, which is crucial in netball. Despite this challenging period, it warms my heart knowing that we are still able to adapt to the changes and take advantage of the differences.
+Due to the lowering of the safe management measures, our team had the opportunity to train and bond together like how we used to two years ago. We had bonding camps, training camps, friendlies with other schools, carnivals such as Pesta Sukan and VIA. For VIA, we did the “Period protection workshop in support of girls in Nepal” where we learned to sew the reusable pads and understand the vulnerabilities that girls in Nepal and other countries experience. It helped us to appreciate and be contented with what we have.
 
-  
-
-\- NURUL AMIRA BINTE ADNAN, Captain of B Division Netball (2021)
-
-![](/images/NB%202.jpg)
+Lastly, a good team is not only one that gives their best in games but also one that offers support and to assist each other when in need of a helping hand. Netball does not just teach me how to be a good player on court but it has also taught me the importance of teamwork and sportsmanship. Sportsmanship is more than just being kind to people in sports but a collection of good ethics which is practiced strongly in the team. <br>
+	- Kymber Aw, Captain of B Division Netball (2022)
