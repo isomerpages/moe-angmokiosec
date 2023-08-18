@@ -114,7 +114,7 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Achievements of the CCA 2020</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Achievements of the CCA </span></th>
   </tr>
 </thead>
 <tbody>
@@ -131,4 +131,4 @@ Every year, we take in fresh untrained students and help them to acquire the fun
 
 In February 2023, the students participated in the South Zone National School Games team event. This annual competition is always intense with both the B and C Divisions vying honours for their respective schools. In addition, the display of sportsmanship, hysteria moments of winning and losing, and pre-match anxiety always leave behind many fond memories where the players remember for a long time. 
 
-In AMKSS table tennis, our main focus is not about competing and winning, but also about developing players with R3ICH values. We recognise the importance of building strong bonds among the players. As such, we organise bonding activities to allow the players from various levels to converge and get to know one another better. 
+In AMKSS table tennis, our main focus is not about competing and winning, but also about developing players with R3ICH values. We recognise the importance of building strong bonds among the players. As such, we organise bonding activities to allow the players from various levels to converge and get to know one another better.
