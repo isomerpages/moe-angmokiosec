@@ -4,7 +4,7 @@ permalink: /co-curriculum/sports-and-games/table-tennis/
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/TT1.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHpXyQAjCsX2Hdi3PS0JqpmiyRj086LmoBLUeDwMV1-KZYje9q9NGQohDGLFsmm-x6UmX37rtVNo3v/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -70,33 +70,34 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-74pa"><span style="font-weight:700">Office Bearers for 2020 / 2021</span></th>
+    <th class="tg-74pa"><span style="font-weight:700">Executive Committee for 2023 / 2024</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">Loke Zhi Ching (3/2)</span></td>
+    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">Giselle Lim Jiaxin (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Chai Shuen (3/5)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Sai Zi En (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Lim Kai Yi (3/4)</td>
+    <td class="tg-bapb">Wee Mei Yan (3/3)</td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Wong Yun Rui (2A2)</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan Yun Xin (2G)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Sun Mohan (24)</td>
+    <td class="tg-bapb">Tian Ziwen (2F)</td>
   </tr>
   <tr>
     <td class="tg-frvs">EXCO Member</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Niki Cheng See Hwee (2/1)</td>
+    <td class="tg-bapb">Welfare - Shermane Goh Si Rou (2B)
+		</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Lim He Ying (2A2)</td>
+    <td class="tg-wpup">Logistics - Poh Xin Hui (2F)</td>
   </tr>
 </tbody>
 </table>
