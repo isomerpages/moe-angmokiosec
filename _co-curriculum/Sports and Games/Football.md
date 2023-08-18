@@ -78,21 +78,21 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2020 / 2021</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2023 / 2024</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Leong Mun Jiat, Bryce (3/2)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Habiib Zhoriff Bin Zulkaflee</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tham Chee Yuan Neil (3A3)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Li Jiacheng Timothy</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan Zi Yang (2/1)</span></td>
+    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan You Liang Samoeul</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Soh Eng Loon (2A2)</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Niqil Danish Bin Mohamed Yazid</span></td>
   </tr>
 </tbody>
 </table>
