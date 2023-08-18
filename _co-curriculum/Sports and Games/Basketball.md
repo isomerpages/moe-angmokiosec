@@ -51,7 +51,7 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Office Bearers for 2023 / 2024<br></th>
+    <th class="tg-mwif">Executive Committee for 2023 / 2024<br></th>
   </tr>
 </thead>
 <tbody>
