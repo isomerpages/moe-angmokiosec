@@ -60,7 +60,7 @@ third_nav_title: Sports and Games
     <td class="tg-bapb">Mr Hairil Amin ('B' Division)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Gary Ching ('C' Division)</td>
+    <td class="tg-wpup">Mr Deon Lim ('C' Division)</td>
   </tr>
 </tbody>
 </table>
@@ -139,5 +139,3 @@ In the exhilarating League 2 championship, the C Division boys will showcase the
 Emphasizing the power of unity, the team firmly believes in the strength of teamwork. By working collaboratively, they aim to maximize their potential and propel themselves towards success. Together, they strive to achieve their common goal of advancing further in the championship.
 
 Stay tuned as the C Division boys continue to showcase their dedication and tenacity in their pursuit of glory.
-
-
