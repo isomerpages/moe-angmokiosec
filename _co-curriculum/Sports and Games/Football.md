@@ -115,10 +115,10 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-		<td class="tg-bapb"><b><u>B Division</u></b><br><span style="font-weight:400;color:#004D2E">Attained 4</span>th <span style="font-weight:400;color:#004D2E">Position in League 3 of Football National School Games 2019</span></td>
+		<td class="tg-bapb"><b><u>B Division</u></b><br><span style="font-weight:400;color:#004D2E"></span> <span style="font-weight:400;color:#004D2E">Qualified for League 3 of Football National School Games</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division</u></b><br><span style="font-weight:400;color:#004D2E">Qualified for League 2 of Football National School Games 2019</span></td>
+    <td class="tg-wpup"><b><u>C Division</u></b><br><span style="font-weight:400;color:#004D2E">Qualified for League 2 of Football National School Games </span></td>
   </tr>
 </tbody>
 </table>
