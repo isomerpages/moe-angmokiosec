@@ -31,7 +31,7 @@ third_nav_title: Sports and Games
     <td class="tg-wpup">Mr Lim Wui Meng (2IC)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms NurMushthafiah</td>
+    <td class="tg-bapb">Mdm NurMushthafiah</td>
   </tr>
   <tr>
     <td class="tg-wpup">Mr Mohamed Yasin</td>
@@ -57,10 +57,10 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Hairil Amin</td>
+    <td class="tg-bapb">Mr Hairil Amin ('B' Division)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Gary Ching</td>
+    <td class="tg-wpup">Mr Gary Ching ('C' Division)</td>
   </tr>
 </tbody>
 </table>
