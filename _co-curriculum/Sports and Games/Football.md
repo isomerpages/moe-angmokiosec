@@ -4,7 +4,7 @@ permalink: /co-curriculum/sports-and-games/football/
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/FB%202.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5Uj_7GxG6fUnml9_I_WMrBFV2IhrDy-hrY43i5hyq__0AKzGIqmQiqhbzDoDzk7xqinXQpu10qMYb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -31,7 +31,7 @@ third_nav_title: Sports and Games
     <td class="tg-wpup">Mr Lim Wui Meng (2IC)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms NurMushthafiah</td>
+    <td class="tg-bapb">Mdm NurMushthafiah</td>
   </tr>
   <tr>
     <td class="tg-wpup">Mr Mohamed Yasin</td>
@@ -57,10 +57,10 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Hairil Amin</td>
+    <td class="tg-bapb">Mr Hairil Amin ('B' Division)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Gary Ching</td>
+    <td class="tg-wpup">Mr Deon Lim ('C' Division)</td>
   </tr>
 </tbody>
 </table>
@@ -78,21 +78,21 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2020 / 2021</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2023 / 2024</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Leong Mun Jiat, Bryce (3/2)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Habiib Zhoriff Bin Zulkaflee</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tham Chee Yuan Neil (3A3)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Li Jiacheng Timothy</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan Zi Yang (2/1)</span></td>
+    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan You Liang Samoeul</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Soh Eng Loon (2A2)</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Niqil Danish Bin Mohamed Yazid</span></td>
   </tr>
 </tbody>
 </table>
@@ -115,45 +115,27 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-		<td class="tg-bapb"><b><u>B Division</u></b><br><span style="font-weight:400;color:#004D2E">Attained 4</span>th <span style="font-weight:400;color:#004D2E">Position in League 3 of Football National School Games 2019</span></td>
+		<td class="tg-bapb"><b><u>B Division</u></b><br><span style="font-weight:400;color:#004D2E"></span> <span style="font-weight:400;color:#004D2E">Qualified for League 3 of Football National School Games</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division</u></b><br><span style="font-weight:400;color:#004D2E">Qualified for League 2 of Football National School Games 2019</span></td>
+    <td class="tg-wpup"><b><u>C Division</u></b><br><span style="font-weight:400;color:#004D2E">Qualified for League 2 of Football National School Games </span></td>
   </tr>
 </tbody>
 </table>
-<br>
 
-![](/images/FB%206.jpg)
 
-The ‘B’ Division team managed to complete the first round of the Football National School Games (NSG) 2020. They qualified for the League 3 Championship, which was cancelled due to the Covid-19 situation.
+In the year 2023, both the B and C Division boys had a good run out in the Football National School Games.
 
-  
+The B Division boys went through the preliminary round and qualified for League 3 of the championship.
 
-The senior team started out this year’s games in a group which consisted of Bendemeer, Bowen and Hougang Secondary School.
+The boys, under the tutelage of Coach Hairil Amin, started the campaign with a win against Yuan Ching Secondary. They went on to pick another three points with defeats in two other matches. 
 
-  
+The B Division boys played against Fairfield Methodist, Pei Hwa Secondary and Beatty Secondary in the round of League 3 championship. Unfortunately, the boys did not manage to qualify for the next round. Moving forward, the B Division team aims to regroup and focus on to the next year’s NSG.
 
-The team started the first game against Bowen Secondary conceding a late goal but bounced back with a convincing 3-0 win against Hougang Secondary.
+Driven by an unwavering determination to succeed, the C Division boys poured their hearts into each match, leaving no stone unturned in their quest for victory. Their relentless efforts and unwavering desire to triumph were evident on the pitch. With those values, the team managed to finish second in the preliminary round games and qualified for the League 2 championship. 
 
-  
+In the exhilarating League 2 championship, the C Division boys will showcase their mettle as they face off against formidable opponents such as Swiss Cottage, Serangoon, and Tampines Secondary School. With the competition still underway, their eyes are firmly set on securing a spot in the next round.
 
-The ‘B’ Division boys needed a win in their last game against Bendemeer Secondary to progress to the League 2 Championship. However, the opponent put up a strong performance and our boys managed to only qualify for League 3. The loss in the final game served as a good lesson for the boys and they brought home plenty of learning points; both tactically and mentally.
+Emphasizing the power of unity, the team firmly believes in the strength of teamwork. By working collaboratively, they aim to maximize their potential and propel themselves towards success. Together, they strive to achieve their common goal of advancing further in the championship.
 
-  
-
-Despite not meeting the target of qualifying for League 2, the boys were rather upbeat about the next phase of the tournament, having been grouped together with schools that they have not encountered in the past such as Geylang Methodist School and Fajar Secondary. However, the League 3 Championship was cancelled soon after due to the pandemic.
-
-  
-
-As for the ‘C’ Division boys, they had trained and prepared hard for their Football NSGs too. Unfortunately, the circuit breaker came into effect before the tournament could start and the boys did not have the chance to display what they had been training for on a competitive stage.
-
-  
-
-Despite the cancellation of the tournament and CCA sessions, the boys were engaged in Zoom e-CCA sessions to maintain their fitness and skills with the ball.
-
-  
-
-The football team is definitely hoping for a much better performance in next year’s championship!
-
-![](/images/Football.jpg)
+Stay tuned as the C Division boys continue to showcase their dedication and tenacity in their pursuit of glory.

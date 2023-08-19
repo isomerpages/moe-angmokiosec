@@ -4,7 +4,7 @@ permalink: /co-curriculum/sports-and-games/table-tennis/
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/TT1.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHpXyQAjCsX2Hdi3PS0JqpmiyRj086LmoBLUeDwMV1-KZYje9q9NGQohDGLFsmm-x6UmX37rtVNo3v/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -70,33 +70,34 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-74pa"><span style="font-weight:700">Office Bearers for 2020 / 2021</span></th>
+    <th class="tg-74pa"><span style="font-weight:700">Executive Committee for 2023 / 2024</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">Loke Zhi Ching (3/2)</span></td>
+    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">Giselle Lim Jiaxin (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Chai Shuen (3/5)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Sai Zi En (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Lim Kai Yi (3/4)</td>
+    <td class="tg-bapb">Wee Mei Yan (3/3)</td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Wong Yun Rui (2A2)</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan Yun Xin (2G)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Sun Mohan (24)</td>
+    <td class="tg-bapb">Tian Ziwen (2F)</td>
   </tr>
   <tr>
     <td class="tg-frvs">EXCO Member</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Niki Cheng See Hwee (2/1)</td>
+    <td class="tg-bapb">Welfare - Shermane Goh Si Rou (2B)
+		</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Lim He Ying (2A2)</td>
+    <td class="tg-wpup">Logistics - Poh Xin Hui (2F)</td>
   </tr>
 </tbody>
 </table>
@@ -113,7 +114,7 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Achievements of the CCA 2020</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Achievements of the CCA </span></th>
   </tr>
 </thead>
 <tbody>
@@ -124,24 +125,10 @@ third_nav_title: Sports and Games
 </table>
 <br>
 
-The AMKSS Table Tennis CCA aims to cultivate sportsmanship, team spirit, life-long skills and a sense of belonging among our student players through our regular training sessions, table tennis competitions and our Values-In-Action (VIA) programme.
+The AMKSS Table Tennis CCA aims to cultivate sportsmanship, team spirit, life-long skills and a sense of belonging among our student players through our twice weekly training sessions, National School Games competition and our Values-In-Action (VIA) programme.
 
-  
+Every year, we take in fresh untrained students and help them to acquire the fundamental skills of playing table tennis through a structured programme comprising of stroke and footwork drills for both singles and doubles play. Every training is a progression towards mastering the techniques and strategies of winning in the game. The ITTF bronze and silver awards are also conducted twice a year during the June and December term break for students who have attained sufficient competency to achieve it. 
 
-Every year, we take in young paddlers and help them learn the basics and techniques of the game and progress on to intermediate or advanced level, where possible. Self-discipline is also instilled in our players as they follow a rigorous training programme during the sessions, which comprises lots of drill, followed by singles and doubles practice.
+In February 2023, the students participated in the South Zone National School Games team event. This annual competition is always intense with both the B and C Divisions vying honours for their respective schools. In addition, the display of sportsmanship, hysteria moments of winning and losing, and pre-match anxiety always leave behind many fond memories where the players remember for a long time. 
 
-  
-
-In 2021, regular training was interrupted several times by COVID measures but despite that, the 'B' Division team managed to compete in the NSG South Zone and were placed 5th in the competition. Subsequently, some trainings were replaced with e-CCA where students would hone their skills through drills provided by the coach on their own.
-
-  
-
-Sports is not only simply about competing and winning, but also developing players with R3ICH values. We recognise the importance of building chemistry among the players, especially in team sports events. As such, we organise bonding activities to allow the players from various levels to converge and get to know one another better.
-
-  
-
-Our vision is to introduce Table Tennis as a sport to all students and to nurture traits such as leadership, mental strength and a desire to excel which will see them through and beyond their years in school.
-
-![](/images/Table%20Tennis.jpg)
-
-![](/images/TT2.jpg)
+In AMKSS table tennis, our main focus is not about competing and winning, but also about developing players with R3ICH values. We recognise the importance of building strong bonds among the players. As such, we organise bonding activities to allow the players from various levels to converge and get to know one another better.
