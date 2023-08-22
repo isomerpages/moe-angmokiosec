@@ -37,7 +37,7 @@ description: ""
 
 #### Application Procedure 
 1.	Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
-		•	[Application Form](/files/editMediaSettings/canteen%20application%20form.pdf)
+		•	[Application Form](/files/canteen%20application%20form.pdf)
 2.	Attached the following documents together with the application form: <br>
 •	Photocopy of the NRIC (front and back) <br>
 •	List of proposed menu and pricing for all items <br>
