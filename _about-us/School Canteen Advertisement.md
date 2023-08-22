@@ -3,7 +3,7 @@ title: School Canteen Advertisement
 permalink: /about-us/permalink/
 description: ""
 ---
-#### School Canteen Advertisement
+### School Canteen Advertisement
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -35,7 +35,7 @@ description: ""
 </tbody>
 </table>
 
-##### Application Procedure 
+#### Application Procedure 
 1.	Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
 		•	Application Form
 2.	Attached the following documents together with the application form: <br>
@@ -46,14 +46,14 @@ description: ""
 •	Address: 6 Ang Mo Kio Street 22, Singapore 569362<br>
 •	Contact No: 6454 8605<br>
 •	Contact Person: Mr Chee (Operation Manager)/ Mdm Christine (Admin Executive)
-##### Interest applicants must meet the following criteria:
+#### Interest applicants must meet the following criteria:
 •	Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.<br>
 •	Able to provide good service and quality food with prices determined in consultation with the school.<br>
 •	Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see link).<br>
 •	Able to maintain high standard of food safety and personal hygiene.<br>
 •	Healthy and fit to operate the stall.
 
-##### Applicants should preferably fulfil the following criteria:
+#### Applicants should preferably fulfil the following criteria:
 
 •	Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate. <br>
 •	Possess catering experience or experience operating in a school environment. <br>
