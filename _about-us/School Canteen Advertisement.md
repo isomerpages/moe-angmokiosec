@@ -1,6 +1,6 @@
 ---
 title: School Canteen Advertisement
-permalink: /about-us/permalink/
+permalink: /about-us/school-canteen-advertisement/
 description: ""
 ---
 ### School Canteen Advertisement

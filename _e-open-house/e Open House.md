@@ -20,5 +20,5 @@ img {
 *   [ABOUT US](/about-us/our-vision-mission-and-values/)
 *   [CORPORATE VIDEO](/e-open-house/corporate-video)
 *   [FULL SUBJECT - BASED BANDING](/amksian-experience/full-subject-based-banding/)
-*   [AMKSS E- BROCHURE](https://online.fliphtml5.com/imxpa/wtom/#p=1)
+*   [AMKSS E- BROCHURE](https://issuu.com/touche-design/docs/amkss_brochure_2023?fr=sODc2OTY0Nzk2OTg)
 *   [Q &amp; A](/e-open-house/q-n-a)
