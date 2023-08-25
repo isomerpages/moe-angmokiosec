@@ -14,4 +14,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="images/qrcode-e-brochure%20-%202023.png" alt="AMKSS E - Brochure" style="width:40%;">
+<img src="/images/qrcode-e-brochure%20-%202023.png" alt="AMKSS E - Brochure" style="width:40%;">
