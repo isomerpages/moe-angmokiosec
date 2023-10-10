@@ -9,7 +9,7 @@ description: ""
 
 <h4><font color="#ABE9CD">2. Upcoming Events</font></h4>
 
-We warmly invite you to join us for a parenting workshop on <b><font color="#79A65A">“From Tweens to Teens - Preparing our Children for Secondary Education".</font></b>
+We warmly invite you to join us for a parenting workshop on&nbsp;<b><font color="#79A65A">“From Tweens to Teens - Preparing our Children for Secondary Education".</font></b>
   
 This workshop seeks to provide parents with an understanding of the process of adolescence, and some practical tips on how to help your child transit smoothly into secondary school.  
   
@@ -18,7 +18,7 @@ Title: From Tweens to Teens - Preparing our Children for Secondary Education <br
 Date: 14 January 2023 (Saturday) <br>
 Time: 8:30 – 10:00 am <br>
 Venue: Ang Mo Kio Secondary School AVA Room (Level 3) <br>
-Registration Link: <a href="https://go.gov.sg/fromtweenstoteens"><font color="#79A65A">https://go.gov.sg/fromtweenstoteens</font></a>
+Registration Link:&nbsp;<a href="https://go.gov.sg/fromtweenstoteens"><font color="#79A65A">https://go.gov.sg/fromtweenstoteens</font></a>
 
   
 We would also like to invite you to join us for a Welcome Tea which will take place after the workshop from 10:00 to 11:00 am. <br>
@@ -27,57 +27,47 @@ Thank you. <br>
 Please click the following for more details: <br>
 <a href="/files/Synopsis_From%20Tweens%20to%20Teens.pdf"><font color="#79A65A">SYNOPSIS</font></a><br><a href="/files/Speaker%20Profile%20-%20Galvin%20Sng.pdf"><font color="#79A65A">SPEAKER PROFILE</font></a>
 
-<h4><font color="#ABE9CD">3. PSG Brochure </font></h4>
+<h4><font color="#ABE9CD"> </font></h4>
 
-<a href="/files/AMKSS%20PSG%20Brochure_for%202022.pdf"><font color="#79A65A">AMKSS PSG Brochure_for 2022.pdf</font></a>
+<a href="/files/AMKSS%20PSG%20Brochure_for%202022.pdf"><font color="#79A65A"></font></a>
 
 <h5><b><a href="https://tinyurl.com/AMKSS-PSGFORM"><font color="#79A65A">Please click here to Join PSG</font></a></b></h5>
 
-<h4><font color="#ABE9CD">4. Positive Parenting Programme </font></h4>
+<h4><font color="#ABE9CD">3. Positive Parenting Programme </font></h4>
 
-To include the following schedule for workshops:  
+Triple P Parenting Zoom webinar series. The webinar series will be conducted on Saturdays and in English. Details are as follows:  
   
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="498" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;">English Seminar (Run 1)</font></strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="50" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Time<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">10:00am – 11:30am (Saturdays)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="50" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Date<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Seminar 1: Raising Responsible Teenagers<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">13 August 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Seminar 2: Raising Competent Teenagers<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">20 August 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Seminar 3: Getting Teenagers Connected<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">27 August 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br>
+<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="498" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;">English Seminar (Run 1)</font></strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="50" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Time<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">10:00am – 11:30am (Saturdays)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="50" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Dates<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">7 October 2023<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">14 October 2023<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">21 October 2023<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br>
 
-  
 
-<table class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="498" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;">English Seminar (Run 2)</font></strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="50" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Time<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">7:30pm – 9:00pm (Wednesdays)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="50" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Date<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Seminar 1: Raising Responsible Teenagers<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">30 November 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Seminar 2: Raising Competent Teenagers<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">7 December 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Seminar 3: Getting Teenagers Connected<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">14 December 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br>
-
-  
-
-<table class="iveo_table ives_tab_simple3" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="3" width="498" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;"><font size="4" style="margin: 0px; outline: 0px; padding: 0px;">Mandarin Seminar</font></strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="50" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Time<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><strong style="margin: 0px; outline: 0px; padding: 0px;">7:30pm – 9:00pm (Fridays)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td rowspan="3" width="50" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Date<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Seminar 1: Raising Responsible Teenagers<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">3 June 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Seminar 2: Raising Competent Teenagers<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">10 June 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="316" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Seminar 3: Getting Teenagers Connected<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="131" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">17 June 2022<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-  
-Registration details will be provided nearer the date.
-
-<h4><font color="#ABE9CD">5. Useful Resources for Parents </font></h4>
+<h4><font color="#ABE9CD">4. Useful Resources for Parents </font></h4>
 
 (a) MOE Parent Kit<br>
 <a href="https://go.gov.sg/moe-parentkit"><font color="#62C183">https://go.gov.sg/moe-parentkit</font></a>
 
 
-<html>
-<body>
+
+
 <p><a href="/files/journeying-through-challenging-times-together.pdf">
-<img src="/images/MOE%20Parent%20Kit.png"  style="width:30%">
+<img src="/images/MOE%20Parent%20Kit.png" style="width:30%">
 </a></p>
-</body>
-</html>
+
+
 
 
 (b) A PSG Repository – Supporting Mental Well-being<br>
 <a href="https://go.gov.sg/psg-repository"><font color="#62C183">https://go.gov.sg/psg-repository</font></a>
 
-<html>
-<body>
-<p><a href="https://sites.google.com/moe.edu.sg/psg-mental-wellbeing-support/home">
-<img src="/images/A%20PSG%20Repository.png"  style="width:30%">
-</a></p>
-</body>
-</html>
 
-<h4><font color="#ABE9CD">6. Events Photo</font></h4>
+
+<p><a href="https://sites.google.com/moe.edu.sg/psg-mental-wellbeing-support/home">
+<img src="/images/A%20PSG%20Repository.png" style="width:30%">
+</a></p>
+
+
+
+<h4><font color="#ABE9CD">5. Events Photo</font></h4>
 
 ![CNY Lohei](/images/CNY%20Lohei%204.jpg)
 
