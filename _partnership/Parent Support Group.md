@@ -69,11 +69,10 @@ Triple P Parenting Zoom webinar series. The webinar series will be conducted on 
 
 <h4><font color="#ABE9CD">5. Events Photo</font></h4>
 
-![CNY Lohei](/images/CNY%20Lohei%204.jpg)
+![CNY Lohei](/images/PSG%202023/psg%203_2023.jpg)
 
-![PSG GP2](/images/PSG%20GP2.jpg)
+![PSG GP1](/images/PSG%202023/psg%201%20_2023.jpg)
 
-![PSG GP1](/images/PSG%20Gp1.jpg)
+![PSG GP2](/images/PSG%202023/psg%202_2023.jpg)
 
-![PSG 4](/images/PSG%202023/psg%204_2023.jpg)
-
+![PSG GP3](/images/PSG%202023/psg%204_2023.jpg)
