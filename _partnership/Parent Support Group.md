@@ -29,7 +29,7 @@ Please click the following for more details: <br>
 
 <h4><font color="#ABE9CD"> </font></h4>
 
-<h5><b><a href="https://tinyurl.com/AMKSS-PSGFORM"><font color="#79A65A">Please click here to Join PSG</font></a></b></h5>
+<h5><b><a href="https://go.gov.sg/psg-signup"><font color="#79A65A">Please click here to Join PSG</font></a></b></h5>
 
 <h4><font color="#ABE9CD">3. Positive Parenting Programme </font></h4>
 
