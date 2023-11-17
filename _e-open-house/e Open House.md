@@ -22,4 +22,3 @@ img {
 *   [CORPORATE VIDEO](https://youtu.be/1UwZVJFOWcI)
 *   [FULL SUBJECT - BASED BANDING](/amksian-experience/full-subject-based-banding/)
 *   [AMKSS E- BROCHURE](https://issuu.com/touche-design/docs/amkss_brochure_2023?fr=sODc2OTY0Nzk2OTg)
-*   [Q &amp; A](/e-open-house/q-n-a)
