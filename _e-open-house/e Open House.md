@@ -2,6 +2,7 @@
 title: e Open House
 permalink: /e-open-house/
 description: ""
+variant: markdown
 ---
 <style>  
 img {  
@@ -18,7 +19,7 @@ img {
 <br>
 
 *   [ABOUT US](/about-us/our-vision-mission-and-values/)
-*   [CORPORATE VIDEO](/e-open-house/corporate-video)
+*   [CORPORATE VIDEO](https://youtu.be/1UwZVJFOWcI)
 *   [FULL SUBJECT - BASED BANDING](/amksian-experience/full-subject-based-banding/)
 *   [AMKSS E- BROCHURE](https://issuu.com/touche-design/docs/amkss_brochure_2023?fr=sODc2OTY0Nzk2OTg)
 *   [Q &amp; A](/e-open-house/q-n-a)
