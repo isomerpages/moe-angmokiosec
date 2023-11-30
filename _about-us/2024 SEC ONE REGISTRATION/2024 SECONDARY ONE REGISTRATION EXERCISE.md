@@ -3,7 +3,7 @@ title: 2024 SECONDARY ONE REGISTRATION EXERCISE
 permalink: /about-us/2024-secondary-one-registration-exercise/
 description: ""
 third_nav_title: 2024 SEC ONE REGISTRATION
-variant: tiptap
+variant: markdown
 ---
 <h4 style="color:black" align="center">Secondary One Registration Matters</h4>
 
@@ -33,7 +33,7 @@ variant: tiptap
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2</span></td>
-    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/2023-email-addresses-of-sec-one-form-teachers/"><span style="text-decoration:none;color:#31C47D">2023 Email Addresses of Secondary One Form Teachers</span></a></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/2023-email-addresses-of-sec-one-form-teachers/"><span style="text-decoration:none;color:#31C47D">2024 Email Addresses of Secondary One Form Teachers</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3</span></td>
