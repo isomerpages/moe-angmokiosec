@@ -73,7 +73,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">12</span><br></td>
-    <td class="tg-8sxo" colspan="4"><a href="/students/2022-secondary-one-registration-exercise/information-n-communication-technology-ict-matters"><span style="text-decoration:none;color:#31C47D"> </span></a><a href="/about-us/2023-secondary-one-registration-exercise/parent-support-group-psg"><span style="text-decoration:none;color:#31C47D">Parent Support Group (PSG)</span></a><span style="color:#222;background-color:#FBFFFA">      </span><br></td>
+    <td class="tg-8sxo" colspan="4"><a href="/students/2023-secondary-one-registration-exercise/information-n-communication-technology-ict-matters"><span style="text-decoration:none;color:#31C47D"> </span></a><a href="/about-us/2023-secondary-one-registration-exercise/parent-support-group-psg"><span style="text-decoration:none;color:#31C47D">Parent Support Group (PSG)</span></a><span style="color:#222;background-color:#FBFFFA">      </span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">13</span><br></td>
