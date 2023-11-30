@@ -77,7 +77,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">13</span><br></td>
-    <td class="tg-8sxo" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="/about-us/2023-secondary-one-registration-exercise/first-week-of-school-matters-3rd-6th-jan-2023"><span style="text-decoration:none;color:#31C47D">First week of school matters (3rd - 6th Jan 2023)</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-8sxo" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="/about-us/2023-secondary-one-registration-exercise/first-week-of-school-matters-3rd-6th-jan-2023"><span style="text-decoration:none;color:#31C47D">First week of school matters (2nd - 5th Jan 2024)</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">14</span><br></td>
@@ -86,6 +86,6 @@ variant: markdown
 </tbody>
 </table><br>
 
-*   <a href="/about-us/2023-secondary-one-registration-exercise/appeal-for-admission-to-secondary-one-2023"><b><font color="#62C183">Appeal for 2023 Secondary one Admission</font></b></a>
+*   <a href="/about-us/2023-secondary-one-registration-exercise/appeal-for-admission-to-secondary-one-2023"><b><font color="#62C183">Appeal for 2024 Secondary one Admission</font></b></a>
 *   <a href="/files/2023%20Introduction%20to%20School.pdf"><b><font color="#62C183">Introduction to AMKSS</font></b></a>
-*   <a href="/files/S1OC%202023%20Information%20Kit.pdf"><b><font color="#62C183">S1OC 2023 Information Kit</font></b></a>
+*   <a href="/files/S1OC%202023%20Information%20Kit.pdf"><b><font color="#62C183">S1OC 2024 Information Kit</font></b></a>
