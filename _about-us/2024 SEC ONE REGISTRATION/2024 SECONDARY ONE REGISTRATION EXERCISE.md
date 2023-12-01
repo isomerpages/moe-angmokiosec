@@ -69,7 +69,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">11</span></td>
-    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/ict-matters&quot;"><span style="text-decoration:none;color:#31C47D">Information &amp; Communication Technology (ICT) Matters</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/ict-matters"><span style="text-decoration:none;color:#31C47D">Information &amp; Communication Technology (ICT) Matters</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">12</span><br></td>
