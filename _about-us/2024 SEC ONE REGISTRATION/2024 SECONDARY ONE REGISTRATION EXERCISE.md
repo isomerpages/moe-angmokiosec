@@ -68,8 +68,8 @@ variant: markdown
     <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/general-discipline-n-school-attire-matters"><span style="text-decoration:none;color:#31C47D">General Discipline &amp; School Attire Matters</span><span style="color:#222;background-color:#FBFFFA">          </span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">11</span><br></td>
-    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/Information%20%26%20Communication%20Technology%20(ICT)%20Matters"><span style="text-decoration:none;color:#31C47D">Information &amp; Communication Technology (ICT) Matters</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">11</span></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/ict-matters&quot;"><span style="text-decoration:none;color:#31C47D">Information &amp; Communication Technology (ICT) Matters</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">12</span><br></td>
