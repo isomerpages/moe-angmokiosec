@@ -19,3 +19,6 @@ Attached is the MOE FAS Application Form
 
   
 <a href="/files%2F2024%20Sec%201%20Registration/MOE_FAS_Application_Form.pdf"><b><font color="#62C183">MOE FAS Application Form</font></b></a>
+
+The following are the MOE FAS Pamphlets in four different languages <br>
+<a href="/files%2F2024%20Sec%201%20Registration/MOE_FAS_Application_Form.pdf"><b><font color="#62C183">MOE FAS Application Form</font></b></a><br><a href="/files%2F2024%20Sec%201%20Registration/MOE_FAS_Application_Form.pdf"><b><font color="#62C183">MOE FAS Application Form</font></b></a><br><a href="/files%2F2024%20Sec%201%20Registration/MOE_FAS_Application_Form.pdf"><b><font color="#62C183">MOE FAS Application Form</font></b></a><br><a href="/files%2F2024%20Sec%201%20Registration/MOE_FAS_Application_Form.pdf"><b><font color="#62C183">MOE FAS Application Form</font></b></a>
