@@ -9,7 +9,7 @@ Students are strongly encouraged to purchase their textbooks and PE Attire onlin
 
   
 
-For online purchase, click&nbsp;[https://asencio.com.sg](https://asencio.com.sg/)
+For online purchase, click&nbsp;[https://asenciobookshop.sg](https://asenciobookshop.sg)
 
 Mode of Payment: Online purchase via PayNow, credit card/debit card
 
