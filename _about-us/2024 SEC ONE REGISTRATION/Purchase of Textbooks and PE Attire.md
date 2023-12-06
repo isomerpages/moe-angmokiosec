@@ -35,39 +35,39 @@ Mode of Payment: Online purchase via PayNow, credit card/debit card
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">27</span>th<span style="color:#222;background-color:#FBFFFA"> Dec (Tue)/0830-1100</span><br></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1A</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">26</span>th<span style="color:#222;background-color:#FBFFFA"> Dec (Tue)/0830-1100</span><br></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/1</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">27</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Tue)/1100-1300</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1B</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">26</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Tue)/1100-1300</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/2</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">27</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Tue)/1400-1600</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1C</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">26</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Tue)/1400-1600</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/3</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">28</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Wed)/0830-1100</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1D</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">27</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Wed)/0830-1100</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/4</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">28</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Wed)/1100-1300</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1E</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">27</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Wed)/1100-1300</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/5</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">28</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Wed)/1400-1600</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1F</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">27</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Wed)/1400-1600</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/6</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">29</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Thu)/0830-1100</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1G</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">28</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Thu)/0830-1100</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/7</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">29</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Thu)/ 1100-1300</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1H</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">28</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Thu)/ 1100-1300</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/8</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">30</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Fri)/ 0830-1600</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">29</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Fri)/ 0830-1600</span></td>
     <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">All Classes   </span></td>
   </tr>
 </tbody>
