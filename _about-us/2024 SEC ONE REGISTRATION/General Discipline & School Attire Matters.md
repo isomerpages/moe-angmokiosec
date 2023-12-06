@@ -3,6 +3,7 @@ title: General Discipline & School Attire Matters
 permalink: /about-us/2023-secondary-one-registration-exercise/general-discipline-n-school-attire-matters/
 description: ""
 third_nav_title: 2024 SEC ONE REGISTRATION
+variant: markdown
 ---
 Students are to wear the prescribed school uniform and any modification to the uniform is not allowed.
 
