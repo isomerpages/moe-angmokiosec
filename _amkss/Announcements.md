@@ -2,7 +2,17 @@
 title: Announcements
 permalink: /amkss/announcements/
 description: ""
+variant: markdown
 ---
+##### **2024 Secondary One Registration Exercise**
+
+Information on the 2024 Secondary One Registration exercise is now available at this link:
+
+
+
+Information pertaining to Secondary One Class Allocation will be sent directly to parents/guardians via Parents Gateway one day after the release of Secondary One Posting results by 5pm.
+
+
 ##### **School Graduation Certificates** 
 
 Dear Graduates of 2022 Cohort 4E, 5NA and 4N
