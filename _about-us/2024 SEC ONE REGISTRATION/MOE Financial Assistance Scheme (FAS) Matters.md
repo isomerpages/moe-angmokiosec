@@ -6,7 +6,7 @@ third_nav_title: 2024 SEC ONE REGISTRATION
 variant: markdown
 ---
 **<u>For Students whose FAS applications were approved in Primary Schools:</u>**<br>
-Please approach our colleagues stationed at 1H Classroom (D1-04) before you purchase the school uniforms, textbooks and PE Attire.
+Please approach our colleagues stationed at Classroom D1-04 before you purchase the school uniforms, textbooks and PE Attire.
 
   
 
@@ -22,8 +22,3 @@ Attached is the MOE FAS Application Form<br>
 
 
  Parents  / guardians who want to know more about MOE FAS can also visit the following website at [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
-
-
-
-  
-
