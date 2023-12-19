@@ -53,7 +53,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">7</span></td>
-    <td class="tg-8sxo" colspan="4"><a href="/about-us/2024-secondary-one-registration-exercise/subjects-at-more-demanding-level-matters/"><span style="text-decoration:none;color:#31C47D">Subject Based Banding (SBB) Matters   </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2024-secondary-one-registration-exercise/subjects-at-more-demanding-level-matters/"><span style="text-decoration:none;color:#31C47D">Subjects Taken at More Demanding Level Matters   </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">8</span></td>
