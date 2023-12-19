@@ -17,7 +17,7 @@ Mode of Payment: Online purchase via PayNow, credit card/debit card
 
   
 
-<u>Self-collection of Textbooks and PE Attire:</u>
+<u>Self-collection of Textbooks and PE Attire (for those who purchase online):</u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -75,7 +75,7 @@ Mode of Payment: Online purchase via PayNow, credit card/debit card
 </tbody>
 </table>
 
-Walk-in Purchase for&nbsp;Textbooks and PE Attire in School:
+<u>Walk-in Purchase for&nbsp;Textbooks and PE Attire in School</u>:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -148,4 +148,4 @@ Attached is the Secondary One Booklist.
 **[Booklist for Secondary One](/files%2F2024%20Sec%201%20Registration/Ang_Mo_Kio_Secondary_School_Booklist_2024.pdf)**
   
 
-**<em><u>Note: FAS students are required to come to school to purchase the school uniforms, textbooks and PE attire.</u></em>**
+**<em><u>Note: Financial Assistance Scheme (FAS) students are required to come to school to purchase the school uniforms, textbooks and PE attire.</u></em>**
