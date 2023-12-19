@@ -1,8 +1,9 @@
 ---
-title: 2023 SECONDARY ONE REGISTRATION EXERCISE
-permalink: /about-us/2023-secondary-one-registration-exercise/
+title: 2024 SECONDARY ONE REGISTRATION EXERCISE
+permalink: /about-us/2024-secondary-one-registration-exercise/
 description: ""
-third_nav_title: 2023 SEC ONE REGISTRATION
+third_nav_title: 2024 SEC ONE REGISTRATION
+variant: markdown
 ---
 <h4 style="color:black" align="center">Secondary One Registration Matters</h4>
 
@@ -32,7 +33,7 @@ third_nav_title: 2023 SEC ONE REGISTRATION
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">2</span></td>
-    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/2023-email-addresses-of-sec-one-form-teachers/"><span style="text-decoration:none;color:#31C47D">2023 Email Addresses of Secondary One Form Teachers</span></a></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/2023-email-addresses-of-sec-one-form-teachers/"><span style="text-decoration:none;color:#31C47D">2024 Email Addresses of Secondary One Form Teachers</span></a></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">3</span></td>
@@ -52,7 +53,7 @@ third_nav_title: 2023 SEC ONE REGISTRATION
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">7</span></td>
-    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/subject-based-banding-sbb-matters"><span style="text-decoration:none;color:#31C47D">Subject Based Banding (SBB) Matters   </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2024-secondary-one-registration-exercise/subjects-at-more-demanding-level-matters/"><span style="text-decoration:none;color:#31C47D">Subjects Taken at More Demanding Level Matters   </span></a><span style="color:#222;background-color:#FBFFFA">    </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">8</span></td>
@@ -64,19 +65,19 @@ third_nav_title: 2023 SEC ONE REGISTRATION
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">10</span></td>
-    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/general-discipline-n-school-attire-matters"><span style="text-decoration:none;color:#31C47D">General Discipline &amp; School Attire Matters</span></a><br></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/general-discipline-n-school-attire-matters"><span style="text-decoration:none;color:#31C47D">General Discipline &amp; School Attire Matters</span><span style="color:#222;background-color:#FBFFFA">          </span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">11</span><br></td>
-    <td class="tg-8sxo" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="/about-us/2023-secondary-one-registration-exercise/information-n-communication-technology-ict-matters"><span style="text-decoration:none;color:#31C47D">Information &amp; Communication Technology (ICT) Matters</span></a><span style="color:#222;background-color:#FBFFFA">      </span><br></td>
+    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">11</span></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/ict-matters"><span style="text-decoration:none;color:#31C47D">Information &amp; Communication Technology (ICT) Matters</span></a><span style="color:#222;background-color:#FBFFFA"> </span></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">12</span><br></td>
-    <td class="tg-8sxo" colspan="4"><a href="/students/2022-secondary-one-registration-exercise/information-n-communication-technology-ict-matters"><span style="text-decoration:none;color:#31C47D"> </span></a><a href="/about-us/2023-secondary-one-registration-exercise/parent-support-group-psg"><span style="text-decoration:none;color:#31C47D">Parent Support Group (PSG)</span></a><span style="color:#222;background-color:#FBFFFA">      </span><br></td>
+    <td class="tg-8sxo" colspan="4"><a href="/about-us/2023-secondary-one-registration-exercise/parent-support-group-psg"><span style="text-decoration:none;color:#31C47D">Parent Support Group (PSG)</span></a><span style="color:#222;background-color:#FBFFFA">      </span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">13</span><br></td>
-    <td class="tg-8sxo" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="/about-us/2023-secondary-one-registration-exercise/first-week-of-school-matters-3rd-6th-jan-2023"><span style="text-decoration:none;color:#31C47D">First week of school matters (3rd - 6th Jan 2023)</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
+    <td class="tg-8sxo" colspan="4"><span style="color:#222;background-color:#FBFFFA"> </span><a href="/about-us/2023-secondary-one-registration-exercise/first-week-of-school-matters-3rd-6th-jan-2023"><span style="text-decoration:none;color:#31C47D">First week of school matters (2nd - 5th Jan 2024)</span></a><span style="color:#222;background-color:#FBFFFA"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">14</span><br></td>
@@ -85,6 +86,6 @@ third_nav_title: 2023 SEC ONE REGISTRATION
 </tbody>
 </table><br>
 
-*   <a href="/about-us/2023-secondary-one-registration-exercise/appeal-for-admission-to-secondary-one-2023"><b><font color="#62C183">Appeal for 2023 Secondary one Admission</font></b></a>
-*   <a href="/files/2023%20Introduction%20to%20School.pdf"><b><font color="#62C183">Introduction to AMKSS</font></b></a>
-*   <a href="/files/S1OC%202023%20Information%20Kit.pdf"><b><font color="#62C183">S1OC 2023 Information Kit</font></b></a>
+*   <a href="/about-us/2023-secondary-one-registration-exercise/appeal-for-admission-to-secondary-one-2023"><b><font color="#62C183">Appeal for 2024 Secondary One Admission</font></b></a>
+*   <a href="/files%2F2024%20Sec%201%20Registration/Introduction_to_School.pdf"><b><font color="#62C183">Introduction to AMKSS</font></b></a>
+*   <a href="/files%2F2024%20Sec%201%20Registration/2024_Secondary_One_Orientation.pdf"><b><font color="#62C183">S1OC 2024 Information Kit</font></b></a>
