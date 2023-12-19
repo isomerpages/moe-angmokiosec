@@ -150,5 +150,3 @@ Contact: 64665697/ 90295135 <br>
 Mon – Sat : 12.00 noon to 7.00 pm <br>
 (Closed on Sunday and Public Holidays.) <br>
 Email:&nbsp;<a href="mailto:finestfashioncentre@gmail.com"><font color="#62C183">finestfashioncentre@gmail.com</font></a> <br>
-Website:&nbsp;<a href="finestuniform.com/collections/ang-mo-kio-secondary-school"><font color="#62C183">finestuniform.com</font></a><br>
-Password: AMKSS22
