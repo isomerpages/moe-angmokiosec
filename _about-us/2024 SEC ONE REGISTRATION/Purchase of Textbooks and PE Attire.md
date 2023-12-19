@@ -5,6 +5,8 @@ description: ""
 third_nav_title: 2024 SEC ONE REGISTRATION
 variant: markdown
 ---
+Under Full Subject Based Banding (FSBB), students can take subjects at three subject levels, known as G1, G2, G3 (G stands for General). Students are reminded to purchase textbooks which correspond to their subject-level, i.e G1, G2 or G3. More information on the relevant textbooks to purchase can be found in the booklist. Please refer to our school website for the booklist.
+
 Students are strongly encouraged to purchase their textbooks and PE Attire online and self-collect in school on the dates and timings stated below.
 
   
