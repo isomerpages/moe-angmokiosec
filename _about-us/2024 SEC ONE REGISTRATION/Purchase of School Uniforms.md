@@ -17,8 +17,10 @@ Mode of Payment: Online purchase via credit card and Paynow
 
   
 
-<u>Self-collection of School Uniforms:</u>
+<u>Self-collection of School Uniforms (for those who purchase online): </u>
 
+
+(**Note: Students should be accompanied by at most <u>1 parent/guardian</u> at the sales area.**)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -75,7 +77,7 @@ Mode of Payment: Online purchase via credit card and Paynow
 </tbody>
 </table>
 
-Walk-in Purchase of School Uniforms in School:
+<u>Walk-in Purchase of School Uniforms in School:</u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
