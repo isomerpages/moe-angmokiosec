@@ -88,4 +88,4 @@ variant: markdown
 
 *   <a href="/about-us/2023-secondary-one-registration-exercise/appeal-for-admission-to-secondary-one-2023"><b><font color="#62C183">Appeal for 2024 Secondary one Admission</font></b></a>
 *   <a href="/files%2F2024%20Sec%201%20Registration/Introduction_to_School.pdf"><b><font color="#62C183">Introduction to AMKSS</font></b></a>
-*   <a href="/files%2F2024%20Sec%201%20Registration/Secondary_One_Orientation_Information_Kit.pdf"><b><font color="#62C183">S1OC 2024 Information Kit</font></b></a>
+*   <a href="/files%2F2024%20Sec%201%20Registration/2024_Secondary_One_Orientation.pdf"><b><font color="#62C183">S1OC 2024 Information Kit</font></b></a>
