@@ -2,6 +2,7 @@ collections:
   amksian-experience:
     output: true
     order:
+      - 2024 First Day of School Matters.md
       - Full Subject Based Banding.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
