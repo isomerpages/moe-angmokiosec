@@ -25,9 +25,6 @@ Do remember to bring along your proof of identity (EZ Link card or IC) to collec
 
 [The school uses Parents Gateway as a key mode of communication with parents/guardians. Click here for information on how to download and be registered on the Parents Gateway app.](/files/PG%20Step%20by%20Step%20Guide.pdf)
 
-##### **2023 MOE FAS Application**
-[Please click here for information pertaining to 2023 MOE FAS Application](https://staging.d2qcf83lbf7y8u.amplifyapp.com/about-us/moe-fas/)
-
 ##### **2023  SEMESTER -2 TIMETABLE**   
 
 [Please click here for 2023 Semester 2 Timetable](/files/sem%202_class_2023_22june2023.pdf)
