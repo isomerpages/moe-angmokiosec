@@ -2,7 +2,6 @@ collections:
   amksian-experience:
     output: true
     order:
-      - 2024 First Day of School Matters.md
       - Full Subject Based Banding.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
@@ -11,3 +10,4 @@ collections:
       - AMKsian Showcase 2023.md
       - "Our Journey, Our Aspirations : Yearbook 2022.md"
       - MOE Sexuality Education in Schools.md
+      - 2024 First Day of School Matters.md
