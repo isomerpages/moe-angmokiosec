@@ -4,7 +4,6 @@ permalink: /amkss/quick-links/
 description: ""
 variant: markdown
 ---
-* [2023 MOE FAS Application](https://staging.d2qcf83lbf7y8u.amplifyapp.com/about-us/moe-fas/)
 * [Class Timetable for 2023 - Semester 2](/files/sem%202_class_2023_22june2023.pdf)
 * [Student Calendar 2024](/files/Student_Calendar_2024.pdf)
 * [Classroom Allocation 2023](/files/2023classroomallocation.pdf)
