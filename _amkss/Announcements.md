@@ -10,6 +10,11 @@ Dear AMKsians, please click on the link above to access the following documents:
 *  Classroom Allocation 2024
 *  HBL Schedule 2024
 
+In addition, please take note of the following:
+
+* The reporting time on 2 January 2024 (Tuesday) will be 7.20 am. The attire for Sec 2 to 5 students will be the full school uniform.
+
+* For students progressing to Secondary 3, the class allocation has been communicated to them via their Student iCON accounts.
 
 ##### **2024 Secondary One Registration Exercise**
 
