@@ -4,7 +4,7 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
-##### **2024 First Day of School Matters**
+##### **[2024 First Day of School Matters](/folders/amksian-experience/2024%20First%20Day%20of%20School%20Matters.md)**
 Dear AMKsians, please click on the link above to access the following documents:
 *  Class Timetable 2024, Semester 1
 *  Classroom Allocation 2024
