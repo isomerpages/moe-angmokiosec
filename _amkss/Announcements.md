@@ -4,7 +4,7 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
-##### **[2024 First Day of School Matters](https://www.angmokiosec.moe.edu.sg/amksian-experience/2024-first-day-of-school-matters/)**
+##### **[2024 First Day of School Matters](/amksian-experience/2024-first-day-of-school-matters/)**
 Dear AMKsians, please click on the link above to access the following documents:
 *  Class Timetable 2024, Semester 1
 *  Classroom Allocation 2024
