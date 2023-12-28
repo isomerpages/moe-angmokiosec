@@ -4,6 +4,13 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
+##### **2024 First Day of School Matters**
+Dear AMKsians, please click on the link above to access the following documents:
+*  Class Timetable 2024, Semester 1
+*  Classroom Allocation 2024
+*  HBL Schedule 2024
+
+
 ##### **2024 Secondary One Registration Exercise**
 
 Information on the 2024 Secondary One Registration exercise is available at this link:
