@@ -4,6 +4,18 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
+##### **[2024 First Day of School Matters](/amksian-experience/2024-first-day-of-school-matters/)**
+Dear AMKsians, please click on the link above to access the following documents:
+*  Class Timetable 2024, Semester 1
+*  Classroom Allocation 2024
+*  HBL Schedule 2024
+
+In addition, please take note of the following:
+
+* The reporting time on 2 January 2024 (Tuesday) will be 7.20 am. The attire for Sec 2 to 5 students will be the full school uniform.
+
+* For students progressing to Secondary 3, the class allocation has been communicated to them via their Student iCON accounts.
+
 ##### **2024 Secondary One Registration Exercise**
 
 Information on the 2024 Secondary One Registration exercise is available at this link:
@@ -24,9 +36,6 @@ Do remember to bring along your proof of identity (EZ Link card or IC) to collec
 ##### **Parents Gateway**  
 
 [The school uses Parents Gateway as a key mode of communication with parents/guardians. Click here for information on how to download and be registered on the Parents Gateway app.](/files/PG%20Step%20by%20Step%20Guide.pdf)
-
-##### **2023 MOE FAS Application**
-[Please click here for information pertaining to 2023 MOE FAS Application](https://staging.d2qcf83lbf7y8u.amplifyapp.com/about-us/moe-fas/)
 
 ##### **2023  SEMESTER -2 TIMETABLE**   
 
