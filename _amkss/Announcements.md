@@ -8,7 +8,6 @@ variant: markdown
 Dear AMKsians, please click on the link above to access the following documents:
 *  Class Timetable 2024, Semester 1
 *  Classroom Allocation 2024
-*  HBL Schedule 2024
 
 In addition, please take note of the following:
 
