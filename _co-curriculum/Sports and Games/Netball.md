@@ -80,10 +80,10 @@ variant: markdown
     <td class="tg-bapb"><b><u>Secondary Four Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Quraisha Binte Mohamed Shawal</span></td>
   </tr>
   	<tr>
-    <td class="tg-bapb"><b><u>Secondary Three Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stacey Soh En-Huey</span></td>
+    <td class="tg-wpup"><b><u>Secondary Three Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stacey Soh En-Huey</span></td>
   </tr>
   <tr>
-		<td class="tg-wpup"><b><u>Secondary Three Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
+		<td class="tg-bapb"><b><u>Secondary Three Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
   </tr>
 </tbody>
 </table>
