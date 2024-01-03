@@ -76,23 +76,14 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kymber Aw (4A1)</span></td>
+   <tr>
+    <td class="tg-bapb"><b><u>Secondary Four Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Quraisha Binte Mohamed Shawal</span></td>
+  </tr>
+  	<tr>
+    <td class="tg-bapb"><b><u>Secondary Three Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stacey Soh En-Huey</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Shakira Binte Mohd Fald (4A3)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb"><b><u>Secondary 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Quraisha Binte Mohamed Shawal</span></td>
-  </tr>
-  <tr>
-		<td class="tg-wpup"><b><u>Secondary 3 Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Zoey Foo</span></td>
-  </tr>
-	<tr>
-    <td class="tg-bapb"><b><u>Secondary 2 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stacey Soh En-Huey</span></td>
-  </tr>
-  <tr>
-		<td class="tg-wpup"><b><u>Secondary 2 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
+		<td class="tg-wpup"><b><u>Secondary Three Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
   </tr>
 </tbody>
 </table>
