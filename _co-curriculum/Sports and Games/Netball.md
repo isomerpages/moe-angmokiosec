@@ -3,6 +3,7 @@ title: Netball
 permalink: /co-curriculum/sports-and-games/netball/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDxF2kAO4i2X6uMeQ30fxg5x3mAwYotaYv5M0pZV2evkIDknVig1UVpHcKbM9ORg8_S1nVc3EENzdp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -29,7 +30,10 @@ third_nav_title: Sports and Games
   </tr>
   <tr>
     <td class="tg-wpup">Mrs Joselyn Luei<br></td>
-  </tr>  
+  </tr>
+	 <tr>
+    <td class="tg-bapb">Ms Diana Goh<br></td>
+  </tr>
 </tbody>
 </table>
 <br>
@@ -68,27 +72,18 @@ third_nav_title: Sports and Games
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2022 / 2023<br></th>
+    <th class="tg-avji">Executive Committee for 2023<br></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kymber Aw (4A1)</span></td>
+   <tr>
+    <td class="tg-bapb"><b><u>Secondary Four Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Quraisha Binte Mohamed Shawal</span></td>
+  </tr>
+  	<tr>
+    <td class="tg-wpup"><b><u>Secondary Three Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stacey Soh En-Huey</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Shakira Binte Mohd Fald (4A3)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb"><b><u>Secondary 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Quraisha Binte Mohamed Shawal</span></td>
-  </tr>
-  <tr>
-		<td class="tg-wpup"><b><u>Secondary 3 Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Zoey Foo</span></td>
-  </tr>
-	<tr>
-    <td class="tg-bapb"><b><u>Secondary 2 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stacey Soh En-Huey</span></td>
-  </tr>
-  <tr>
-		<td class="tg-wpup"><b><u>Secondary 2 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
+		<td class="tg-bapb"><b><u>Secondary Three Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
   </tr>
 </tbody>
 </table>
@@ -110,17 +105,28 @@ third_nav_title: Sports and Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">South Zone Netball Competition C Girls (Top 8) in 2022<br></td>
+    <td class="tg-ymba">South Zone Netball Competition C Girls - Top 8 (2023)<br></td>
   </tr>
 	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Netops Carnival 2023 C Division Second Runner Up</span></td>
+    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">South Zone Netball Competition C Girls Second runner up (2023)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-ymba">Netops Carnival (March) C Division Second Runner Up (2023)<br></td>
+  </tr>
+	<tr>
+    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Netops Carnival (November) B Division Third Runner Up (2023)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-ymba">Punggol U14 Carnival Division 2 Second Runner Up (2023)<br></td>
   </tr>
 </tbody>
 </table>
+<br>
 
-I started learning Netball at the age of 8 and that was when it ignited my spark for the sport. The sport has led me to become a more confident person. Despite the challenges due to the pandemic, we learnt to be resilient and did our best in the National School Games this year with strong and amiable friendships. It is invigorating to see how eager the team is to improve as we meet challenges through our matches. This year, the C Division Girls also qualified for the quarter finals in the South Zone National School Game. 
+Motto: “Teamwork and Trust: Dominating the court, one pass at a time”. <br><br>
+For many, a passion for a certain sport can spark after years of doing it. However, my passion only began the year I entered Ang Mo Kio Secondary School (AMKSS) in 2020. That was when I first began my journey as a netballer and being someone who had zero background in the sport, I was just a timid and anxious girl, wondering if this is really something I can commit to. This all changed when I saw how welcoming the seniors and the teachers were. <br><br>
+Netball is more than just a team sport to us, it's not about the score but the sweat and tears that we put in till the final whistle is blown.  Netball has allowed us to form extremely strong bonds with our teammates, teachers and coach becoming each other’s support system on and off the court. The camaraderie that we develop as we go through every little milestone together is something we are so extremely proud of. Together, we uphold our spirit and lead by our motto “Teamwork and Trust: Dominating the court, one pass at a time”. With countless memories created with my precious and remarkable team, it has been an honor to be able to lead them, as team captain. AMKSS Netball is not just about the trainings. We also actively take part in a wide variety of Values-In-Action activities, like volunteering for the Netball carnival “Pesta Sukan”, and taking part in friendly matches and carnivals. Through these, we were able to learn more about organising events, compete and bond while gaining insightful knowledge and experience in Netball.<br><br>
+Earlier this year, the B Division girls embarked on their National School Games with great perseverance and passion to dominate the court. Though it was not the results we were expecting and was working hard towards, I am extremely proud of how well we did. Despite only training with our new coach for about two months and still adjusting to the change, the team put in great effort and teamwork, despite difficulties adjusting to the new change. It was an eye-opening experience seeing the team lifting each other’s spirits throughout the matches despite another team leading the score. Further in the year, it was the C Division’s turn to head on for their National School Games. They worked hard over the months, and I was proud to see them coming third for the South Zone Netball Championship. It was well deserved. There were numerous matches where the girls managed to overturn the score and this can only be achieved through their trust and teamwork among the girls, teachers and coach. <br><br>
+As we look ahead to 2024, our hope is for the Netball club to continue to always strive for the best and live up to our motto “Teamwork and Trust: Dominating the court, one pass at a time”. <br>
 
-Due to the lowering of the safe management measures, our team had the opportunity to train and bond together like how we used to two years ago. We had bonding camps, training camps, friendlies with other schools, carnivals such as Pesta Sukan and VIA. For VIA, we did the “Period protection workshop in support of girls in Nepal” where we learned to sew the reusable pads and understand the vulnerabilities that girls in Nepal and other countries experience. It helped us to appreciate and be contented with what we have.
-
-Lastly, a good team is not only one that gives their best in games but also one that offers support and to assist each other when in need of a helping hand. Netball does not just teach me how to be a good player on court but it has also taught me the importance of teamwork and sportsmanship. Sportsmanship is more than just being kind to people in sports but a collection of good ethics which is practiced strongly in the team. <br>
-	- Kymber Aw, Captain of B Division Netball (2022)
+•	Nur Quraisha Binte Mohamed Shawal, Captain of B Division Netball (2023)
