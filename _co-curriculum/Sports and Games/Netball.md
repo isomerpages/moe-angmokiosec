@@ -3,6 +3,7 @@ title: Netball
 permalink: /co-curriculum/sports-and-games/netball/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDxF2kAO4i2X6uMeQ30fxg5x3mAwYotaYv5M0pZV2evkIDknVig1UVpHcKbM9ORg8_S1nVc3EENzdp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -29,7 +30,10 @@ third_nav_title: Sports and Games
   </tr>
   <tr>
     <td class="tg-wpup">Mrs Joselyn Luei<br></td>
-  </tr>  
+  </tr>
+	 <tr>
+    <td class="tg-wpup">Ms Diana Goh<br></td>
+  </tr>
 </tbody>
 </table>
 <br>
