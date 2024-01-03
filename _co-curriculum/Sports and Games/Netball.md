@@ -105,10 +105,16 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">South Zone Netball Competition C Girls (Top 8) in 2023<br></td>
+    <td class="tg-ymba">South Zone Netball Competition C Girls - Top 8 (2023)<br></td>
   </tr>
 	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Netops Carnival 2023 C Division Second Runner Up</span></td>
+    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">South Zone Netball Competition C Girls Second runner up (2023)</span></td>
+  </tr>
+	<tr>
+    <td class="tg-ymba">Netops Carnival (March) C Division Second Runner Up (2023)<br></td>
+  </tr>
+	<tr>
+    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Netops Carnival (November) B Division Third Runner Up (2023)</span></td>
   </tr>
 </tbody>
 </table>
