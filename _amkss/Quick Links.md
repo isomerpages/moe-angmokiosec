@@ -4,13 +4,9 @@ permalink: /amkss/quick-links/
 description: ""
 variant: markdown
 ---
-
 * [Student Calendar 2024](/files/Student_Calendar_2024.pdf)
 
-* [CCA Training Schedule 2023](/files/ccatrainingschedule2023.pdf)
-* [S1OC 2023 Parent Engagement (Principal's Welcome Address)](/files/sec1oc2023.pdf)
-* [CCA Briefing 2023 (LEAPS 2.0)](/files/ccabriefing2023.pdf)
-* [PLD Initiative Parents Briefing 2023](/files/2023pld.pdf)
+* [CCA Training Schedule 2024](/files/ccatrainingschedule2023.pdf)
 * [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
 * [Parent Support Group (PSG)](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/parent-support-group/)
 * [MOE Sexuality Education in Schools](https://staging.d2qcf83lbf7y8u.amplifyapp.com/curriculum/character-and-citizenship-education-n-pupil-well-being/sexuality-education/)
