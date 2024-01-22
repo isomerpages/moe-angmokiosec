@@ -2,6 +2,7 @@
 title: Discipline
 permalink: /curriculum/discipline/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -40,11 +41,9 @@ Discipline From Within
     <td class="tg-bapb">Mr Ronnie Pang</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mdm Melinda Tan</td>
+    <td class="tg-wpup">Mr Muhammad Azizan</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Muhammad Azizan</td>
-  </tr>
+  
 </tbody>
 </table>
 
