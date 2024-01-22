@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /curriculum/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -52,7 +53,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
     <td class="tg-bapb">Miss Huang Weiyu</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Sun Ye</td>
+    <td class="tg-wpup">Mr Chua Han Hui</td>
   </tr>
   <tr>
     <td class="tg-bapb">Mdm Siti Nadhirah Binte Hanafi</td>
