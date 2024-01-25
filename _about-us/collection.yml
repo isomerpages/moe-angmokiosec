@@ -1,0 +1,36 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our History.md
+      - Our Vision, Mission and Values.md
+      - Our Logo.md
+      - Teacher's Creed.md
+      - Student's Creed.md
+      - School Advisory Committee.md
+      - School Management Committee.md
+      - AMKSS E Brochure.md
+      - MOE FAS.md
+      - 2024 SEC ONE REGISTRATION/.keep
+      - 2024 SEC ONE REGISTRATION/2024 SECONDARY ONE REGISTRATION EXERCISE.md
+      - 2024 SEC ONE REGISTRATION/How to get to AMKSS.md
+      - 2024 SEC ONE REGISTRATION/2024 Email Addresses of Secondary One Form
+        Teachers.md
+      - 2024 SEC ONE REGISTRATION/Purchase of School Uniforms.md
+      - 2024 SEC ONE REGISTRATION/Purchase of Textbooks and PE Attire.md
+      - 2024 SEC ONE REGISTRATION/MOE Financial Assistance Scheme (FAS)
+        Matters.md
+      - 2024 SEC ONE REGISTRATION/Higher Mother Tongue Matters.md
+      - 2024 SEC ONE REGISTRATION/Subjects Taken at More Demanding Level
+        Matters.md
+      - 2024 SEC ONE REGISTRATION/Medical Appeal Exercise.md
+      - 2024 SEC ONE REGISTRATION/Concessionary Travel.md
+      - 2024 SEC ONE REGISTRATION/General Discipline & School Attire Matters.md
+      - 2024 SEC ONE REGISTRATION/Information & Communication Technology (ICT)
+        Matters.md
+      - 2024 SEC ONE REGISTRATION/Parent Support Group (PSG).md
+      - 2024 SEC ONE REGISTRATION/First Week of School Matters (2nd to 5th Jan
+        2024).md
+      - 2024 SEC ONE REGISTRATION/Contact Information.md
+      - 2024 SEC ONE REGISTRATION/Appeal for Admission to Secondary One 2024.md
+      - School Canteen Advertisement.md

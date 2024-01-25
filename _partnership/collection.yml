@@ -1,0 +1,6 @@
+collections:
+  partnership:
+    output: true
+    order:
+      - Alumni.md
+      - Parent Support Group.md

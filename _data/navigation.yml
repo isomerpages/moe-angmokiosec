@@ -1,0 +1,16 @@
+logo: /images/Ang-Mo-Kio-Secondary-School.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
+  - title: AMKsian Experience
+    collection: amksian-experience
+  - title: Partnership
+    collection: partnership
+  - title: Open House
+    url: /e-open-house/
+  - title: Important Links
+    collection: important-links

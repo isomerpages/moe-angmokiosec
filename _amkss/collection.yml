@@ -1,0 +1,7 @@
+collections:
+  amkss:
+    output: true
+    order:
+      - Announcements.md
+      - Quick Links.md
+      - privacy.md

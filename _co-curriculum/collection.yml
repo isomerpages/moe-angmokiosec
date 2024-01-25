@@ -1,0 +1,27 @@
+collections:
+  co-curriculum:
+    output: true
+    order:
+      - Co Curriculum.md
+      - Club & Societies/.keep
+      - Club & Societies/Art Club.md
+      - Club & Societies/AV Club and Media Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Malay Dance.md
+      - Performing Arts/Modern Dance.md
+      - Sports and Games/.keep
+      - Sports and Games/Badminton.md
+      - Sports and Games/Basketball.md
+      - Sports and Games/Football.md
+      - Sports and Games/Netball.md
+      - Sports and Games/Table Tennis.md
+      - Sports and Games/Volleyball.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Brigade.md
+      - Uniformed Groups/NCC(Air).md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/NPCC.md
