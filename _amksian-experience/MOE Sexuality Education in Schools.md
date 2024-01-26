@@ -109,16 +109,13 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
   
 
-11.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/2023_Annex%20A_Opt%20Out%20Form%20Sec_27%20Jan.pdf). The completed form is to be submitted by 10/02/2023.
+11.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;[here](/files/2023_Annex%20A_Opt%20Out%20Form%20Sec_27%20Jan.pdf). The completed form is to be submitted by 15/02/2024.
 
   
 
-12.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/2023_Annex%20B_eTeens_Opt-out%20Form_27%20Jan.pdf). The completed form is to be submitted by 10/02/2023.
+12.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;[here](/files/2023_Annex%20B_eTeens_Opt-out%20Form_27%20Jan.pdf). The completed form is to be submitted by 15/02/2024.
 
   
 
-13.  Parents can contact the school at 64548605 ext. 814 (Mrs Linda Wang) for discussion or to seek clarification about the school’s sexuality education programme.
-
+13.  Parents can contact the school at amkss@moe.edu.sg 64548605 ext. 814 (Mrs Linda Wang) for discussion or to seek clarification about the school’s sexuality education programme.
   
-
-14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
