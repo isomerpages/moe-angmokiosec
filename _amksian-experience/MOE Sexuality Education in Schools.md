@@ -61,7 +61,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
   
 
-**At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2024:**
+**At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2024:</u>**
 
 <h6 style="color:black" align="center">SECONDARY 1
 </h6>
@@ -121,4 +121,4 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
   
 
-14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</u>
+14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
