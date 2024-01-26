@@ -96,11 +96,10 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
   
 
-9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
-
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
   
 
-**At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2023</u>:**
+**At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2024</u>:**
 
 ![e teen 2023](/images/e-teen%202023.jpeg)
 
