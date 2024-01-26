@@ -36,9 +36,9 @@ variant: markdown
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-###### Overview of Ang Mo Kio Secondary School’s Sexuality Education Programme for 2023
+**OVERVIEW OF ANG MO KIO SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024**
 
-4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
   
 
@@ -61,7 +61,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
   
 
-**At Ang Mo Kio Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2023</u>:**
+**At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2024:**
 
 <h6 style="color:black" align="center">SECONDARY 1
 </h6>
@@ -92,7 +92,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
   
 
-8.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+8.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions
 
   
 
@@ -122,4 +122,4 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
   
 
-14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</u>
