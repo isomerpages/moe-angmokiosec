@@ -28,8 +28,7 @@ variant: markdown
 	(a)  Love and respect yourself as you love and respect others; <br>
 	(b)  Build positive relationships based on love and respect (which are the foundation for strong families); <br>
 	(c)  Make responsible decisions for yourself, your family and society; and <br>
-	(d)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. <br>
-    Casual sex can harm and hurt you and your loved ones.
+	(d)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
     
 
   
