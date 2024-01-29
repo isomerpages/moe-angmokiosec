@@ -66,7 +66,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 <h6 style="color:black" align="center">SECONDARY 1
 </h6>
 
-![Sec 1 2023](/images/S1.jpeg)
+![Sec 1 2023](/images/Sec_1.png)
 
 <h6 style="color:black" align="center">SECONDARY 2
 </h6>
@@ -86,7 +86,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 <h6 style="color:black" align="center">SECONDARY 5
 </h6>
 
-![Sec 5 2023](/images/S5.jpeg)
+![Sec 5 2023](/images/Sec_5.png)
 
 ##### <u><em>eTeens</em> Programme:</u>
 
@@ -101,7 +101,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 **At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2024</u>:**
 
-![e teen 2023](/images/e-teen%202023.jpeg)
+![e teen 2023](/images/e_teens.png)
 
 ##### Information for Parents
 
