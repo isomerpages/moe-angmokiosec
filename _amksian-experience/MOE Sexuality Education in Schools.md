@@ -71,17 +71,17 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 <h6 style="color:black" align="center">SECONDARY 2
 </h6>
 
-![Sec 2 2023](/images/S2.jpeg)
+![Sec 2 2023](/images/Sec_2.png)
 
 <h6 style="color:black" align="center">SECONDARY 3
 </h6>
 
-![Sec 3 2023](/images/S3.jpeg)
+![Sec 3 2023](/images/Sec_3.png)
 
 <h6 style="color:black" align="center">SECONDARY 4
 </h6>
 
-![Sec 4 2023](/images/S4.jpeg)
+![Sec 4 2023](/images/Sec_4.png)
 
 <h6 style="color:black" align="center">SECONDARY 5
 </h6>
