@@ -116,4 +116,4 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
   
 
-13.  Parents can contact the school at amkss@moe.edu.sg 64548605 ext. 814 (Mrs Linda Wang) for discussion or to seek clarification about the school’s Sexuality Education Programme.
+13.  Parents can contact the school at [amkss@moe.edu.sg](amkss@moe.edu.sg) or 64548605 ext. 814 (Mrs Linda Wang) for discussion or to seek clarification about the school’s Sexuality Education Programme.
