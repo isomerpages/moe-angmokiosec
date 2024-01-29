@@ -2,6 +2,7 @@
 title: Information and Communication Technology
 permalink: /curriculum/information-and-communication-technology/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -38,10 +39,10 @@ Enabling Possibilities through the Use of ICT
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Elam Pirai</span><br><span style="font-weight:400;color:#004D2E">(ICT Manager)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Lai ZhengAn, Charles</span><br><span style="font-weight:400;color:#004D2E">(Desktop Engineer)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Chua Kok Wei</span><br><span style="font-weight:400;color:#004D2E">(Desktop Engineer)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Hairi Bin Saffee</span><br><span style="font-weight:400;color:#004D2E">(Desktop Engineer)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Leo Melvin</span><br><span style="font-weight:400;color:#004D2E">(Desktop Engineer)</span></td>
   </tr>
   
 </tbody>

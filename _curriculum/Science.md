@@ -2,6 +2,7 @@
 title: Science
 permalink: /curriculum/science/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -62,7 +63,7 @@ description: ""
     <td class="tg-wpup">Mr Muhammad Haziq Bin Harisfadillah</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Roysmond Sim</td>
+    <td class="tg-bapb">Ms Diana Goh </td>
   </tr>
   
   <tr>
@@ -71,13 +72,7 @@ description: ""
   <tr>
     <td class="tg-bapb">Miss Zhang Ruifang</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Miss Tan Jieying</td>
-  </tr>
- 
-  <tr>
-    <td class="tg-bapb">Mr Ng Jun Lin</td>
-  </tr>
+  
   
   <tr>
     <td class="tg-wpup">Mdm Nurshuaidah Musa</td>

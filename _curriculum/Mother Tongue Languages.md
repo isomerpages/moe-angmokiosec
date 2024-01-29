@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /curriculum/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -42,17 +43,18 @@ Every AMKsian is passionate about the learning of the Language and understanding
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mdm Sun Ying</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
   </tr>
+  
   <tr>
-    <td class="tg-bapb">Mr Liu Zhenbo</td>
+    <td class="tg-bapb">Mrs Rajan Bhattarai</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mrs Rajan Bhattarai</td>
+    <td class="tg-wpup">Miss Huang Weiyu</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Miss Huang Weiyu</td>
+    <td class="tg-bapb">Mr Chua Han Hui</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Miss Sun Ye</td>
+	<tr>
+    <td class="tg-wpup">Miss Tai Xiao Ling</td>
   </tr>
   <tr>
     <td class="tg-bapb">Mdm Siti Nadhirah Binte Hanafi</td>
@@ -72,10 +74,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
   <tr>
     <td class="tg-wpup">Mdm Zhang Lixin</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Miss Tai Xiao Ling</td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 
 #### Key Initiatives
