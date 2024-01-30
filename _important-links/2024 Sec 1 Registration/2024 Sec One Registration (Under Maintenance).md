@@ -29,5 +29,9 @@ third_nav_title: 2024 Sec 1 Registration
 <p><a href="/important-links/2024-sec-one-registration/moe-financial-assistance-scheme-fas-matters/" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme (FAS) Matters</a>
 </p>
 </li>
+<li>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Higher Mother Tongue Matters</a>
+</p>
+</li>
 </ol>
 <p></p>
