@@ -2,8 +2,8 @@ collections:
   important-links:
     output: true
     order:
-      - For Parents/2024 Sec One Registration.md
-      - For Parents/Useful Links.md
       - For Parents/.keep
+      - For Parents/Useful Links.md
+      - For Parents/2024 Sec One Registration.md
       - For Teachers.md
       - For Students.md
