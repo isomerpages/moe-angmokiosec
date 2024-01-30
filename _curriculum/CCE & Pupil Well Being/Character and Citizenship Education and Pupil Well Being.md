@@ -3,6 +3,7 @@ title: Character and Citizenship Education and Pupil Well Being
 permalink: /curriculum/character-and-citizenship-education-n-pupil-well-being/
 description: ""
 third_nav_title: CCE & Pupil Well Being
+variant: markdown
 ---
 #### Department Vision
 
@@ -64,7 +65,7 @@ To equip pupils with knowledge, skills and attitudes that will enable them to co
 
   
 
-<h5><a href="https://angmokiosec.moe.edu.sg/curriculum/character-and-citizenship-education-n-pupil-well-being/sexuality-education">Sexuality Education</a></h5>
+<h5><a href="https://staging-lite.d2clll877nnill.amplifyapp.com/curriculum/cce-and-pupil-well-being/sexuality-education/">Sexuality Education</a></h5>
 
   
 
