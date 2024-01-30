@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 Sec 1 Registration
 ---
-<p><u>2024 Sec One Registration Matters</u>
+<p><u>2024 Sec One Registration Matters (</u><strong><u>Under Maintenance</u></strong><u>)</u>
 </p>
 <p>Please click on the following links for each of the sections:</p>
 <ol data-tight="true" class="tight">
