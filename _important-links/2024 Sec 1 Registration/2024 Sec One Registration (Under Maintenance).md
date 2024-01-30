@@ -37,5 +37,9 @@ third_nav_title: 2024 Sec 1 Registration
 <p><a href="/important-links/2024-sec-one-registration/subjects-at-more-demanding-level-matters/" rel="noopener noreferrer nofollow" target="_blank">Subjects Taken at More Demanding Level Matters</a>
 </p>
 </li>
+<li>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Medical Appeal Exercise</a>
+</p>
+</li>
 </ol>
 <p></p>
