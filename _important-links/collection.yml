@@ -2,6 +2,7 @@ collections:
   important-links:
     output: true
     order:
+      - 2024 Sec 1 Registration/.keep
       - For Parents/.keep
       - For Parents/Useful Links.md
       - For Parents/2024 Sec One Registration.md
