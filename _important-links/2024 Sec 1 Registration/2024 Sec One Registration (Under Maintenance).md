@@ -62,7 +62,7 @@ third_nav_title: 2024 Sec 1 Registration
 </p>
 </li>
 <li>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Appeal for Admission to Secondary One 2024</a>
+<p><a href="/important-links/2024-sec-one-registration/appeal-for-admission-to-secondary-one-2024/" rel="noopener noreferrer nofollow" target="_blank">Appeal for Admission to Secondary One 2024</a>
 </p>
 </li>
 </ol>
