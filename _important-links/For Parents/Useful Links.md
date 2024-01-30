@@ -5,45 +5,42 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:32px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mwbt{background-color:#FFF;border-color:inherit;color:#004D2E;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ywyw{background-color:#E5E5E5;color:#004D2E;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-frvs{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Information  Links</span></th>
-		</tr>
-	<tr>
-    <td class="tg-mwbt">Parents Gateway<br><span style="font-weight:400;color:#004D2E">Download apps on <br> 
-			<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/apple pg.png" alt="concert band" style="width:30%;">  
-  <br>
-			<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/android.png" alt="Concert Band" style="width:30%;">  
-  
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Useful Links</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Parents Gateway</u></strong>
+<br>Download apps on
 <br>
-(Please note that you will need to sign in using SingPass)
-</span></td></tr></thead>
-<tbody></tbody></table>
-
-* [PARENTS GATEWAY FAQs](https://pg.moe.edu.sg/faq)
-* [AMKSS DMA OPTION FORM](https://go.gov.sg/amkssdma)
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:30%;" height="auto" width="100%" alt="concert band" src="/images/apple pg.png">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:30%;" height="auto" width="100%" alt="Concert Band" src="/images/android.png">
+</div>
+<p>
+<br>(Please note that you will need to sign in using SingPass)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">PARENTS GATEWAY FAQs</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/amkssdma" rel="noopener noreferrer nofollow" target="_blank">AMKSS DMA OPTION FORM</a>
+</p>
+</li>
+</ul>
+<p></p>
