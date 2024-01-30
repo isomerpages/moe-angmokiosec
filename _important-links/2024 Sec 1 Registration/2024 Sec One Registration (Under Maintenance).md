@@ -14,7 +14,7 @@ third_nav_title: 2024 Sec 1 Registration
 </p>
 </li>
 <li>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">2024 Email Addresses of Secondary One Form Teachers</a>
+<p><a href="/important-links/2024-sec-one-registration/2024-email-addresses-of-sec-one-form-teachers/" rel="noopener noreferrer nofollow" target="_blank">2024 Email Addresses of Secondary One Form Teachers</a>
 </p>
 </li>
 </ol>
