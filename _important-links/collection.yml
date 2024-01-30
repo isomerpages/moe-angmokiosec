@@ -2,9 +2,6 @@ collections:
   important-links:
     output: true
     order:
-      - For Parents/2024 SECONDARY ONE REGISTRATION EXERCISE.md
-      - For Parents/Sec 1 Registration Information for 2024.md
-      - For Parents/.keep
       - For Parents.md
       - For Teachers.md
       - For Students.md
