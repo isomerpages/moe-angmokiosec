@@ -33,5 +33,9 @@ third_nav_title: 2024 Sec 1 Registration
 <p><a href="/important-links/2024-sec-one-registration/higher-mother-tongue-matters/" rel="noopener noreferrer nofollow" target="_blank">Higher Mother Tongue Matters</a>
 </p>
 </li>
+<li>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Subjects Taken at More Demanding Level Matters</a>
+</p>
+</li>
 </ol>
 <p></p>
