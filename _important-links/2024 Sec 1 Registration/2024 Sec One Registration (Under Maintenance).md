@@ -10,7 +10,7 @@ third_nav_title: 2024 Sec 1 Registration
 <p>Please click on the following links for each of the sections:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/important-links/for-parents/2024-sec-one-registration/how-to-get-to-amkss/" rel="noopener noreferrer nofollow" target="_blank">How to get to AMKSS</a>
+<p><a href="/important-links/2024-sec-one-registration/how-to-get-to-amkss/" rel="noopener noreferrer nofollow" target="_blank">How to Get to AMKSS</a>
 </p>
 </li>
 <li>
