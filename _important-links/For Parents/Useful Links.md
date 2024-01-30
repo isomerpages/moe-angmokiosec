@@ -5,35 +5,11 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Useful Links</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><u>Parents Gateway</u></strong>
-<br>Download apps on
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" alt="concert band" src="/images/apple pg.png">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%;" height="auto" width="100%" alt="Concert Band" src="/images/android.png">
-</div>
-<p>
-<br>(Please note that you will need to sign in using SingPass)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <ul data-tight="true" class="tight">
+<li>
+<p>The <strong>Parents Gateway </strong>app may be downloaded at <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">App Store</a> or
+<a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_US&amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Google Play</a>.</p>
+</li>
 <li>
 <p><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">PARENTS GATEWAY FAQs</a>
 </p>
