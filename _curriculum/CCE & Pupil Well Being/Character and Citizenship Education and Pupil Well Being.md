@@ -63,12 +63,6 @@ To equip pupils with knowledge, skills and attitudes that will enable them to co
 *   Career Conference for Sec 4E/5NA pupils
 *   ECG Counselling
 
-  
-
-<h5><a href="https://staging-lite.d2clll877nnill.amplifyapp.com/curriculum/cce-and-pupil-well-being/sexuality-education/">Sexuality Education</a></h5>
-
-  
-
 <h5><u>Values-in-Action Programme</u></h5>
 
 In the course of each student’s journey in AMKSS, they will go through a series of Values-in-Action activities that will expose the students to serving the community. It is our belief that every student can be an active and compassionate contributor to society. Students will have the opportunity to experience a variety of themes, such as environment, elderly, children and social needs, to have a better understanding of the felt needs of the community.
