@@ -66,7 +66,7 @@ third_nav_title: 2024 Sec 1 Registration
 </p>
 </li>
 <li>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">First Week of School Matters (2nd to 5th Jan 2024)</a>
+<p><a href="/important-links/2024-sec-one-registration/first-week-of-school-matters-2nd-5th-jan-2024/" rel="noopener noreferrer nofollow" target="_blank">First Week of School Matters (2nd to 5th Jan 2024)</a>
 </p>
 </li>
 </ol>
