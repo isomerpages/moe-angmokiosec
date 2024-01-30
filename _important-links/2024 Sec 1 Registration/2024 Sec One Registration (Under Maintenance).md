@@ -38,7 +38,7 @@ third_nav_title: 2024 Sec 1 Registration
 </p>
 </li>
 <li>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Medical Appeal Exercise</a>
+<p><a href="/important-links/2024-sec-one-registration/medical-appeal-exercise/" rel="noopener noreferrer nofollow" target="_blank">Medical Appeal Exercise</a>
 </p>
 </li>
 </ol>
