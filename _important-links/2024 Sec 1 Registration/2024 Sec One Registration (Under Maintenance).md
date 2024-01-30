@@ -43,6 +43,7 @@ third_nav_title: 2024 Sec 1 Registration
 </li>
 <li>
 <p><a href="/important-links/2024-sec-one-registration/concessionary-travel/" rel="noopener noreferrer nofollow" target="_blank">Concessionary Travel</a>
+<a href="" rel="noopener noreferrer nofollow" target="_blank">General Discipline &amp; School Attire Matters</a>
 </p>
 </li>
 </ol>
