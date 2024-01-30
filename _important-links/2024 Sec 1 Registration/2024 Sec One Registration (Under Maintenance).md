@@ -25,5 +25,9 @@ third_nav_title: 2024 Sec 1 Registration
 <p><a href="/important-links/2024-sec-one-registration/purchase-of-textbooks-and-pe-attire/" rel="noopener noreferrer nofollow" target="_blank">Purchase of Textbooks and PE Attire</a>
 </p>
 </li>
+<li>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme (FAS) Matters</a>
+</p>
+</li>
 </ol>
 <p></p>
