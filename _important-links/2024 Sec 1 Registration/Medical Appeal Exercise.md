@@ -1,8 +1,8 @@
 ---
 title: Medical Appeal Exercise
-permalink: /about-us/2023-secondary-one-registration-exercise/medical-appeal-exercise/
+permalink: /important-links/2024-sec-one-registration/medical-appeal-exercise/
 description: ""
-third_nav_title: 2024 SEC ONE REGISTRATION
+third_nav_title: 2024 Sec 1 Registration
 variant: markdown
 ---
 Transfer of school under the medical appeal exercise would only be considered for

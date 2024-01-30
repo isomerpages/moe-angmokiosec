@@ -1,8 +1,8 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /about-us/2023-secondary-one-registration-exercise/parent-support-group-psg/
+permalink: /important-links/2024-sec-one-registration/parent-support-group-psg/
 description: ""
-third_nav_title: 2024 SEC ONE REGISTRATION
+third_nav_title: 2024 Sec 1 Registration
 variant: markdown
 ---
 The AMKSS Parent Support Group (PSG) is set up to assist in the transition of both the students and their parents to AMKSS. You are strongly encouraged to join the PSG as a member and volunteer both your time and expertise.&nbsp;

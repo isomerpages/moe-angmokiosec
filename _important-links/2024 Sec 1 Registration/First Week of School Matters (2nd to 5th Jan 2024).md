@@ -1,8 +1,8 @@
 ---
 title: First Week of School Matters (2nd to 5th Jan 2024)
-permalink: /about-us/2023-secondary-one-registration-exercise/first-week-of-school-matters-3rd-6th-jan-2023/
+permalink: /important-links/2024-sec-one-registration/first-week-of-school-matters-2nd-5th-jan-2024/
 description: ""
-third_nav_title: 2024 SEC ONE REGISTRATION
+third_nav_title: 2024 Sec 1 Registration
 variant: markdown
 ---
 <style type="text/css">

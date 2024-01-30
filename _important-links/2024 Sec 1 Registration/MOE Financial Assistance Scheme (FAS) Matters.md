@@ -1,8 +1,8 @@
 ---
 title: MOE Financial Assistance Scheme (FAS) Matters
-permalink: /about-us/2023-secondary-one-registration-exercise/moe-financial-assistance-scheme-fas-matters/
+permalink: /important-links/2024-sec-one-registration/moe-financial-assistance-scheme-fas-matters/
 description: ""
-third_nav_title: 2024 SEC ONE REGISTRATION
+third_nav_title: 2024 Sec 1 Registration
 variant: markdown
 ---
 **<u>For Students whose FAS applications were approved in Primary Schools:</u>**<br>

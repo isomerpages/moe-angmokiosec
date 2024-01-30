@@ -1,8 +1,8 @@
 ---
 title: Subjects Taken at More Demanding Level Matters
-permalink: /about-us/2024-secondary-one-registration-exercise/subjects-at-more-demanding-level-matters/
+permalink: /important-links/2024-sec-one-registration/subjects-at-more-demanding-level-matters/
 description: ""
-third_nav_title: 2024 SEC ONE REGISTRATION
+third_nav_title: 2024 Sec 1 Registration
 variant: markdown
 ---
 Eligible students can offer English Language, Mother Tongue Languages, Mathematics and Science at a more demanding level based on their PSLE Achievement Level (AL) for each of these subjects.

@@ -1,8 +1,8 @@
 ---
 title: Purchase of School Uniforms
-permalink: /about-us/2023-secondary-one-registration-exercise/purchase-of-school-uniforms/
+permalink: /important-links/2024-sec-one-registration/purchase-of-school-uniforms/
 description: ""
-third_nav_title: 2024 SEC ONE REGISTRATION
+third_nav_title: 2024 Sec 1 Registration
 variant: markdown
 ---
 Students are strongly encouraged to purchase their school uniforms online and self-collect in school on the dates and timings stated below.

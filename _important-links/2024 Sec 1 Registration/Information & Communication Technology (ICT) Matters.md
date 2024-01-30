@@ -1,8 +1,8 @@
 ---
 title: Information & Communication Technology (ICT) Matters
-permalink: /about-us/2023-secondary-one-registration-exercise/ict-matters/
+permalink: /important-links/2024-sec-one-registration/ict-matters/
 description: ""
-third_nav_title: 2024 SEC ONE REGISTRATION
+third_nav_title: 2024 Sec 1 Registration
 variant: markdown
 ---
 Students are expected to exercise discretion and self-discipline when using electronic devices.&nbsp;
