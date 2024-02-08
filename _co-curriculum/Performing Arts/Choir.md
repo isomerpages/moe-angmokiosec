@@ -3,6 +3,7 @@ title: Choir
 permalink: /co-curriculum/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ![](/images/choir%202023-1.jpg)
 
@@ -29,13 +30,13 @@ third_nav_title: Performing Arts
     <td class="tg-bapb">Mrs Daphne Chong (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Edna Pan (2IC)<br></td>
+    <td class="tg-wpup">Mdm Sun Ying (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Sun Ying<br></td>
+    <td class="tg-bapb">Mrs Clara Tan<br></td>
   </tr>
 	<tr>
-    <td class="tg-wpup">Mdm G Anantha<br></td>
+    <td class="tg-wpup">Miss Edna Pan<br></td>
   </tr>
   
 </tbody>
