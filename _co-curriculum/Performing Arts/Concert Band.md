@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /co-curriculum/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <p><a href="https://docs.google.com/spreadsheets/d/1I-6xIS6JD1ctN0a8kYlS_KX-zckLLbC9vOnHlqkWPho/edit#gid=0"><strong>Please click here for the Concert Band Schedule</strong></a></p>
 
@@ -30,13 +31,13 @@ third_nav_title: Performing Arts
     <td class="tg-bapb">Ms Cheryl Ang (IC)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Ms Ong Lay Hoon</td>
+    <td class="tg-wpup">Mr Ian Mui Jun Xian (2IC)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mrs Seah Kwan Chaet</td>
+    <td class="tg-bapb">Ms Ong Lay Hoon</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Ian Mui Jun Xian</td>
+    <td class="tg-wpup">Mrs Seah Kwan Chaet</td>
   </tr>  
 </tbody>
 </table>
