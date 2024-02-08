@@ -26,10 +26,10 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Ms Linda Soh (IC)<br></td>
+    <td class="tg-bapb">Miss Linda Soh (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mrs Joselyn Luei<br></td>
+    <td class="tg-wpup">Mrs Joselyn Luei (2IC)<br></td>
   </tr>
 	 <tr>
     <td class="tg-bapb">Ms Diana Goh<br></td>
