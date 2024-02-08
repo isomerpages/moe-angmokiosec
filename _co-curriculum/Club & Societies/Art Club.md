@@ -3,6 +3,7 @@ title: Art Club
 permalink: /co-curriculum/clubs-n-societies/art-club/
 description: ""
 third_nav_title: Club & Societies
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0ev4JU5ZfxGCObcijXELkU7tyQiejMbDbbco_YtrihHCRZwXZMm0bgCUrAEXbtgFBurq4gm1HpDvf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -24,7 +25,7 @@ third_nav_title: Club & Societies
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">Mdm Tan Jimei Melinda (IC)</td>
+    <td class="tg-ymba">Ms Adibah Azri (IC)</td>
   </tr>
 </tbody>
 </table>
