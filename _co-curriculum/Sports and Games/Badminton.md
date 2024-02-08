@@ -3,6 +3,7 @@ title: Badminton
 permalink: /co-curriculum/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6NbC4cjfludegOL55M2ArVVagQVna2vG4O0RVMFJqCFMxBqz8A8BOiVYyFY9JhLGOXG8aKm2qXuMO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -31,16 +32,16 @@ third_nav_title: Sports and Games
     <td class="tg-wpup">Mr Lui Jian Long (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Miss Tan Jieying<br></td>
+    <td class="tg-bapb">Mr Bryan Yam<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Bryan Yam<br></td>
+    <td class="tg-wpup">Mr Ng Khiam Song<br></td>
   </tr>
   <tr>
     <td class="tg-bapb">Ms Amiliyah<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Ng Khiam Siong<br></td>
+    <td class="tg-wpup">Mdm Anantha<br></td>
   </tr>
   <tr>    
 </tr></tbody>
