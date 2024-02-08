@@ -3,6 +3,7 @@ title: Drama
 permalink: /co-curriculum/performing-arts/drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <style>  
 img {  
@@ -33,13 +34,13 @@ img {
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Tan Wee Hong (IC)<br></td>
+    <td class="tg-bapb">Miss Tan Chui Ling (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Tan Chui Ling (2IC)<br></td>
+    <td class="tg-wpup"> Madam Komathi (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Madam Komathi<br></td>
+    <td class="tg-bapb">Mr Tan Wee Hong<br></td>
   </tr>  
 </tbody>
 </table>
