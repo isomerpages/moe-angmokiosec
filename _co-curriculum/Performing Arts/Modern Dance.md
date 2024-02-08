@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /co-curriculum/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTI9LdUORxPy0ezqak1CPFH24JmqcmsCfb05OoOIuBUpe_ubhaf2yuhgpsyCLMqWUw9UmitO9F0SMZG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -28,7 +29,7 @@ third_nav_title: Performing Arts
     <td class="tg-bapb">Mrs Elina Hairul (IC)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mrs Clara Tan</td>
+    <td class="tg-wpup">Ms Adilah</td>
   </tr>  
 </tbody>
 </table>
