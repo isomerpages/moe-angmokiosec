@@ -3,6 +3,7 @@ title: Football
 permalink: /co-curriculum/sports-and-games/football/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5Uj_7GxG6fUnml9_I_WMrBFV2IhrDy-hrY43i5hyq__0AKzGIqmQiqhbzDoDzk7xqinXQpu10qMYb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -31,11 +32,9 @@ third_nav_title: Sports and Games
     <td class="tg-wpup">Mr Lim Wui Meng (2IC)</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm NurMushthafiah</td>
+    <td class="tg-bapb">Mr Mohamed Yasin</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Mohamed Yasin</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
