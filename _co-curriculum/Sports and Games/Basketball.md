@@ -3,6 +3,7 @@ title: Basketball
 permalink: /co-curriculum/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiL3t53ro2lyH55WsdPsla0pqL9OqdulQwOVJ4_JL11K3ATdxg8YUF39lBW3mpnxajNUOM4T6z2yaA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <br>
@@ -27,15 +28,12 @@ third_nav_title: Sports and Games
     <td class="tg-bapb">Mr Soh Kee Tong (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Ng Jun Lin (2IC)<br></td>
+    <td class="tg-wpup">Mr Spencer Yeo (2IC)<br></td>
   </tr>
 	<tr>
-    <td class="tg-bapb">Mr Spencer Yeo<br></td>
+    <td class="tg-bapb">Mr Chua Han Hui<br></td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Alvin Yap (Advisor)</td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 <br>
 <style type="text/css">
