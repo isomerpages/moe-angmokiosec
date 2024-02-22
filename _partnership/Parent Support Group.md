@@ -2,30 +2,18 @@
 title: Parent Support Group
 permalink: /partnership/parent-support-group/
 description: ""
+variant: markdown
 ---
 <h4><font color="#ABE9CD">1. Organisation Chart </font></h4>
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Chairman</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Janet Choy</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Vice Chairman</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Tracy Soh</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Secretary</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Jacqueline Tok</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Treasurer</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Shirley Fok &amp; Lay Choo</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Publicity &amp; Recruitment</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Tracy &amp; Lay Choo</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Fathers @ AMKSS</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Daniel Tay, Kenneth Koh</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Exco Members</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 400px;">Wong Soo Yuen<br style="margin: 0px; outline: 0px; padding: 0px;">Chen Fook Ping<br style="margin: 0px; outline: 0px; padding: 0px;">Alvin Ng<br style="margin: 0px; outline: 0px; padding: 0px;">Carolina Lau</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 400px;">Low Pui Lin<br style="margin: 0px; outline: 0px; padding: 0px;">Joanna Portilla<br style="margin: 0px; outline: 0px; padding: 0px;">Sylvie Leow<br style="margin: 0px; outline: 0px; padding: 0px;">Ali Asgar Nasir</td></tr></tbody></table>
 
-<h4><font color="#ABE9CD">2. Upcoming Events</font></h4>
+<h4><font color="#ABE9CD">2. Upcoming Events</font></h4><br>
 
-We warmly invite you to join us for a parenting workshop on&nbsp;<b><font color="#79A65A">“From Tweens to Teens - Preparing our Children for Secondary Education".</font></b>
-  
-This workshop seeks to provide parents with an understanding of the process of adolescence, and some practical tips on how to help your child transit smoothly into secondary school.  
-  
 
-Title: From Tweens to Teens - Preparing our Children for Secondary Education <br>
-Date: 14 January 2023 (Saturday) <br>
-Time: 8:30 – 10:00 am <br>
-Venue: Ang Mo Kio Secondary School AVA Room (Level 3) <br>
-Registration Link:&nbsp;<a href="https://go.gov.sg/fromtweenstoteens"><font color="#79A65A">https://go.gov.sg/fromtweenstoteens</font></a>
+<img src="/images/PSG_Events_2024.png" style="width:80%">
 
-  
-We would also like to invite you to join us for a Welcome Tea which will take place after the workshop from 10:00 to 11:00 am. <br>
-We look forward to your participation. <br>
-Thank you. <br>
-Please click the following for more details: <br>
-<a href="/files/Synopsis_From%20Tweens%20to%20Teens.pdf"><font color="#79A65A">SYNOPSIS</font></a><br><a href="/files/Speaker%20Profile%20-%20Galvin%20Sng.pdf"><font color="#79A65A">SPEAKER PROFILE</font></a>
+
 
 <h4><font color="#ABE9CD"> </font></h4>
 
