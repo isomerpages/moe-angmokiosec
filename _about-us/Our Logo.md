@@ -2,6 +2,7 @@
 title: Our Logo
 permalink: /about-us/our-logo/
 description: ""
+variant: markdown
 ---
 <style>  
 img {  
@@ -10,9 +11,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Ang-Mo-Kio-Secondary-School.png" alt="School Uniform" style="width:22%;">  
+<img src="/images/Ang-Mo-Kio-Secondary-School.png" alt="School Uniform" style="width:22%;">  
   
-</body>
+
 
 	
 The AMKSS logo embodies the spirit of a dynamic and forward-looking organisation that is ready to face global challenges. Our vision to create a Culture Learning, a Mindset for Excellent and a Spirit of Service is portrayed by the fluidity of the brush strokes. Surging towards a shared vision, the three strokes represent a tripartite partnership among the school, parents and the community, and our commitment to a total systems approach in our work.
@@ -25,7 +26,7 @@ The green circumference radiates energy and confidence, capturing the indomitabl
 
   
 
-The logo's fluidity and dynamism is balanced by the dignity and authority of the typeface which emphasizes our conviction to "**Aways Strive for the Best**".
+The logo's fluidity and dynamism is balanced by the dignity and authority of the typeface which emphasizes our conviction to "**Always Strive for the Best**".
 
 <br>
 
@@ -36,6 +37,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/our%20logo.png" alt="School Uniform" style="width:95%;">  
-  
-</body>
+<img src="/images/our%20logo.png" alt="School Uniform" style="width:95%;">
