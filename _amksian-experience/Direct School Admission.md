@@ -195,41 +195,28 @@ img {
 }  
 </style>  
 <img src="/images/dsa_basketball.jpg" alt="Basketball" style="width:100%;">
-<br>  
-<table class="ive\_eobj\_center iveo\_table ives\_tab\_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Badminton, Basketball, Football &amp; Volleyball</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">School team Players or its equivalent in primary school</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must pass a sports specific selection test</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must display necessary game specific skills (Technique, agility, speed) required for the chosen sport.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must also display tactical awareness in game situations.</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Show the ability to work in teams.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Awards/Accomplishments in relevant areas.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Good track record of performance in CCA or relevant external involvement.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Participation in inter-school and/or International Competitions.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must also pass an interview.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Only students with relevant experience will be considered.</li></ul></div></td></tr></tbody></table>
-<br>
 
-#### Application Procedure 
-         
-1.&nbsp; Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from&nbsp; ***4 May to 31 May 2023***. For more details, please refer to [MOE Website](https://www.moe.gov.sg/dsa-sec).
+#### Netball
 
-2.&nbsp; Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+At Ang Mo Kio Secondary School, netball is not just a sport but it strives to nurture students in personal growth in terms of character building and technical skills.
 
-3.&nbsp; Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+Our Netball CCA emphasises the values of sportsmanship, fair play, and respect above all else. We believe in nurturing not only talented athletes but also responsible and resilient individuals who embody these principles on and off the court.
 
-4.&nbsp; The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by&nbsp; ***18 August 2023*** .
+In recent years, our netballers have clinched top positions in a very challenging South Zone Inter School Netball which boasts many of the netball powerhouses in the schools’ netball scesescene. In 2023, our C Division team emerged as second runner up and in 2024, the B Division team secured fourth position in the South Zone competition. Additionally,  our current Secondary 3 netballer, Stevlynn Carina Soh Xuan Yin represented the National Under-14 Team in the 12th International Youth Netball Challenge 2023 (IYNC) where she was exposed to a higher level of play with netball powerhouse countries such as Australia and South Africa.
 
-5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face interview and trial in our school from ***26 June 2023***  to ***11 September 2023***.
+Beyond competitive play, our netball programme is committed to giving back to the community. We expose our girls to planning and organising outreach initiatives such as school partnerships through netball carnivals and coaching of primary school students.
 
-6.&nbsp; The school ***will not*** inform applicants who ***are not shortlisted*** that they are unsuccessful in their application.
+Our training programme goes beyond skills acquisition; it encourages players to think independently and creatively. By empowering them to express their opinions and explore alternative strategies, we foster a sense of confidence and adaptability that translates into effective decision-making on the court and in life. One can benefit from expert coaching, rigorous training sessions and competitive opportunities that elevate students’ potential on court. Our CCA hopes to develop fine young ladies who are ready to meet the challenges they will face in life long after they leave the courts.
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/dsa_basketball.jpg" alt="Basketball" style="width:100%;">
 
-7.&nbsp; Shortlisted applicants will be notified of their application status by ***11 Sept 2023***.
 
-8.&nbsp; Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
-
-For further clarifications, you may contact any of the following staff:
-
-***For Sports matters:***
-
-Mr. K Thanaraj<br><a href="mailto:thanaraj\_kalliya\_perumal@moe.edu.sg"><font color="#000000">thanaraj_kalliya_perumal@moe.edu.sg</font></a><br>
-Tel: 64548605 (Ext 811)
-
-***For Performing Arts matters:***
-
-Ms Cheryl Ang <br><a href="mailto:cheryl\_ang@moe.edu.sg"><font color="#000000">cheryl_ang@moe.edu.sg</font></a><br>
-Tel: 64548605 (Ext 863)
-
-***For Admin matters:***
-
-Ms Leona Cheong <br><a href="mailto:Leona\_CHEONG@schools.gov.sg"><font color="#000000">Leona_CHEONG@schools.gov.sg</font></a><br>
-Tel: 64548605 (Ext 803)
+“The selection criteria and process for the talent areas will be updated from early-May.
+For more information on DSA-Sec, 
+please refer to the MOE website at https://www.moe.gov.sg/dsa-sec”
