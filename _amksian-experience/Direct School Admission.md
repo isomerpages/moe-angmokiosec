@@ -64,6 +64,7 @@ img {
 }  
 </style>  
 <img src="/images/Choir.jpg" alt="Choir" style="width:80%;">  
+<img src="/images/Choir.jpg" alt="Choir" style="width:80%;">
   
 #### Dance Club
 
