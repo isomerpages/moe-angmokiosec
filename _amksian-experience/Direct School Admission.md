@@ -46,15 +46,15 @@ The 40-strong versatile Ang Mo Kio Secondary School Choir, comprising Soprano, A
 
   
 
-To hone our students’ vocal and public presentation skills, the choir performs in public, participates in choral exchanges with other schools and attends vocal workshops, master classes and concerts every year. Theory sessions based on the ABRSM syllabus are also carried out for the choir members to better equip them with knowledge and versatility in music.
+To hone our students’ vocal, personal and public presentation skills, the choir enthusiastically volunteers to perform on various public platforms; including choral exchanges with other schools, community and school events.  Opportunities to upskill are explored through vocal workshops, master classes and concerts every year. Theory sessions based on the ABRSM syllabus may also be carried out for the choir members to better equip them with useful music knowledge to appreciate the range and breadth of the world music that they are exposed to.
 
   
 
-The Choir showcases its talents at various school performances such as Awards Day, AMKsian Showcase and our school’s biennial event, the Night of Music, Arts and Dance (NOMAD). In the years 2015 and 2016, we had joint concert performances, “The Reason We Sing” and “The Reason We Sing II” respectively, with other school choirs at public venues and subsequently participated in the Voices of Singapore Festival at CHIJmes in 2019.
+The Choir showcases its talents at various school events such as Awards Day, AMKsian Showcase and our school’s biennial event, the Night of Music, Arts and Dance (NOMAD). Prior to the COVID-19 years, the Choir held joint concert performances at public venues, such as “The Reason We Sing” and “The Reason We Sing II” with other school choirs as well as the Voices of Singapore Festival at CHIJmes in 2019.   
 
   
 
-Besides singing, the Choir organizes activities to instill, develop and promote self-discipline, teamwork, confidence and commitment in our choristers. Every chorister has a responsibility to serve both the Choir and the community; as led by the Choir's Executive Committee based on our philosophy that every AMKsian Chorister "Always Strive For the Best - to Sing, to Share and to Serve"
+Besides singing, the Choir’s Executive Committee, under the guidance of the Choir Teachers and Mistress, organises activities to instill, develop and promote self-discipline, teamwork, confidence and commitment in our choristers.   Every chorister has a responsibility to serve both the Choir and the community; as led by the Choir's Executive Committee based on our philosophy that every AMKsian Chorister "Ever Strives Upwards - Semper Superne Nitens!"
 
 <style>  
 img {  
