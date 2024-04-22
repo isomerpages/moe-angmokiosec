@@ -139,7 +139,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Badmintonn.jpg" alt="Badminton" style="width:80%;">  
+<img src="/images/Badmintonn.jpg" alt="Badminton" style="width:80%;"><br>  
+<img src="/images/Badminton_DSA.jpg" alt="Badminton" style="width:80%;">
   
 
 
