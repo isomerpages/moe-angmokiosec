@@ -116,6 +116,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
+<img src="/images/English_Drama_DSA.jpg" alt="English Drama" style="width:80%;"><br>
 <img src="/images/Dramaa.jpg" alt="English Drama" style="width:80%;">    
 
 #### Badminton
