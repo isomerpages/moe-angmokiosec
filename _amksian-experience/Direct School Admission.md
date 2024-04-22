@@ -42,7 +42,7 @@ img {
 
 #### Choir
 
-Ang Mo Kio Secondary School Choir has a current strength of about 60 dedicated members, comprising Soprano, Alto, Tenor and Bass; and is helmed by talented chorister-conductor, Ms Cherie Chai. The choir achieved a Certificate of Distinction and Certificate of Accomplishment in SYF Arts Presentations in 2019 and 2017 respectively.
+The 40-strong versatile Ang Mo Kio Secondary School Choir, comprising Soprano, Alto, and Baritone is helmed by talented chorister-conductor, Ms. Cherie Chai who is also a renown A Capella Trainer- Arranger-Producer, Music Director of professional choirs and 1st professional female vocal percussionist in Singapore. The choir achieved a Certificate of Distinction and Certificate of Accomplishment in SYF Arts Presentations in 2019 and 2023 respectively, and participated under Special Consideration in SYF 2021.
 
   
 
