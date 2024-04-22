@@ -75,11 +75,9 @@ The&nbsp;**Modern Dance**&nbsp;group strives to nurture and develop versatile pe
 
   
 
-The&nbsp;**Malay Dance**&nbsp;consists of an exuberant group of students with passion in Malay Dance. We provide opportunities for students to learn and appreciate Malay Dance and culture. We aim to develop our students to be graceful dancers and disciplined students. The group achieved the Certificate of Distinction in 2015, 2017 and 2023 and the Certificate of Accomplishment in 2019 and 2021 at the SYF Arts Presentation.
+The&nbsp;**Malay Dance**&nbsp;consists of an exuberant group of students with passion in Malay Dance. We provide opportunities for students to learn and appreciate Malay Dance and culture. We aim to develop our students to be graceful dancers and disciplined students. The group achieved the Certificate of Distinction in 2015, 2017 and 2023 and the Certificate of Accomplishment in 2019 and 2021 at the SYF Arts Presentation.  
 
-  
-
-Through our Dance camps and Dance Exchange Programme, we give our students opportunities to learn from other instructors as well as dancers from other schools. These programmes help build confidence in our students when performing on stage. Besides showcasing their skills to a variety of audiences, they will also be trained to think critically about artistic works; relate aesthetically, affectively and cognitively to the dance art form and the contexts of artistic works; as well as explore and experiment with the art form.
+Through our dance programmes such as Schools Dance Exchange and Collaboration, we provide our students the opportunities to learn from other instructors as well as dancers from other schools. These programmes help build confidence in our students when performing on stage. Besides showcasing their skills to a variety of audiences, they will also be trained to think critically about artistic works, relate aesthetically, affectively and cognitively to the dance art form and the contexts of artistic works as well as explore and experiment with the art form.
 
 <style>  
 img {  
