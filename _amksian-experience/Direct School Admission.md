@@ -99,7 +99,7 @@ img {
 }  
 </style>  
 <img src="/images/Malay%20Dance.jpg" alt="Malay Dance" style="width:80%;"> <br> 
-<img src="/images/Malay%20Dance.jpg" alt="Malay Dance" style="width:80%;"> 
+<img src="/images/Malay_Dance_DSA.jpg" alt="Malay Dance" style="width:80%;"> 
   
 
 #### English Drama 
