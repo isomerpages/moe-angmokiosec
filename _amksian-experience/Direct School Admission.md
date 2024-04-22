@@ -157,7 +157,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Volleyball.jpg" alt="Volleyball" style="width:80%;">  
+<img src="/images/Volleyball_DSA.jpg" alt="Volleyball" style="width:80%;">  
 
 <br>
        
