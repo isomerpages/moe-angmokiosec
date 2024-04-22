@@ -87,7 +87,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Modern%20Dance.jpg" alt="Modern Dance" style="width:80%;">  
+<img src="/images/Modern_Dance_DSA.jpg" alt="Modern Dance" style="width:80%;">  
   
 <br>
 
@@ -98,7 +98,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Malay%20Dance.jpg" alt="Malay Dance" style="width:80%;">  
+<img src="/images/Malay%20Dance.jpg" alt="Malay Dance" style="width:80%;"> <br> 
+<img src="/images/Malay%20Dance.jpg" alt="Malay Dance" style="width:80%;"> 
   
 
 #### English Drama 
