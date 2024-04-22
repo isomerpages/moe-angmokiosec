@@ -219,7 +219,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/dsa_basketball.jpg" alt="Basketball" style="width:100%;">
+<img src="/images/Netball_DSA.jpg" alt="Basketball" style="width:100%;">
 
 
 “The selection criteria and process for the talent areas will be updated from early-May.
