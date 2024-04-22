@@ -63,8 +63,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Choir.jpg" alt="Choir" style="width:80%;">  
-<img src="/images/Choir.jpg" alt="Choir" style="width:80%;">
+<img src="/images/Choir_1_DSA.jpg" alt="Choir" style="width:80%;">  <br>
+<img src="/images/Choir_2_DSA.jpg" alt="Choir" style="width:80%;">
   
 #### Dance Club
 
