@@ -37,7 +37,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/IMG-20190424-WA0000.jpg" alt="Concert Band" style="width:80%;">  
+<img src="/images/Band_DSA.jpg" alt="Concert Band" style="width:80%;">  
   
 
 #### Choir
