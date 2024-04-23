@@ -24,7 +24,7 @@ variant: markdown
 
 #### Sec 2 Manga Drawing
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vStGdlo0Bf_7_n3-KA4-15vNIDuXyJFE16nHZgVLM_QiwwN_0ofzMCefYscW8JDwbtvHSaYkmKl6WPH/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSx3IHqfRF1cfbjHs6yAXpftS05h5nlosG889E6L97qf_OehR0kNnXheI9XOkjeFhtcBeyXlEEUXG10/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### Sec 3 Marbling on Tote Bag
 
