@@ -20,7 +20,7 @@ variant: markdown
 
 #### Sec 1 Museum Based Learning
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6PXbdrCwH5GqLJ_b3466p8-Bhb5l9Revhzys2YYdXmC1-U-OQtNuvDC8bpwOxdCbCBzQ3rASO_M5w/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReHa4nTKf-xdtGR63O98DlxbDjjEsMIoGHsOtfCEyR5C1WxwSrEUnVxnQuaR_i8yalYuNUfKOnrEhI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### Sec 2 Manga Drawing
 
