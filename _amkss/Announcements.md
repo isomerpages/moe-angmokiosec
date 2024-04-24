@@ -38,13 +38,6 @@ Do remember to bring along your proof of identity (EZ Link card or IC) to collec
 
 [The school uses Parents Gateway as a key mode of communication with parents/guardians. Click here for information on how to download and be registered on the Parents Gateway app.](/files/PG%20Step%20by%20Step%20Guide.pdf)
 
-##### **2023  SEMESTER -2 TIMETABLE**   
-
-[Please click here for 2023 Semester 2 Timetable](/files/sem%202_class_2023_22june2023.pdf)
-
-##### **2023 CLASSROOM ALLOCATION**   
-
-[Please click here for 2023 Classroom Allocation](/files/2023classroomallocation.pdf)
 
 ##### **Home Based Learning (HBL)**
 
