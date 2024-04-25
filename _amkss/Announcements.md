@@ -17,14 +17,6 @@ In addition, please take note of the following:
 
 * For students progressing to Secondary 3, the class allocation has been communicated to them via their Student iCON accounts.
 
-##### **2024 Secondary One Registration Exercise**
-
-Information on the 2024 Secondary One Registration exercise is available at this link:
-[https://www.angmokiosec.moe.edu.sg/about-us/2024-secondary-one-registration-exercise/](https://www.angmokiosec.moe.edu.sg/about-us/2024-secondary-one-registration-exercise/)
-
-
-Information pertaining to Secondary One Class Allocation will be sent directly to parents/guardians via Parents Gateway one day after the release of Secondary One Posting results by 5pm.
-
 
 ##### **School Graduation Certificates** 
 
