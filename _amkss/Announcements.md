@@ -18,7 +18,7 @@ In addition, please take note of the following:
 * For students progressing to Secondary 3, the class allocation has been communicated to them via their Student iCON accounts.
 
 
-##### **Collection of School Graduation Certificates - 2023 Cohort** 
+##### **Collection of School Graduation Certificates 2023 Cohort** 
 
 Dear Graduates of 2023 Cohort 4E, 5NA 
 
