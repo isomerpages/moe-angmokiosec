@@ -18,13 +18,13 @@ In addition, please take note of the following:
 * For students progressing to Secondary 3, the class allocation has been communicated to them via their Student iCON accounts.
 
 
-##### **School Graduation Certificates** 
+##### **Collection of School Graduation Certificates 2023 Cohort** 
 
-Dear Graduates of 2022 Cohort 4E, 5NA and 4N
+Dear Graduates of 2023 Cohort 4E, 5NA 
 
-The School Graduation Certificates (SGC) folders (together with SGC testimonials and CCA Reports) are ready for collection. Collection is to be done by 27 October 2023 (Friday)
+The School Graduation Certificates (SGC) folders (together with SGC testimonials and CCA Reports) are ready for collection. Collection is to be done by 31 July.
 
-Do remember to bring along your proof of identity (EZ Link card or IC) to collect your certificates from the school's General Office, between Monday to Friday (except public holidays), 9am to 5pm. 
+Do remember to bring along your proof of identity (EZ Link card or IC) to collect your certificates from the school's General Office, between Monday to Friday (except public holidays), 9am to 5pm. Thank You.
 
 ##### **Parents Gateway**  
 
