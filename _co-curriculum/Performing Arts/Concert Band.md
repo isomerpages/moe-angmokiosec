@@ -128,13 +128,23 @@ variant: markdown
     <th class="tg-74pa"><span style="font-weight:700">Achievements of the CCA</span></th>
   </tr>
 	<tr>
+    <td class="tg-wpup">Limelight 2024 @ Esplanade Concert Hall (3 April 2024)</td>
+	</tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bapb">Kebun Baru CC National Day Observance Ceremony (2022 &amp; 2023)</td>
+  </tr>
+  <tr>
+    <td class="tg-wpup">Junior Band Festival @ HCI (10 November 2023)</td>
+	</tr><tr>
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
   </tr>
 	<tr>
     <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 - Percussion Ensemble (Accomplishment)</td>
 	</tr>
-</thead>
-<tbody>
+
+</tbody><tbody>
   <tr>
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 - Percussion Ensemble (Distinction)</td>
   </tr>
