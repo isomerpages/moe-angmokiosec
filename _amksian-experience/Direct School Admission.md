@@ -446,8 +446,8 @@ for the performance <strong>OR</strong>
 </li>
 <li>
 <p>a piece meant for 2 or more performers but with the same student performing
-different characters
-<br>Students may perform something scripted, devised, or improvised, and can
+	different characters</p>
+<p>Students may perform something scripted, devised, or improvised, and can
 be something learnt in school (in class of CCA). Students preparing their
 own performance can search for scripts of fairy tale or folk tale adaptations
 online or create these themselves.</p>
