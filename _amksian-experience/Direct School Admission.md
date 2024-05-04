@@ -100,64 +100,12 @@ Superne Nitens!"</p>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Choir" src="/images/Choir_2_DSA.jpg">
-</div>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Choir</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Pass audition and interview.</p>
-</li>
-<li>
-<p>For the auditions, applicants must prepare the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sing one piece of music (1-2 min) of his/her choice, from the choral,
-classical or musical theatre genres - to be sung with/ without accompaniment.</p>
-</li>
-<li>
-<p>Sing ‘Happy Birthday’ acapella (without accompaniment).</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Candidates must be able to imitate or respond to notes and rhythms according
-to instructions given by the instructor/ teacher.</p>
-</li>
-<li>
-<p>Representation in SYF Arts Choral Presentation or representation in international
-choral festival competitions.</p>
-</li>
-<li>
-<p>Music theory background (at least a grade 3 will be preferable).</p>
-</li>
-<li>
-<p>Member of school choir</p>
-</li>
-<li>
-<p>Exemplify positive character traits, including resilience, motivation
-and integrity.
-<br>*Please note that meeting all the criteria does not guarantee the student
-will be shortlisted/given an offer</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+	</div>
+<br>        
+<table class="ive\_eobj\_center iveo\_table ives\_tab\_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Choir</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Pass audition and interview.</li><li style="margin: 0px; outline: 0px; padding: 0px;">For the auditions, applicants must prepare the following:</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Sing one piece of music (1-2 min) of his/her choice, from the choral, classical or musical theatre genres - to be sung with/ without accompaniment.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Sing ‘Happy Birthday’ acapella (without accompaniment).</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Candidates must be able to imitate or respond to notes and rhythms according to instructions given by the instructor/ teacher.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Representation in SYF Arts Choral Presentation or representation in international choral festival competitions.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Music theory background (at least a grade 3 will be preferable).</li><li style="margin: 0px; outline: 0px; padding: 0px;"> Member of school choir</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.<br><font color="#ff0000">*Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></table>
+
+
+
 <h4>Dance Club</h4>
 <p>The Dance Club specialises in 2 broad categories of dance, namely&nbsp;<strong>Modern and Malay Dance</strong>.
 Two external instructors, who are professionally-trained dancers, coach
