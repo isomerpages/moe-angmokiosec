@@ -366,67 +366,10 @@ the challenges they will face in life long after they leave the courts.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" alt="Basketball" src="/images/Netball_DSA.jpg">
 </div>
-<p>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Badminton, Basketball, Football, Netball &amp; Volleyball</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>School team Players or its equivalent in primary school</p>
-</li>
-<li>
-<p>Applicants must pass a sports specific selection test</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Applicants must display necessary game specific skills (Technique, agility,
-speed) required for the chosen sport.</p>
-</li>
-<li>
-<p>Applicants must also display tactical awareness in game situations.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Show the ability to work in teams.</p>
-</li>
-<li>
-<p>Awards/Accomplishments in relevant areas.</p>
-</li>
-<li>
-<p>Good track record of performance in CCA or relevant external involvement.</p>
-</li>
-<li>
-<p>Participation in inter-school and/or International Competitions.</p>
-</li>
-<li>
-<p>Applicants must also pass an interview.</p>
-</li>
-<li>
-<p>Exemplify positive character traits, including resilience, motivation
-and integrity.
-<br>*Please note that meeting all the criteria does not guarantee the student
-will be shortlisted/given an offer</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
+<br>  
+<table class="ive\_eobj\_center iveo\_table ives\_tab\_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Badminton, Basketball, Football, Netball &amp; Volleyball</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">School team Players or its equivalent in primary school</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must pass a sports specific selection test</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must display necessary game specific skills (Technique, agility, speed) required for the chosen sport.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must also display tactical awareness in game situations.</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Show the ability to work in teams.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Awards/Accomplishments in relevant areas.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Good track record of performance in CCA or relevant external involvement.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Participation in inter-school and/or International Competitions.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must also pass an interview.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Only students with relevant experience will be considered.</li></ul></div></td></tr></tbody></table>
+
+
 <h4>Application Procedure</h4>
 <p>1.&nbsp; Application for DSA-Sec can be submitted through the online DSA-Sec
 Portal. The application is free-of-charge and will be open from&nbsp; <strong><em>7 May 2024, 11 am to 3 June 2024, 3pm</em></strong>.
