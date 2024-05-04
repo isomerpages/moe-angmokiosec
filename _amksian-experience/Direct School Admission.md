@@ -181,95 +181,9 @@ schools represented different causes culminating in a collective performance.</p
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="English Drama" src="/images/Dramaa.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>English Drama</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>All applications will be required to go through an interview and audition.
-The following will be tested:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Acting &amp; Characterisation,</p>
-</li>
-<li>
-<p>Voice,</p>
-</li>
-<li>
-<p>Improvisation,</p>
-</li>
-<li>
-<p>Stage Presence.</p>
-</li>
-</ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please prepare a 3 to 5 minute solo performance of either</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>a piece meant for only 1 performer (i.e. a monologue) <strong>OR</strong>
-</p>
-</li>
-<li>
-<p>a piece meant for 2 or more performers but with only 1 character chosen
-for the performance <strong>OR</strong>
-</p>
-</li>
-<li>
-<p>a piece meant for 2 or more performers but with the same student performing
-	different characters</p>
-<p>Students may perform something scripted, devised, or improvised, and can
-be something learnt in school (in class of CCA). Students preparing their
-own performance can search for scripts of fairy tale or folk tale adaptations
-online or create these themselves.</p>
-</li>
-</ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>For the second part of the audition, students are to respond to a task
-which involves taking up a character role in a relatable scenario (e.g.,
-meeting a schoolmate at the supermarket) with brief preparation time given
-(max 5 mins). Feedback will be given after the students’ first attempt
-for them to attempt a second time.</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Applicants with drama background and performance experience will be preferred.
-Do reference prior performance experience, or theatre performance you have
-watched.</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Exemplify positive character traits, including resilience, motivation
-and integrity.
-<br>*Please note that meeting all the criteria does not guarantee the student
-will be shortlisted/given an offer</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<br>       
+<table class="ive\_eobj\_center iveo\_table ives\_tab\_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">English Drama</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">All applications will be required to go through an interview and audition. The following will be tested:</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Acting &amp; Characterisation,</li><li style="margin: 0px; outline: 0px; padding: 0px;">Voice,</li><li style="margin: 0px; outline: 0px; padding: 0px;">Improvisation,</li><li style="margin: 0px; outline: 0px; padding: 0px;">Stage Presence.</li></ul></ul><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">For the first part of the audition, students are to select 1 of 3 given monologues to prepare a 2 to 4 minute solo performance. </li><li style="margin: 0px; outline: 0px; padding: 0px;">For the second part of the audition, students are to respond to a task which involves improvisation of a character role in a relatable scenario (for example,  meeting a schoolmate at the supermarket) with brief preparation time given (max 3 mins). Feedback will be given after the students’ first attempt, and if required, a second attempt will be conducted.</li></ul><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants with drama background and performance experience will be preferred. Do reference prior performance experience, or theatre performance you have watched.</li></ul><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.</li></ul></div></td></tr></tbody></table>
+
 <h4>Badminton</h4>
 <p>Badminton – referred to by some as ‘The Fastest Racquet Sport in the World’
 – requires agility, power, mental and physical prowess as well as endurance.
