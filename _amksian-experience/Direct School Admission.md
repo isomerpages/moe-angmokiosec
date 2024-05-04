@@ -59,63 +59,9 @@ to encourage lifelong learning in arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Concert Band" src="/images/Band_DSA.jpg">
 </div>
-<p>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Concert Band</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Pass audition and interview.</p>
-</li>
-<li>
-<p>Relevant instrumental skills in primary school bands and string ensembles.</p>
-</li>
-<li>
-<p>For the auditions, all applicants must prepare the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2 pieces of music (1-2 min each) of his/her choice on the instrument in
-his/her talent area.</p>
-</li>
-<li>
-<p>Major scales of at least 1 octave: Concert F, Bb, Eb and Ab (For all instruments
-except non-pitched percussion instruments).</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Candidates must be able to imitate melodies and rhythms given by the instructor/teacher.</p>
-</li>
-<li>
-<p>Candidates will also be given a short piece of Sec 1 music to sight-read.</p>
-</li>
-<li>
-<p>Applicants must bring their own instrument and choice piece of music for
-the audition. Only keyboard and percussion instruments will be provided
-by the school.</p>
-</li>
-<li>
-<p>Exemplify positive character traits, including resilience, motivation
-and integrity.
-<br>*Please note that meeting all the criteria does not guarantee the student
-will be shortlisted/given an offer</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<br>         
+<table class="ive\_eobj\_center iveo\_table ives\_tab\_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Concert Band</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Pass audition and interview.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Relevant instrumental skills in primary school bands and string ensembles.</li><li style="margin: 0px; outline: 0px; padding: 0px;">For the auditions, all applicants must prepare the following:</li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">2 pieces of music (1-2 min each) of his/her choice on the instrument in his/her talent area.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Major scales of at least 1 octave: Concert F, Bb, Eb and Ab (For all instruments except non-pitched percussion instruments).</li></ul><li style="margin: 0px; outline: 0px; padding: 0px;">Candidates must be able to imitate melodies and rhythms given by the instructor/teacher.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Candidates will also be given a short piece of Sec 1 music to sight-read.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Applicants must bring their own instrument and choice piece of music for the audition. Only keyboard and percussion instruments will be provided by the school.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity.<br><font color="#ff0000">*Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></table>
+
 <h4>Choir</h4>
 <p>The 40-strong versatile Ang Mo Kio Secondary School Choir, comprising
 Soprano, Alto, and Baritone is helmed by talented chorister-conductor,
