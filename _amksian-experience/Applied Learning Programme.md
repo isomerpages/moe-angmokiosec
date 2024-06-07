@@ -20,8 +20,7 @@ Our programme also offers a wide range of learning journeys and enrichment oppor
 <br>
 We hope to provide a holistic educational experience by integrating various disciplines, enabling students to see the interconnectedness of environmental sustainability and STEM. Students will gain hands-on experience and be equipped with practical skills to address environmental challenges. Through the programme, students can foster a deeper understanding on environmental issues, and be empowered to become environmentally conscious individuals. Our programme offers students a unique opportunity to explore the crucial intersection of environmental conservation and STEM disciplines and inspire students to make a positive impact on the environment. <br><br>
 
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1BDxAAyFryKv4EL1Dsjt5JVPXa3R4cKncdjFsjGv5Bt_H6FmgUxfaUWwGLpBOuEkSsvaYSuZFxQyg/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGPuMkgsauUU3VNqDVde7u-7JY9XwTc69IR1r6T1zU5INXuiU5WLmvtmnuB0Q7XEmdqGGa66G5Z7a5/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <br>
 
 #### Applied Learning Programme (ALP) the AMKSS Way
