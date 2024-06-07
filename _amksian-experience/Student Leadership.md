@@ -18,7 +18,7 @@ img {
 In a rapidly changing and increasingly complex world, leaders with upright morals and clear purpose in every sphere and at every level inspire us to put in our best effort to improve the well-being of those around us. Driven by this motivation, Ang Mo Kio Secondary School provides platforms that caters for students to experience leadership at different pace and levels. <br><br>
 At the cohort level, other than being exposed to the concept of leadership in the classroom and self-reflection through the National Youth Achievement Award journey, students are also involved experiential learning activities such as level camps. Supporting these efforts are the Student Councillors, CCA Leaders and Class Committee:
 
-<img src="/images/Student%20Leadership%202023/picture%201.jpeg" alt="Student Leadership" style="width:70%;">
+<img src="/images/Student%20Leadership%202024/SL_24_1.jpg" alt="Student Leadership" style="width:80%;">
 
   
 
