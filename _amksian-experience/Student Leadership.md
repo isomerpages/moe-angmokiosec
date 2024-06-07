@@ -22,13 +22,13 @@ At the cohort level, other than being exposed to the concept of leadership in th
 
   
 
-A team of elected student leaders with the aim of serving the school with dedication and pride, the student council bonds the school in its role as a bridge, as the voice of the students. Through workshops, training camps and participation in various key events such as the Secondary One Orientation Camp, Teachers’ and EAS Day Celebrations etc, student councillors are nurtured to become role models – positively influencing their peers as they reach out to serve actively, bringing about improvement in school and fostering strong school spirit.
+A team of elected student leaders with the aim of serving the school with dedication and pride, the Student Council acts as a bridge and the voice of the students to bond the school. Through workshops, training camps and participation in key events such as the Secondary One Orientation Camp, Student Leaders Investiture, and Teachers’ and EAS Day Celebrations, Student Councillors are nurtured to become role models. As they reach out actively to serve the school and the student body, they positively influence their peers and foster a strong school spirit.
 <br>
 <img src="/images/Student%20Leadership%202023/picture%204.jpeg" alt="Student Leadership" style="width:70%;">
 
   
 
-Directed at honing leadership in their various spectrum of influence, CCA Leaders are provided with numerous opportunities such as the Leadership Through Sports programme by SportSG, the Youth Sports Leaders’ Camp organised by ActiveSG as well as CCA based camps, workshops and attachments. These programmes aim to develop students’ character, communication skills and competencies by providing various practical experiences within multiple platforms in school and the wider community.
+Directed at honing leadership in their various spectrum of influence, CCA Leaders are provided with numerous opportunities such as the Leadership Through Sports programme by SportSG, the Youth Sports Leaders’ Camp organised by ActiveSG, as well as CCA-based camps, workshops and attachments. These programmes aim to develop students’ character, communication skills and competencies by providing various practical experiences within multiple platforms in school and the wider community.
 <br>
 <img src="/images/Student%20Leadership%202023/picture%205.jpeg" alt="Student Leadership" style="width:70%;">
 
