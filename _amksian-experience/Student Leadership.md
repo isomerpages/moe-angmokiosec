@@ -2,6 +2,7 @@
 title: Student Leadership
 permalink: /amksian-experience/student-leadership/
 description: ""
+variant: markdown
 ---
 <style>  
 img {  
@@ -14,7 +15,8 @@ img {
   
 
 
-In a rapidly changing and increasingly complex world, leaders with upright morals and clear purpose, in every sphere and at every level is needed to inspire us to contribute our best in our efforts to improve the well-being of those around us. Driven by this motivation, Ang Mo Kio Secondary School provides platforms that caters for students to experience leadership at different pace and levels. At the cohort level, other than being exposed to the concept of leadership in the classroom, self-reflecting through the National Youth Achievement Award journey, students are also involved in level camps as well as other activities for experiential learning in leadership. Supporting these efforts are the Student Councillors, CCA Leaders and Class Committee Directed at honing leadership in their various spectrum of influence, CCA Leaders are provided with numerous opportunities such as the Leadership Through Sports programme by SportSG, the Youth Sports Leaders’ Camp organised by ActiveSG as well as CCA based camps, workshops and attachments. These programmes aim to develop students’ character, communication skills and competencies by providing various practical experiences within multiple platforms in school and the wider community members. <br>
+In a rapidly changing and increasingly complex world, leaders with upright morals and clear purpose in every sphere and at every level inspire us to put in our best effort to improve the well-being of those around us. Driven by this motivation, Ang Mo Kio Secondary School provides platforms that caters for students to experience leadership at different pace and levels. <br><br>
+At the cohort level, other than being exposed to the concept of leadership in the classroom and self-reflection through the National Youth Achievement Award journey, students are also involved experiential learning activities such as level camps. Supporting these efforts are the Student Councillors, CCA Leaders and Class Committee:
 
 <img src="/images/Student%20Leadership%202023/picture%201.jpeg" alt="Student Leadership" style="width:70%;">
 
