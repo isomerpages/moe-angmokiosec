@@ -193,7 +193,7 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-didf">3</td>
     <td class="tg-didf">Sec 3</td>
-    <td class="tg-didf">Math/Science/Humanities Trail @ Marina Bay Sands<br>STEM Learning Journey @ Gardens by the Bay</td>
+    <td class="tg-didf">STEM Learning Journey @ Gardens by the Bay</td>
   </tr>
 </tbody>
 </table>
@@ -235,7 +235,7 @@ The goals of the secondary mathematics education are:
 	<tr>
     <td class="tg-didf">3</td>
     <td class="tg-didf">All Levels</td>
-    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Australian Maths Competition (AMC) 2022</span></td>
+    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Australian Maths Competition (AMC) 2023</span></td>
     <td class="tg-didf">18 Distinctions, 78 Credits</td>
   </tr>
 </tbody>
