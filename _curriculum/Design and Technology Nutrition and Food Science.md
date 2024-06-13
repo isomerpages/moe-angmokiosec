@@ -2,6 +2,7 @@
 title: Design and Technology Nutrition and Food Science
 permalink: /curriculum/design-n-technology-nutrition-and-food-science/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -217,4 +218,4 @@ It was an enriching and fulfilling session as all the students succeeded and bro
 
 #### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAZNs9zqz4H3KDXnS4VFMnAjEQfFDnMjrrJzsSupKJHx6Xh763rxr0XmLMQpXw2JVonpqx2vAH7T70/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRivt1iljNqV2a7G4_PZAuRbnZFmb8AyJNcwPkUgCSrOKle7Vll1deSzEtHge7dBdi98luhn0enog43/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
