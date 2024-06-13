@@ -189,34 +189,7 @@ It was an enriching and fulfilling session as all the students succeeded and bro
 </tbody>
 </table>
 
-#### Achievements
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0ouz{background-color:#FFF;border-color:inherit;color:#004D2E;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-mcu8{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-didf{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0ouz"><span style="font-weight:700">S/No</span></th>
-    <th class="tg-mcu8"><span style="font-weight:700">Competitions</span></th>
-    <th class="tg-mcu8"><span style="font-weight:700">Awards</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-didf"> 1</td>
-    <td class="tg-didf">D&amp;T Awards 2023<br>Gisbelle Chan (4/1 2022)</td>
-    <td class="tg-didf">Creative Aesthetic Award</td>
-  </tr>
-</tbody>
-</table>
+<br>
 
 #### Photo Gallery
 
