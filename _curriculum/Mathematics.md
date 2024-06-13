@@ -136,12 +136,12 @@ The goals of the secondary mathematics education are:
     <td class="tg-didf">1</td>
     <td class="tg-didf">Performance Task</td>
  <td class="tg-didf"><span style="font-weight:400;color:#004D2E">To apply problem solving skills to real-world Mathematical Tasks, shift focus of assessment from skills &amp; concepts to include process, metacognition and attitude</span><br><br>&gt; Wall Design for Children’s Playroom<br><br>&gt; Representing data using statistical diagrams<br><br>&gt; An Investigative Journey on Statistics<br><br>&gt; Designing an International Friendship Day badge <br><br>&gt; Learning Experience on Design Your Own Bedroom</td>
-    <td class="tg-didf"><br><br><br><br>1E/1NA<br><br>1NT<br><br>2E/2NA/2NT<br><br>3E/3NA<br><br>3NT</td>
+    <td class="tg-didf"><br><br><br><br>1G3/G2<br><br>1G1<br><br>2E/2NA/2NT<br><br>3E/3NA<br><br>3NT</td>
   </tr>
   <tr>
     <td class="tg-nlyn">2</td>
     <td class="tg-nlyn">Algebra Mastery at Lower Sec</td>
-    <td class="tg-nlyn">&gt; To strengthen pupils’ foundation in Algebra in lower secondary to reap spin-off effects at upper secondary<br><br>&gt; To consolidate basic concepts in a more concrete way as well as to excite and sparks pupils’ interest in the topic by using more learner-centred strategies/activities<br><br>&gt; To design modules to cater to the different learning abilities of pupils in leaning Algebra</td>
+    <td class="tg-nlyn">&gt; To strengthen pupils’ foundation in Algebra in lower secondary to reap spin-off effects at upper secondary<br><br>&gt; To consolidate basic concepts in a more concrete way as well as to excite and sparks pupils’ interest in the topic by using more learner-centred strategies/activities<br><br>&gt; To design modules to cater to the different learning abilities of pupils in learning Algebra</td>
     <td class="tg-nlyn">Lower Sec Levels and Streams</td>
   </tr>
   <tr>
@@ -223,14 +223,20 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-didf">1</td>
     <td class="tg-didf">Lower Sec</td>
-    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Singapore and Asian Maths Olympiad (SASMO) 2023</span></td>
-    <td class="tg-didf">1 Gold, 5 Silver, 14 Bronze</td>
+    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Singapore and Asian Maths Olympiad (SASMO) 2024</span></td>
+    <td class="tg-didf">1 Gold,  10 Bronze</td>
   </tr>
   <tr>
     <td class="tg-nlyn">2</td>
-    <td class="tg-nlyn">All Levels</td>
-    <td class="tg-nlyn">Australian Maths Competition (AMC) 2022</td>
-    <td class="tg-nlyn">13 Distinctions, 76 Credits</td>
+    <td class="tg-nlyn">Upper Sec</td>
+    <td class="tg-nlyn">Singapore and Asian Maths Olympiad (SASMO) 2024</td>
+    <td class="tg-nlyn">1 Gold, 8 Silver, 8 Bronze</td>
+  </tr>
+	<tr>
+    <td class="tg-didf">3</td>
+    <td class="tg-didf">All Levels</td>
+    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Australian Maths Competition (AMC) 2022</span></td>
+    <td class="tg-didf">18 Distinctions, 78 Credits</td>
   </tr>
 </tbody>
 </table>
