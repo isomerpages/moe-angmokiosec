@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -233,3 +234,5 @@ The goals of the secondary mathematics education are:
   </tr>
 </tbody>
 </table>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGZxQZ7WKrjccNFRXObfn2SHjfprgRTBR9oTxTGvcSz4iQjPrhVmmZLMFz4sUAd1l5obVRhUU0V9UM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
