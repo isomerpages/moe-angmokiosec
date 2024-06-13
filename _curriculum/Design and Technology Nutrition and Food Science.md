@@ -125,13 +125,13 @@ Being a discerning consumer
   </tr>
   <tr>
     <td class="tg-nlyn">2</td>
-    <td class="tg-24tc">D&amp;T<br><br>Project 1: Balancing Toy <br>Project 2: Night Light<br><br><br><br><br>FCE<br></td>
+    <td class="tg-24tc">D&amp;T<br><br>Project 1: Snack Board <br>Project 2: Night Light<br><br><br><br><br>FCE<br></td>
     <td class="tg-nlyn">In Secondary 2, students learn Shape Borrow technique to sketch ideas for their 2 projects. Students also learn basic electronics in the Night Light Project. <br> Students experience working with jelutong (wood) in the Balancing Toy Project, and acrylic and jelutong in the Night Light Project.<br><br>Students will go through 2 to 3 investigative practical lessons to acquire more advanced culinary skills, analytical skills and reflective thinking.<br>A simplified coursework where students need to conduct some form of research and present their information either in a poster, report or PowerPoint slides.<br><br>Lessons will focus on the following:<br>Diet related health problems<br>Nutritional needs of different age groups<br>Evaluation of food<br>Food culture in Singapore<br>Sustainable consumption of goods and services</td>
     <td class="tg-nlyn">Secondary 2</td>
   </tr>
   <tr>
     <td class="tg-didf">3</td>
-    <td class="tg-657w">D&amp;T<br><br>Coursework : 3 mini-projects<br><br><br><br><br><br><br><br><br>NFS<br></td>
+    <td class="tg-657w">D&amp;T<br><br>Project 1: Water Filtration System Stand <br> Project 2: Singapore Bird Paradise<br><br><br><br><br><br><br><br><br>NFS<br></td>
     <td class="tg-didf">Students do research to understand and define user needs, explore and develop design solutions, and realise their ideas using hand tools/equipment/machines when embarking their design journeys in the three mini projects.<br>Students explore how things work to learn the three technologies, i.e. Mechanisms, Electronics and Structure.<br><br><br>Students will go through a series of practical sessions to acquire advance culinary skills such as cutting and portioning a whole chicken, and the various methods of cake-making such as rubbing-in, whisking and creaming.<br><br>Students will complete a full coursework base on the following components:<br>Research<br>Decision making<br>Exploratory Study<br>Planning <br>Execution<br>Evaluation<br>By the end of the coursework, students would have completed the practical exam and produce a comprehensive report to showcase their learnings.<br></td>
     <td class="tg-didf">Secondary 3</td>
   </tr>
