@@ -3,8 +3,9 @@ title: Malay Dance
 permalink: /co-curriculum/performing-arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdAs4ijilIvJjXu-UwvtD2NYiKBKoU1_NGsbXrhkdLHYQY44t7Vo1YZ4F5Pg2gAF6v07W8k4-gar_H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYta6AcUrSD22lpTxV3DbEGksz1NzxpYh3nEOqpNtLWz2rSisNKfjfIO6J7H0Ki5foCGbK4qgybg8C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
