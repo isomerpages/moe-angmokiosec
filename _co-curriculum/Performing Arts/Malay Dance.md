@@ -26,7 +26,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (2IC)<br></td>
+    <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (IC)<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">Ms Cheryl Lau</td>
@@ -71,21 +71,21 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2023/2024<br></th>
+    <th class="tg-avji">Executive Committee for 2024/2025<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Nur Insyirah Binte Yusoff (3A3)</span></b></td>
+    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Haidah Binte Mohamed Hanafie (3/1)</span></b></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u><b>Rehearsal Mistress</b></u><b><br><span style="font-weight:400;color:#004D2E">Risha Laiyinah Binte Roslan (3A3)</span></b></td>
+    <td class="tg-mwif"><u><b>Rehearsal Mistress</b></u><b><br><span style="font-weight:400;color:#004D2E">Airis Arissa Binte Muhammad Zulkifli (3A2)</span></b></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><u><b>Quarter Mistress (Costumes / Makeup / Props)</b></u><b><br><span style="font-weight:400;color:#004D2E">Nurul Anisah Binte Shamsul Ambri (3A2)</span></b></td>
+    <td class="tg-bapb"><u><b>Quarter Mistress (Costumes / Makeup / Props)</b></u><b><br><span style="font-weight:400;color:#004D2E">Ayra Nadyne Binte Noor Indra Gunawan (3A2)</span></b></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u><b>Publicity In Charge</b></u><b><br><span style="font-weight:400;color:#004D2E">Seri Syariezaty Nur'Aqilah Binte Pazili (3A3)</span></b></td>
+    <td class="tg-mwif"><u><b>Publicity In Charge</b></u><b><br><span style="font-weight:400;color:#004D2E">Hizsyahirah Binte Muhammad Hiszar (3A1)</span></b></td>
   </tr>
   
 </tbody>
