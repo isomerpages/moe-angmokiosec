@@ -20,16 +20,19 @@ variant: markdown
 
 
 
-The 80-strong NCC (Air) unit seeks to nurture cadets to fulfil their potential as compassionate and able leaders who contribute to development of self, unit, school and the nation.
+The AMKSS NCC (Air) unit seeks to nurture cadets into extraordinary youth leaders who embody the National Cadet Corps’ core values and contribute to the development of the unit, school, community and nation.
+
+  
+The unit, in collaboration with NCC HQ, exposes cadets to a wide range of activities ranging from aeromodelling, precision drills, military experiences such as joyrides and live range, to adventure-based activities such as kayaking and paintball. Not only do these activities instil important values and skills, but they also inculcate an intrinsic sense of discipline and resilience. Cadets are also imparted important knowledge about military aircrafts, drills and environmental conservation to allow for the holistic development of each cadet. Additionally, the cadets get to bond during their cohort camps, CAMP FORGE and Camp STEEL, as well as annual in-school camps, which heighten their sense of belonging to the unit. 
 
   
 
-The unit, in collaboration with the National Cadet Corps Headquarters, offers cadets exposure to activities ranging from aero-modelling, precision drills, Values-in-Action activities, military experiences such as joyrides and live range, to adventure-based activities such as high elements, rappelling, rock-wall climbing, flying fox and paintball.
+Every year, our cadets have the opportunity to participate in a multitude of activities. Our Secondary Three cadets can look forward to attaining their One Star Kayaking certification after an exciting two-day kayaking course. The Sports Championships organised by NCC HQ also provides our cadets a platform to build camaraderie and strong friendships through competing with other NCC units in various sports like Captain’s Ball and soccer. 
 
   
 
-The variety of activities conducted in both weekly training sessions and NCC Headquarters seek to teach the cadets values such as teamwork, skills such as communication and inculcate an intrinsic sense of discipline and resilience. In addition to training sessions, the cadets also benefit from camps such as Camp FORGE and Camp STEEL along with annual in school camps. Cadets are also taught important knowledge of military aircrafts, drills and environmental conservation to allow for the holistic development of each cadet.
+This year, our PDS team did our school proud by achieving a commendable 4th placing in the Air District which qualified them a spot in the 13th PDS &amp; FSD Competition Grand Finals. It was by no means an easy feat as the team had to choreograph the entire performance and execute it with precision, coordination and creativity. The impressive results attained by our cadets definitely boosted their morale! It was also heartwarming to see the cadets who have graduated turn up for the Grand Finals to show their support to their juniors. 
 
-  
+Understanding the importance of contributing back to society, our cadets take part in a series of community events. Every year, our unit ardently supports the Walk for Rice Campaign whereby the cadets and Teacher Officers walk and track their mileage to raise funds for needy families residing in the South-east district. 
 
-Expeditions to Mount Ophir and Outward Bound Courses are also organised for selected cadets with a thirst for adventure. Selected cadets also get to attend overseas exchange programmes to countries like the UK, USA, Brunei, New Zealand and Australia to learn from our foreign counterparts and expose them to a broader world view which will prepare them well for the challenges in life. Our unit promises an experience of a lifetime and seeks to develop generations of outstanding leaders.
+NCC (Air) will continue to provide exciting opportunities for our cadets and is committed to developing generations of outstanding leaders.  
