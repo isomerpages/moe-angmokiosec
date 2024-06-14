@@ -5,7 +5,16 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-![](/images/choir%202023-1.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/Choir%202024/Choir_Image_1.jpg" alt="Choir" style="width:100%;">  
+  
+
 
 
 <br>
@@ -134,31 +143,20 @@ variant: markdown
 </table>
 <br>
 
-![Choir](/images/Choir%202023/image%202.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/Choir%202024/Choir_Image_4.jpg" alt="Choir" style="width:100%;">  
+  
 
 "Semper Superne Nitens" (Ever Striving Upward). The three-part SAB Ang Mo Kio Secondary School Choir, under the capable baton of our accomplished vocalist-conductor, Ms. Cherie Chai, has been actively contributing to the musical culture in school, as well as livening up celebrations and events even under dampened global conditions. Envisioning personal skills, character and leadership development of our members, the Choir makes use of multiple platforms to showcase our choristers' talents as well as share our music appreciation with others.
 
 With our motto, 'Semper Superne Nitens', the choir is passionately committed to learning, performing and sharing our music so that we can grow ourselves and mentor others. Despite difficult global restrictions in recent years, the choir's songs could not be restrained as we pivoted smoothly online and just as smoothly took up in-person activities when regulations were relaxed. Displaying resilience, we enthusiastically volunteered to perform at school events like Awards Day and Night of Music, Arts and Dance (NOMAD), and led the school in mass singalongs during Chinese New Year and National Day Celebrations. We look forward to sharing our love for music and public performances such as inter-school cultural exchanges and Values-In-Action singing activities with charitable organisations.
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTpBmqGZ-Hu1EwUxyzGxuR2wTtfUB9woeRCoSQqkjmUIkS5wzKm9oV0B-CiV9pbwkAry00dji1zWUa3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Choir%202023/image%203.jpg" alt="Choir" style="width:100%;">  
-  
-
-<br>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Choir%202023/image%204.JPG" alt="Choir" style="width:100%;">
