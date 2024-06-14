@@ -35,4 +35,4 @@ This year, our PDS team did our school proud by achieving a commendable 4th plac
 
 Understanding the importance of contributing back to society, our cadets take part in a series of community events. Every year, our unit ardently supports the Walk for Rice Campaign whereby the cadets and Teacher Officers walk and track their mileage to raise funds for needy families residing in the South-east district. 
 
-NCC (Air) will continue to provide exciting opportunities for our cadets and is committed to developing generations of outstanding leaders.  
+NCC (Air) will continue to provide exciting opportunities for our cadets and is committed to developing generations of outstanding leaders.
