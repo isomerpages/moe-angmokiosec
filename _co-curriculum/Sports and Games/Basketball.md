@@ -49,27 +49,25 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Executive Committee for 2023 / 2024<br></th>
+    <th class="tg-mwif">Executive Committee for 2024 / 2025<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stanley Doss Antonio (3/2)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kwa Kai Jie, Kayden (3A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Heng Yong Sheng (3A3)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Lee Si Kai, Samuel (Li Sikai) (3/2)</span></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Guay Ee Kiat Owen (2C)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>Physical Training Instructors</u></b><br><span style="font-weight:400;color:#004D2E">Irving Chen Qihui (3A1)</span><br><span style="font-weight:400;color:#004D2E">Seow Chen Kai Leroy (3A1)<br>Pua Yan Zhe (3/2)</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Albert Lau Zi Hang (2E)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kwa Kai Jie, Kayden (2D)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Lee Si Kai, Samuel (2D)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup"><b><u>Physical Training Instructors</u></b><br><span style="font-weight:400;color:#004D2E">Albert Lau Zi Hang (1E)</span></td>
+    <td class="tg-bapb"><b><u>Physical Training Instructors</u></b><br><span style="font-weight:400;color:#004D2E">Ashton Tan Pin Yee (2H)<br>Moritz Marley Menon (1/2)</span></td>
   </tr>
 </tbody>
 </table>
@@ -92,6 +90,9 @@ variant: markdown
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-bapb">National School Games 2024<br></td>
+  </tr>
+	<tr>
     <td class="tg-wpup">South Zone B and C Division Basketball Championships 2023<br></td>
   </tr>
   <tr>
@@ -106,5 +107,6 @@ variant: markdown
 </tbody>
 </table>
 <br>
-The AMKBB team strives to instill the values of self-discipline, respect and teamwork among players. Our trainings are structured to allow students to develop physical strength and endurance, build their technique through drills, and foster team spirit during friendly matches. The CCA leaders take charge of leading their teams to complete specific training plans at the start of each session, such as skipping, running 2.4km and circuit exercises. In addition, the coach works closely with the boys to ensure they learn tactical plays and also communicate with one another on court.<br><br>
-In 2022, the National School Games was finally able to continue after lifting of the Covid restrictions. To prepare the B and C division teams for the competition, friendly matches with various schools were organised for the teams to gain competition experience. The teams fought hard in every match but failed to advance to the next stage of the competition. The teams gained the much needed competition experience and will be better prepared in the coming years.
+The AMKBB team is dedicated to cultivating self-discipline, respect, and teamwork among its players. Our training sessions are meticulously organized to enable students to enhance their physical prowess and stamina, refine their techniques through structured drills, and cultivate camaraderie through friendly matches. CCA leaders oversee the execution of tailored training regimes at the onset of each session, encompassing activities like skipping, completing a 2.4km run, and engaging in circuit exercises. Furthermore, the coach collaborates closely with the players to impart tactical knowledge and facilitate effective communication on the court.<br><br>
+In the National School Games 2024, our AMKBB teams showcased their dedication and skill on the court. While the B Division boys unfortunately did not advance, their participation served as a valuable learning experience, contributing to their growth and development as athletes. Despite the outcome, they displayed resilience and determination, setting a commendable example for sportsmanship.<br><br>
+On the other hand, our C Division boys demonstrated exceptional prowess, winning all three of their current tier matches with flying colors. Their outstanding performance has propelled them to the next round of the competition, marking a significant achievement for the team and the school. This success is a testament to their hard work, discipline, and unwavering commitment to excellence. As they continue their journey in the tournament, we stand behind them, cheering them on every step of the way.
