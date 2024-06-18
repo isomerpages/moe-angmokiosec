@@ -71,34 +71,34 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-74pa"><span style="font-weight:700">Executive Committee for 2023 / 2024</span></th>
+    <th class="tg-74pa"><span style="font-weight:700">Executive Committee for 2024 / 2025</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">Giselle Lim Jiaxin (3/4)</span></td>
+    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan Yun Xin (3/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Sai Zi En (3/1)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Shermane Goh (3/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Wee Mei Yan (3/3)</td>
+    <td class="tg-bapb">Poh Xin Hui (3/1)</td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan Yun Xin (2G)</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Gianne Lim (2H)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Tian Ziwen (2F)</td>
+    <td class="tg-bapb">Charleen Chan (2B)</td>
   </tr>
   <tr>
     <td class="tg-frvs">EXCO Member</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Welfare - Shermane Goh Si Rou (2B)
+    <td class="tg-bapb">Welfare - Tian Ziwen (3/3)
 		</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Logistics - Poh Xin Hui (2F)</td>
+    <td class="tg-wpup">Logistics - Rachel Leong (3A1)</td>
   </tr>
 </tbody>
 </table>
