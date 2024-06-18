@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTxl1fNlb-6CTuoEyE_gyOvgoxubbMZ8lG8NV-sLI82B7Q0XD628ELGnfKx2tZtXnM4HwgwTVG0qrC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ0gz_P21EBF6YTiK7t4wgO1NHuR76JS9Dj7mK0zcHgK3w4FP1UrKbs5mCVoZzzmFwAKXs72f5Ko4Tw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 
@@ -58,7 +58,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Instructor<br></th>
+    <th class="tg-mwif">Instructors<br></th>
   </tr>
 </thead>
 <tbody>
@@ -84,33 +84,33 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2023<br></th>
+    <th class="tg-avji">Executive Committee for 2024/2025<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Yong Jia Da, Jayden</span></td>
+    <td class="tg-bapb"><b><u>B Division Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Lim Guan Shao Rayner</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Hsieh Guang Cheng, Edwin</span></td>
+    <td class="tg-wpup"><b><u>B Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Avern Lim Shi Le</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>B Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tay Hui En Grace</span></td>
+    <td class="tg-bapb"><b><u>B Division Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Sim Kai En Magdalene</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Girls Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Zhang Chengjin</span></td>
+    <td class="tg-wpup"><b><u>B Division Girls Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Natasha Ariana Binte Mohamed Halim</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Ong  Zi Jie</span></td>
+    <td class="tg-bapb"><b><u>C Division Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Chen Yong Shun Winston</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Melker Kaif Shamrie</span></td>
+    <td class="tg-wpup"><b><u>C Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Moore Myint Maung</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Loke Jia Qi</span></td>
+    <td class="tg-bapb"><b><u>C Division Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Ang Yue Er Jovie</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Girls Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Sim Kai En Magdalene</span></td>
+    <td class="tg-wpup"><b><u>C Division Girls Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Chew Jia En</span></td>
   </tr>
 </tbody>
 </table>
