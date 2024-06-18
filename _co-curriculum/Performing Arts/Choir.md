@@ -131,14 +131,12 @@ img {
   <tr>
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)<br></td>
   </tr>
+  
   <tr>
-    <td class="tg-wpup">National level performances at CHJIMES , Victoria Concert Hall &amp; Arts House Performances<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">School Performances for events such as Awards Day, AMKsian Showcase and Chinese New Year</td>
+    <td class="tg-wpup">School Performances for events such as Awards Day, AMKsian Showcase and Chinese New Year</td>
   </tr>
 	 <tr>
-    <td class="tg-wpup">SuperNova (Choir Exchange with other secondary schools)<br></td>
+    <td class="tg-bapb">SuperNova (Choir Exchange with other secondary schools)<br></td>
   </tr>
 </tbody>
 </table>
