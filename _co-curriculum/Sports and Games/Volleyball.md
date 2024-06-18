@@ -128,26 +128,25 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Achievements of the CCA for 2021<br></th>
+    <th class="tg-mwif">Achievements of the CCA <br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">South Zone Volleyball Championships B Girls: 3rd Position<br></td>
+    <td class="tg-bapb">South Zone 'C' Division Volleyball Championships 2023 (Boys): 4th Position<br></td>
   </tr>
-  <tr>
-    <td class="tg-avji">Achievements of the CCA for 2022<br></td>
+   <tr>
+    <td class="tg-wpup">South Zone 'B' Division Volleyball Championships 2022 (Girls): 2nd Position</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">South Zone Volleyball B Division Championships (Girls): 2nd Position</td>
+	<tr>
+    <td class="tg-bapb">South Zone 'B' Division Volleyball Championships 2021 (Girls): 3rd Position<br></td>
   </tr>
 </tbody>
 </table>
 <br>
 
-
-
-Moving out of the covid season and into the endemic phase allowed the students to gradually ease back into regular training sessions and working hard once again on the court. The students were finally able to get the full experience of what our CCA has to offer.<br><br>
-On 31 March 2023, our Volleyball teachers conducted a Team Bonding Day Camp. One segment of the bonding activities was held indoors within school and the other segment was held at Bishan-Ang Mo Kio Park. The outdoor activities required the groups to work as a team to complete an amazing race. Teams were awarded points for completed tasks which required the use of volleyball related skills or their communication skills. For the indoor activities, the teams played games like charades. The camp served as an opportunity for the junior players to get to know the seniors and everyone had lots of fun during the camp.<br><br> 
-On 21 June 2023, Our Volleyball Team had another round of bonding activities. This time our students went on a hike. The activity is designed to give our students opportunities to lead their peers and to encourage team building through shared experiences. For this hike, the students started off at Hort park and walked in 3 big groups towards Henderson waves and ending with the Marang Trail. The Volleyball Team then walked to Vivo City where they had their lunch. Along the way, group leaders were tasked to lead the group members and make sure that everyone was able to follow the pace and were kept well hydrated. Although the students were sports trained, some of them still felt the hike was quite a challenge with all the uphill climbs, but the view was worth it! The students thoroughly enjoyed it. These are just some of the activities that our CCA teachers have prepared for our students.<br><br>
-Although neither team make it to the finals of the ‘B’ Division South Zone tournament 2023, the volleyball team players gained invaluable experience from those matches. The students will continue to challenge themselves and prepare for the ‘C’ Division games later this year.
+Welcome to AMKSS Volleyball – One Court. One Team. One Dream.<br><br>
+AMKSS Volleyballers pride themselves as a group of dedicated and passionate individuals who come together to grow as a team. With collective effort, we continue to bond as one and strive towards our goals – on court, and off the court.<br><br> 
+On the court, we strive to become a spirited group of student athletes who display sportsmanship, teamwork, and resilience. Over the years, AMKSS Volleyball has grown in an environment where everyone’s contribution is valued. Besides training hard to improve our technical skills, we also participate in friendly matches and exchange with other schools and compete in thrilling tournaments like the National School Games. In defeat, we support one another to become stronger. In victory, we celebrate our successes together. Beyond the results, our collective effort and strength shines.<br><br>
+Off the court, we develop trust and build relationships through various bonding activities. This included our recent farewell celebration on 5 April 2024. As part of the celebration, our teachers, coaches, and CCA leaders organised a series of team-building games and a mini volleyball tournament. During the activities, everyone was grouped into mixed groups and got a chance to know more about our other teammates, especially our Secondary One juniors. After the games, we presented awards, handmade tokens of appreciation, and a video montage to honour our graduating cohort in a simple but heartwarming farewell ceremony. As we bid farewell to our seniors, we cherish the opportunities to create shared memories and bonds. More importantly, we strive to continue building on the hard work of our seniors to forge ahead as one AMKSS Volleyball.<br><br>
+Ang Mo Kio, ACE!
