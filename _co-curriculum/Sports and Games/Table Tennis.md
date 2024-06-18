@@ -120,7 +120,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">2020 National Schools South Zone B Division : 5th Position</td>
+    <td class="tg-bapb">2024 National School Games</td>
   </tr>
 </tbody>
 </table>
