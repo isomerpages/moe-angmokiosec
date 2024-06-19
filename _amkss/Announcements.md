@@ -4,18 +4,10 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
-##### **[2024 First Day of School Matters](/amksian-experience/2024-first-day-of-school-matters/)**
+##### **[2024 Semester 2 School Matters](/amksian-experience/2024-semester-2-school-matters/)**
 Dear AMKsians, please click on the link above to access the following documents:
-*  Class Timetable 2024, Semester 1
-*  Classroom Allocation 2024
+*  Class Timetable 2024, Semester 2
 *  HBL Schedule 2024
-*  CCA Schedule 2024
-
-In addition, please take note of the following:
-
-* The reporting time on 2 January 2024 (Tuesday) will be 7.20 am. The attire for Sec 2 to 5 students will be the full school uniform.
-
-* For students progressing to Secondary 3, the class allocation has been communicated to them via their Student iCON accounts.
 
 
 ##### **Collection of School Graduation Certificates 2023 Cohort** 
