@@ -6,7 +6,7 @@ variant: markdown
 ---
 * [Student Calendar 2024](/files/Student_Calendar_2024.pdf)
 
-* [CCA Training Schedule 2024](/files%2F2024%20Timetable%20Matters/CCA_Schedule_2024.pdf)
+* [CCA Training Schedule 2024](/files/CCA_Schedule_2024.pdf)
 * [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
 * [Parent Support Group (PSG)](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/parent-support-group/)
 * [School Achievements](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/alumni/)
