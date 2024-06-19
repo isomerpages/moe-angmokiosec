@@ -2,6 +2,7 @@
 title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 ### School Canteen Advertisement
 
@@ -28,8 +29,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-60xp">Malay Noodle Stall</td>
-    <td class="tg-60xp">29 August 2023</td>
+    <td class="tg-60xp">Malay Noodles Stall</td>
+    <td class="tg-60xp">31 July 2024</td>
     <td class="tg-60xp">Halal</td>
   </tr>  
 </tbody>
