@@ -2,6 +2,7 @@
 title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 ### School Canteen Advertisement
 
@@ -28,8 +29,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-60xp">Malay Noodle Stall</td>
-    <td class="tg-60xp">29 August 2023</td>
+    <td class="tg-60xp">Malay Noodles Stall</td>
+    <td class="tg-60xp">31 July 2024</td>
     <td class="tg-60xp">Halal</td>
   </tr>  
 </tbody>
@@ -42,7 +43,7 @@ description: ""
 •	Photocopy of the NRIC (front and back) <br>
 •	List of proposed menu and pricing for all items <br>
 •	Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
-3.	Submit the completed application form and documents by closing date via email OR to the School’s General Office. <br>
+3.	Submit the completed application form and documents by closing date <b>by 12pm </b>via email OR to the School’s General Office. <br>
 •	Address: 6 Ang Mo Kio Street 22, Singapore 569362<br>
 •	Contact No: 6454 8605<br>
 •	Contact Person: Mr Chee (Operation Manager)/ Mdm Christine (Admin Executive)

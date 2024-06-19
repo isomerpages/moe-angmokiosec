@@ -3,8 +3,9 @@ title: Malay Dance
 permalink: /co-curriculum/performing-arts/malay-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdAs4ijilIvJjXu-UwvtD2NYiKBKoU1_NGsbXrhkdLHYQY44t7Vo1YZ4F5Pg2gAF6v07W8k4-gar_H/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYta6AcUrSD22lpTxV3DbEGksz1NzxpYh3nEOqpNtLWz2rSisNKfjfIO6J7H0Ki5foCGbK4qgybg8C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -25,7 +26,7 @@ third_nav_title: Performing Arts
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (2IC)<br></td>
+    <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (IC)<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">Ms Cheryl Lau</td>
@@ -70,21 +71,21 @@ third_nav_title: Performing Arts
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2023/2024<br></th>
+    <th class="tg-avji">Executive Committee for 2024/2025<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Nur Insyirah Binte Yusoff (3A3)</span></b></td>
+    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Haidah Binte Mohamed Hanafie (3/1)</span></b></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u><b>Rehearsal Mistress</b></u><b><br><span style="font-weight:400;color:#004D2E">Risha Laiyinah Binte Roslan (3A3)</span></b></td>
+    <td class="tg-mwif"><u><b>Rehearsal Mistress</b></u><b><br><span style="font-weight:400;color:#004D2E">Airis Arissa Binte Muhammad Zulkifli (3A2)</span></b></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><u><b>Quarter Mistress (Costumes / Makeup / Props)</b></u><b><br><span style="font-weight:400;color:#004D2E">Nurul Anisah Binte Shamsul Ambri (3A2)</span></b></td>
+    <td class="tg-bapb"><u><b>Quarter Mistress (Costumes / Makeup / Props)</b></u><b><br><span style="font-weight:400;color:#004D2E">Ayra Nadyne Binte Noor Indra Gunawan (3A2)</span></b></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u><b>Publicity In Charge</b></u><b><br><span style="font-weight:400;color:#004D2E">Seri Syariezaty Nur'Aqilah Binte Pazili (3A3)</span></b></td>
+    <td class="tg-mwif"><u><b>Publicity In Charge</b></u><b><br><span style="font-weight:400;color:#004D2E">Hizsyahirah Binte Muhammad Hiszar (3A1)</span></b></td>
   </tr>
   
 </tbody>
@@ -123,7 +124,9 @@ third_nav_title: Performing Arts
 </table>
 <br>
 
-AMKSS Malay Dance Group, also known as Gemilang Sari, is a group of passionate dancers who seek to promote an appreciation of Malay dance and culture. This is a tight- knit CCA that aims to nurture our members into confident and graceful dancers and foster a sense of care and concern for one another. <br><br>
-The dance group performed at many school events such as MTL Fortnight, Hari Raya Celebration and AMKsian Showcase. Last March, the dance group also had the opportunity to learn from dancers in other schools through a Schools Dance Exchange Programme hosted by Boon Lay Secondary School. These platforms enhance dancers’ performance skills and provide dancers with extensive opportunities to showcase their talents and share the joy of dancing. Through hard work and perseverance, the dance group was awarded Distinction in the Singapore Youth Festival Arts Presentation (SYF) this year.<br><br>
-Last year, selected dancers were privileged to participate in Muara Youth Dance Development Programme (MYDDP), an inaugural programme set up in conjunction with celebrating Muara Festival. This is a must-attend festival for Malay dance and music enthusiasts in the region. The selected dancers went through three phases of dance development training programme under the guidance of a professional dance troupe, ERA Dance Theatre Limited, and put up a performance at the Esplanade Outdoor Theater. Through this programme, our dancers fostered camaraderie among student dancers in Singapore and further expand their network as well as create new bonds. <br><br>
-In addition to the above, dancers will be given the opportunity to watch professional dance productions. Through these opportunities, dancers will gain invaluable experiences that will develop them into more skillful dancers who share the same passion and develop a purposeful support group to grow and learn together.
+
+The AMKSS Malay Dance Group, known as Gemilang Sari, is a dedicated group of dancers passionate about promoting Malay dance and culture. This close-knit CCA aims to develop its members into poised and confident performers, fostering a sense of mutual care and support. Guided by the motto ‘Satu Hati, Satu Jiwa’ which means ‘One Heart, One Soul’ in English, the group emphasizes unity and shared passion in their artistic endeavors
+ <br><br>
+The group has performed and participated at various school events, such as NOMAD, MTL Fortnight, Hari Raya Celebrations, Awards Day and the AMKsian Showcase. In March this year, the dancers had the opportunity to collaborate with dancers from Mayflower Secondary School in a production titled ‘The Museum’. This collaboration was a valuable learning experience, allowing the dancers to exchange ideas and techniques, thereby enhancing their performance skills, and fostering creativity through teamwork. These experiences enhance the dancers' skills and provide numerous opportunities to showcase their talents and share their love for dance.<br><br>
+Last year, the dancers had a chance to perform on an international platform of the Muara Festival while this year, the dancers participated in a traditional Malay Dance Competition, Mutiara Tari 2024. These prestigious events provided the dancers with opportunities to showcase their talents beyond the school setting, gaining exposure to a wider audience and receiving valuable feedback from professionals in the field. Participation in these events not only honed their dance skills but also instilled a sense of discipline and resilience. Moreover, these experiences fostered camaraderie among the dancers and allowed them to build connections with peers who share their passion for Malay dance.<br><br>
+In essence, Gemilang Sari is more than a dance group; it is a nurturing environment where members can develop both their artistic talents and interpersonal connections while celebrating the rich heritage of Malay dance. The motto ‘Satu Hati, Satu Jiwa’ encapsulates the spirit of unity and collective passion that defines the group's ethos.
