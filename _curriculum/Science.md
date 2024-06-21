@@ -76,7 +76,7 @@ variant: markdown
     <td class="tg-bapb">Mdm Nurshuaidah Musa</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Yeo Ah Wee</td>
+    <td class="tg-wpup">Mdm Yeo Ah Wee</td>
   </tr>
 </tbody>
 </table>
