@@ -37,48 +37,46 @@ variant: markdown
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Vincent Voo Tech Hong</span><br><span style="font-weight:400;color:#004D2E">(School Staff Developer)</span></td>
   </tr>
+ 
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Ms Gina Lim</span><br><span style="font-weight:400;color:#004D2E">(SH / Science)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Joselyn Luei Sin Yen</span><br><span style="font-weight:400;color:#004D2E">(Assistant Year Head / Upper Sec)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Joselyn Luei Sin Yen</span><br><span style="font-weight:400;color:#004D2E">(Assistant Year Head / Upper Sec)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Miss Tay Siew Peng</span><br><span style="font-weight:400;color:#004D2E">(ST / Chemistry)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Miss Tay Siew Peng</span><br><span style="font-weight:400;color:#004D2E">(ST / Chemistry)</span></td>
+    <td class="tg-bapb">Mr Lee Tai Shen</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Lee Tai Shen</td>
+    <td class="tg-wpup">Mrs Yeo Chai Hoon</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mrs Yeo Chai Hoon</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mr Ronnie Pang</td>
+    <td class="tg-bapb">Mr Ronnie Pang</td>
   </tr>
   
   <tr>
-    <td class="tg-bapb">Mr Chow Yan Bin</td>
+    <td class="tg-wpup">Mr Chow Yan Bin</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Muhammad Haziq Bin Harisfadillah</td>
+    <td class="tg-bapb">Mr Muhammad Haziq Bin Harisfadillah</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms Diana Goh </td>
+    <td class="tg-wpup">Ms Diana Goh </td>
   </tr>
   
   <tr>
-    <td class="tg-wpup">Ms Ferng Yung Ying Audrey</td>
+    <td class="tg-bapb">Ms Ferng Yung Ying Audrey</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Miss Zhang Ruifang</td>
+    <td class="tg-wpup">Miss Zhang Ruifang</td>
   </tr>
   
   
   <tr>
-    <td class="tg-wpup">Mdm Nurshuaidah Musa</td>
+    <td class="tg-bapb">Mdm Nurshuaidah Musa</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Yeo Ah Wee</td>
+    <td class="tg-wpup">Mdm Yeo Ah Wee</td>
   </tr>
 </tbody>
 </table>

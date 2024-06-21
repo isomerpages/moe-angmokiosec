@@ -54,17 +54,15 @@ Every child a resourceful and creative problem solver
   <tr>
     <td class="tg-wpup">Mdm NurMushthafiah</td>
   </tr>
+  
   <tr>
-    <td class="tg-bapb">Mdm Nurul Ain Bte Samad</td>
+    <td class="tg-bapb">Mr Nordin Bin Darwis</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Nordin Bin Darwis</td>
+    <td class="tg-wpup">Mr Muhammad Bin Abd Samat</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Muhammad Bin Abd Samat</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mdm Mok Check Jong</td>
+    <td class="tg-bapb">Mdm Mok Check Jong</td>
   </tr>
 </tbody>
 </table>
