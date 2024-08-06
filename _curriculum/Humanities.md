@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /curriculum/humanities/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -9,7 +10,7 @@ Towards greater social responsibility
 
 #### Staff Details
 
-![Humanities Department](/images/2023%20Department%20photos/humanities%20department%201.jpg)
+![Humanities Department](/images/2024%20Department%20Photos/humanities_department_2.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
