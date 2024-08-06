@@ -10,7 +10,7 @@ Enabling Possibilities through the Use of ICT
 
 #### Staff Details
 
-![ICT department](/images/2023%20Department%20photos/info%20communication%20technology%20department%201.jpg)
+![ICT department](/images/2024%20Department%20Photos/information_and_communication_technology_department_2.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
