@@ -32,7 +32,7 @@ The goals of the secondary mathematics education are:
 
 #### Staff Details
 
-![Mathematics Department](/images/2023%20Department%20photos/mathematics%20department%201.jpg)
+![Mathematics Department](/images/2024%20Department%20Photos/mathematics_department_2.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
