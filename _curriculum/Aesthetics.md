@@ -17,7 +17,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/2023%20Department%20photos/aesthetics%20department%201.jpg" alt="School Uniform" style="width:90%;">  
+<img src="/images/2024%20Department%20Photos/aesthetics_department_2.jpg" alt="School Uniform" style="width:90%;">
   
 
 
