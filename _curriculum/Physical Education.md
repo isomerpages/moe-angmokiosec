@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -17,7 +18,7 @@ Develop and maintain physical fitness through participation in physical activiti
 
 #### Staff Details
 
-![PE Department](/images/2023%20Department%20photos/physical%20education%20department%201.jpg)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

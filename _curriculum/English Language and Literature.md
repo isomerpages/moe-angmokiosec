@@ -2,6 +2,7 @@
 title: English Language and Literature
 permalink: /curriculum/english-language-n-literature/
 description: ""
+variant: markdown
 ---
 #### Vision
 
@@ -9,7 +10,7 @@ To be an ACE (articulate, confident and expressive) user of the English Language
 
 #### Staff Details
 
-![English Language](/images/2023%20Department%20photos/english%20language%20department%201.jpg)
+![English Language](/images/2024%20Department%20Photos/english_language_department_2.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

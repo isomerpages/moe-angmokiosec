@@ -10,8 +10,6 @@ Discipline From Within
 
 #### Staff Details
 
-![Discipline 2023](/images/2023%20Department%20photos/discipline%20committee%201.jpg)
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
