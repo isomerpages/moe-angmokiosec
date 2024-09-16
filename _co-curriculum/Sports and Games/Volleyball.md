@@ -92,7 +92,7 @@ variant: markdown
     <td class="tg-bapb"><b><u>B Division Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Lim Guan Shao Rayner</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Avern Lim Shi Le</span></td>
+    <td class="tg-wpup"><b><u>B Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Avren Lim Shi Le</span></td>
   </tr>
   <tr>
     <td class="tg-bapb"><b><u>B Division Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Sim Kai En Magdalene</span></td>
