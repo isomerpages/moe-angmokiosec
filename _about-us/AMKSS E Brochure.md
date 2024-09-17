@@ -15,4 +15,4 @@ img {
   margin-right: auto;  
 }  
 </style>
-<img src="/images/fsbb%20photo%202023.JPG" alt="AMKSS Brochure" style="width:90%;">  
+<img src="/images/qrcode_2024_AMKSS_Brochure.png" alt="AMKSS Brochure" style="width:50%;">
