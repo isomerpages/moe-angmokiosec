@@ -2,10 +2,11 @@
 title: AMKSS E Brochure
 permalink: /about-us/amkss-e-brochure/
 description: ""
+variant: markdown
 ---
-Please click on the link or scan the QR code for the E- Brochure
+Please click on the link or scan the QR code for the Brochure
 
-<p style="text-align:center;"><a href="https://issuu.com/touche-design/docs/amkss_brochure_2023?fr=sODc2OTY0Nzk2OTg"><font color="#62C183">AMKSS E - Brochure</font></a></p>
+<p style="text-align:center;"><a href="/files/2024_AMKSS_Brochure.pdf"><font color="#62C183">AMKSS Brochure 2024</font></a></p>
 
 <style>  
 img {  
@@ -13,5 +14,5 @@ img {
   margin-left: auto;  
   margin-right: auto;  
 }  
-</style>  
-<img src="/images/qrcode-e-brochure%20-%202023.png" alt="AMKSS E - Brochure" style="width:40%;">
+</style>
+<img src="/images/qrcode_2024_AMKSS_Brochure.png" alt="AMKSS Brochure" style="width:50%;">
