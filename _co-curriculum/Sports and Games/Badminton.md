@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6NbC4cjfludegOL55M2ArVVagQVna2vG4O0RVMFJqCFMxBqz8A8BOiVYyFY9JhLGOXG8aKm2qXuMO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/19wz_pD9B5S9F_6qX5MZ1P2ttdHxCPUDYHCeSPdRqjNM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -172,4 +172,3 @@ In February this year, our Secondary 2 badminton leaders organized a Sec 1 Welco
 In April, after the C Div games, a very special and esteemed alumnus, National Singles Head Coach Kelvin Ho visited AMKSS to give the badminton players a motivational speech. He shared his experiences and was very inspirational. Thank you for being a good role model for our players!<br><br>
 Also in May this year, our Secondary 3 badminton leaders went on a recce hike of the Southern Ridges in preparation for the June Bonding Camp. It was a meaningful and enriching time for the players as they got a chance to explore a beautiful nature trail with breathtaking views of the Singapore’s Southern Waterfront. Through the recce, they also learnt how to do Risk Assessment Management and familiarize themselves with the route of the hike. <br><br>
 As we look ahead to 2025, our hope is for the Badminton club to continue to grow in strength and unity.
-         
