@@ -147,15 +147,15 @@ variant: markdown
     <td class="tg-bapb">South Zone Badminton Competition B Boys (Top 8) in 2024<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">South Zone Badminton Competition C Boys (Top 8) in 2023</td>
+    <td class="tg-wpup">South Zone Badminton Competition C Girls (Top 8) in 2023</td>
   </tr>
 	<tr>
-    <td class="tg-bapb">South Zone Badminton Competition B Girls (Top 8) in 2023<br></td>
+    <td class="tg-bapb">South Zone Badminton Competition C Boys (Top 8) in 2023<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">South Zone Badminton Competition B Girls (2nd) in 2022</td>
+    <td class="tg-wpup">South Zone Badminton Competition B Girls (Top 8) in 2023</td>
   </tr><tr>
-    <td class="tg-bapb">South Zone Badminton Competition B Girls (3rd) in 2021<br></td>
+    <td class="tg-bapb">South Zone Badminton Competition B Girls (2nd) in 2022<br></td>
   </tr>
   
 </tbody>
