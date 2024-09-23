@@ -107,7 +107,8 @@ variant: markdown
   </tr>  
   <tr>
     <td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Alyssa Lim Jia Qi (3A2)</span></td>
-		<td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Bryan Lim En Song (3/3)</span></td>
+		<td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Damien Goh Jin Wei (3A3)
+</span></td>
   </tr>
 	<tr>
     <td class="tg-wpup"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Karina Ling Sing Tee (3/2)<br>Chloe Choo Shi Mun (3/4)</span></td>
