@@ -96,12 +96,14 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Daphne Ngon Yu Wen (4/1)</span></td>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Justine Kyle Manabat Supan (4/1)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Wong Kar Wai Kaylin (4/4)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Bryan Lim En Song (4/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Hebe Tan Yu Xuan (4/1)<br>Eliena Gau Jen Ing (4/2)</span></td>
-    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Tan Hai Yang (4/3)<br>Chew Yue Yan (4/4)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Karina Ling Sing Tee (4/2)<br>Chloe Choo Shi Mun (4/4)
+</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Chen Wei Chen (4/1)<br>Kwok Zung Han (4/4)
+</span></td>
   </tr>  
   <tr>
     <td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Wong Kar Wai Kaylin (3/4)</span></td>
