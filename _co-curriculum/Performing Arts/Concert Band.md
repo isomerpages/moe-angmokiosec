@@ -136,23 +136,23 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Kebun Baru CC National Day Observance Ceremony (2022 &amp; 2023)</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Junior Band Festival @ HCI (10 November 2023)</td>
-	</tr><tr>
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
   </tr>
-	<tr>
+  <tr>
     <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 - Percussion Ensemble (Accomplishment)</td>
+	</tr><tr>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 - Percussion Ensemble (Distinction)</td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 - Flexi (Accomplishment)</td>
 	</tr>
 
 </tbody><tbody>
   <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 - Percussion Ensemble (Distinction)</td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 - Flexi (Accomplishment)</td>
+    <td class="tg-wpup">Limelight 2019 @ Esplanade Concert Hall (23 April 2019)</td>
   </tr>
   <tr>
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
@@ -172,15 +172,7 @@ variant: markdown
   <tr>
     <td class="tg-wpup">Band Fiesta - Performance @ Gardens by the Bay (GBTB) (27 July 2019)</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Lunchtime Concert (30 August 2019)</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Junior Band Festival (9 November 2019)</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">AMKsian Showcase (16 November 2019)</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
