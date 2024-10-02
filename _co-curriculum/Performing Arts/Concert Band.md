@@ -154,13 +154,7 @@ variant: markdown
   <tr>
     <td class="tg-wpup">Limelight 2019 @ Esplanade Concert Hall (23 April 2019)</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Limelight 2019 @ Esplanade Concert Hall (23 April 2019)</td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-bapb">40th Anniversary Celebrations cum Awards Day @ AMKSS (26 April 2019)</td>
   </tr>
   <tr>
