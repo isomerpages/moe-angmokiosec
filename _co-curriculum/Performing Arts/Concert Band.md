@@ -186,23 +186,18 @@ img {
 <img src="/images/tn_Symphonic Band.png" alt="Concert Band" style="width:100%;">
 
 
-The Ang Mo Kio Secondary School Concert Band provides Amksians with opportunities to pursue their interests and passion in music making. Music making is often assumed to be a talent one simply possesses, but it is instead truly about dedication and the willingness to learn. This attitude is something the Band has undoubtedly nurtured in our members.
+The Ang Mo Kio Secondary School Concert Band offers Amksians a platform to explore and develop their musical passions. While many view music making as an innate talent, we believe it is truly about dedication, passion and a willingness to learn—qualities that our Band seeks to cultivate in its members.
+  
+
+This year has been particularly eventful and fulfilling for the Concert Band. Apart from having the privilege of performing at the Esplanade Concert Hall as part of the 'Esplanade Presents Limelight’ series this year, the Concert Band was also invited to take part in this year’s National Day Parade 2024. As part of the National Day Parade this year, a selected group of 30 band members participated in the Military Tattoo, where they trained intensively from May to August, learning to march in formation alongside three other schools as well as the Singapore Armed Forces Band.
 
   
 
-2020 was a relatively tough year due to the COVID-19 pandemic that struck us. Performances were cancelled and the morale of the team was down due to the shift from physical to online practices. However, under the encouragement of our conductors and teachers, we were able to bounce back with optimism and determination to make the best of 2021.
+In addition to these significant events, the band furthermore had opportunities to showcase its talents at our school's Annual Speech Day (Awards Day) and the biennial arts performances, NOMAD. With more concerts on the horizon, we are excited for what’s next to come for our dedicated musicians.
 
   
 
-In the beginning, Band members struggled to adapt to the online eCCA sessions, but the Band seniors took the lead and initiated many interactive and engaging activities that would help juniors to learn effectively and efficiently. The band was able to adapt to the ‘new normal’ through relentless perseverance.
 
-  
-
-When the biennial Singapore Youth Festival 2021 was announced, we were delighted yet apprehensive due to the new rules that were put in place. Nevertheless, the band displayed true team spirit and adaptability to strive for the best.
-
-  
-
-Though the year 2021 was a challenging year, the band persevered and displayed the R3ICH values such as resilience and compassion. Such pertinent values will continue to benefit the band members tremendously for many more years to come.
 
 ![](/images/Band%204.jpeg)
 
