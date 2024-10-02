@@ -7,7 +7,7 @@ variant: markdown
 ---
 <p><a href="https://docs.google.com/spreadsheets/d/1I-6xIS6JD1ctN0a8kYlS_KX-zckLLbC9vOnHlqkWPho/edit#gid=0"><strong>Please click here for the Concert Band Schedule</strong></a></p>
 
-![Symphonic Band](/images/Band%203.jpeg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAnDo8WWEO4dnzYfopWpkgZkzrdnBB0MCWFxIgArvYicADoyCg3ec7MCZGn9PJyP2JxQ-tNubr7gqY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -183,8 +183,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/tn_Symphonic Band.png" alt="Concert Band" style="width:100%;">
-
 
 The Ang Mo Kio Secondary School Concert Band offers Amksians a platform to explore and develop their musical passions. While many view music making as an innate talent, we believe it is truly about dedication, passion and a willingness to learn—qualities that our Band seeks to cultivate in its members.
   
@@ -194,11 +192,3 @@ This year has been particularly eventful and fulfilling for the Concert Band. Ap
   
 
 In addition to these significant events, the band furthermore had opportunities to showcase its talents at our school's Annual Speech Day (Awards Day) and the biennial arts performances, NOMAD. With more concerts on the horizon, we are excited for what’s next to come for our dedicated musicians.
-
-  
-
-
-
-![](/images/Band%204.jpeg)
-
-![](/images/Band%205.jpeg)
