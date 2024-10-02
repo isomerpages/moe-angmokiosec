@@ -128,7 +128,10 @@ variant: markdown
     <th class="tg-74pa"><span style="font-weight:700">Achievements of the CCA</span></th>
   </tr>
 	<tr>
-    <td class="tg-wpup">Limelight 2024 @ Esplanade Concert Hall (3 April 2024)</td>
+    <td class="tg-bapb">National Day Parade 2024 – Parade &amp; Ceremony: Military Tattoo </td>
+  </tr>
+	<tr>
+    <td class="tg-wpup">Limelight 2024 @ Esplanade Concert Hall (2 April 2024)</td>
 	</tr>
 </thead>
 <tbody>
