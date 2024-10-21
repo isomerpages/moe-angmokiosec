@@ -13,7 +13,7 @@ img {
 </style>  
 
 	
-  <img src="/images/amkss 2022 school cover poster.png" alt="e Open House" style="width:90%;">
+  <img src="/images/AMKsian_Showcase_2024_Cover_page.jpg" alt="e Open House" style="width:100%;">
 
 
 <br>
