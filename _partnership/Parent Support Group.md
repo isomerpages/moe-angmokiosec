@@ -21,11 +21,8 @@ variant: markdown
 
 <h4><font color="#ABE9CD">3. Positive Parenting Programme </font></h4>
 
-Triple P Parenting Zoom webinar series. The webinar series will be conducted on Saturdays and in English. Details are as follows:  
-  
-
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 520px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Time</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b>10:00am - 11:30am (Saturdays)</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Dates</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">7 October 2023<br>14 October 2023<br>21 October 2023</td></tr></tbody></table>
+Triple P Parenting Zoom webinar series. The webinar series will be conducted on Saturdays and in English. 
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="visibility:hidden"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Time</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b>10:00am - 11:30am (Saturdays)</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Dates</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">7 October 2023<br>14 October 2023<br>21 October 2023</td></tr></tbody></table>
 
 <h4><font color="#ABE9CD">4. Useful Resources for Parents </font></h4>
 
