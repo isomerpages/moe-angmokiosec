@@ -29,14 +29,22 @@ Triple P Parenting Zoom webinar series. The webinar series will be conducted on 
 (a) MOE Parent Kit<br>
 <a href="https://go.gov.sg/moe-parentkit"><font color="#62C183">https://go.gov.sg/moe-parentkit</font></a>
 
-
-
-
 <p><a href="/files/journeying-through-challenging-times-together.pdf">
 <img src="/images/MOE%20Parent%20Kit.png" style="width:30%">
 </a></p>
 
-
+Details of the upcoming parenting Zoom webinar series conducted in English  on Saturdays are as follows.<br><br>
+<b>
+Seminar 1: Raising Responsible Teenagers <br>
+Seminar 2:  Raising Competent Teenagers <br>
+Seminar 3: Getting Teenagers Connected <br><br>
+Seminar 1 &amp; 2: <br>
+Date: 14 September 2024 <br>
+Time:  10am – 12.30pm <br><br>
+Seminar 3: <br>
+Date: 21 September 2024<br>
+Time: 10am – 12.00pm
+</b>
 
 
 
