@@ -21,35 +21,32 @@ variant: markdown
 
 <h4><font color="#ABE9CD">3. Positive Parenting Programme </font></h4>
 
-Triple P Parenting Zoom webinar series. The webinar series will be conducted on Saturdays and in English. Details are as follows:  
-  
-
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 520px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Time</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b>10:00am - 11:30am (Saturdays)</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Dates</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">7 October 2023<br>14 October 2023<br>21 October 2023</td></tr></tbody></table>
+Triple P Parenting Zoom webinar series. The webinar series will be conducted on Saturdays and in English. 
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="visibility:hidden"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Time</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b>10:00am - 11:30am (Saturdays)</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 150px;">Dates</td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">7 October 2023<br>14 October 2023<br>21 October 2023</td></tr></tbody></table>
 
 <h4><font color="#ABE9CD">4. Useful Resources for Parents </font></h4>
 
 (a) MOE Parent Kit<br>
 <a href="https://go.gov.sg/moe-parentkit"><font color="#62C183">https://go.gov.sg/moe-parentkit</font></a>
 
-
-
-
 <p><a href="/files/journeying-through-challenging-times-together.pdf">
 <img src="/images/MOE%20Parent%20Kit.png" style="width:30%">
 </a></p>
 
+Details of the upcoming parenting Zoom webinar series conducted in English  on Saturdays are as follows.<br><br>
+<b>
+Seminar 1: Raising Responsible Teenagers <br>
+Seminar 2:  Raising Competent Teenagers <br>
+Seminar 3: Getting Teenagers Connected <br><br>
+Seminar 1 &amp; 2: <br>
+Date: 14 September 2024 <br>
+Time:  10am – 12.30pm <br><br>
+Seminar 3: <br>
+Date: 21 September 2024<br>
+Time: 10am – 12.00pm
+</b>
 
 
-
-(b) A PSG Repository – Supporting Mental Well-being<br>
-<a href="https://go.gov.sg/psg-repository"><font color="#62C183">https://go.gov.sg/psg-repository</font></a>
-
-
-
-<p><a href="https://sites.google.com/moe.edu.sg/psg-mental-wellbeing-support/home">
-<img src="/images/A%20PSG%20Repository.png" style="width:30%">
-</a></p>
 
 
 
