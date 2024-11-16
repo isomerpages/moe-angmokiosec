@@ -90,7 +90,7 @@ variant: markdown
     <td class="tg-bapb"><u><b>Wardrobe (Make Up and Props) </b></u><b><br><span style="font-weight:400;color:#004D2E">Yukie Law Yu Qi (3/3)</span></b></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">Lin Xi'en Janelle (3/3)</span></td>
+    <td class="tg-uzvj"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">Lin Xi'en, Janelle (3/3)</span></td>
   </tr>
 	<tr>
     <td class="tg-bapb"><u><b>Publicity I/C </b></u><b><br><span style="font-weight:400;color:#004D2E">Claire Ng Ding Ya (3/3) </span></b></td>
