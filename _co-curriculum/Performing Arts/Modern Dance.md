@@ -69,7 +69,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2023/2024
+    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2024/2025
 			</span></th>
   </tr>
 </thead>
