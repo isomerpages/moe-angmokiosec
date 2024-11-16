@@ -84,7 +84,7 @@ At the school level, external speakers are invited to share on CW issues with st
 .tg .tg-bapb{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:middle}
 .tg .tg-wpup{background-color:#FFF;color:#004D2E;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="visibility:hidden">
 <thead>
   <tr>
     <th class="tg-mwbt"><span style="font-weight:700">Cyber Wellness Team (2022)</span></th>
