@@ -75,10 +75,10 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Lim En (3/4)</span></b></td>
+    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Joy Tan Kaixin (3/1) </span></b></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Tan Yu Qi Jaslyn (3/2)</span></td>
+    <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ng En Xi Chloe (3/3) </span></td>
   </tr>
   <tr>
     <td class="tg-bapb"><u><b>Secretary</b></u><b><br><span style="font-weight:400;color:#004D2E">Rishi Ng (Huang Qijing) (3/2)</span></b></td>
