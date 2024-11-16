@@ -81,13 +81,13 @@ variant: markdown
     <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ng En Xi Chloe (3/3) </span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><u><b>Secretary</b></u><b><br><span style="font-weight:400;color:#004D2E">Rishi Ng (Huang Qijing) (3/2)</span></b></td>
+    <td class="tg-bapb"><u><b>Secretary</b></u><b><br><span style="font-weight:400;color:#004D2E">Gan Xin Yin (3/4)</span></b></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Wardrobe (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Oh An Ya, Megan (3A2)</span></td>
+    <td class="tg-uzvj"><u>Wardrobe (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Tan Yu Xuan (Chen Yuxuan) (3A2) </span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><u><b>Wardrobe (Make Up and Props) </b></u><b><br><span style="font-weight:400;color:#004D2E">Ng Jia Pei Clare (Huang Jiapei) (3A2)</span></b></td>
+    <td class="tg-bapb"><u><b>Wardrobe (Make Up and Props) </b></u><b><br><span style="font-weight:400;color:#004D2E">Yukie Law Yu Qi (3/3)</span></b></td>
   </tr>
   <tr>
     <td class="tg-uzvj"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">Sara Grace Kueh Minn (3A3)</span></td>
