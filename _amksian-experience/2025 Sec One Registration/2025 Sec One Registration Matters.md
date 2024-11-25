@@ -26,28 +26,28 @@ third_nav_title: 2025 Sec One Registration
 </thead>
 <tbody>
   <tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">2.	2025 Email Addresses of Secondary One Form Teachers</span></td>
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:444;background-color:#EEE">2.	2025 Email Addresses of Secondary One Form Teachers</span></td>
   </tr>
 	<tr style="border: 1px solid black">
     <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">3.	Purchase of School Uniforms</span></th>
   </tr>
 	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">4.	Purchase of Textbooks and PE Attire</span></td>
   </tr>
 	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">5.	MOE Financial Assistance Scheme (FAS) Matters</span></th>
   </tr>
 	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">6.	Higher Mother Tongue Matters</span></td>
   </tr>
 	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">7.	Subjects Taken at More Demanding Level Matters</span></th>
   </tr>
 	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">8.	Medical Appeal Exercise</span></td>
   </tr>
 	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">9.	Concessionary Travel</span></th>
   </tr>
 	<tr style="border: 1px solid black">
     <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
