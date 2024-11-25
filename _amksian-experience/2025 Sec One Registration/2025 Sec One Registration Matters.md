@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 2025 Sec One Registration
 ---
-<h3>2025 Sec One Registration Matters</h3>
+<h3>2025 Secondary One Registration Matters</h3>
 <p><strong>Please click on the following links for each of the sections:</strong>
 </p>
 <style type="text/css">
