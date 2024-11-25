@@ -8,63 +8,90 @@ third_nav_title: 2025 Sec One Registration
 <h3>2025 Secondary One Registration Matters</h3>
 <p><strong>Please click on the following links for each of the sections:</strong>
 </p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  overflow:hidden;padding:5px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  font-weight:normal;overflow:hidden;padding:5px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-nk7v{background-color:#EEE;color:#444;text-align:left;vertical-align:top}
-.tg .tg-x2e3{background-color:#EEE;color:#444;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="border: 1px solid black">
-<thead>
-  <tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">1. How to Get to AMKSS</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:444;background-color:#EEE">2.	2025 Email Addresses of Secondary One Form Teachers</span></td>
-  </tr>
-	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">3.	Purchase of School Uniforms</span></th>
-  </tr>
-	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">4.	Purchase of Textbooks and PE Attire</span></td>
-  </tr>
-	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">5.	MOE Financial Assistance Scheme (FAS) Matters</span></th>
-  </tr>
-	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">6.	Higher Mother Tongue Matters</span></td>
-  </tr>
-	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">7.	Subjects Taken at More Demanding Level Matters</span></th>
-  </tr>
-	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">8.	Medical Appeal Exercise</span></td>
-  </tr>
-	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">9.	Concessionary Travel</span></th>
-  </tr>
-	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">10.	General Discipline &amp; School Attire Matters</span></td>
-  </tr>
-	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">11.	Information &amp; Communication Technology (ICT) Matters</span></th>
-  </tr>
-	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">12.	Parent Support Group (PSG)</span></td>
-  </tr>
-	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">13.	Contact Information</span></th>
-  </tr>
-	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">14.	Appeal for Admission to Secondary One 2024</span></td>
-  </tr>
-	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">15.	First Week of School Matters (2nd to 5th Jan 2024)</span></th>  
- </tr></tbody>
+<tr>
+<th rowspan="1" colspan="5">
+<p>1. How to Get to AMKSS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p>2. 2025 Email Addresses of Secondary One Form Teachers</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="5">
+<p>3. Purchase of School Uniforms</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p>4. Purchase of Textbooks and PE Attire</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="5">
+<p>5. MOE Financial Assistance Scheme (FAS) Matters</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p>6. Higher Mother Tongue Matters</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="5">
+<p>7. Subjects Taken at More Demanding Level Matters</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p>8. Medical Appeal Exercise</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="5">
+<p>9. Concessionary Travel</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p>10. General Discipline &amp; School Attire Matters</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="5">
+<p>11. Information &amp; Communication Technology (ICT) Matters</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p>12. Parent Support Group (PSG)</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="5">
+<p>13. Contact Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p>14. Appeal for Admission to Secondary One 2024</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="5">
+<p>15. First Week of School Matters (2nd to 5th Jan 2024)</p>
+</th>
+</tr>
+</tbody>
 </table>
+<p></p>
