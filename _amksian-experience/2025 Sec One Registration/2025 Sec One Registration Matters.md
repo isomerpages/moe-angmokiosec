@@ -41,12 +41,12 @@ third_nav_title: 2025 Sec One Registration
 </tbody>
 	<thead>
   <tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/purchase-of-school-uniforms/">5.	MOE Financial Assistance Scheme (FAS) Matters</a></b></p></span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/moe-financial-assistance-scheme-fas-matters/">5.	MOE Financial Assistance Scheme (FAS) Matters</a></b></p></span></th>
   </tr>
 </thead>
 	<tbody>
   <tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/purchase-of-textbooks-and-pe-attire/">6.	Higher Mother Tongue Matters</a></b></p></span></td>
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/higher-mother-tongue-matters/">6.	Higher Mother Tongue Matters</a></b></p></span></td>
   </tr>  
 </tbody>
 	
