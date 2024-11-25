@@ -21,7 +21,7 @@ third_nav_title: 2025 Sec One Registration
 <table class="tg" style="border: 1px solid black">
 <thead>
   <tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">1.	How to Get to AMKSS</span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">1. How to Get to AMKSS</span></th>
   </tr>
 </thead>
 <tbody>
@@ -50,25 +50,21 @@ third_nav_title: 2025 Sec One Registration
     <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">9.	Concessionary Travel</span></th>
   </tr>
 	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">10.	General Discipline &amp; School Attire Matters</span></td>
   </tr>
 	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">11.	Information &amp; Communication Technology (ICT) Matters</span></th>
   </tr>
 	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">12.	Parent Support Group (PSG)</span></td>
   </tr>
 	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">13.	Contact Information</span></th>
   </tr>
 	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">14.	Appeal for Admission to Secondary One 2024</span></td>
   </tr>
 	<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
-  </tr>
-	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
-  </tr>
- </tbody>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">15.	First Week of School Matters (2nd to 5th Jan 2024)</span></th>  
+ </tr></tbody>
 </table>
