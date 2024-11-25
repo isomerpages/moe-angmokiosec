@@ -19,7 +19,7 @@ third_nav_title: 2025 Sec One Registration
 <tbody>
 <tr>
 <th rowspan="1" colspan="5">
-<p>1. How to Get to AMKSS</p>
+<p><b><a href="/amksian-experience/2025%20Sec%20One%20Registration/How%20to%20get%20to%20AMKSS.md><font color=">1. How to Get to AMKSS</a></b></p>
 </th>
 </tr>
 <tr>
