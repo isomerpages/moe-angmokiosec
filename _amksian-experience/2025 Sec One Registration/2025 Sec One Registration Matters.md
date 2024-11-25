@@ -11,9 +11,9 @@ third_nav_title: 2025 Sec One Registration
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:5px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  font-weight:normal;overflow:hidden;padding:5px 5px;word-break:normal;}
 .tg .tg-tlx9{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
 .tg .tg-nk7v{background-color:#EEE;color:#444;text-align:left;vertical-align:top}
 .tg .tg-x2e3{background-color:#EEE;color:#444;text-align:left;vertical-align:middle}
