@@ -8,99 +8,67 @@ third_nav_title: 2025 Sec One Registration
 <h3>2025 Sec One Registration Matters</h3>
 <p><strong>Please click on the following links for each of the sections:</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>How to get to AMKSS</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>2025 Email Addresses of Secondary One Form Teachers</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Purchase of School Uniforms</p>
-</li>
-</ol>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ymba{background-color:#E5E5E5;text-align:center;vertical-align:middle}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-nk7v{background-color:#EEE;color:#444;text-align:left;vertical-align:top}
+.tg .tg-x2e3{background-color:#EEE;color:#444;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="border: 1px solid black">
 <thead>
-  <tr>
-    <th class="tg-74pa"><span style="font-weight:700"><b>Achievements of the CCA</b></span></th>
+  <tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">1.	How to Get to AMKSS</span></th>
   </tr>
 </thead>
 <tbody>
-	<tr>
-    <td class="tg-wpup">2023 World Trauma Day 2023 Design Youth Challenge, Second Place</td>
+  <tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">2.	2025 Email Addresses of Secondary One Form Teachers</span></td>
   </tr>
-	<tr>
-    <td class="tg-bapb">2023 Suzhou International Youth Postcard Drawing, Participation</td>
+	<tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">3.	Purchase of School Uniforms</span></th>
   </tr>
-	<tr>
-    <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
+	<tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
   </tr>
-	<tr>
-    <td class="tg-bapb">2022 Singapore Youth Festival, Artvocacy, Participation</td>
+	<tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
   </tr>
-	<tr>
-    <td class="tg-wpup">2022 Live On Festival, Participation </td>
+	<tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
   </tr>
-	<tr>
-    <td class="tg-bapb">2021 40th UOB Painting of the year, Certificate of Participation </td>
+	<tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
   </tr>
-	<tr>
-    <td class="tg-wpup">2021 SYFgoesOnline!, Participation </td>
+	<tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
   </tr>
-  <tr>
-    <td class="tg-bapb">2020 Singapore Youth Festival (Visual Arts) - Special Provision</td>
+	<tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
   </tr>
-  <tr>
-    <td class="tg-wpup">2019 Singapore Young Illustrator Competition - Editor's Choice</td>
+	<tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
   </tr>
-  <tr>
-    <td class="tg-bapb">2019 Sustainability Art @ Compass One Shopping Mall</td>
+	<tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
   </tr>
-  <tr>
-    <td class="tg-wpup">2018 Uniquely Us Art Exhibition @ Ang Mo Kio Library</td>
+	<tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
   </tr>
-  <tr>
-    <td class="tg-bapb">2018 Draw My Stamp Story Competition- Most Commendable Award</td>
+	<tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
   </tr>
-  <tr>
-    <td class="tg-wpup">2018 Ang Mo Kio Division’s Neighbourliness Design Competition - Certificate of Participation</td>
+	<tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
   </tr>
-  <tr>
-    <td class="tg-bapb">2018 Singapore Youth Festival (Visual Arts)- Certificate of Participation</td>
+	<tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
   </tr>
-</tbody>
+	<tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
+  </tr>
+ </tbody>
 </table>
