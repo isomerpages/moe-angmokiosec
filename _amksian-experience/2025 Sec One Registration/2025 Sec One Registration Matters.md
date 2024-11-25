@@ -21,7 +21,7 @@ third_nav_title: 2025 Sec One Registration
 <table class="tg" style="border: 1px solid black">
 <thead>
   <tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">[1.	How to Get to AMKSS] (https://www.angmokiosec.moe.edu.sg/how-to-get-to-amkss/)</span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">1.	How to Get to AMKSS</span></th>
   </tr>
 </thead>
 <tbody>
