@@ -2,6 +2,7 @@ collections:
   amksian-experience:
     output: true
     order:
+      - How to Get to AMKSS/.keep
       - 2025 Sec One Registration Matters.md
       - Full Subject Based Banding.md
       - Applied Learning Programme.md
