@@ -21,7 +21,7 @@ third_nav_title: 2025 Sec One Registration
 <table class="tg" style="border: 1px solid black">
 <thead>
   <tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">1.	How to Get to AMKSS </span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/how-to-get-to-amkss/><font color=">1. How to Get to AMKSS</a></b></p> </span></th>
   </tr>
 </thead>
 <tbody>
