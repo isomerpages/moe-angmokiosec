@@ -29,8 +29,8 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-60xp">Malay Noodles Stall</td>
-    <td class="tg-60xp">31 July 2024</td>
+    <td class="tg-60xp">Nasi Padang Stall</td>
+    <td class="tg-60xp">13 Dec 2024</td>
     <td class="tg-60xp">Halal</td>
   </tr>  
 </tbody>
