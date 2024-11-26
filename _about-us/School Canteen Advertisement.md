@@ -46,7 +46,7 @@ variant: markdown
 3.	Submit the completed application form and documents by closing date <b>by 12pm </b>via email OR to the School’s General Office. <br>
 •	Address: 6 Ang Mo Kio Street 22, Singapore 569362<br>
 •	Contact No: 6454 8605<br>
-•	Contact Person: Mr Chee (Operation Manager)/ Mdm Christine (Admin Executive)
+•	Contact Person: Mr Liang (Operation Manager)/ Mdm Christine (Admin Executive)
 #### Interest applicants must meet the following criteria:
 •	Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.<br>
 •	Able to provide good service and quality food with prices determined in consultation with the school.<br>
