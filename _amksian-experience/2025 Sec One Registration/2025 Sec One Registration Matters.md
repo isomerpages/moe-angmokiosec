@@ -90,11 +90,5 @@ third_nav_title: 2025 Sec One Registration
 			<tr style="border: 1px solid black">
     <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/subjects-taken-at-more-demanding-level-matters/">15.	First Week of School Matters (2nd to 5th Jan 2024)</a></b></p></span></th>
   </tr>
-</tbody>
-
-	
-
-	
-	
-	
+</tbody>	
 </table>
