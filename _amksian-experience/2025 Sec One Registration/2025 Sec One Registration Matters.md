@@ -85,7 +85,7 @@ third_nav_title: 2025 Sec One Registration
 </thead>
 	<tbody>
   <tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/general-discipline-school-attire-matters//">10.	General Discipline &amp; School Attire Matters
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/general-discipline-school-attire-matters/">10.	General Discipline &amp; School Attire Matters
 </a></b></p></span></td>
   </tr>  
 		 <tr style="border: 1px solid black">
