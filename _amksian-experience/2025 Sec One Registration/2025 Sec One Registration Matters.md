@@ -19,6 +19,18 @@ third_nav_title: 2025 Sec One Registration
 .tg .tg-nk7v{background-color:#EEE;color:#444;text-align:center;vertical-align:top}
 .tg .tg-x2e3{background-color:#FFFDE4;color:#444;text-align:center;vertical-align:middle}
 </style>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+</tbody></table>
 <table class="tg" style="border: 1px solid black">
 	<thead>
   <tr>
@@ -97,15 +109,3 @@ third_nav_title: 2025 Sec One Registration
 </tbody>	
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<tbody>
-</tbody></table>
