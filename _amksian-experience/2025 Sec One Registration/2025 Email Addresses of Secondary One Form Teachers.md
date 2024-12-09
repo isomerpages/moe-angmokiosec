@@ -7,10 +7,6 @@ third_nav_title: 2025 Sec One Registration
 ---
 <h3>2025 Email Addresses of Secondary One Form Teachers</h3>
 
-
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
