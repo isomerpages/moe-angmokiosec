@@ -85,25 +85,25 @@ third_nav_title: 2025 Sec One Registration
 </thead>
 	<tbody>
   <tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/medical-appeal-exercise/">10.	General Discipline &amp; School Attire Matters
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/general-discipline-school-attire-matters//">10.	General Discipline &amp; School Attire Matters
 </a></b></p></span></td>
   </tr>  
 		 <tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/subjects-taken-at-more-demanding-level-matters/">11.	Information &amp; Communication Technology (ICT) Matters</a></b></p></span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/information-communication-technology-ict-matters/">11.	Information &amp; Communication Technology (ICT) Matters</a></b></p></span></th>
   </tr>
 		<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/medical-appeal-exercise/">12.	Parent Support Group (PSG)
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/parent-support-group-psg/">12.	Parent Support Group (PSG)
 </a></b></p></span></td>
   </tr>
 		<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/subjects-taken-at-more-demanding-level-matters/">13.	Contact Information</a></b></p></span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/contact-information/">13.	Contact Information</a></b></p></span></th>
   </tr>
 		<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/medical-appeal-exercise/">14.	Appeal for Admission to Secondary One 2025
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/appeal-for-admission-to-secondary-one-2025/">14.	Appeal for Admission to Secondary One 2025
 </a></b></p></span></td>
   </tr>
 			<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/subjects-taken-at-more-demanding-level-matters/">15.	First Week of School Matters (2nd to 5th Jan 2024)</a></b></p></span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/first-week-of-school-matters-2nd-to-5th-jan-2025/">15.	First Week of School Matters (2nd to 5th Jan 2024)</a></b></p></span></th>
   </tr>
 		
 </tbody>	
