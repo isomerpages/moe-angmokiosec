@@ -21,13 +21,59 @@ third_nav_title: 2025 Sec One Registration
 <table class="tg" style="border: 1px solid black">
 <thead>
   <tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">1.	How to Get to AMKSS</span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/how-to-get-to-amkss/">1. How to Get to AMKSS</a></b></p></span></th>
   </tr>
 </thead>
 <tbody>
   <tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">2.	2025 Email Addresses of Secondary One Form Teachers</span></td>
-  </tr>
-	
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/2025-email-addresses-of-secondary-one-form-teachers/">2.	2025 Email Addresses of Secondary One Form Teachers</a></b></p></span></td>
+  </tr>  
 </tbody>
+	<thead>
+  <tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/purchase-of-school-uniforms/">3.	Purchase of School Uniforms</a></b></p></span></th>
+  </tr>
+</thead>
+	<tbody>
+  <tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/purchase-of-textbooks-and-pe-attire/">4.	Purchase of Textbooks and PE Attire</a></b></p></span></td>
+  </tr>  
+</tbody>
+	<thead>
+  <tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/moe-financial-assistance-scheme-fas-matters/">5.	MOE Financial Assistance Scheme (FAS) Matters</a></b></p></span></th>
+  </tr>
+</thead>
+	<tbody>
+  <tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/higher-mother-tongue-matters/">6.	Higher Mother Tongue Matters</a></b></p></span></td>
+  </tr>  
+</tbody>
+	<thead>
+  <tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/subjects-taken-at-more-demanding-level-matters/">7.	Subjects Taken at More Demanding Level Matters</a></b></p></span></th>
+  </tr>
+</thead>
+	<tbody>
+  <tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/medical-appeal-exercise/">8.	Medical Appeal Exercise</a></b></p></span></td>
+  </tr>  
+</tbody>
+	<thead>
+  <tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/subjects-taken-at-more-demanding-level-matters/">9.	Concessionary Travel</a></b></p></span></th>
+  </tr>
+</thead>
+	<tbody>
+  <tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/medical-appeal-exercise/">10.	General Discipline &amp; School Attire Matters
+</a></b></p></span></td>
+  </tr>  
+</tbody>
+
+	
+
+	
+	
+	
 </table>
