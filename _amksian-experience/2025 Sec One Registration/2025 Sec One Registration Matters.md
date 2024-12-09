@@ -17,7 +17,7 @@ third_nav_title: 2025 Sec One Registration
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
 .tg .tg-nk7v{background-color:#EEE;color:#444;text-align:center;vertical-align:top}
-.tg .tg-x2e3{background-color:#EEE;color:#444;text-align:center;vertical-align:middle}
+.tg .tg-x2e3{background-color:#FFFDE4;color:#444;text-align:center;vertical-align:middle}
 </style>
 <table class="tg" style="border: 1px solid black">
 <thead>
