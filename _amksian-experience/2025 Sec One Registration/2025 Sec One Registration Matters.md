@@ -80,7 +80,7 @@ third_nav_title: 2025 Sec One Registration
 </tbody>
 	<thead>
   <tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/subjects-taken-at-more-demanding-level-matters/">9.	Concessionary Travel</a></b></p></span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/concessionary-travel/">9.	Concessionary Travel</a></b></p></span></th>
   </tr>
 </thead>
 	<tbody>
