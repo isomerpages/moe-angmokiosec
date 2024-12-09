@@ -5,3 +5,29 @@ variant: markdown
 description: ""
 third_nav_title: 2025 Sec One Registration
 ---
+<h3>2025 Secondary One Registration Matters</h3>
+<p><strong>Please click on the following links for each of the sections:</strong>
+</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-nk7v{background-color:#EEE;color:#444;text-align:center;vertical-align:top}
+.tg .tg-x2e3{background-color:#EEE;color:#444;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="border: 1px solid black">
+<thead>
+  <tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">1.	How to Get to AMKSS</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr style="border: 1px solid black">
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">2.	2025 Email Addresses of Secondary One Form Teachers</span></td>
+  </tr>
+	
+</tbody>
+</table>
