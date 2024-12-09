@@ -84,6 +84,9 @@ third_nav_title: 2025 Sec One Registration
     <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/medical-appeal-exercise/">14.	Appeal for Admission to Secondary One 2025
 </a></b></p></span></td>
   </tr>
+			<tr style="border: 1px solid black">
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/subjects-taken-at-more-demanding-level-matters/">15.	First Week of School Matters (2nd to 5th Jan 2024)</a></b></p></span></th>
+  </tr>
 </tbody>
 
 	
