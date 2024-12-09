@@ -20,11 +20,14 @@ third_nav_title: 2025 Sec One Registration
 .tg .tg-x2e3{background-color:#FFFDE4;color:#444;text-align:center;vertical-align:middle}
 </style>
 <table class="tg" style="border: 1px solid black">
-<thead>
-	<tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b>TABLE OF CONTENTS</b></p></span></td>
+	<thead>
+  <tr>
+    <th class="tg-xn89" colspan="3"><span style="color:#FBFFFA;background-color:#22A114">TABLE OF CONTENTS</span></th>
+   
   </tr>
-  <tr style="border: 1px solid black">
+</thead>
+<thead>
+	  <tr style="border: 1px solid black">
     <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/how-to-get-to-amkss/">1. How to Get to AMKSS</a></b></p></span></th>
   </tr>
 </thead>
@@ -92,3 +95,22 @@ third_nav_title: 2025 Sec One Registration
   </tr>
 </tbody>	
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xn89{background-color:#22A114;color:#FBFFFA;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xn89" colspan="3"><span style="color:#FBFFFA;background-color:#22A114">Date/Time</span></th>
+   
+  </tr>
+</thead>
+<tbody>
+</tbody></table>
