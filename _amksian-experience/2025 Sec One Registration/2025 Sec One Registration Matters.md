@@ -106,11 +106,5 @@ third_nav_title: 2025 Sec One Registration
 .tg .tg-s6uv{background-color:#FBFFFA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-xn89" colspan="3"><span style="color:#FBFFFA;background-color:#22A114">Date/Time</span></th>
-   
-  </tr>
-</thead>
 <tbody>
 </tbody></table>
