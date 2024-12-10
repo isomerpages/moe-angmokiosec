@@ -45,7 +45,7 @@ third_nav_title: 2025 Sec One Registration
 </thead>
 <tbody>
   <tr style="border: 1px solid black">
-    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/2025-email-addresses-of-secondary-one-form-teachers/">2.	2025 Email Addresses of Secondary One Form Teachers</a></b></p></span></td>
+    <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/email-addresses-of-2025-secondary-one-form-teachers/">2.	Email Addresses of 2025 Secondary One Form Teachers</a></b></p></span></td>
   </tr>  
 </tbody>
 	<thead>
