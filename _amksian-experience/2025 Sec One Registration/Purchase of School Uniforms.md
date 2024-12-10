@@ -34,14 +34,14 @@ Mode of Payment: Online purchase via credit card and Paynow
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-xn89" colspan="3"><span style="color:#FBFFFA;background-color:#22A114">Date/Time</span></th>
-    <th class="tg-xn89" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">Class</span></th>
+    <th class="tg-xn89" colspan="3"><span style="color:#FBFFFA;background-color:#22A114">Date</span></th>
+    <th class="tg-xn89" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">Operating Hours</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">26</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Tue)/0830-1100</span><br></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/1</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">19</span>th <span style="color:#222;background-color:#FBFFFA">and 20th Dec 2024</span><br></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">0900 - 1500 hours</span></td>
   </tr>
   <tr>
     <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">26</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Tue)/1100-1300</span></td>
