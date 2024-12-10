@@ -19,7 +19,7 @@ The 2024 e-FAS Link is also provided below.
 [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
 Attached is the MOE FAS Application Form<br>
-<a href="/files%2F2024%20Sec%201%20Registration/MOE_FAS_Application_Form.pdf"><b><font color="#62C183">MOE FAS Application Form</font></b></a>
+<a href="/files%2F2025%20Sec%20one%20Reg/MOE_FAS_Application_Form_2025.pdf"><b><font color="#62C183">MOE FAS Application Form</font></b></a>
 
 
  Parents  / guardians who want to know more about MOE FAS can also visit the following website at [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
