@@ -38,42 +38,22 @@ Mode of Payment: Online purchase via PayNow, credit card/debit card
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">26</span>th<span style="color:#222;background-color:#FBFFFA"> Dec (Tue)/0830-1100</span><br></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/1</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">19</span> <span style="color:#222;background-color:#FBFFFA">and 20 December 2024</span><br></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">0900 - 1500 hours</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">26</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Tue)/1100-1300</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/2</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">23,</span> <span style="color:#222;background-color:#FBFFFA">26 and 27 December 2024</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">0900 - 1500 hours</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">26</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Tue)/1400-1600</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/3</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">30</span> <span style="color:#222;background-color:#FBFFFA">December 2024</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">0900 - 1500 hours</span></td>
   </tr>
   <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">27</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Wed)/0830-1100</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/4</span></td>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">24</span> <span style="color:#222;background-color:#FBFFFA">December 2024</span></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">0900 - 1200 hours</span></td>
   </tr>
-  <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">27</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Wed)/1100-1300</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/5</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">27</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Wed)/1400-1600</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/6</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">28</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Thu)/0830-1100</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/7</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">28</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Thu)/ 1100-1300</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">1/8</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">29</span>th <span style="color:#222;background-color:#FBFFFA">Dec (Fri)/ 0830-1600</span></td>
-    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">All Classes   </span></td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 
 <u>Walk-in Purchase for&nbsp;Textbooks and PE Attire in School</u>:
