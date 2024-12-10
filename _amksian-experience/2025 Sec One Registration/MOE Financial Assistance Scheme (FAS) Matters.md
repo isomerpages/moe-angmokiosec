@@ -12,8 +12,8 @@ Please approach our colleagues stationed at Classroom D1-04 before you purchase 
   
 
 **<u>For new FAS applicants:</u>** <br>
-Please refer to our school website for a copy of the FAS application form and bring the documents stated in the&nbsp;application form to&nbsp;the school on 21 December (Thursday) 2023 from 0830 – 1630. For more information, please refer to the MOE FAS Pamphlets.<br>
-<a href="/files/files%2F2025%20Sec%20one%20Reg/2025_MOE_FAS_pamphlet__EL_.pdf"><b><font color="#62C183">MOE FAS Pamphlet EL</font></b></a><br><a href="/files%2F2025%20Sec%20one%20Reg/2025_MOE_FAS_pamphlet__CL_.pdf"><b><font color="#62C183">MOE FAS Pamphlet CL</font></b></a><br><a href="/files%2F2025%20Sec%20one%20Reg/2025_MOE_FAS_pamphlet__ML_.pdf"><b><font color="#62C183">MOE FAS Pamphlet ML</font></b></a><br><a href="/files%2F2025%20Sec%20one%20Reg/2025_MOE_FAS_pamphlet__TL_.pdf"><b><font color="#62C183">MOE FAS Pamphlet TL</font></b></a>
+Please refer to our school website for a copy of the FAS application form and bring the documents stated in the&nbsp;application form to&nbsp;the school on 21 December (Thursday) 2023 from 0830 – 1630. For more information, please refer to the MOE FAS Pamphlets.<br><b>
+<a href="/files%2F2025%20Sec%20one%20Reg/2025_MOE_FAS_pamphlet__EL.pdf"><b><font color="#62C183">MOE FAS Pamphlet EL</font></b></a><br><a href="/files%2F2025%20Sec%20one%20Reg/2025_MOE_FAS_pamphlet__CL.pdf"><b><font color="#62C183">MOE FAS Pamphlet CL</font></b></a><br><a href="/files%2F2025%20Sec%20one%20Reg/2025_MOE_FAS_pamphlet__ML.pdf"><b><font color="#62C183">MOE FAS Pamphlet ML</font></b></a><br><a href="/files%2F2025%20Sec%20one%20Reg/2025_MOE_FAS_pamphlet__TL.pdf"><b><font color="#62C183">MOE FAS Pamphlet TL</font></b></a>
 
 The 2025 e-FAS Link is also provided below.
 [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
@@ -22,4 +22,4 @@ Attached is the MOE FAS Application Form<br><b>
 <a href="/files%2F2025%20Sec%20one%20Reg/MOE_FAS_Application_Form_2025.pdf"><font color="#62C183">MOE FAS Application Form</font></a></b>
 
 
- Parents  / guardians who want to know more about MOE FAS can also visit the following website at [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
+ Parents  / guardians who want to know more about MOE FAS can also visit the following website at [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)</b>
