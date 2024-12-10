@@ -18,7 +18,7 @@ Mode of Payment: Online purchase via PayNow, credit card/debit card
 
   
 
-<u>Self-collection of Textbooks and PE Attire (for those who purchase online):</u>
+<u>Walk-in Purchase of Textbooks and PE Attire is also available in School on the following dates:</u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -32,8 +32,8 @@ Mode of Payment: Online purchase via PayNow, credit card/debit card
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-xn89" colspan="3"><span style="color:#FBFFFA;background-color:#22A114">Date/Time</span></th>
-    <th class="tg-xn89" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">Class</span></th>
+    <th class="tg-xn89" colspan="3"><span style="color:#FBFFFA;background-color:#22A114">Date</span></th>
+    <th class="tg-xn89" colspan="2"><span style="color:#FBFFFA;background-color:#22A114">Operating Hours</span></th>
   </tr>
 </thead>
 <tbody>
