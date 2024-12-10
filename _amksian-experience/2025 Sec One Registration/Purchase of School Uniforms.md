@@ -6,7 +6,7 @@ description: ""
 third_nav_title: 2025 Sec One Registration
 ---
 #### Purchase of School Uniforms
-Students are strongly encouraged to purchase their school uniforms online and self-collect in school on the dates and timings stated below.
+Students are strongly encouraged to purchase their school uniforms online.
 
   
 
@@ -18,10 +18,10 @@ Mode of Payment: Online purchase via credit card and Paynow
 
   
 
-<u>Self-collection of School Uniforms (for those who purchase online): </u>
+<u>Walk-in Purchase of School Uniforms is also available in school on the following dates: </u>
 
 
-(**Note: Students should be accompanied by at most <u>1 parent/guardian</u> at the sales area.**)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
