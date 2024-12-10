@@ -146,7 +146,7 @@ Mode of Payment: Payment by Cash, PayNow
 
 Attached is the Secondary One Booklist.  
 
-**[Booklist for Secondary One](/files%2F2024%20Sec%201%20Registration/Ang_Mo_Kio_Secondary_School_Booklist_2024.pdf)**
+**[Booklist for Secondary One](/files%2F2025%20Sec%20one%20Reg/AMKSS_Secondary_One_Booklist_2025.pdf)**
   
 
 **<em><u>Note: Financial Assistance Scheme (FAS) students are required to come to school to purchase the school uniforms, textbooks and PE attire.</u></em>**
