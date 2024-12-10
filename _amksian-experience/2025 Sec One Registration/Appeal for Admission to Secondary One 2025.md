@@ -16,6 +16,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/2024_S1_Appeal.png" style="width:65%;">  
+<img src="/images/2025_Sec_1_Appeal.png" style="width:65%;">  
    
 <br>
