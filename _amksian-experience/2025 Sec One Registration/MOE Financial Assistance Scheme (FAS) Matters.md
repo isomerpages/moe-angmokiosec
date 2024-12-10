@@ -18,8 +18,7 @@ Please refer to our school website for a copy of the FAS application form and br
 The 2025 e-FAS Link is also provided below.
 [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
-Attached is the MOE FAS Application Form<br><b>
-<font color="#62C183">MOE FAS Application Form</font></b>
+Attached is the MOE FAS Application Form<br><b><a color="#62C183" href="/files%2F2025%20Sec%20one%20Reg/MOE_FAS_Application_Form_2025.pdf">MOE FAS Application Form</a></b>
 
 
 
