@@ -10,7 +10,7 @@ All Secondary One students will undergo an orientation programme to help them tr
 
 As part of the orientation programme, students will be receiving a Secondary One Orientation Camp T-shirt, which will be paid for via the student’s Edusave. We would also like to extend our invitation to parents/guardians to join us on Friday, 10 January 2025 for an engagement session and to celebrate this important milestone for your child/ward.
 
-We seek your cooperation to complete this form <a href="https://go.gov.sg/amkss2025s1oc">AMKSS 2025 S1OC FORM</a> by <b>26 December 2024 (Thu), 5PM</b> to allow us to make the necessary arrangements in a timely manner.
+We seek your cooperation to complete this form <a href="https://go.gov.sg/amkss2025s1oc"><font>color:#FFFDE$ </font>AMKSS 2025 S1OC FORM</a> by <b>26 December 2024 (Thu), 5PM</b> to allow us to make the necessary arrangements in a timely manner.
 
 
 
