@@ -106,7 +106,7 @@ third_nav_title: 2025 Sec One Registration
 </a></b></p></span></td>
   </tr>
 		<tr style="border: 1px solid black">
-    <th class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/contact-information/">16.	Introduction to AMKSS</a></b></p></span></th>
+    <th class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/introduction-to-amkss/">16.	Introduction to AMKSS</a></b></p></span></th>
 </tr>
 			<tr style="border: 1px solid black">
     <td class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/appeal-for-admission-to-secondary-one-2025/">17.	Appeal for Admission to Secondary One 2025
