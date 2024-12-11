@@ -96,7 +96,7 @@ third_nav_title: 2025 Sec One Registration
 </a></b></p></span></td>
   </tr>
 		<tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/secondary-one-orientation-programme-2nd-to-10th-jan-2025/">13.	First Week of School Matters (2nd to 5th Jan 2024)</a></b></p></span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/secondary-one-orientation-programme-2nd-to-10th-jan-2025/">13.	Secondary One Orientation Programme (2nd to 10th Jan 2025)</a></b></p></span></th>
   </tr>
 		<tr style="border: 1px solid black">
     <th class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/contact-information/">14.	Contact Information</a></b></p></span></th>
