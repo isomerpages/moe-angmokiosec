@@ -54,8 +54,8 @@ We seek your cooperation to complete this form (https://go.gov.sg/amkss2025s1oc)
   </tr>
   <tr>
     <td class="tg-ats7">7th to 9th Jan <br>(Tue to Thu)<span style="color:#222;background-color:#FFF"> </span></td>
-		<td class="tg-ioui"><span style="font-weight:400;color:#004D2E"><b>Report at 7.20am </b> </span><br><span style="font-weight:400;color:#004D2E"></span><br><span style="text-decoration:underline">Recess</span><br><span style="color:#222">9.00am - 9.30am</span><br><br><span style="text-decoration:underline">Lunch</span><br><span style="color:#222">12.30pm - 2pm</span><br><br><span style="text-decoration:underline">Dinner</span><br><span style="color:#222">4.00pm-5.30pm</span></td>
-    <td class="tg-ats7" colspan="3">❑ Please report to school in PE attire (i.e. PE T-shirt &amp; PE shorts) by 7.20am.<br>❑ For students who have yet to purchase the AMKSS PE attire, you may wear your primary school PE attire.<br>❑ Students will be required to change into their S1OC T-shirt later in the day for the milestone celebration.<br>Students are only required to bring writing materials, student handbook and a story book.There is no need to bring school textbooks.<br>❑ Students will be preparing for the milestone celebration as part of the Orientation Programme.<br>❑ Parents are also invited to attend the milestone celebration,as well as talks by key school personnel.<br> ❑ Dinner will be provided.     </td>
+		<td class="tg-ioui"><span style="font-weight:400;color:#004D2E"><b>Report at 7.20am </b> </span><br><span style="font-weight:400;color:#004D2E"></span><span style="text-decoration:underline">Recess</span><br><span style="color:#222">9.00am - 9.30am</span></td>
+    <td class="tg-ats7" colspan="3">❑ Lessons as per normal. Please bring the books required for the lessons stated in the timetable.<br>❑ Please report to school in Half School Uniform (i.e. PE T-Shirt + AMKSS Shorts/Skirt) by 7.20am. You may also report in full school uniform if there is no PE / IAP lessons for that day.     </td>
          
   </tr>
 </tbody>
