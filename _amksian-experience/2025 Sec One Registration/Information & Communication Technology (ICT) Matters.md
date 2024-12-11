@@ -12,7 +12,7 @@ All types of electronic game consoles (e.g. Nintendo; Play Station Portable; DS 
 
 Personal audio players, handphones and electronic items are not encouraged in school.&nbsp; Students must take personal responsibility for their own electronic items.
 
-However, the school understands the importance of the handphones in this day and age, and will allow students to bring their handphones to school, but their usage is restricted to certain locations in the school e.g. the canteen and school foyer. Handphones are not allowed in the classrooms and special rooms where lessons are conducted as they will cause distractions and disruptions to the flow of the lessons.
+However, the school understands the importance of the handphones in this day and age, and will allow students to bring their handphones to school, but their usage is restricted to the school foyer only, for purposes of contacting their parents / guardians. Handphones are not allowed in the classrooms and special rooms where lessons are conducted as they will cause distractions and disruptions to the flow of the lessons.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
