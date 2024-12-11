@@ -10,7 +10,7 @@ All Secondary One students will undergo an orientation programme to help them tr
 
 As part of the orientation programme, students will be receiving a Secondary One Orientation Camp T-shirt, which will be paid for via the student’s Edusave. We would also like to extend our invitation to parents/guardians to join us on Friday, 10 January 2025 for an engagement session and to celebrate this important milestone for your child/ward.
 
-We seek your cooperation to complete this form (https://go.gov.sg/amkss2025s1oc) by 26 December 2024 (Thu), 5PM to allow us to make the necessary arrangements in a timely manner.
+We seek your cooperation to complete this form (https://go.gov.sg/amkss2025s1oc) by <b>26 December 2024 (Thu), 5PM</b> to allow us to make the necessary arrangements in a timely manner.
 
 
 
@@ -38,8 +38,8 @@ We seek your cooperation to complete this form (https://go.gov.sg/amkss2025s1oc)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b1ai">2nd Jan (Tue)<span style="color:#222;background-color:#FFFDE4"> </span></td>
-    <td class="tg-h8xx"><span style="font-weight:400;color:#004D2E">7.20am - </span><br><span style="font-weight:400;color:#004D2E">1.30pm</span><br><br><span style="text-decoration:underline">Recess</span><br>9.30 - 10am <br></td>
+    <td class="tg-b1ai">2nd Jan (Thu)<span style="color:#222;background-color:#FFFDE4"> </span></td>
+    <td class="tg-h8xx"><span style="font-weight:400;color:#004D2E">7.20am - </span><br><span style="font-weight:400;color:#004D2E">1.30pm</span><br><br><span style="text-decoration:underline">Recess</span><br>9.00am - 9.30am <br></td>
     <td class="tg-fpqu" colspan="3"><span style="color:#222;background-color:#FFFDE4">     </span><br>Please report to school in Half School Uniform (i.e. PE T-Shirt + AMKSS Shorts/Skirt) by 7.20am. <br>For students who have yet to purchase the AMKSS PE T-shirt/uniform, you may wear your primary school attire.<br>Students are only required to bring writing materials, student handbook and a story book.There is no need to bring school textbooks on this day.<br>Students will attend briefings and student bonding activities as part of the Orientation programme.</td>
   </tr>
   <tr>
