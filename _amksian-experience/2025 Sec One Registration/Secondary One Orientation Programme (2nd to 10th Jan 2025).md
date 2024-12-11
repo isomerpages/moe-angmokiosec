@@ -45,7 +45,7 @@ We seek your cooperation to complete this form (https://go.gov.sg/amkss2025s1oc)
   <tr>
     <td class="tg-ats7">3rd Jan (Fri)<span style="color:#222;background-color:#FFF"> </span></td>
     <td class="tg-ioui"><span style="font-weight:400;color:#004D2E">7.20am - </span><br><span style="font-weight:400;color:#004D2E">12.30pm</span><br><br><span style="text-decoration:underline">Recess</span><br>9.00am - 9.30am  </td>
-    <td class="tg-ats7" colspan="3">Please report to school in PE attire (i.e. PE T-shirt &amp; PE shorts) by 7.20am.<br>For students who have yet to purchase the AMKSS PE attire, you may wear your primary school PE attire.<br>Students are only required to bring writing materials, student handbook and a story book.There is no need to bring school textbooks on this day.<br>Students will attend briefings and student bonding activities as part of the Orientation programme.    </td>
+    <td class="tg-ats7" colspan="3">Please report to school in PE attire (i.e. PE T-shirt &amp; PE shorts) by 7.20am.<br>For students who have yet to purchase the AMKSS PE attire, you may wear your primary school PE attire.<br>Students are only required to bring writing materials, student handbook and a story book.There is no need to bring school textbooks on this day.<br>❑	Students will be introduced to the different CCA groups as part of the Orientation programme.   </td>
   </tr>
   <tr>
     <td class="tg-b1ai">4th Jan (Thu)<span style="color:#222;background-color:#FFFDE4"> </span></td>
