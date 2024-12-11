@@ -102,7 +102,7 @@ third_nav_title: 2025 Sec One Registration
     <th class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="font-weight:normal"><p><b><a href="/contact-information/">14.	Contact Information</a></b></p></span></th>
   </tr>
 		<tr style="border: 1px solid black">
-    <td class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/appeal-for-admission-to-secondary-one-2025/">15.	Secondary One Orientation 2025 Information Kit
+    <td class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE"><p><b><a href="/secondary-one-orientation-2025-information-kit/">15.	Secondary One Orientation 2025 Information Kit
 </a></b></p></span></td>
   </tr>
 		<tr style="border: 1px solid black">
