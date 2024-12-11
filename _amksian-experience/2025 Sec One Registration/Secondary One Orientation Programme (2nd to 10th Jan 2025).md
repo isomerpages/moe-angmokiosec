@@ -5,7 +5,15 @@ variant: markdown
 description: ""
 third_nav_title: 2025 Sec One Registration
 ---
-#### First Week of School Matters (2nd to 5th Jan 2025)
+#### Secondary One Orientation Programme (2nd to 10th January 2025)
+All Secondary One students will undergo an orientation programme to help them transit into secondary school life and familiarise themselves with our school. The orientation programme will be held over four days on 2, 3, 6 and 10 January 2025. Students will be having timetabled lessons on 7, 8 and 9 January 2025. The schedule of the orientation programme can be found below.
+
+As part of the orientation programme, students will be receiving a Secondary One Orientation Camp T-shirt, which will be paid for via the student’s Edusave. We would also like to extend our invitation to parents/guardians to join us on Friday, 10 January 2025 for an engagement session and to celebrate this important milestone for your child/ward.
+
+We seek your cooperation to complete this form (https://go.gov.sg/amkss2025s1oc) by 26 December 2024 (Thu), 5PM to allow us to make the necessary arrangements in a timely manner.
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
