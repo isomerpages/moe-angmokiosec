@@ -60,7 +60,7 @@ We seek your cooperation to complete this form (https://go.gov.sg/amkss2025s1oc)
 	<tr>
     <td class="tg-b1ai">10th Jan (Fri)<span style="color:#222;background-color:#FFFDE4"> </span></td>
     <td class="tg-h8xx"><span style="font-weight:400;color:#004D2E">7.20am - </span><br><span style="font-weight:400;color:#004D2E">8.00pm</span><br><br><span style="text-decoration:underline">Recess</span><br>9.00am - 9.30am <br><br><span style="text-decoration:underline">Lunch</span><br>12.30pm - 2.00pm<br><br><span style="text-decoration:underline">Dinner</span><br>4.00pm - 5.30pm</td>		
-    <td class="tg-b1ai" colspan="3">❑	Please report to school in PE attire (i.e. PE T-shirt &amp; PE shorts) by 7.20am.<br>❑ For students who have yet to purchase the AMKSS PE attire, you may wear your primary school PE attire.<br>❑ Students are only required to bring writing materials, student handbook and a story book.There is no need to bring school textbooks on this day.<br>❑ Students will attend briefings and student bonding activities as part of the Orientation programme.     </td>
+    <td class="tg-b1ai" colspan="3">❑	Please report to school in PE attire (i.e. PE T-shirt &amp; PE shorts) by 7.20am.<br>❑	For students who have yet to purchase the AMKSS PE Attire, you may wear your primary school PE attire.<br>❑ Students are only required to bring writing materials, student handbook and a story book.There is no need to bring school textbooks on this day.<br>❑ Students will attend briefings and student bonding activities as part of the Orientation programme.     </td>
   </tr>
 </tbody>
 </table>
