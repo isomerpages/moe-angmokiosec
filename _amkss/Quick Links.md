@@ -4,7 +4,7 @@ permalink: /amkss/quick-links/
 description: ""
 variant: markdown
 ---
-* [2025 Secondary One Registration Exercise](https://cms.isomer.gov.sg/sites/moe-angmokiosec/folders/amksian-experience/subfolders/2025%20Sec%20One%20Registration)
+* [2025 Secondary One Registration Exercise](https://cms.isomer.gov.sg/sites/moe-angmokiosec/folders/amksian-experience/subfolders/2025%20Sec%20One%20Registration/editPage/2025%20Sec%20One%20Registration%20Matters.md)
 *  [Student Calendar 2024](/files/Student_Calendar_2024.pdf)
 
 * [CCA Training Schedule 2024](/files/CCA_Schedule_2024.pdf)
