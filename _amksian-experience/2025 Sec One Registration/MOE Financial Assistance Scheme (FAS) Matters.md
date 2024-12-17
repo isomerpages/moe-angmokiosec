@@ -12,7 +12,7 @@ Please approach our colleagues stationed at Classroom D1-04 (on 19 December 2024
   
 
 **<u>For new FAS applicants:</u>** <br>
-Please refer to our school website for a copy of the FAS application form and bring the documents stated in the&nbsp;application form to&nbsp;the school on 19 December 2024 from 0830 – 1630. For more information, please refer to the MOE FAS Pamphlets.<br>
+Please refer to our school website for a copy of the FAS application form and bring the documents stated in the&nbsp;application form to&nbsp;the school on 19 December 2024 from 0830 – 1630. Please submit the forms to our colleagues stationed in Classroom D1-04. For more information, please refer to the MOE FAS Pamphlets.<br>
 <a href="/files/2025_MOE_FAS_pamphlet__EL_.pdf"><b><font color="#62C183">MOE FAS Pamphlet EL</font></b></a><br><a href="/files/2025_MOE_FAS_pamphlet__CL_.pdf"><b><font color="#62C183">MOE FAS Pamphlet CL</font></b></a><br><a href="/files/2025_MOE_FAS_pamphlet__ML_.pdf"><b><font color="#62C183">MOE FAS Pamphlet ML</font></b></a><br><a href="/files/2025_MOE_FAS_pamphlet__TL_.pdf"><b><font color="#62C183">MOE FAS Pamphlet TL</font></b></a>
 
 The 2025 e-FAS Link is also provided below.<br>
