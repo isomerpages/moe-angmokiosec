@@ -18,7 +18,7 @@ Students in uniform must wear their school badge on the left collar of the shirt
 
   
 
-Students are to wear the school socks and white canvas school shoes.
+Students are to wear the school socks and white canvas shoes.
 
 **Girls**
 
