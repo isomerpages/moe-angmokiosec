@@ -7,7 +7,7 @@ third_nav_title: 2025 Sec One Registration
 ---
 #### MOE Financial Assistance Scheme (FAS) Matters
 **<u>For Students whose FAS applications were approved in Primary Schools:</u>**<br>
-Please approach our colleagues stationed at Classroom D1-04 (19 December 2024) or General Office before you purchase the school uniforms, textbooks and PE Attire.
+Please approach our colleagues stationed at Classroom D1-04 (on 19 December 2024) or General Office before you purchase the school uniforms, textbooks and PE Attire.
 
   
 
