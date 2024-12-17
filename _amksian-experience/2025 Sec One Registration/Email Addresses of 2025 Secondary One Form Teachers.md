@@ -63,9 +63,9 @@ third_nav_title: 2025 Sec One Registration
   </tr>
   <tr>
     <td class="tg-ats7">Sec 1/6<span style="color:#222;background-color:#FFF"> </span></td>
-    <td class="tg-ioui"><span style="font-weight:400;color:#004D2E">Mr Victor Tan <br> Mdm Nur Afiqah </span> </td>
-    <td class="tg-ats7" colspan="3">tan_seng_juay_victor@schools.gov.sg 
-<br>nur_afiqah_mokhtar_kamarudin@schools.gov.sg    </td>
+    <td class="tg-ioui"><span style="font-weight:400;color:#004D2E">Mdm Rosemalina  </span> </td>
+    <td class="tg-ats7" colspan="3">rosemalina_abdul_ghani@schools.gov.sg  
+   </td>
   </tr>
 <tr>
     <td class="tg-b1ai">Sec 1/7<span style="color:#222;background-color:#FFFDE4"> </span></td>
