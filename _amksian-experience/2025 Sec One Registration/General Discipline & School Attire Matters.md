@@ -30,7 +30,7 @@ Students are to wear the school socks and white canvas shoes.
 
 • Tinted Hair or dyed hair is not allowed.
 
-• No jewellery / accessories are allowed except for one pair of matching small ear studs which is to be worn on each ear lobe and a wrist watch.  Ear rings / ear sticks are not allowed.
+• No jewellery / accessories are allowed except for a wrist-watch and one pair of matching small ear studs which is to be worn on each ear lobe. Earrings / ear sticks are not allowed.
 
   
 
