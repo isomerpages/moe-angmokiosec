@@ -54,7 +54,7 @@ As part of the orientation programme, students will be receiving a Secondary One
   <tr>
     <td class="tg-ats7">7th to 9th Jan <br>(Tue to Thu)<span style="color:#222;background-color:#FFF"> </span></td>
 		<td class="tg-ioui"><span style="font-weight:400;color:#004D2E"><b>Report at 7.20am </b> </span><br><span style="font-weight:400;color:#004D2E"></span><span style="text-decoration:underline">Recess</span><br><span style="color:#222">9.00am - 9.30am</span></td>
-    <td class="tg-ats7" colspan="3">❑ Lessons as per normal. Please bring the books required for the lessons stated in the timetable.<br>❑ Please report to school in Half School Uniform (i.e. PE T-Shirt + AMKSS Shorts/Skirt) by 7.20am. You may also report in full school uniform if there is no PE / IAP lessons for that day.     </td>       
+    <td class="tg-ats7" colspan="3">❑ Lessons as per normal. Please bring the books required for the lessons stated in the timetable.<br>❑ Please report to school in Half School Uniform (i.e. PE T-Shirt + AMKSS Shorts/Skirt) by 7.20am. You may also report in full school uniform if there are no PE / IAP lessons for that day.     </td>       
   </tr>
 	<tr>
     <td class="tg-b1ai">10th Jan (Fri)<span style="color:#222;background-color:#FFFDE4"> </span></td>
