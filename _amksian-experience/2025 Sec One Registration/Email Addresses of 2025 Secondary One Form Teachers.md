@@ -13,13 +13,13 @@ third_nav_title: 2025 Sec One Registration
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h8xx{background-color:#FFFDE4;border-color:inherit;color:#004D2E;text-align:left;vertical-align:top}
-.tg .tg-b1ai{background-color:#FFFDE4;border-color:inherit;color:#222;text-align:left;vertical-align:top}
-.tg .tg-nnw7{background-color:#85F2C7;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-fpqu{background-color:#FFFDE4;border-color:inherit;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-h8xx{background-color:#FFFDE4;border-color:inherit;color:#004D2E;text-align:center;vertical-align:top}
+.tg .tg-b1ai{background-color:#FFFDE4;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-nnw7{background-color:#85F2C7;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-fpqu{background-color:#FFFDE4;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-lla3{background-color:#85F2C7;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ioui{background-color:#FFF;border-color:inherit;color:#004D2E;text-align:left;vertical-align:top}
+.tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ioui{background-color:#FFF;border-color:inherit;color:#004D2E;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
