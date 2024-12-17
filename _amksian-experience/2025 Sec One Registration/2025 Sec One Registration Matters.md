@@ -6,7 +6,7 @@ description: ""
 third_nav_title: 2025 Sec One Registration
 ---
 <h3>2025 Secondary One Registration Matters</h3>
-<p><strong>Dear students, <br>
+<p><strong>Dear students <br>
 Welcome to Ang Mo Kio Secondary School!<br>Kindly read the following important information pertaining to Secondary One Registration Exercise. <br>Please click on the following links for each of the sections:</strong>
 </p>
 <style type="text/css">
