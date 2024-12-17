@@ -68,7 +68,7 @@ Mode of Payment: Online purchase via credit card and Paynow
 
 
 Mode of Payment: Payment by Cash, PayNow, Paylah <br>
-Alternatively, for parents who wish to visit the outlet, the address is as follows: <br>
+Alternatively, for students and parents/guardians who wish to visit the physical outlet, the address is as follows: <br>
 <u>Finest Fashion Centre</u> <br>
 Beauty World Centre <br>
 #B1-03 <br>
