@@ -26,7 +26,7 @@ third_nav_title: 2025 Sec One Registration
   <tr>
     <th class="tg-lla3"><span style="font-weight:bold;color:#222;background-color:#85F2C7">Class</span></th>
     <th class="tg-nnw7"><span style="font-weight:bold;color:#222;background-color:#85F2C7">
-			Form Teachers</span></th>
+			Name of Form Teachers</span></th>
     <th class="tg-lla3" colspan="3"><span style="font-weight:bold;color:#222;background-color:#85F2C7">Email Address</span></th>
   </tr>
 </thead>
