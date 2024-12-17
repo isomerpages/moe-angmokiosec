@@ -37,8 +37,12 @@ Mode of Payment: Online purchase via PayNow, credit card/debit card
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">19</span> <span style="color:#222;background-color:#FBFFFA">and 20 December 2024</span><br></td>
+   <tr>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">19</span> <span style="color:#222;background-color:#FBFFFA"> December 2024</span><br></td>
+    <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">0830 - 1600 hours</span></td>
+  </tr>
+	<tr>
+    <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA">20</span> <span style="color:#222;background-color:#FBFFFA"> December 2024</span><br></td>
     <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA">0900 - 1500 hours</span></td>
   </tr>
   <tr>
@@ -57,6 +61,7 @@ Mode of Payment: Online purchase via PayNow, credit card/debit card
     <td class="tg-s6uv" colspan="3"><span style="color:#222;background-color:#FBFFFA"></span> <span style="color:#222;background-color:#FBFFFA"></span></td>
     <td class="tg-s6uv" colspan="2"><span style="color:#222;background-color:#FBFFFA"></span></td>
   </tr>
+
   </tbody>
 </table>
 
