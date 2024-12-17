@@ -74,8 +74,8 @@ third_nav_title: 2025 Sec One Registration
   </tr>
   <tr>
     <td class="tg-ats7">Sec 1/8<span style="color:#222;background-color:#FFF"> </span></td>
-    <td class="tg-ioui"><span style="font-weight:400;color:#004D2E">Mr Victor Tan <br> Mdm Nur Afiqah </span> </td>
-    <td class="tg-ats7" colspan="3">tan_seng_juay_victor@schools.gov.sg 
-<br>nur_afiqah_mokhtar_kamarudin@schools.gov.sg    </td>
+    <td class="tg-ioui"><span style="font-weight:400;color:#004D2E">Mr Muhammad Shufi <br> Miss Tan Chui Ling </span> </td>
+    <td class="tg-ats7" colspan="3">- 
+<br>tan_chui_ling@schools.gov.sg   </td>
   </tr>
 </tbody></table>
