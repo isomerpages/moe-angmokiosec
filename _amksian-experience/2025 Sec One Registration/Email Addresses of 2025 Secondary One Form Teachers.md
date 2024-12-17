@@ -38,8 +38,9 @@ third_nav_title: 2025 Sec One Registration
   </tr>
   <tr>
     <td class="tg-ats7">Sec 1/2<span style="color:#222;background-color:#FFF"> </span></td>
-    <td class="tg-ioui"><span style="font-weight:400;color:#004D2E">Mr Robert Ho Tung <br> Mr Mohd Faizal </span> </td>
-    <td class="tg-ats7" colspan="3">ho_tung_robert@schools.gov.sg<br>mohamed_faizal_mohamed_jai@schools.gov.sg    </td>
+    <td class="tg-ioui"><span style="font-weight:400;color:#004D2E">Mr Victor Tan <br> Mdm Nur Afiqah </span> </td>
+    <td class="tg-ats7" colspan="3">tan_seng_juay_victor@schools.gov.sg 
+<br>nur_afiqah_mokhtar_kamarudin@schools.gov.sg    </td>
   </tr>
 
 </tbody></table>
