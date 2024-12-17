@@ -31,4 +31,4 @@ The use of PLD will support students in the development of digital literacies an
 
 The PLD may be funded partly or fully using Edusave. Where required, funding support may be available for both Singapore and Non-Singapore citizen students.  
 
-The school will engage students and parents regarding the NDLP in Term 1, with details to be provided once finalized.
+The school will engage students and parents regarding the NDLP in Term 1, with details to be provided once finalised.
