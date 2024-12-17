@@ -11,8 +11,8 @@ Eligible students can offer English Language, Mother Tongue Languages, Mathemati
 
 Form Teachers will notify parents / guardians via phone call if their child / ward is eligible to take subjects at more demanding levels  on&nbsp;**<u>19&nbsp;December 2024 (Thursday)</u>.**
 
- We seek the assistance of parents/guardians to let the form teacher know whether their child / ward would like to take up the offer either
+ We seek the assistance of parents/guardians to let the form teacher know whether their child / ward would like to take up the offer either <br>
 (i)
-during the phone call on 19 Dec; or
-(ii)
-when the form teacher calls again on 23 December 2024 (Monday).&nbsp;**<u> 23&nbsp;December 2024 (Monday)</u>.**
+during the phone call on <b><u>19 December 2024 (Thursday)</u></b>; or <br>
+(ii) 
+when the form teacher calls again on<b><u> 23 December 2024 (Monday)</u></b>.
