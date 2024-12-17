@@ -42,7 +42,7 @@ Students are to wear the school socks and white canvas shoes.
 
 • Tinted and dyed hair is not allowed.
 
-• Must be clean shaven. No facial hair (Beards, moustaches or side-burn) is allowed
+• Must be clean shaven. No facial hair (e.g. beards, moustaches or long side-burns) is allowed.
 
 • No ear sticks / jewellery / accessories are allowed except for a wrist watch.
 
