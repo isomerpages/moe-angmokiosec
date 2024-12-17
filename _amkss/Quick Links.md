@@ -4,7 +4,8 @@ permalink: /amkss/quick-links/
 description: ""
 variant: markdown
 ---
-* [Student Calendar 2024](/files/Student_Calendar_2024.pdf)
+* [2025 Secondary One Registration Exercise](https://staging-lite.d2clll877nnill.amplifyapp.com/2025-sec-one-registration-matters/)
+*  [Student Calendar 2024](/files/Student_Calendar_2024.pdf)
 
 * [CCA Training Schedule 2024](/files/CCA_Schedule_2024.pdf)
 * [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
