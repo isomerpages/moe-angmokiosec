@@ -7,7 +7,7 @@ third_nav_title: 2025 Sec One Registration
 ---
 <h3>2025 Secondary One Registration Matters</h3>
 <p><strong>Dear Parents/Guardians and incoming Secondary 1 Students,  <br>
-Welcome to Ang Mo Kio Secondary School (AMKSS)! <br>As you prepare to begin your journey with AMKSS, we have prepared this letter to provide you with key information pertaining to our school and the Secondary 1 Registration Exercise. Please kindly take the time to read through the information.
+Welcome to Ang Mo Kio Secondary School (AMKSS)! <br>As you prepare to begin your journey with AMKSS, we have prepared this <b><a href="/files/Information_on_2025_Secondary_One_Registration_Matters.pdf"><font color="#62C183">letter</font></a></b> to provide you with key information pertaining to our school and the Secondary 1 Registration Exercise. Please kindly take the time to read through the information.
   <br>Please click on the following links for each of the sections:</strong>
 </p>
 <style type="text/css">
