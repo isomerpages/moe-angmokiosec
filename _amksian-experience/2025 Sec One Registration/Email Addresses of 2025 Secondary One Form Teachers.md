@@ -69,8 +69,8 @@ third_nav_title: 2025 Sec One Registration
   </tr>
 <tr>
     <td class="tg-b1ai">Sec 1/7<span style="color:#222;background-color:#FFFDE4"> </span></td>
-    <td class="tg-h8xx"><span style="font-weight:400;color:#004D2E">Mr Wilson Koh<br> Ms Cheryl Lau Yee Ping</span></td>
-    <td class="tg-fpqu" colspan="3"><span style="color:#222;background-color:#FFFDE4">     </span>koh_kian_neng@schools.gov.sg <br>lau_yee_ping_cheryl@schools.gov.sg</td>
+    <td class="tg-h8xx"><span style="font-weight:400;color:#004D2E">Mr Wilson Koh<br> Ms Cheryl Lau </span></td>
+    <td class="tg-fpqu" colspan="3"><span style="color:#222;background-color:#FFFDE4"> </span>koh_kian_neng@schools.gov.sg <br>lau_yee_ping_cheryl@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-ats7">Sec 1/8<span style="color:#222;background-color:#FFF"> </span></td>
