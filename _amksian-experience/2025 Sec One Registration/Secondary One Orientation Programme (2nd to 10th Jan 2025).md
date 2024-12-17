@@ -9,7 +9,7 @@ third_nav_title: 2025 Sec One Registration
 All Secondary One students will undergo an orientation programme to help them transit into secondary school life and familiarise themselves with our school. The orientation programme will be held over four days in the first two weeks of school on 2, 3, 6 and 10 January 2025. Students will be having timetabled lessons on 7, 8 and 9 January 2025. The schedule of the orientation programme can be found below.
 
 As part of the orientation programme, students will be receiving a Secondary One Orientation Camp T-shirt, which will be paid for via the student’s Edusave. We would also like to extend an invitation to parents/guardians to join us on Friday, 10 January 2025 for a Secondary One Orientation Milestone programme. This programme will comprise a series of engagement talks for parents/guardians followed by an orientation campfire celebration with our students and staff. We seek your cooperation to submit your RSVP and complete this form
-<a href="https://go.gov.sg/amkss2025s1oc"><font color="#62C183"><b>AMKSS 2025 S1OC FORM</b></font></a> by <b>26 December 2024 (Thu), 5PM</b> to allow us to make the necessary arrangements in a timely manner.
+<a href="https://go.gov.sg/amkss2025s1oc"><font color="#62C183"><b>AMKSS 2025 S1OC FORM</b></font></a> by <b>26 December 2024 (Thu), 5PM</b> to allow us to make the necessary arrangements for the event.
 
 
 
