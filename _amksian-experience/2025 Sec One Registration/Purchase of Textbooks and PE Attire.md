@@ -77,4 +77,4 @@ Attached is the Secondary One Booklist.
 **[Booklist for Secondary One](/files/AMKSS_Secondary_One_Booklist_2025.pdf)**
   
 
-**<em><u>Note: Financial Assistance Scheme (FAS) students are required to come to school to purchase the school uniforms, textbooks and PE attire.</u></em>**
+**<em><u>Note: Students on the Financial Assistance Scheme (FAS) are required to report to school in person to purchase the school uniforms, textbooks and PE attire.</u></em>**
