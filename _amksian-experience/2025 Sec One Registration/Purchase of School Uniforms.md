@@ -68,13 +68,3 @@ Mode of Payment: Online purchase via credit card and Paynow
 
 
 Mode of Payment: Payment by Cash, PayNow, Paylah <br>
-Alternatively, for students and parents/guardians who wish to visit the physical outlet, the address is as follows: <br>
-<u>Finest Fashion Centre</u> <br>
-Beauty World Centre <br>
-#B1-03 <br>
-144 Upper Bukit Timah Road <br>
-Singapore 588177 <br>
-Contact: 64665697/ 90295135 <br>
-Mon – Sat : 12.00 noon to 7.00 pm <br>
-(Closed on Sunday and Public Holidays.) <br>
-Email:&nbsp;<a href="mailto:finestfashioncentre@gmail.com"><font color="#62C183">finestfashioncentre@gmail.com</font></a> <br>
