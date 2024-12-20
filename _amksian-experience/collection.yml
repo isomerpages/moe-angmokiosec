@@ -2,7 +2,6 @@ collections:
   amksian-experience:
     output: true
     order:
-      - "Our AMK, Our Home : Yearbook 2024.md"
       - 2025 Sec One Registration/.keep
       - 2025 Sec One Registration/2025 Sec One Registration Matters.md
       - 2025 Sec One Registration/How to get to AMKSS.md
@@ -34,6 +33,7 @@ collections:
       - Student Leadership.md
       - Direct School Admission.md
       - AMKsian Showcase 2024.md
+      - "Our AMK, Our Home : Yearbook 2024.md"
       - "Our Journey, Our Aspirations : Yearbook 2022.md"
       - 2024 Semester 2 School Matters.md
       - Sexuality Education.md
