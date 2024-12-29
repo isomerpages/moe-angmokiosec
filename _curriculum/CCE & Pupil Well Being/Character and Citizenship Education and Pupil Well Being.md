@@ -21,7 +21,7 @@ To develop AMKsians to be responsible, resilient and caring citizens with integr
 
 #### Goals
 
-<h5><u>CCE 2021 aims to develop in our students:</u></h5>
+<h5><u>CCE aims to develop in our students:</u></h5>
 
   
 
