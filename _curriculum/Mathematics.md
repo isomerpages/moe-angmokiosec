@@ -60,7 +60,7 @@ The goals of the secondary mathematics education are:
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Deepa Sharav</span><br><span style="font-weight:400;color:#004D2E">(Year Head / Upper Sec)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Muhammad Lewin Sim</span><br><span style="font-weight:400;color:#004D2E">(HOD / Discipline)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Sundram Letchemee</span><br><span style="font-weight:400;color:#004D2E">(HOD / ICT)</span></td>
   </tr>
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Linda Wang Mui Kiang</span><br><span style="font-weight:400;color:#004D2E">(HOD / CCE)</span></td>
@@ -97,14 +97,12 @@ The goals of the secondary mathematics education are:
     <td class="tg-wpup">Mr Tan Wee Hong</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Ng Khiam Siong</td>
+    <td class="tg-bapb">Mr Robert Ho</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Robert Ho</td>
+    <td class="tg-wpup">Mr Ang Yew Weng</td>
   </tr>
-	<tr>
-    <td class="tg-bapb">Mr Ang Yew Weng</td>
-  </tr>
+	
   
 </tbody>
 </table>
