@@ -30,7 +30,7 @@ Enabling Possibilities through the Use of ICT
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Francis Teo</span><br><span style="font-weight:400;color:#004D2E">(HOD / ICT)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Sundram Letchemee</span><br><span style="font-weight:400;color:#004D2E">(HOD / ICT)</span></td>
   </tr>
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Desmond Tong</span><br><span style="font-weight:400;color:#004D2E">(SH / Data Management)</span></td>
@@ -39,10 +39,10 @@ Enabling Possibilities through the Use of ICT
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Elam Pirai</span><br><span style="font-weight:400;color:#004D2E">(ICT Manager)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Chua Kok Wei</span><br><span style="font-weight:400;color:#004D2E">(Desktop Engineer)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Miss Nurlisa Yong Lai Ping</span><br><span style="font-weight:400;color:#004D2E">(Desktop Engineer)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Miss Nurlisa Yong Lai Ping</span><br><span style="font-weight:400;color:#004D2E">(Desktop Engineer)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Wan Syahabudin</span><br><span style="font-weight:400;color:#004D2E">(Desktop Engineer)</span></td>
   </tr>
   
 </tbody>
