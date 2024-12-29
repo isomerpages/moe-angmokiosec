@@ -63,17 +63,15 @@ Every AMKsian is passionate about the learning of the Language and understanding
     <td class="tg-wpup">Ms Siti Radziah Binte Mustafa</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Zulfiqar Bin Sukiman</td>
+    <td class="tg-bapb">Mr Muhammad Azizan</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Muhammad Azizan</td>
+    <td class="tg-wpup">Miss Nur Afiqah</td>
   </tr>
   <tr>
     <td class="tg-bapb">Mr Tan Kim Huat</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mdm Zhang Lixin</td>
-  </tr>
+  
   </tbody>
 </table>
 
