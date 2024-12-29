@@ -59,7 +59,7 @@ Every child a resourceful and creative problem solver
     <td class="tg-bapb">Mr Nordin Bin Darwis</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Muhammad Bin Abd Samat</td>
+    <td class="tg-wpup">Mr Mohamad Redzuan Bin Jamari</td>
   </tr>
   <tr>
     <td class="tg-bapb">Mdm Mok Check Jong</td>
