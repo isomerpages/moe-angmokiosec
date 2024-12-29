@@ -39,17 +39,18 @@ variant: markdown
   </tr>
  
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Joselyn Luei Sin Yen</span><br><span style="font-weight:400;color:#004D2E">(Assistant Year Head / Upper Sec)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Ms Michelle Ong</span><br><span style="font-weight:400;color:#004D2E">(Year Head / Lower Sec)</span></td>
   </tr>
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Miss Tay Siew Peng</span><br><span style="font-weight:400;color:#004D2E">(ST / Chemistry)</span></td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Lee Tai Shen</td>
+ <tr>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Joselyn Luei Sin Yen</span><br><span style="font-weight:400;color:#004D2E">(Assistant Year Head / Upper Sec)</span></td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mrs Yeo Chai Hoon</td>
+	<tr>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Ms Diana Goh</span><br><span style="font-weight:400;color:#004D2E">(SH / CCE)</span></td>
   </tr>
+  
   <tr>
     <td class="tg-bapb">Mr Ronnie Pang</td>
   </tr>
@@ -61,7 +62,7 @@ variant: markdown
     <td class="tg-bapb">Mr Muhammad Haziq Bin Harisfadillah</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Ms Diana Goh </td>
+    <td class="tg-wpup">Mr Lee Tai Shen </td>
   </tr>
   
   <tr>
