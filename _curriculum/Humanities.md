@@ -50,23 +50,18 @@ Towards greater social responsibility
     <td class="tg-wpup">Mr Bryan Yam Yew Chung</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms Nur Adilah Binte Muhamed Abu Baker</td>
+    <td class="tg-bapb">Mr Shashidaren</td>
   </tr>
   <tr>
     <td class="tg-wpup">Miss Ong Lay Hoon</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Shashidaren</td>
+    <td class="tg-bapb">Mr Ian Mui Jun Xian</td>
   </tr>
   <tr>
     <td class="tg-wpup">Mr Sebastian Wang</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Ian Mui Jun Xian</td>
-  </tr>
-	<tr>
-    <td class="tg-wpup">Miss Reeja Rachel Fernandez</td>
-  </tr>
+ 
 </tbody>
 </table>
 
