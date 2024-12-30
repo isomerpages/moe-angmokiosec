@@ -46,10 +46,10 @@ Develop and maintain physical fitness through participation in physical activiti
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Yap Wee Leong Alvin</span><br><span style="font-weight:400;color:#004D2E">(SH / Physical Education &amp; CCA)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Lui Jian Long</td>
+    <td class="tg-bapb">Mr Mohamed Yasin Bin Abdul Latif</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Mohamed Yasin Bin Abdul Latif</td>
+    <td class="tg-wpup"></td>
   </tr>
  
 </tbody>

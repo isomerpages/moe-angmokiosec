@@ -4,10 +4,10 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
-##### **[2024 Semester 2 School Matters](/amksian-experience/2024-semester-2-school-matters/)**
+##### **[2025 Semester 1 School Matters](/amksian-experience/2025-semester-1-school-matters/)**
 Dear AMKsians, please click on the link above to access the following documents:
-*  Class Timetable 2024, Semester 2
-*  HBL Schedule 2024
+*  Class Timetable 2025, Semester 1
+*  Classroom Allocation 2025
 
 
 ##### **Collection of School Graduation Certificates 2023 Cohort** 

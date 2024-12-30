@@ -38,33 +38,31 @@ To be an ACE (articulate, confident and expressive) user of the English Language
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Ms A'bidah Binte Abdul Gafoor</span><br><span style="font-weight:400;color:#004D2E">(LH / English Language)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Francis Teo Boon Hua</span><br><span style="font-weight:400;color:#004D2E">(HOD / ICT)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Elinawaty Hairul</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Elinawaty Hairul</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Miss Tan Chui Ling</span><br><span style="font-weight:400;color:#004D2E"></span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Miss Tan Chui Ling</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Lim Wui Meng</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Lim Wui Meng</td>
+    <td class="tg-wpup">Ms Daphne Chang Wei Shin</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms Daphne Chang Wei Shin</td>
+    <td class="tg-bapb">Mrs Lee Huimin</td>
   </tr>
  
   <tr>
-    <td class="tg-wpup">Mrs Lee Huimin</td>
+    <td class="tg-wpup">Mdm Komathi D/O Tharumar</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Komathi D/O Tharumar</td>
+    <td class="tg-bapb">Miss Tsoi Wai Yee</td>
   </tr>
   <tr>
     <td class="tg-wpup">Ms Chan Pui San</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Miss Reeja Rachel Fernandez</td>
-  </tr>
+ 
   
 </tbody>
 </table>

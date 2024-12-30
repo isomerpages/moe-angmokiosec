@@ -33,36 +33,39 @@ Every child a resourceful and creative problem solver
   <tr>
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Peggy Teng Choy Ling</span><br><span style="font-weight:400;color:#004D2E">(SH / Design &amp; Technology)</span></td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Victor Tan</td>
+	<tr>
+    <td class="tg-wpup"><span style="font-weight:400;color:#004D2E">Mr Muhammad Redzuan</span><br><span style="font-weight:400;color:#004D2E">(HOD / Discipline)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Ho Tung Robert</td>
+    <td class="tg-bapb">Mr Victor Tan</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Wilson Koh Kian Neng</td>
+    <td class="tg-wpup">Mr Ho Tung Robert</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Toh Boon Cheok</td>
+    <td class="tg-bapb">Mr Wilson Koh Kian Neng</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Ms Goh Kai Li Callie</td>
+    <td class="tg-wpup">Mr Toh Boon Cheok</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Rosemalina Abdul Ghani</td>
+    <td class="tg-bapb">Ms Goh Kai Li Callie</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mdm NurMushthafiah</td>
+    <td class="tg-wpup">Mdm Rosemalina Abdul Ghani</td>
+  </tr>
+  <tr>
+    <td class="tg-bapb">Mdm NurMushthafiah</td>
   </tr>
   
   <tr>
-    <td class="tg-bapb">Mr Nordin Bin Darwis</td>
+    <td class="tg-wpup">Mr Nordin Bin Darwis</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Muhammad Bin Abd Samat</td>
+    <td class="tg-bapb">Mr Mohamad Redzuan Bin Jamari</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Mok Check Jong</td>
+    <td class="tg-wpup">Mdm Mok Check Jong</td>
   </tr>
 </tbody>
 </table>

@@ -35,26 +35,26 @@ Every AMKsian is passionate about the learning of the Language and understanding
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Miss Tan Chwee Luan</span><br><span style="font-weight:400;color:#004D2E">(HOD / Mother Tongue)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mdm Yeo Leng</span><br><span style="font-weight:400;color:#004D2E">(Year Head / Lower Sec)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Miss Evelyn Yong JiaHui</span><br><span style="font-weight:400;color:#004D2E">(SH / Chinese Language)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Miss Evelyn Yong JiaHui</span><br><span style="font-weight:400;color:#004D2E">(SH / Chinese Language)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Sun Ying</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mdm Sun Ying</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Rajan Bhattarai</span><br><span style="font-weight:400;color:#004D2E"></span></td>
   </tr>
   
   <tr>
-    <td class="tg-bapb">Mrs Rajan Bhattarai</td>
+    <td class="tg-bapb">Miss Huang Weiyu</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Huang Weiyu</td>
+    <td class="tg-wpup">Mr Chua Han Hui</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Chua Han Hui</td>
+    <td class="tg-bapb">Miss Tai Xiao Ling</td>
   </tr>
 	<tr>
-    <td class="tg-wpup">Miss Tai Xiao Ling</td>
+    <td class="tg-wpup">Mr Chee Yao Seong, Bernard</td>
   </tr>
   <tr>
     <td class="tg-bapb">Mdm Siti Nadhirah Binte Hanafi</td>
@@ -63,17 +63,15 @@ Every AMKsian is passionate about the learning of the Language and understanding
     <td class="tg-wpup">Ms Siti Radziah Binte Mustafa</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Zulfiqar Bin Sukiman</td>
+    <td class="tg-bapb">Mr Muhammad Azizan</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Muhammad Azizan</td>
+    <td class="tg-wpup">Miss Nur Afiqah</td>
   </tr>
   <tr>
     <td class="tg-bapb">Mr Tan Kim Huat</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mdm Zhang Lixin</td>
-  </tr>
+  
   </tbody>
 </table>
 
