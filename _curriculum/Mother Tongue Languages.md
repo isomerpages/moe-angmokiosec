@@ -66,7 +66,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
     <td class="tg-bapb">Mr Muhammad Azizan</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Nur Afiqah</td>
+    <td class="tg-wpup">Ms Nur Afiqah</td>
   </tr>
   <tr>
     <td class="tg-bapb">Mr Tan Kim Huat</td>
