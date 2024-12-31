@@ -29,7 +29,7 @@ variant: markdown
     <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Ms Cheryl Lau</td>
+    <td class="tg-wpup">Ms Nur Afiqah</td>
   </tr>
 </tbody>
 </table>
