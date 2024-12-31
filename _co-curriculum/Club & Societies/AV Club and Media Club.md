@@ -3,6 +3,7 @@ title: AV Club and Media Club
 permalink: /co-curriculum/clubs-n-societies/av-club-and-media-club/
 description: ""
 third_nav_title: Club & Societies
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY5O2DZDjBlsjqm84ibSlbs5-dtEEJT98fGoH9wjS93f31Js4yAxxg-trkW3UZZyVjmt5nyahENUn0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
@@ -39,9 +40,7 @@ third_nav_title: Club & Societies
   <tr>
     <td class="tg-bapb">Mr Shashidaren<br></td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Lim Kwang Hock</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
