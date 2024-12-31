@@ -30,9 +30,7 @@ variant: markdown
   <tr>
     <td class="tg-wpup">Mr Spencer Yeo (2IC)<br></td>
   </tr>
-	<tr>
-    <td class="tg-bapb">Mr Chua Han Hui<br></td>
-  </tr>
+	
   </tbody>
 </table>
 <br>
