@@ -29,20 +29,18 @@ variant: markdown
     <td class="tg-bapb">Mdm Rosemalina Abdul Ghani (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Lui Jian Long (2IC)<br></td>
+    <td class="tg-wpup">Ms Amiliyah (2IC)<br></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mr Bryan Yam<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Ng Khiam Song<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Ms Amiliyah<br></td>
-  </tr>
-  <tr>
     <td class="tg-wpup">Mdm Anantha<br></td>
   </tr>
+  <tr>
+    <td class="tg-bapb">Mr Lim Kwang Hock<br></td>
+  </tr>
+  
   <tr>    
 </tr></tbody>
 </table>
