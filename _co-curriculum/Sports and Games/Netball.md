@@ -32,7 +32,7 @@ variant: markdown
     <td class="tg-wpup">Mrs Joselyn Luei (2IC)<br></td>
   </tr>
 	 <tr>
-    <td class="tg-bapb">Ms Diana Goh<br></td>
+    <td class="tg-bapb">Ms Cheryl Lau<br></td>
   </tr>
 </tbody>
 </table>
