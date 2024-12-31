@@ -27,7 +27,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Miss Callie Goh (IC)<br></td>
+    <td class="tg-bapb">Mr Sebastian Wang (IC)<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">Miss Zhang RuiFang (2IC)<br></td>
@@ -36,7 +36,7 @@ variant: markdown
     <td class="tg-bapb">Mrs Koh Hui Teng<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Sebastian Wang<br></td>
+    <td class="tg-wpup">Mr Chua Han Hui<br></td>
   </tr>
   <tr>
     <td class="tg-bapb">Ms Shalynn Sasha Chua<br></td>
