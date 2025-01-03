@@ -8,6 +8,7 @@ variant: markdown
 Dear AMKsians, please click on the link above to access the following documents:
 *  Class Timetable 2025, Semester 1
 *  Classroom Allocation 2025
+*  HBL Schedule 2025
 
 
 ##### **Collection of School Graduation Certificates 2023 Cohort** 

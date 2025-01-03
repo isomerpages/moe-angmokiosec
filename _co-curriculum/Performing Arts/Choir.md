@@ -44,6 +44,9 @@ img {
   <tr>
     <td class="tg-bapb">Mrs Clara Tan<br></td>
   </tr>
+	<tr>
+    <td class="tg-wpup">Mr Ten Cherk Ping<br></td>
+  </tr>
 	
   
 </tbody>

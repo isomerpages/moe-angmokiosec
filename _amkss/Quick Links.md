@@ -4,14 +4,12 @@ permalink: /amkss/quick-links/
 description: ""
 variant: markdown
 ---
-
- 
 * [2025 Semester 1 School Matters](https://staging-lite.d2clll877nnill.amplifyapp.com/amksian-experience/2025-semester-1-school-matters/)
 * [2025 Secondary One Registration Exercise](https://staging-lite.d2clll877nnill.amplifyapp.com/2025-sec-one-registration-matters/)
 *  [Student Calendar 2025](/files/Student_Calendar_2025_Updated_18_Nov_24.pdf)
 
 
-* [CCA Training Schedule 2024](/files/CCA_Schedule_2024.pdf)
+* [CCA Training Schedule 2025](/files/CCA_Schedule_2025.pdf)
 * [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
 * [Parent Support Group (PSG)](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/parent-support-group/)
 * [School Achievements](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/alumni/)
