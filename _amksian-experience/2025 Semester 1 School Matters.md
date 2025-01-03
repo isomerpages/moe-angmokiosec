@@ -18,6 +18,10 @@ description: ""
 <li>
 <p><a href="/files/Classroom_allocation_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Classroom Allocation 2025</a>
 </p>
+</li>
+	<li>
+<p><a href="/files/Classroom_allocation_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Schedule 2025</a>
+</p>
 <p></p>
 </li>
 </ul>
