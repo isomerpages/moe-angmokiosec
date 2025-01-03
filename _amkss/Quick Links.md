@@ -9,7 +9,7 @@ variant: markdown
 *  [Student Calendar 2025](/files/Student_Calendar_2025_Updated_18_Nov_24.pdf)
 
 
-* [CCA Training Schedule 2025](files/CCA_Schedule_2025.pdf)
+* [CCA Training Schedule 2025](/files/CCA_Schedule_2025.pdf)
 * [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
 * [Parent Support Group (PSG)](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/parent-support-group/)
 * [School Achievements](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/alumni/)
