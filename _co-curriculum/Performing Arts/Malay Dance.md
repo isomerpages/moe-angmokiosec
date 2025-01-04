@@ -26,7 +26,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (IC)<br></td>
+    <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (2IC)<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">Ms Nur Afiqah</td>
