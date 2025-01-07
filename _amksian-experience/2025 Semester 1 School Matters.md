@@ -20,7 +20,7 @@ description: ""
 </p>
 </li>
 	<li>
-<p><a href="/files/HBL_Schedule_2025_Sec_1_5.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Schedule 2025</a>
+<p><a href="/files/HBL_Schedule_2025_Sec_1_5_updated_7_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Schedule 2025</a>
 </p>
 <p></p>
 </li>
