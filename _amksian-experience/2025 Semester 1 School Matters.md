@@ -8,11 +8,11 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Odd_Week_Sem_1_Class_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Class Timetable 2025, Semester 1 Odd Week</a>
+<p><a href="/files/Odd_Week_Sem_1_Class_2025_updated_13Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Class Timetable 2025, Semester 1 Odd Week</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Even_Week_Sem_1_Class_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Class Timetable 2025, Semester 1 Even Week</a>
+<p><a href="/files/Even_Week_Sem_1_Class_2025_updated_13Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Class Timetable 2025, Semester 1 Even Week</a>
 </p>
 </li>
 <li>
