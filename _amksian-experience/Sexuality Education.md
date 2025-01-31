@@ -86,7 +86,7 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<p><strong>At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2024:</u></strong>
+<p><strong>At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2025:</u></strong>
 </p>
 <h6>SECONDARY 1</h6>
 <div class="isomer-image-wrapper">
@@ -126,7 +126,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2024</u>:</strong>
+<p><strong>At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2025</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="e teen 2023" src="/images/e_teens.png">
