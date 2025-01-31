@@ -94,11 +94,11 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <h6>SECONDARY 2</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 2 2023" src="/images/Sec_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 2 2023" src="/images/Sec_2_SexEd_2025.png">
 </div>
 <h6>SECONDARY 3</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 3 2023" src="/images/Sec_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 3 2023" src="/images/Sec_3_SexEd_2025.png">
 </div>
 <h6>SECONDARY 4</h6>
 <div class="isomer-image-wrapper">
@@ -129,7 +129,7 @@ Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2025</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="e teen 2023" src="/images/e_teens.png">
+<img style="width: 100%" height="auto" width="100%" alt="e teen 2023" src="/images/e_Teens_2025.png">
 </div>
 <h5>Information for Parents</h5>
 <ol start="10">
