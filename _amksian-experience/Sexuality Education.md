@@ -102,11 +102,11 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <h6>SECONDARY 4</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 4 2023" src="/images/Sec_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 4 2023" src="/images/Sec_4_SexEd_2025.png">
 </div>
 <h6>SECONDARY 5</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 5 2023" src="/images/Sec_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 5 2023" src="/images/Sec_5_SexEd_2025.png">
 </div>
 <h5><em><u>eTeens</u></em><u> Programme:</u></h5>
 <ol start="8">
