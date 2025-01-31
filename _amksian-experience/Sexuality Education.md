@@ -1,7 +1,7 @@
 ---
 title: Sexuality Education
 permalink: /curriculum/character-and-citizenship-education-n-pupil-well-being/sexuality-education/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h6><strong>ANG MO KIO SECONDARY SCHOOL</strong></h6>
@@ -43,7 +43,7 @@ ones.</p>
 </ol>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF ANG MO KIO SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</strong>
+<p><strong>OVERVIEW OF ANG MO KIO SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -86,27 +86,27 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<p><strong>At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2024:</u></strong>
+<p><strong>At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2025:</u></strong>
 </p>
 <h6>SECONDARY 1</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 1 2023" src="/images/Sec_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 1 2023" src="/images/Sec_1_SexEd_2025.png">
 </div>
 <h6>SECONDARY 2</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 2 2023" src="/images/Sec_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 2 2023" src="/images/Sec_2_SexEd_2025.png">
 </div>
 <h6>SECONDARY 3</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 3 2023" src="/images/Sec_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 3 2023" src="/images/Sec_3_SexEd_2025.png">
 </div>
 <h6>SECONDARY 4</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 4 2023" src="/images/Sec_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 4 2023" src="/images/Sec_4_SexEd_2025.png">
 </div>
 <h6>SECONDARY 5</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 5 2023" src="/images/Sec_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 5 2023" src="/images/Sec_5_SexEd_2025.png">
 </div>
 <h5><em><u>eTeens</u></em><u> Programme:</u></h5>
 <ol start="8">
@@ -126,10 +126,10 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2024</u>:</strong>
+<p><strong>At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2025</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="e teen 2023" src="/images/e_teens.png">
+<img style="width: 100%" height="auto" width="100%" alt="e teen 2023" src="/images/e_Teens_2025.png">
 </div>
 <h5>Information for Parents</h5>
 <ol start="10">
@@ -141,14 +141,14 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/2024_Annex_A_Opt_out_form_Sec__updated_14_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 15/02/2024.</p>
+at the start of the year and is also downloadable&nbsp;<a href="/files/2025_Annex_A_Opt_out_form_Sec__updated_24_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 14/02/2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>eTeens programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/2024_Annex_B_eTeens_Opt_out_form_updated_14_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 15/02/2024.</p>
+at the start of the year and is also downloadable&nbsp;<a href="/files/2025_eTeens_Programme_Opt_out_form_24_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 14/02/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at <a href="amkss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amkss@moe.edu.sg</a> or 64548605 ext. 814 (Mrs Linda
