@@ -1,7 +1,7 @@
 ---
 title: Sexuality Education
 permalink: /curriculum/character-and-citizenship-education-n-pupil-well-being/sexuality-education/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h6><strong>ANG MO KIO SECONDARY SCHOOL</strong></h6>
