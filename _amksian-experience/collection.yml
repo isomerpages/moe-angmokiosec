@@ -2,7 +2,6 @@ collections:
   amksian-experience:
     output: true
     order:
-      - Sexuality Education 2025.md
       - 2025 Sec One Registration/.keep
       - 2025 Sec One Registration/2025 Sec One Registration Matters.md
       - 2025 Sec One Registration/How to get to AMKSS.md
@@ -36,3 +35,4 @@ collections:
       - AMKsian Showcase 2024.md
       - 2025 Semester 1 School Matters.md
       - Sexuality Education.md
+      - Sexuality Education 2025.md
