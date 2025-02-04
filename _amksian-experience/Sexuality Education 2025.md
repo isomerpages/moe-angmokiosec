@@ -92,3 +92,64 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sec 2 2023" src="/images/Sec_2_SexEd_2025.png">
 </div>
+<h6>SECONDARY 3</h6>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 3 2023" src="/images/Sec_3_SexEd_2025.png">
+</div>
+<h6>SECONDARY 4</h6>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 4 2023" src="/images/Sec_4_SexEd_2025.png">
+</div>
+<h6>SECONDARY 5</h6>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 5 2023" src="/images/Sec_5_SexEd_2025.png">
+</div>
+<h5><em><u>eTeens</u></em><u> Programme:</u></h5>
+<ol start="8">
+<li>
+<p>eTeens is a programme developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. eTeens
+is conducted in two segments – a mass talk segment and a classroom-based
+programme. The desired outcome of the eTeens programme is that students
+are empowered to make wise, informed and sensible decisions</p>
+</li>
+<li>
+<p>Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+</li>
+</ol>
+<p><strong>At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2025</u>:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="e teen 2023" src="/images/e_Teens_2025.png">
+</div>
+<h5>Information for Parents</h5>
+<ol start="10">
+<li>
+<p>Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable&nbsp;<a href="/files/2025_Annex_A_Opt_out_form_Sec__updated_24_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 14/02/2025.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the&nbsp;<strong>eTeens programme</strong>&nbsp;need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable&nbsp;<a href="/files/2025_eTeens_Programme_Opt_out_form_24_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 14/02/2025.</p>
+</li>
+<li>
+<p>Parents can contact the school at <a href="amkss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amkss@moe.edu.sg</a> or 64548605 ext. 814 (Mrs Linda
+Wang) for discussion or to seek clarification about the school’s Sexuality
+Education Programme.</p>
+</li>
+</ol>
+<p></p>
