@@ -6,7 +6,9 @@ description: ""
 ---
 <h6><strong>ANG MO KIO SECONDARY SCHOOL</strong></h6>
 <h6>MOE SEXUALITY EDUCATION IN SCHOOLS</h6>
-<p>Sexuality Education (SEd) in schools aims to enable students to understand
+<ol>
+	<li>
+	<p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
 those with members of the opposite sex, and make wise, informed and responsible
@@ -16,7 +18,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<ol>
+	</li>
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
