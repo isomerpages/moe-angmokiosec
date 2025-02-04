@@ -87,3 +87,4 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2025:</u></strong>
 </p>
 <h6>SECONDARY 1</h6>
+<img style="width: 100%" height="auto" width="100%" alt="Sec 1 2023" src="/images/Sec_1_SexEd_2025.png">
