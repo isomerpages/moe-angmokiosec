@@ -11,11 +11,11 @@ Dear AMKsians, please click on the link above to access the following documents:
 *  HBL Schedule 2025
 
 
-##### **Collection of School Graduation Certificates 2023 Cohort** 
+##### **Collection of School Graduation Certificates 2024 Cohort** 
 
-Dear Graduates of 2023 Cohort 4E, 5NA 
+Dear Graduates of 2024 Cohort (4/1 to 4/4, 4A3 and 5A1): 
 
-The School Graduation Certificates (SGC) folders (together with SGC testimonials and CCA Reports) are ready for collection. Collection is to be done by 31 July.
+The School Graduation Certificates (SGC) folders (together with SGC testimonials and CCA Reports) are ready for collection. Collection is to be done within three months from now.
 
 Do remember to bring along your proof of identity (EZ Link card or IC) to collect your certificates from the school's General Office, between Monday to Friday (except public holidays), 9am to 5pm. Thank You.
 
