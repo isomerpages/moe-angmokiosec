@@ -81,9 +81,7 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <p>The Drama Club aims to cultivate professionalism among its members through diverse theatrical performances, providing each member with opportunities to engage in various roles. Members acquire valuable acting skills, stage presence, improvisation abilities, and collaborative teamwork essential for staging short performances. Moreover, members rotate leadership roles for warm-up sessions and games, fostering confidence and leadership skills. Our Drama students also perform at school events like Awards Day and Nomad (Night of Music and Dance) which are valuable opportunities for them to showcase their talents, build confidence, improve their stage presence, and develop their skills further. </p>
 <p>Our track record includes achieving the Certificate of Distinction in the Singapore Youth Festival (SYF) Arts Presentation in 2017 and 2019, and a Certificate of Accomplishment in 2021 and 2023. Additionally, from 2016 we have participated in re:ACT, a Theatre for Social Advocacy initiative by inwardBOUND in collaboration with charitable organisations, where secondary schools represented different causes culminating in a collective performance.</p>
 
-<p>
-<br>
-</p>
+
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="English Drama" src="/images/Dramaa.jpg">
 </div>
