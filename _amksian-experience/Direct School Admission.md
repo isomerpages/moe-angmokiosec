@@ -39,16 +39,11 @@ interest/talent area in performing arts or sports.</p>
 <p>Besides singing, the Choir’s Executive Committee, under the guidance of the Choir Teachers and Mistresses, organises activities to instill, develop and promote self-discipline, teamwork, confidence and commitment in our choristers.   Every chorister has a responsibility to serve both the Choir and the community; as led by the Choir's Executive Committee based on our philosophy that every AMKsian Chorister "Ever Strives Upwards - Semper Superne Nitens!"</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Choir" src="/images/Choir_1_2025.jpg">
-</div>
-<p>
-<br>
-</p>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Choir" src="/images/Choir_2_2025.jpg">
-	</div>
-	<p>
+	</div>	
 <br>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Choir" src="/images/Choir_3_2025.jpg">
 	</div>
