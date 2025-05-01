@@ -23,39 +23,9 @@ experience an enriching learning journey over the four years in school,
 and to challenge each member to attain greater heights in their chosen
 interest/talent area in performing arts or sports.</p>
 <h4>Concert Band</h4>
-<p>Ang Mo Kio Secondary School Concert Band was first founded in the 1980s
-as a military band. It was converted to a symphonic band in 2001 and has
-a current strength of over 100 members. The Band has achieved Gold Awards
-and Certificates of Distinction for consecutive SYF Arts Presentation since
-2005 and is currently led by conductors Mr Daniel Kiang and Mr Desmond
-Chow.</p>
-<p>Over the years, the band has enthralled the public with different genres
-of music catering to different audiences at various performance venues
-such as Esplanade Concert Hall and Victoria Concert Hall, as well as Singapore
-Botanic Gardens. In 2018, the Band collaborated with NParks to bring arts
-to the community by performing at the Gardens by the Bay for the Singapore
-Garden Festival and also at Artists’ Night Out at Dhoby Ghaut Green during
-the Singapore Night Festival. In addition, the Band had the privilege to
-perform at Istana during the National Day Open House in 2017 as well as
-participated in various SYF events, such as the Parade of Bands (2016)
-and SYF Celebrations - Festival Concert at Esplanade Theatre (2019). In
-2022 and 2023, the Band had the opportunity to give back to the surrounding
-community through their performances at the National Day Observance Ceremony
-at Kebun Baru Community Club.</p>
-<p>This year, as part of Esplanade’s Limelight 2024 series, the AMKSS Concert
-Band was invited to perform at the Esplanade Concert Hall. This series
-is part of Esplanade’s efforts to recognise some of the best symphonic
-bands in Singapore. In addition, the Band was also selected to participate
-alongside several other secondary schools and the Singapore Armed Forces
-Band in the upcoming National Day Parade 2024.</p>
-<p>Our comprehensive band programme aims to instil a passion for music-making
-in every member and inculcate lifelong learning in music appreciation.
-Besides acquiring the skills of playing an instrument, all band members
-will undergo music theory lessons such that they complement the learning
-and playing of band music. Our programme also seeks to provide band members
-with an enriching band experience through concerts, public performances,
-band exchanges with foreign school bands and appreciating music in general
-to encourage lifelong learning in arts.</p>
+<p>Ang Mo Kio Secondary School Concert Band was first founded in the 1980s as a military band. It was converted to a symphonic band in 2001 and has a current strength of over 100 members. The Band has achieved Gold Awards and Certificates of Distinction for consecutive SYF Arts Presentation since 2005 till present and is currently led by conductors Mr Daniel Kiang and Mr Desmond Chow.</p>
+<p>Over the years, the band has enthralled the public with different genres of music catering to different audiences at various performance venues such as Esplanade Concert Hall and Victoria Concert Hall, as well as Singapore Botanic Gardens. In 2018, the Band collaborated with NParks to bring arts to the community by performing at the Gardens by the Bay for the Singapore Garden Festival and also at Artists’ Night Out at Dhoby Ghaut Green during the Singapore Night Festival.  In addition, the Band had the privilege to perform at Istana during the National Day Open House in 2017 as well as participated in various SYF events, such as the Parade of Bands (2016) and SYF Celebrations - Festival Concert at Esplanade Theatre (2019). In 2022 and 2023, the Band had the opportunity to give back to the surrounding community through their performances at the National Day Observance Ceremony at Kebun Baru Community Club. In 2024, as part of Esplanade’s Limelight 2024 series, the AMKSS Concert Band was invited to perform at the Esplanade Concert Hall. This series is part of Esplanade’s efforts to recognise some of the best symphonic bands in Singapore. In addition, the Band also participated alongside several other secondary schools and the Singapore Armed Forces Band in the National Day Parade 2024. </p>
+<p>Our comprehensive band programme aims to instil a passion for music-making in every member and inculcate lifelong learning in music appreciation.  Besides acquiring the skills of playing an instrument, all band members will undergo music theory lessons such that they complement the learning and playing of band music. Our programme also seeks to provide band members with an enriching band experience through concerts, public performances, band exchanges with foreign school bands and appreciating music in general to encourage lifelong learning in arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Concert Band" src="/images/Band_DSA.jpg">
 </div>
