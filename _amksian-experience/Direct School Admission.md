@@ -138,34 +138,11 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <img style="width:100%;" height="auto" width="100%" alt="Basketball" src="/images/Basketball_2025.jpg">
 </div>
 <h4>Netball</h4>
-<p>At Ang Mo Kio Secondary School, netball is not just a sport but it strives
-to nurture students in personal growth in terms of character building and
-technical skills.</p>
-<p>Our Netball CCA emphasises the values of sportsmanship, fair play, and
-respect above all else. We believe in nurturing not only talented athletes
-but also responsible and resilient individuals who embody these principles
-on and off the court.</p>
-<p>In recent years, our netballers have clinched top positions in a very
-challenging South Zone Inter School Netball which boasts many of the netball
-powerhouses in the schools’ netball scene. In 2023, our C Division team
-emerged as second runner up and in 2024, the B Division team secured fourth
-position in the South Zone competition. Additionally, our current Secondary
-3 netballer, Stevlynn Carina Soh Xuan Yin represented the National Under-14
-Team in the 12th International Youth Netball Challenge 2023 (IYNC) where
-she was exposed to a higher level of play with netball powerhouse countries
-such as Australia and South Africa.</p>
-<p>Beyond competitive play, our netball programme is committed to giving
-back to the community. We expose our girls to planning and organising outreach
-initiatives such as school partnerships through netball carnivals and coaching
-of primary school students.</p>
-<p>Our training programme goes beyond skills acquisition; it encourages players
-to think independently and creatively. By empowering them to express their
-opinions and explore alternative strategies, we foster a sense of confidence
-and adaptability that translates into effective decision-making on the
-court and in life. One can benefit from expert coaching, rigorous training
-sessions and competitive opportunities that elevate students’ potential
-on court. Our CCA hopes to develop fine young ladies who are ready to meet
-the challenges they will face in life long after they leave the courts.</p>
+<p>At Ang Mo Kio Secondary School, netball is not just a sport but it strives to nurture students in personal growth in terms of character building and technical skills.</p>
+<p>Our Netball CCA emphasises the values of sportsmanship, fair play, and respect above all else. We believe in nurturing not only talented athletes but also responsible and resilient individuals who embody these principles on and off the court.</p>
+<p>In recent years, our netballers have clinched top positions in a very challenging South Zone National School Games (Netball) which boasts many of the netball powerhouses in Singapore. In 2023, our C Division team emerged as second runner up and in 2024, the B Division team secured fourth position in the South Zone competition. Additionally, our current Secondary 4 netballer, Stevlynn Carina Soh Xuan Yin represented the National Under-14 Team in the 12th International Youth Netball Challenge 2023 (IYNC) where she was exposed to a higher level of play with netball powerhouse countries such as Australia and South Africa.</p>
+<p>Beyond competitive play, our netball programme is committed to giving back to the community. We expose our girls to planning and organising outreach initiatives such as school partnerships through netball carnivals and coaching of primary school students from Mayflower Primary School.</p>
+<p>Our training programme goes beyond skills acquisition; it encourages players to think independently and creatively. By empowering them to express their opinions and explore alternative strategies, we foster a sense of confidence and adaptability that translates into effective decision-making on the court and in life. One can benefit from expert coaching, rigorous training sessions and competitive opportunities such as carnivals, friendlies with other schools that elevate students’ potential on court. Our CCA hopes to develop fine young ladies who are ready to meet the challenges they will face in life long after they leave the court.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" alt="Basketball" src="/images/Netball_DSA.jpg">
 </div>
