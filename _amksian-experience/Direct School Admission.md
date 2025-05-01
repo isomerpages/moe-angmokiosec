@@ -105,11 +105,15 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <p>The success of our programme extends beyond the school level. Over the years, AMKSS has proudly nurtured players who have gone on to don national colours. In 2018, Seah Yun Zhen Desiree was selected to represent Singapore at the ASEAN Schools Games, while Alicia Tan Kai Yun (Class of 2017) represented Singapore at the Asian U19 Beach Volleyball Championships in Thailand. Most recently, in 2023, Nadja Kim Schmidt (Class of 2021) competed in the 32nd Southeast Asian Games as part of the national team.</p>
 <p>Volleyball at AMKSS is more than just training and competition. We are committed to developing our students’ skills, passion, and love for the game, while instilling core values of teamwork, discipline, and resilience. Our goal is to build not only strong players, but strong individuals who carry these values with them both on and off the court.</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Volleyball" src="/images/Volleyball_DSA.jpg">
+<img style="width:80%;" height="auto" width="100%" alt="Volleyball" src="/images/volleyball_1_2025.jpg">
 </div>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%;" height="auto" width="100%" alt="Volleyball" src="/images/volleyball_2_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:80%;" height="auto" width="100%" alt="Volleyball" src="/images/volleyball_3_2025.jpg">
+</div>
+
 <h4>Football (Boys)</h4>
 <p>Football, “The Beautiful Game”, is watched and enjoyed by millions all
 over the world. It is no different in Ang Mo Kio Secondary School. AMKSS
