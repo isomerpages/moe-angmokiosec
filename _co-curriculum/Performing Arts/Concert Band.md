@@ -128,6 +128,9 @@ variant: markdown
     <th class="tg-74pa"><span style="font-weight:700">Achievements of the CCA</span></th>
   </tr>
 	<tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2025 (Distinction)</td>
+	</tr>
+	<tr>
     <td class="tg-bapb">National Day Parade 2024 – Parade &amp; Ceremony: Military Tattoo </td>
   </tr>
 	<tr>
