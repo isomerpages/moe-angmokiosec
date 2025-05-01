@@ -374,7 +374,7 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 
 <h4>Application Procedure</h4>
 <p>1.&nbsp; Application for DSA-Sec can be submitted through the online DSA-Sec
-Portal. The application is free-of-charge and will be open from&nbsp; <strong><em>7 May 2024, 11 am to 3 June 2024, 3pm</em></strong>.
+Portal. The application is free-of-charge and will be open from&nbsp; <strong><em>7 May 2025, 11 am to 3 June 2025, 3pm</em></strong>.
 For more details, please refer to <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>.</p>
 <p>2.&nbsp; Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 <p>3.&nbsp; Applicants who do not have prior experience may also apply and
