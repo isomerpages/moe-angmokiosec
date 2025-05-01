@@ -106,10 +106,10 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <p>Volleyball at AMKSS is more than just training and competition. We are committed to developing our students’ skills, passion, and love for the game, while instilling core values of teamwork, discipline, and resilience. Our goal is to build not only strong players, but strong individuals who carry these values with them both on and off the court.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Volleyball" src="/images/volleyball_1_2025.jpg">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Volleyball" src="/images/volleyball_2_2025.jpg">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Volleyball" src="/images/volleyball_3_2025.jpg">
 </div>
