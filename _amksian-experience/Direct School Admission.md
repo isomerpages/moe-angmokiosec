@@ -128,7 +128,7 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Football" src="/images/Football_2_DSA.jpg">
+<img style="width:80%;" height="auto" width="100%" alt="Football" src="/images/Football_1_DSA.jpg">
 </div>
 <h4>Basketball (Boys)</h4>
 <p>Basketball was reinstated as a full CCA in 2016. Having been a second
