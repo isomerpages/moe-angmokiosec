@@ -38,7 +38,7 @@ interest/talent area in performing arts or sports.</p>
 <p>The Choir shares its talents in support of various school events such as Awards Day, AMKsian Showcase and our school’s biennial event, the Night of Music, Arts and Dance (NOMAD).  Prior to the COVID-19 years, the Choir held joint concert performances at public venues, such as “The Reason We Sing” and “The Reason We Sing II” with other school choirs as well as the Voices of Singapore Festival at CHIJmes in 2019.   </p>
 <p>Besides singing, the Choir’s Executive Committee, under the guidance of the Choir Teachers and Mistresses, organises activities to instill, develop and promote self-discipline, teamwork, confidence and commitment in our choristers.   Every chorister has a responsibility to serve both the Choir and the community; as led by the Choir's Executive Committee based on our philosophy that every AMKsian Chorister "Ever Strives Upwards - Semper Superne Nitens!"</p>
 <div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Choir" src="/images/Choir_1_DSA.jpg">
+<img style="width:80%;" height="auto" width="100%" alt="Choir" src="/images/Choir_1_2025.jpg">
 </div>
 <p>
 <br>
