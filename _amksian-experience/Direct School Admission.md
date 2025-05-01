@@ -90,32 +90,10 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></table>
 
 <h4>Badminton</h4>
-<p>Badminton – referred to by some as ‘The Fastest Racquet Sport in the World’
-– requires agility, power, mental and physical prowess as well as endurance.
-Badminton places tremendous demands on those who practice the sport.</p>
-<p>Ang Mo Kio Secondary School has made a name for herself in this tough
-but satisfying sport which hones delicate wrist-work skills, nimble footwork
-and perseverance. Team AMKSS trains thrice a week in order to help the
-students build badminton skills as well as their grit and persistence in
-getting things right.</p>
-<p>Over the years, our team has consistently made our presence felt in the
-South Zone Inter School Badminton Tournament. In 2018, our B Division Boys
-and Girls fought hard to clinch third position. The following year, our
-B Division Girls achieved fourth position. In 2021, our B Girls finished
-third and in 2022, emerged second in the South Zone Badminton Competition.
-This year, the B Division team fought hard and the boys made it into the
-quarter-finals of the National School Games (NSG) South Zone Championship.
-Against a group of strong opponents, the boys learnt perseverance and resilience
-as they stood their ground and gave their best. The experience was an enriching
-and meaningful one for them.</p>
-<p>Team AMKSS seeks opportunities that enable our players and leaders to
-plan, organise and implement a variety of programmes to benefit both the
-school and community. Annually, we organise a primary school badminton
-competition, the “AMKSS Invitational”, to promote the sport, encourage
-friendly sparring and help raise the standards of the sport amongst primary
-school students. In addition, players assist in the coaching of students
-in Ang Mo Kio Primary School as part of our partnership and outreach efforts
-with our community.</p>
+<p>Badminton – referred to by some as ‘The Fastest Racquet Sport in the World’ – requires agility, power, mental and physical prowess as well as endurance.  Badminton places tremendous demands on those who practise the sport. </p>
+<p>Ang Mo Kio Secondary School has made a name for herself in this tough but satisfying sport which hones delicate wrist-work skills, nimble footwork, and perseverance.  Team AMKSS trains thrice a week in order to help the students build badminton skills as well as their grit and persistence in getting things right.</p>
+<p>Over the years, our team has consistently made our presence felt in the South Zone Inter School Badminton Tournament. In 2018, our B Division Boys and Girls fought hard to clinch third position.  The following year, our B Division Girls achieved fourth position. In 2021, our B Girls finished third and in 2022, emerged second in the South Zone Badminton Competition. This year, the B Division team fought hard, and the boys made it into the quarter-finals of the National School Games (NSG) South Zone Championship. Against a group of strong opponents, the boys learnt perseverance and resilience as they stood their ground and gave their best. The experience was an enriching and meaningful one for them.</p>
+<p>Team AMKSS seeks opportunities that enable our players and leaders to plan, organise and implement a variety of programmes to benefit both the school and community.  Annually, we organise a primary school badminton competition, the “AMKSS Invitational”, to promote the sport, encourage friendly sparring and help raise the standards of the sport amongst primary school students.  In addition, players assist in the coaching of students in Ang Mo Kio Primary School as part of our partnership and outreach efforts with our community. </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Badminton" src="/images/Badmintonn.jpg">
 </div>
