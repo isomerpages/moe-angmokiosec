@@ -58,28 +58,10 @@ interest/talent area in performing arts or sports.</p>
 <h4>Dance Club</h4>
 <p>The Dance Club specialises in two categories of dance: Modern and Malay Dance. There are two instructors who coach the students in the technical and artistic aspects of dance. Through our yearly dance auditions conducted at the start of the year, we hope to recruit members who are passionate about dance and are committed to undergoing rigorous training to build their flexibility, physical strength, and stamina.</p>
 <p>The&nbsp;<strong>Modern Dance</strong>&nbsp; group strives to nurture and develop versatile performers. Through dance, students are empowered to express their emotions and personal stories through movement and rhythm. The dance group achieved the Certificate of Distinction in 2015, 2019, 2021, and 2023, and the Certificate of Accomplishment in 2017 at the Singapore Youth Festival (SYF) Arts Presentation. The group also had the honour of performing at the SYF Opening Concert at Esplanade in 2016, the Istana Open House in 2022, the Kebun Baru National Day Observance Ceremony in 2023 and SENSES 2024: The Dance Phenomenon at Sentosa Sensoryscape in 2024. </p>
-<p>The&nbsp;<strong>Malay Dance</strong>&nbsp;consists of an exuberant group
-of students with passion in Malay Dance. We provide opportunities for students
-to learn and appreciate Malay Dance and culture. We aim to develop our
-students to be graceful dancers and disciplined students. The group achieved
-the Certificate of Distinction in 2015, 2017 and 2023 and the Certificate
-of Accomplishment in 2019 and 2021 at the SYF Arts Presentation.</p>
-<p>Through our dance programmes such as Schools Dance Exchange and Collaboration,
-we provide our students the opportunities to learn from other instructors
-as well as dancers from other schools. These programmes help build confidence
-in our students when performing on stage. Besides showcasing their skills
-to a variety of audiences, they will also be trained to think critically
-about artistic works, relate aesthetically, affectively and cognitively
-to the dance art form and the contexts of artistic works as well as explore
-and experiment with the art form.</p>
+<p>The&nbsp;<strong>Malay Dance</strong>&nbsp; group consists of an exuberant group of students with a passion for Malay Dance. We provide opportunities for students to learn and appreciate Malay dance and culture. We aim to develop our students into graceful dancers and disciplined individuals. The group achieved the Certificate of Distinction in 2015, 2017, 2023 and 2025, and the Certificate of Accomplishment in 2019 and 2021 at the SYF Arts Presentation.</p>
+<p>Through our dance programmes such as Schools Dance Exchange, we provide our students with opportunities to learn from other instructors as well as dancers from other schools. These programmes help build confidence in our students when performing on stage. Besides showcasing their skills to a variety of audiences, they are also trained to think critically about artistic works; relate aesthetically, affectively, and cognitively to the dance art form and its contexts; and explore and experiment with the art form.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Modern Dance" src="/images/Modern_Dance_DSA.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Malay Dance" src="/images/Malay%20Dance.jpg">
 </div>
 <p>
 <br>
