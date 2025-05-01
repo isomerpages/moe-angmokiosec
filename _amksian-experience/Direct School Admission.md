@@ -4,7 +4,7 @@ permalink: /amksian-experience/direct-school-admission/
 description: ""
 variant: markdown
 ---
-<h4>Ang Mo Kio Secondary School Direct School Admission 2024</h4>
+<h4>Ang Mo Kio Secondary School Direct School Admission Exercise 2026</h4>
 <p>Direct School Admission (DSA) is an MOE initiative designed to give selected
 schools greater flexibility in student admission, so that a more diverse
 range of student achievements and talents can be recognised.</p>
