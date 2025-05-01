@@ -2,7 +2,6 @@ collections:
   amksian-experience:
     output: true
     order:
-      - Direct School Admission 2026.md
       - 2025 Sec One Registration/.keep
       - 2025 Sec One Registration/2025 Sec One Registration Matters.md
       - 2025 Sec One Registration/How to get to AMKSS.md
@@ -33,5 +32,6 @@ collections:
       - Learning for Life Programme.md
       - Student Leadership.md
       - Direct School Admission.md
+      - Direct School Admission 2026.md
       - AMKsian Showcase 2024.md
       - 2025 Semester 1 School Matters.md
