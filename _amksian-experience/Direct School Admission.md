@@ -131,33 +131,9 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <img style="width:80%;" height="auto" width="100%" alt="Football" src="/images/Football_1_DSA.jpg">
 </div>
 <h4>Basketball (Boys)</h4>
-<p>Basketball was reinstated as a full CCA in 2016. Having been a second
-CCA for many years, the school decided to start developing the boys from
-Secondary 1 due to the overwhelming interest shown by our students. The
-CCA stresses the importance of sportsmanship, fair play, respect, and excellence
-to enhance our athletes’ ability to perform at a higher level. Our team
-trains up to three times a week to help students develop the necessary
-skill sets, physical fitness and more importantly, mental resilience to
-face all possible challenges they will face both on and off the court.</p>
-<p>The basketball team diligently orchestrated a series of basketball mini-competitions
-and friendly matches with schools across Singapore, aiming to cultivate
-camaraderie and enhance their competitive prowess. This strategic effort
-not only nurtured bonds of friendship within the basketball community but
-also served as a platform for honing our skills and refining our competitive
-edge. Additionally, the team is currently in the process of planning a
-mini-competition exclusively for selected primary schools, slated to occur
-towards the end of the year. This initiative is aimed at fostering the
-growth of basketball by promoting the sport among young boys and encouraging
-greater participation.</p>
-<p>The team is currently coached by Mr. Nai Hai Kiat who has a wealth of
-experience in coaching schools as well as clubs in the local basketball
-league. Under his stewardship, we hope to take our boys to the next level
-in terms of their skills as well as game play. We also hope to develop
-our boys to challenge themselves with more established schools in the basketball
-arena. Our basketball programme aims to develop and sustain our students’
-skills, passion, and interest in the sport. As we continue to strive for
-excellence in competitions, we are driven to develop leaders and inculcate
-values of discipline and resilience in all our students.</p>
+<p>Basketball was reinstated as a full CCA in 2016. Having been a second CCA for many years, the school decided to start developing the boys from Secondary 1 due to the overwhelming interest shown by our students. The CCA stresses the importance of sportsmanship, fair play, respect, and excellence to enhance our athletes’ ability to perform at a higher level. Our team trains up to three times a week to help students develop the necessary skill sets, physical fitness and more importantly, mental resilience to face all possible challenges they will face both on and off the court.</p>
+<p>The basketball team diligently orchestrated a series of basketball mini-competitions and friendly matches with schools across Singapore, aiming to cultivate camaraderie and enhance their competitive prowess. This strategic effort not only nurtured bonds of friendship within the basketball community but also served as a platform for honing our skills and refining our competitive edge. Additionally, the team is currently in the process of planning a mini-competition exclusively for selected primary schools, slated to occur towards the end of the year. This initiative is aimed at fostering the growth of basketball by promoting the sport among young boys and encouraging greater participation.</p>
+<p>TThe team is currently coached by Ms Wang Yingzhao who has a wealth of experience in coaching schools as well as clubs in the local basketball league. Under her stewardship, we hope to take our boys to the next level in terms of their skills as well as game play. We also hope to develop our boys to challenge themselves with more established schools in the basketball arena. Our basketball programme aims to develop and sustain our students’ skills, passion, and interest in the sport. As we continue to strive for excellence in competitions, we are driven to develop leaders and inculcate values of discipline and resilience in all our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" alt="Basketball" src="/images/dsa_basketball.jpg">
 </div>
