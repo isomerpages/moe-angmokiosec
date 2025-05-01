@@ -72,21 +72,21 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2023<br></th>
+    <th class="tg-avji">Executive Committee for 2025<br></th>
   </tr>
 </thead>
 <tbody>
    <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Nur Quraisha Binte Mohamed Shawal</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Ng Rui Ci</span></td>
   </tr>
   	<tr>
-    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Zoey Foo</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Goh Wen Xuan</span></td>
   </tr>
   <tr>
-		<td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Stacey Soh En-Huey</span></td>
+		<td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Leigh-Ann Tan En Ya</span></td>
   </tr>
 	<tr>
-		<td class="tg-wpup"><b><u>C Division Vice Captains</u></b><br><span style="font-weight:400;color:#004D2E">Stevlynn Carina Soh Xuan Yin<br>Haw Jing Xuan</span></td>
+		<td class="tg-wpup"><b><u>C Division Vice Captains</u></b><br><span style="font-weight:400;color:#004D2E">Katrina Ng Xin Hui<br>Wang Yan Ting Amber</span></td>
   </tr>
 </tbody>
 </table>
