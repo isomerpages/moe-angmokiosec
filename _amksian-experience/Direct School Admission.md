@@ -122,7 +122,7 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <p>Additionally, the AMKSS Football works with primary schools such as Anderson Primary, where our students train together with the younger boys and guide them through the clinic session that is conducted by our school coaches. This promotes leadership and social skills in our students as well as building bonds with the primary school students who may look up to them as a source of positive influence. It is also one way for our boys to give back to society.</p>
 <p>The team trains up to three times a week to help our athletes develop the necessary skill sets mentioned above and more importantly, mental resilience to face any possible challenges they face on and off the field.  Our Football training programme aims to develop and sustain our students’ skills and passion in the sport, hoping to instil pursuing their sports for life interest in the future. </p>
 <div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Football" src="/images/Football_1_DSA.jpg">
+<img style="width:80%;" height="auto" width="100%" alt="Football" src="/images/football_2025.jpg">
 </div>
 <p>
 <br>
