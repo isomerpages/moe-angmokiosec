@@ -78,25 +78,9 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <table class="ive\_eobj\_center iveo\_table ives\_tab\_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 920px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><b style="margin: 0px; outline: 0px; padding: 0px;">Malay Dance</b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: left;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 5px;"><li style="margin: 0px; outline: 0px; padding: 0px;">All applicants will go through an audition and interview session.</li><li style="margin: 0px; outline: 0px; padding: 0px;"> For the auditions, all applicants must prepare a 1-2 min dance solo(s). Applicants must choose a music that suits the dance piece. <b>Please ensure that the music for audition is saved in a thumb drive or handphone</b>. Applicants may choose to perform a piece from any of the 5 basic Malay dance genres. e.g.  Inang, Asli, Joget, Zapin, Masri.</li><li style="margin: 0px; outline: 0px; padding: 0px;">     Students may perform dance(s) learnt in school (e.g. CCA, LLP) or self-choreographed pieces and should be in PE t-shirt and track pants. Props are allowed if necessary.</li><li style="margin: 0px; outline: 0px; padding: 0px;"> In the second segment, applicants will then be invited to follow our resident choreographer through a short piece of choreography. Students will be taught a very brief dance sequence by the instructor and have him/her reproduce it or perform a personal interpretation of it.</li><li style="margin: 0px; outline: 0px; padding: 0px;">       Preferably a member of a dance club in primary school.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Representation in SYF Arts Presentation / Accomplishment at National level</li><li style="margin: 0px; outline: 0px; padding: 0px;">Exemplify positive character traits, including resilience, motivation and integrity<br><font color="#ff0000">*Please note that meeting all the criteria does not guarantee the student
 will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></table>
 <h4>English Drama</h4>
-<p>The Drama Club aims to cultivate professionalism among its members through
-diverse theatrical performances, providing each member with opportunities
-to engage in various roles. Members acquire valuable acting skills, stage
-presence, improvisation abilities, and collaborative teamwork essential
-for staging short performances. Moreover, members rotate leadership roles
-for warm-up sessions and games, fostering confidence and leadership skills.
-Our Drama students also perform at school events like Awards Day and Nomad
-(Night of Music and Dance) which are valuable opportunities for them to
-showcase their talents, build confidence, improve their stage presence,
-and develop their skills further.</p>
-<p>Our track record includes achieving the Certificate of Distinction in
-the Singapore Youth Festival (SYF) Arts Presentation in 2017 and 2019,
-and a Certificate of Accomplishment in 2021 and 2023. Additionally, from
-2016 we have participated in re:ACT, a Theatre for Social Advocacy initiative
-by inwardBOUND in collaboration with charitable organisations, where secondary
-schools represented different causes culminating in a collective performance.</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="English Drama" src="/images/English_Drama_DSA.jpg">
-</div>
+<p>The Drama Club aims to cultivate professionalism among its members through diverse theatrical performances, providing each member with opportunities to engage in various roles. Members acquire valuable acting skills, stage presence, improvisation abilities, and collaborative teamwork essential for staging short performances. Moreover, members rotate leadership roles for warm-up sessions and games, fostering confidence and leadership skills. Our Drama students also perform at school events like Awards Day and Nomad (Night of Music and Dance) which are valuable opportunities for them to showcase their talents, build confidence, improve their stage presence, and develop their skills further. </p>
+<p>Our track record includes achieving the Certificate of Distinction in the Singapore Youth Festival (SYF) Arts Presentation in 2017 and 2019, and a Certificate of Accomplishment in 2021 and 2023. Additionally, from 2016 we have participated in re:ACT, a Theatre for Social Advocacy initiative by inwardBOUND in collaboration with charitable organisations, where secondary schools represented different causes culminating in a collective performance.</p>
+
 <p>
 <br>
 </p>
