@@ -115,50 +115,12 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 </div>
 
 <h4>Football (Boys)</h4>
-<p>Football, “The Beautiful Game”, is watched and enjoyed by millions all
-over the world. It is no different in Ang Mo Kio Secondary School. AMKSS
-Football has come a long way and made a name for herself by nurturing several
-players who have gone on to play at the highest level in Singapore and
-overseas. Singapore National Team Football players such as Shakir Hamzah
-and Zulfahmi Arifin are players who started their budding football journey
-in AMKSS. Both players were part of Young Lions squad in 2009 and 2010
-respectively, progressing to the National Team which they are still a part
-of. Both have also gone on to play in foreign leagues in the region.</p>
-<p>AMKSS Football team has always placed the importance of discipline, teamwork
-and sportsmanship in every training aspect; enabling the athletes to consistently
-perform at their maximum potential. Values are given utmost importance
-as we strongly feel that the right values should be the basic foundation
-in our students.</p>
-<p>The AMKSS Football team emphasises on the sharpening of technical skills
-in the C Division Team. This is the period where athletes are given drills
-and practices to sharpen their technical skills which they have picked
-up in primary schools. The AMKSS Football team is currently coached by
-Coach Hairil Amin, an experienced coach who usually focuses on elite footballers
-at the youth level. Additionally, his experience in the local football
-scene is an added incentive for the team. The B Division Team, also coached
-by Coach Hairil Amin, a greater emphasis is based on tactical awareness
-coupled with continued development of their technical skills as well as
-building their strength and endurance to play at their level and match
-the opponents. Coach Hairil brings with him a vast amount of experience
-having worked with various age group teams, S-League teams and has a great
-ability to develop players and bring them to the next level.</p>
-<p>Over the years, the B Division Football team has done well to get into
-the Top 4 placing for the South Zone Competitions as well as League 3 Championship,
-in 2016 and 2019 respectively. This year, the team got into the top 2 teams
-to qualify for the next round of League 3 Championship.</p>
-<p>Additionally, the AMKSS Football works with primary schools such as Anderson
-Primary, where our students train together with the younger boys and guide
-them through the clinic session that is conducted by our school coaches.
-This promotes leadership and social skills in our students as well as building
-bonds with the primary school students who may look up to them as a source
-of positive influence. It is also one way for our boys to give back to
-society.</p>
-<p>The team trains up to three times a week to help our athletes develop
-the necessary skill sets mentioned above and more importantly, mental resilience
-to face any possible challenges they face on and off the field. Our Football
-training programme aims to develop and sustain our students’ skills and
-passion in the sport, hoping to instil pursuing their sports for life interest
-in the future.</p>
+<p>Football, “The Beautiful Game”, is watched and enjoyed by millions all over the world. It is no different in Ang Mo Kio Secondary School. AMKSS Football has come a long way and made a name for herself by nurturing several players who have gone on to play at the highest level in Singapore and overseas.  Singapore National Team Football players such as Shakir Hamzah and Zulfahmi Arifin are players who started their budding football journey in AMKSS. Both players were part of Young Lions squad in 2009 and 2010 respectively, progressing to the National Team which they are still a part of. Both have also gone on to play in foreign leagues in the region.</p>
+<p>AMKSS Football team has always placed the importance of discipline, teamwork and sportsmanship in every training aspect; enabling the athletes to consistently perform at their maximum potential. Values are given utmost importance as we strongly feel that the right values should be the basic foundation in our students.</p>
+<p>The AMKSS Football team emphasises on the sharpening of technical skills in the C Division Team. This is the period where athletes are given drills and practices to sharpen their technical skills which they have picked up in primary schools. The AMKSS Football team is currently coached by Coach Hairil Amin, an experienced coach who usually focuses on elite footballers at the youth level. Additionally, his experience in the local football scene is an added incentive for the team. The B Division Team, also coached by Coach Hairil Amin, a greater emphasis is based on tactical awareness coupled with continued development of their technical skills as well as building their strength and endurance to play at their level and match the opponents. Coach Hairil brings with him a vast amount of experience having worked with various age group teams, S-League teams and has a great ability to develop players and bring them to the next level.</p>
+<p>Over the years, the B Division Football team has done well to get into the Top 4 placing for the South Zone Competitions as well as League 3 Championship, in 2016 and 2019 respectively. This year, the team got into the top 2 teams to qualify for the next round of League 3 Championship.</p>
+<p>Additionally, the AMKSS Football works with primary schools such as Anderson Primary, where our students train together with the younger boys and guide them through the clinic session that is conducted by our school coaches. This promotes leadership and social skills in our students as well as building bonds with the primary school students who may look up to them as a source of positive influence. It is also one way for our boys to give back to society.</p>
+<p>The team trains up to three times a week to help our athletes develop the necessary skill sets mentioned above and more importantly, mental resilience to face any possible challenges they face on and off the field.  Our Football training programme aims to develop and sustain our students’ skills and passion in the sport, hoping to instil pursuing their sports for life interest in the future. </p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Football" src="/images/Football_1_DSA.jpg">
 </div>
