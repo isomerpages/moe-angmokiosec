@@ -379,8 +379,7 @@ For more details, please refer to <a href="https://www.moe.gov.sg/dsa-sec" rel="
 <p>2.&nbsp; Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 <p>3.&nbsp; Applicants who do not have prior experience may also apply and
 will be assessed based on their potential.</p>
-<p>4.&nbsp; The shortlisted applicants will be informed of the day and time
-of their trial session at least 2 weeks in advance and latest by&nbsp; <strong><em>7 August 2024</em></strong> .</p>
+<p>4.&nbsp;<strong><em>You will receive notification from the school by 1 August 2025 if your child has been shortlisted to undergo Direct School Admission (DSA) selection.  The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by 1 August 2025.</em></strong> .</p>
 <p>5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face
 interview and trial in our school from <strong><em>12 July 2024</em></strong> to <strong><em>23 August 2024</em></strong>.</p>
 <p>6.&nbsp; Shortlisted applicants will be notified of their application
