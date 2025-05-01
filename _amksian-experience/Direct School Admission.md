@@ -99,27 +99,11 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <img style="width:80%;" height="auto" width="100%" alt="Badminton" src="/images/Badminton_DSA.jpg">
 </div>
 <h4>Volleyball</h4>
-<p>Ang Mo Kio’s Volleyball Team was established in 1999 and has grown from
-strength to strength over the 21 years. The Team has consistently punched
-above its weight at the South Zone and National competitions, finishing
-among the top schools in both competitions. In 2019, the B Girls and B
-Boys emerged 2nd and 4th respectively in the Zonal Championships. Our B
-Girls finished third in 2021, and emerged runners-up in the 2022 South
-Zone Championship. In 2023, our C Boys came in 4th in the South Zone National
-School Games. Our Girls team is currently coached by Mr Teo Kee Theng and
-our Boys team is coached by Mr Leon Wong Fong Siang. Over the years, the
-Team has produced talented individuals who went on to don National colours
-and represent the country. In 2018, one of our girls, Seah Yun Zhen Desiree
-was selected to represent Singapore at the 2018 ASEAN Schools Games, while
-our alumni, Alicia Tan Kai Yun (graduate of 2017) represented Singapore
-at the 2018 Asian U19 Beach Volleyball Championships in Thailand. In 2023,
-Nadja Kim Schmidt (graduate of 2021) represented Singapore at the 32nd
-Southeast Asian Games.</p>
-<p>Our Volleyball programme aims to develop and sustain our students’ skills,
-passion and interest in Volleyball. We also strive to achieve sustained
-excellence in zonal and national competitions. And most importantly, we
-are driven to inculcate values such as teamwork, discipline and resilience
-in them.</p>
+<p>Established in 1999, the Ang Mo Kio Volleyball Team has grown from humble beginnings into a formidable force in both the South Zone and National competitions. Over the years, our teams have consistently outperformed expectations, earning a reputation for grit, skill, and determination.</p>
+<p>In 2019, our B Division Girls and Boys emerged 2nd and 4th respectively in the Zonal Championships. Our B Division Girls clinched 3rd place in 2021 and went on to become runners-up in the 2022 South Zone Championships. In 2023, our C Division Boys secured a 4th place finish in the South Zone, while in 2024, both our C Division Boys and C Division Girls emerged as runners-up in their respective leagues at the National School Games.</p>
+<p>Guided by dedicated coaches — Mr Teo Kee Theng for the Girls team and Mr Leon Wong Fong Siang for the Boys team — our athletes continue to train hard and play with heart.</p>
+<p>The success of our programme extends beyond the school level. Over the years, AMKSS has proudly nurtured players who have gone on to don national colours. In 2018, Seah Yun Zhen Desiree was selected to represent Singapore at the ASEAN Schools Games, while Alicia Tan Kai Yun (Class of 2017) represented Singapore at the Asian U19 Beach Volleyball Championships in Thailand. Most recently, in 2023, Nadja Kim Schmidt (Class of 2021) competed in the 32nd Southeast Asian Games as part of the national team.</p>
+<p>Volleyball at AMKSS is more than just training and competition. We are committed to developing our students’ skills, passion, and love for the game, while instilling core values of teamwork, discipline, and resilience. Our goal is to build not only strong players, but strong individuals who carry these values with them both on and off the court.</p>
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Volleyball" src="/images/Volleyball_DSA.jpg">
 </div>
