@@ -178,4 +178,4 @@ be shortlisted/given an offer.</p>
 </p>
 <p>Ms Leona Cheong
 <br><a href="mailto:Leona\_CHEONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Leona_CHEONG@schools.gov.sg</a>
-<br>Tel: 64548605 (Ext 803)</p>
+<br>Tel: 64548605 (Ext 803)</p> 
