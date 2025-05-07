@@ -4,7 +4,7 @@ permalink: /amksian-experience/direct-school-admission/
 description: ""
 variant: markdown
 ---
-<h4>Ang Mo Kio Secondary School Direct School Admission Exercise 2026</h4>
+<h4>Ang Mo Kio Secondary School Direct School Admission 2026</h4>
 <p>Direct School Admission (DSA) is an MOE initiative designed to give selected
 schools greater flexibility in student admission, so that a more diverse
 range of student achievements and talents can be recognised.</p>
@@ -132,7 +132,7 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" alt="Basketball" src="/images/Basketball_2025.jpg">
 </div>
-<h4>Netball</h4>
+<h4>Netball (Girls)</h4>
 <p>At Ang Mo Kio Secondary School, netball is not just a sport but it strives to nurture students in personal growth in terms of character building and technical skills.</p>
 <p>Our Netball CCA emphasises the values of sportsmanship, fair play, and respect above all else. We believe in nurturing not only talented athletes but also responsible and resilient individuals who embody these principles on and off the court.</p>
 <p>In recent years, our netballers have clinched top positions in a very challenging South Zone National School Games (Netball) which boasts many of the netball powerhouses in Singapore. In 2023, our C Division team emerged as second runner up and in 2024, the B Division team secured fourth position in the South Zone competition. Additionally, our current Secondary 4 netballer, Stevlynn Carina Soh Xuan Yin represented the National Under-14 Team in the 12th International Youth Netball Challenge 2023 (IYNC) where she was exposed to a higher level of play with netball powerhouse countries such as Australia and South Africa.</p>
@@ -147,8 +147,8 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 
 
 <h4>Application Procedure</h4>
-<p>1.&nbsp; Application for DSA-Sec can be submitted through the online DSA-Sec
-Portal. The application is free-of-charge and will be open from&nbsp; <strong><em>7 May 2025, 11 am to 3 June 2025, 3pm</em></strong>.
+<p>1.&nbsp; Application for DSA-Sec can be submitted through the online <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec
+Portal</a>. The application is free-of-charge and will be open from&nbsp; <strong><em>7 May 2025, 11 am to 3 June 2025, 3pm</em></strong>.
 For more details, please refer to <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>.</p>
 <p>2.&nbsp; Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 <p>3.&nbsp; Applicants who do not have prior experience may also apply and
@@ -178,4 +178,4 @@ be shortlisted/given an offer.</p>
 </p>
 <p>Ms Leona Cheong
 <br><a href="mailto:Leona\_CHEONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Leona_CHEONG@schools.gov.sg</a>
-<br>Tel: 64548605 (Ext 803)</p> 
+<br>Tel: 64548605 (Ext 803)</p>
