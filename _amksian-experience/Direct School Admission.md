@@ -132,7 +132,7 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" alt="Basketball" src="/images/Basketball_2025.jpg">
 </div>
-<h4>Netball</h4>
+<h4>Netball (Girls)</h4>
 <p>At Ang Mo Kio Secondary School, netball is not just a sport but it strives to nurture students in personal growth in terms of character building and technical skills.</p>
 <p>Our Netball CCA emphasises the values of sportsmanship, fair play, and respect above all else. We believe in nurturing not only talented athletes but also responsible and resilient individuals who embody these principles on and off the court.</p>
 <p>In recent years, our netballers have clinched top positions in a very challenging South Zone National School Games (Netball) which boasts many of the netball powerhouses in Singapore. In 2023, our C Division team emerged as second runner up and in 2024, the B Division team secured fourth position in the South Zone competition. Additionally, our current Secondary 4 netballer, Stevlynn Carina Soh Xuan Yin represented the National Under-14 Team in the 12th International Youth Netball Challenge 2023 (IYNC) where she was exposed to a higher level of play with netball powerhouse countries such as Australia and South Africa.</p>
