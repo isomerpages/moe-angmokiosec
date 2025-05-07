@@ -4,7 +4,7 @@ permalink: /amksian-experience/direct-school-admission/
 description: ""
 variant: markdown
 ---
-<h4>Ang Mo Kio Secondary School Direct School Admission Exercise 2026</h4>
+<h4>Ang Mo Kio Secondary School Direct School Admission 2026</h4>
 <p>Direct School Admission (DSA) is an MOE initiative designed to give selected
 schools greater flexibility in student admission, so that a more diverse
 range of student achievements and talents can be recognised.</p>
@@ -178,4 +178,4 @@ be shortlisted/given an offer.</p>
 </p>
 <p>Ms Leona Cheong
 <br><a href="mailto:Leona\_CHEONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Leona_CHEONG@schools.gov.sg</a>
-<br>Tel: 64548605 (Ext 803)</p> 
+<br>Tel: 64548605 (Ext 803)</p>
