@@ -116,6 +116,9 @@ variant: markdown
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2025 (Accomplishment)</td>
+  </tr>
+	<tr>
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
   </tr>
   <tr>
