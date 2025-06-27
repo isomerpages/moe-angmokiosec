@@ -4,9 +4,9 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
-##### **[2025 Semester 1 School Matters](/amksian-experience/2025-semester-1-school-matters/)**
+##### **[2025 Semester 2 School Matters](/amksian-experience/2025-semester-2-school-matters/)**
 Dear AMKsians, please click on the link above to access the following documents:
-*  Class Timetable 2025, Semester 1
+*  Class Timetable 2025, Semester 2
 *  Classroom Allocation 2025
 *  HBL Schedule 2025
 
