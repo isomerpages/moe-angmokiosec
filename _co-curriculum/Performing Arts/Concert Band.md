@@ -81,34 +81,31 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2024/2025</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2025/2026</span></th>
   </tr>
 </thead>
 <tbody>
+  
   <tr>
-    <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Chua Le Er, Evy (3/3)</span></td>
+    <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Hu XinYue (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Band Major (Music)</u><br><span style="font-weight:400;color:#004D2E">Foong Le En Rebecca (3/1)</span></td>
+    <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Ma Qiteng Jaycee (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Chow Jia Kang (3/2)</span></td>
+    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Muhammad Raiyan Bin Puteh (3/2)</span></td>
+  </tr>	
+  <tr>
+    <td class="tg-mwbt"><u>Quartermaster (Instrument - Brasses)</u><br><span style="font-weight:400;color:#004D2E">Javier Khoo Gian Jeng (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Quek Yao Hui, Evan (3/4)</span></td>
+    <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Ng Shi Chun Vera (3/3)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Quartermasters (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Yang Shao Jie (3A1)</span><br><span style="font-weight:400;color:#004D2E">Reiko Lai Xin Yi (3A2)</span></td>
-  </tr>
-	
-  <tr>
-    <td class="tg-mwbt"><u>Quartermaster (Instrument - Brasses)</u><br><span style="font-weight:400;color:#004D2E">Muhsin Bin Said Alkatiri (3/1)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwbt"><u>Quartermaster (Instrument - Woodwinds)</u><br><span style="font-weight:400;color:#004D2E">Sin Yong Hao (3/2)</span></td>
+    <td class="tg-mwbt"><u>Quartermasters (Uniform)</u><br><span style="font-weight:400;color:#004D2E">Alyssa Tan En Yi (3/2)</span><br><span style="font-weight:400;color:#004D2E">Michon Low Ke Yuan (3A3)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwbt"><u>Librarians</u><br><span style="font-weight:400;color:#004D2E">Tan Wen Ting Tristin (3/1)</span><br><span style="font-weight:400;color:#004D2E">Xu En (3/1)</span></td>  
+    <td class="tg-mwbt"><u>Librarians</u><br><span style="font-weight:400;color:#004D2E">Chen Lexuan (3/3)</span><br><span style="font-weight:400;color:#004D2E">Liang Bilan (3/3)</span></td>  
 </tr></tbody>
 </table>
 <br>
