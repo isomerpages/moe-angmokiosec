@@ -13,7 +13,7 @@ img {
 </style>  
 
 	
-  <img src="/images/AMKsian_Showcase_2024_Cover_page.jpg" alt="e Open House" style="width:100%;">
+  <img src="/images/Open_house_poster_2025.png" alt="e Open House" style="width:100%;">
 
 
 <br>
