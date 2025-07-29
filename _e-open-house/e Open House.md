@@ -21,5 +21,5 @@ img {
 *   [ABOUT US](/about-us/our-vision-mission-and-values/)
 *   [CORPORATE VIDEO](https://drive.google.com/file/d/15epdIGwR-hIxwEHbrcOgG5byLvinTaEC/view?usp=drivesdk)
 *   [FULL SUBJECT - BASED BANDING](/amksian-experience/full-subject-based-banding/)
-*   [AMKSS E- BROCHURE](/files/2024_AMKSS_Brochure.pdf)
+*   [AMKSS E- BROCHURE](https://issuu.com/touche-design/docs/ang_mo_kio_secondary_school)
 *   [AMKSIAN SHOWCASE 2024 PROGRAMME](/files/AMKsian_Showcase_2024_programme.pdf)
