@@ -18,3 +18,4 @@ variant: markdown
 * [Mission, Vision & School Values](https://staging.d2qcf83lbf7y8u.amplifyapp.com/about-us/our-vision-mission-and-values/)
 * [Direct School Admission](https://staging.d2qcf83lbf7y8u.amplifyapp.com/amksian-experience/direct-school-admission/)
 * [Open House ](https://www.angmokiosec.moe.edu.sg/e-open-house/)
+* [MOC 2026 ](https://drive.google.com/file/d/1WQkN2UWxWO5SrZcccvGJAHwfnld77c8o/view?usp=sharing)
