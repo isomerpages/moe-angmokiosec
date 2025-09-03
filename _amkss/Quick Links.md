@@ -4,7 +4,7 @@ permalink: /amkss/quick-links/
 description: ""
 variant: markdown
 ---
-* [2025 Semester 1 School Matters](https://staging-lite.d2clll877nnill.amplifyapp.com/amksian-experience/2025-semester-1-school-matters/)
+* [2025 Semester 2 School Matters](https://www.angmokiosec.moe.edu.sg/amksian-experience/2025-semester-2-school-matters/)
 * [2025 S1OC Parent Engagement (Principal's Welcome Address)](/files/2025_S1OC_Parent_Engagement__P_Welcome_Address_.pdf)
 * [2025 PDLP Parent Briefing Slides](/files/2025_PDLP_Parent_Briefing.pdf)
 *  [Student Calendar 2025](/files/Student_Calendar_2025_Updated_18_Nov_24.pdf)
