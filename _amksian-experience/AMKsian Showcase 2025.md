@@ -1,6 +1,6 @@
 ---
-title: AMKsian Showcase 2024
-permalink: /amksian-experience/amksian-showcase-2024/
+title: AMKsian Showcase 2025
+permalink: /amksian-experience/amksian-showcase-2025/
 description: ""
 variant: markdown
 ---
