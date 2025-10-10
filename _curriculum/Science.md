@@ -10,7 +10,7 @@ variant: markdown
 
 #### Staff Details
 
-![Science Department](/images/2024%20Department%20Photos/science_department_2.jpg)
+![Science Department](/images/2025%20Dept%20Photos/science_department_2.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
