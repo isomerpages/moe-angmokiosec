@@ -17,6 +17,14 @@ The AMKSS PE Curriculum aims to equip AMKsians with the knowledge, skills and at
 Develop and maintain physical fitness through participation in physical activities and enjoy a variety of sports and games.
 
 #### Staff Details
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/2025%20Dept%20Photos/aesthetics_department_2.jpg" alt="School Uniform" style="width:90%;">
 
 
 
