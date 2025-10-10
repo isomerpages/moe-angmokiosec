@@ -10,6 +10,15 @@ Enabling Possibilities through the Use of ICT
 
 #### Staff Details
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/2025%20Dept%20Photos/information_and_communication_technology_department_2.jpg" alt="School Uniform" style="width:90%;">
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
