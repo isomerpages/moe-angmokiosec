@@ -44,10 +44,13 @@ img {
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Yap Wee Leong Alvin</span><br><span style="font-weight:400;color:#004D2E">(SH / Physical Education &amp; CCA)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Ronnie Pang</td>
+    <td class="tg-bapb">Mr Muhammad Azizan</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Muhammad Azizan</td>
+    <td class="tg-wpup">Mr Mohamed yasin</td>
+  </tr>
+	 <tr>
+    <td class="tg-bapb">Mr Jeffrey Ong</td>
   </tr>
   
 </tbody>
