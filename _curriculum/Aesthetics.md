@@ -18,6 +18,7 @@ img {
 }  
 </style>  
 <img src="/images/2025%20Dept%20Photos/aesthetics_department_2.jpg" alt="School Uniform" style="width:90%;">
+<br>
   
 
 
