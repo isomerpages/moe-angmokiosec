@@ -10,7 +10,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
 
 #### Staff Details
 
-![Mother Tongue Department](/images/2024%20Department%20Photos/mother_tongue_language_department_2.jpg)
+![Mother Tongue Department](/images/2025%20Dept%20Photos/mother_tongue_language_department_2.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
