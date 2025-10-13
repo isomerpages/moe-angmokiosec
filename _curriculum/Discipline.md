@@ -9,6 +9,14 @@ variant: markdown
 Discipline From Within
 
 #### Staff Details
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/2025%20Dept%20Photos/discipline_committee_2.jpg" alt="School Uniform" style="width:90%;">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,10 +44,13 @@ Discipline From Within
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Yap Wee Leong Alvin</span><br><span style="font-weight:400;color:#004D2E">(SH / Physical Education &amp; CCA)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Ronnie Pang</td>
+    <td class="tg-bapb">Mr Muhammad Azizan</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Muhammad Azizan</td>
+    <td class="tg-wpup">Mr Mohamed yasin</td>
+  </tr>
+	 <tr>
+    <td class="tg-bapb">Mr Jeffrey Ong</td>
   </tr>
   
 </tbody>

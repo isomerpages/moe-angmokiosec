@@ -17,6 +17,14 @@ The AMKSS PE Curriculum aims to equip AMKsians with the knowledge, skills and at
 Develop and maintain physical fitness through participation in physical activities and enjoy a variety of sports and games.
 
 #### Staff Details
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/2025%20Dept%20Photos/physical_education_department_2.jpg" alt="School Uniform" style="width:90%;">
 
 
 
@@ -46,12 +54,12 @@ Develop and maintain physical fitness through participation in physical activiti
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Yap Wee Leong Alvin</span><br><span style="font-weight:400;color:#004D2E">(SH / Physical Education &amp; CCA)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Mohamed Yasin Bin Abdul Latif</td>
+    <td class="tg-bapb">Mr Muhammad Shufi Salleh<br><span style="font-weight:400;color:#004D2E">(ST / Physical Education &amp; CCA)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"></td>
+    <td class="tg-wpup">Mr Mohamed Yasin Bin Abdul Latif</td>
   </tr>
- 
+	 
 </tbody>
 </table>
 

@@ -10,7 +10,7 @@ variant: markdown
 
 #### Staff Details
 
-![Science Department](/images/2024%20Department%20Photos/science_department_2.jpg)
+![Science Department](/images/2025%20Dept%20Photos/science_department_2.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -52,7 +52,7 @@ variant: markdown
   </tr>
   
   <tr>
-    <td class="tg-bapb">Mr Ronnie Pang</td>
+    <td class="tg-bapb">Ms Ferng Yung Ying Audrey</td>
   </tr>
   
   <tr>
@@ -66,19 +66,17 @@ variant: markdown
   </tr>
   
   <tr>
-    <td class="tg-bapb">Ms Ferng Yung Ying Audrey</td>
+    <td class="tg-bapb">Miss Zhang Ruifang</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Zhang Ruifang</td>
+    <td class="tg-wpup">Mdm Nurshuaidah Musa</td>
   </tr>
   
   
   <tr>
-    <td class="tg-bapb">Mdm Nurshuaidah Musa</td>
+    <td class="tg-bapb">Mdm Yeo Ah Wee</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mdm Yeo Ah Wee</td>
-  </tr>
+  
 </tbody>
 </table>
 
