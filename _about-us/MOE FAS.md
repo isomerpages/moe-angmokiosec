@@ -48,12 +48,12 @@ MOE will be onboarding HOMES for means-testing of financial assistance from the 
   
 
 5.&nbsp; HOW TO APPLY?<br>
-&nbsp;&nbsp; &nbsp;<u>Online via the link below</u>&nbsp;  <br>
-&nbsp;&nbsp; &nbsp;Parents are encouraged to submit an online application using this link: <br>
+<u>Online via the link below</u>&nbsp;  <br>
+Parents are encouraged to submit an online application using this link: <br>
 <b><a href="https://go.gov.sg/moe-efas"><font color="#62C183">https://go.gov.sg/moe-efas</font></a></b>
 
-&nbsp;&nbsp; &nbsp;<u>Hardcopy Application</u><br>
-&nbsp;&nbsp; &nbsp;Parents can obtain the hard copy Application forms from the General Office or submit using the QR code below. 
+<u>Hardcopy Application</u><br>
+Parents can obtain the hard copy Application forms from the General Office or submit using the QR code below. 
 
 <style>  
 img {  
@@ -67,16 +67,8 @@ img {
   
 <br>
 
-5.&nbsp;&nbsp; &nbsp;Please note that application via hardcopy form is required for:&nbsp;  
 
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)&nbsp;
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;b. family with more than 5 children&nbsp;
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;c. family with more than 4 unmarried children&nbsp;
-
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;d. family with more than 3 grandparents in the household&nbsp;
 
   
 
-6.&nbsp; &nbsp;If your child is a ComCare recipient, they need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
+6.<b> Exceptions </b><br>If a student is a ComCare recipient, he/she does not need to submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
