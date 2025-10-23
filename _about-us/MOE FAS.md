@@ -50,7 +50,7 @@ MOE will be onboarding HOMES for means-testing of financial assistance from the 
 5.&nbsp; HOW TO APPLY?<br>
 <u>Online via the link below</u>&nbsp;  <br>
 Parents are encouraged to submit an online application using this link: <br>
-<b><a href="https://go.gov.sg/moe-efas"><font color="#62C183">https://go.gov.sg/moe-efas</font></a></b>
+<b><a href="https://go.gov.sg/moe-efasggas"><font color="#62C183">https://go.gov.sg/moe-efasggas</font></a></b>
 
 <u>Hardcopy Application</u><br>
 Parents can obtain the hard copy Application forms from the General Office or submit using the QR code below. 
