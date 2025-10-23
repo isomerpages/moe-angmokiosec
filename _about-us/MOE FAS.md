@@ -42,9 +42,12 @@ The Ministry of Education provides financial assistance to Singaporean students 
 </tbody>
 </table>
 
+4.&nbsp; <b> Onboarding to Household means Eligibility System (HOMES) </b><br>
+MOE will be onboarding HOMES for means-testing of financial assistance from the 2026 application cycle. This will streamline the application and means-testing processes, as most parents will no longer be required to submit supporting documents, thus making the application process more convenient.
+
   
 
-4.&nbsp; HOW TO APPLY?
+5.&nbsp; HOW TO APPLY?
 
 &nbsp;&nbsp; &nbsp;Hardcopy Application<br>
 &nbsp;&nbsp; &nbsp;Parents can obtain the hard copy Application forms from the General Office or school website.
