@@ -92,6 +92,9 @@ variant: markdown
   <tr>
     <td class="tg-mwbt"><u>Band Major (Admin)</u><br><span style="font-weight:400;color:#004D2E">Ma Qiteng Jaycee (3/2)</span></td>
   </tr>
+	<tr>
+    <td class="tg-mwbt"><u>Drum Major</u><br><span style="font-weight:400;color:#004D2E">Lee Jin (3/3)</span></td>
+  </tr>
   <tr>
     <td class="tg-mwbt"><u>Secretary</u><br><span style="font-weight:400;color:#004D2E">Muhammad Raiyan Bin Puteh (3/2)</span></td>
   </tr>	

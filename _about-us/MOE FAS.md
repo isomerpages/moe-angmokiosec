@@ -2,18 +2,19 @@
 title: MOE FAS
 permalink: /about-us/moe-fas/
 description: ""
+variant: markdown
 ---
-2023 MOE FAS APPLICATION  
+2026 MOE FAS APPLICATION  
 
-The Ministry of Education provides financial assistance to Singaporean students who need financial assistance.
-
-  
-
-2.  The 2023 MOE FAS is now open for application.  
+The Ministry of Education provides financial assistance to <u>Singaporean students </u>who need financial assistance.
 
   
 
-3.  Income Criterion :   
+2.&nbsp; The 2026 MOE FAS is <u>now open for application.</u>  
+
+  
+
+3.&nbsp; <b>MOE FAS Income Criterion </b> :&nbsp;  
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -28,7 +29,7 @@ The Ministry of Education provides financial assistance to Singaporean students 
 <table class="tg" style="border: 1px solid black">
 <thead>
   <tr style="border: 1px solid black">
-    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $3,000 or below</span></th>
+    <th class="tg-tlx9" colspan="5" style="border: 1px solid black"><span style="font-weight:normal">Gross Monthly Household Income = $4,000 or below</span></th>
   </tr>
 </thead>
 <tbody>
@@ -36,26 +37,23 @@ The Ministry of Education provides financial assistance to Singaporean students 
     <td class="tg-x2e3" colspan="5" style="border: 1px solid black"><span style="color:#444;background-color:#EEE">OR</span></td>
   </tr>
   <tr>
-    <td class="tg-nk7v" colspan="5" style="border: 1px solid black"><span style="color:#444">Per Capita Income = $750 or below</span><br><span style="color:#444">(Per Capita Income = Total Gross Monthly Household Income divided by the No. of Household Members)</span></td>
+    <td class="tg-nk7v" colspan="5" style="border: 1px solid black"><span style="color:#444">Per Capita Income = $1000 or below</span><br><span style="color:#444">(Per Capita Income = Total Gross Monthly Household Income divided by the No. of Household Members)</span></td>
   </tr>
 </tbody>
 </table>
 
-  
-
-4.  HOW TO APPLY?
-
-    Hardcopy Application<br>
-    Parents can obtain the hard copy Application forms from the General Office or school website.
+4.&nbsp; <b> Onboarding to Household means Eligibility System (HOMES) </b><br>
+MOE will be onboarding HOMES for means-testing of financial assistance from the 2026 application cycle. This will streamline the application and means-testing processes, as most parents will no longer be required to submit supporting documents, thus making the application process more convenient.
 
   
 
-    Online via the link /QR code below   <br>
-    Parents can also apply via the link /QR code below :
+5.&nbsp; HOW TO APPLY?<br>
+<u>Online via the link below</u>&nbsp;  <br>
+Parents are encouraged to submit an online application using this link: <br>
+<b><a href="https://go.gov.sg/moe-efasggas"><font color="#62C183">https://go.gov.sg/moe-efasggas</font></a></b>
 
-  
-
-<b><a href="https://go.gov.sg/moe-efas"><font color="#62C183">https://go.gov.sg/moe-efas</font></a></b>
+<u>Hardcopy Application</u><br>
+Parents can obtain the hard copy Application forms from the General Office or submit using the QR code below. 
 
 <style>  
 img {  
@@ -64,31 +62,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/MOE%20FAS.jpeg" style="width:35%;">  
+<img src="/images/MOE_FAS_2025.png" style="width:35%;">  
   
-</body>  
+  
 <br>
 
-5.    Please note that application via hardcopy form is required for:   
 
-        a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) 
-
-        b. family with more than 5 children 
-
-        c. family with more than 4 unmarried children 
-
-        d. family with more than 3 grandparents in the household 
 
   
 
-6.   If your child is a ComCare recipient, they need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
-
-  
-
-Please click here for :
-
-1.    <b><a href="/files/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf"><font color="#62C183">MOE FAS Pamphlet EL for Schools</font></a></b>
-
-2.   <b><a href="/files/MOE%20FAS%20Application%20Form%20Sep%202022%20Revised.pdf"><font color="#62C183">MOE FAS Application Form Sep 2022</font></a></b>
-
-3.   <b><a href="/files/eFAS%20User%20Guide_AMKSS.pdf"><font color="#62C183">eFAS User Guide - AMKSS</font></a></b>
+6.<b> Exceptions </b><br>If a student is a ComCare recipient, he/she does not need to submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
