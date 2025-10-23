@@ -6,7 +6,7 @@ variant: markdown
 ---
 2026 MOE FAS APPLICATION  
 
-The Ministry of Education provides financial assistance to Singaporean students who need financial assistance.
+The Ministry of Education provides financial assistance to <u>Singaporean students </u>who need financial assistance.
 
   
 
