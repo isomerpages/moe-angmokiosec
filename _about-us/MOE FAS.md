@@ -80,6 +80,3 @@ img {
   
 
 6.&nbsp; &nbsp;If your child is a ComCare recipient, they need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.
-
-  
-
