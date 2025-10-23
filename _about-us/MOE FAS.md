@@ -10,7 +10,7 @@ The Ministry of Education provides financial assistance to <u>Singaporean studen
 
   
 
-2.&nbsp; The 2026 MOE FAS is now open for application.  
+2.&nbsp; The 2026 MOE FAS is <u>now open for application.</u>  
 
   
 
