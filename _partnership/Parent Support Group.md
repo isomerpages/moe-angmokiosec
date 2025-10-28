@@ -23,4 +23,3 @@ Registration Link : [https://go.gov.sg/tpk2sec-aug25](https://go.gov.sg/tpk2sec-
 <h4><font color="#ABE9CD">4. Events Photo</font></h4>
 
 ![CNY Lohei](/images/PSG_2025.jpg)
-
