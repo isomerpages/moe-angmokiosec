@@ -18,7 +18,7 @@ Seminar Dates  : 16 &amp; 23 August 2025, Saturday <br>
 Seminar Timing : 10:00 am - 12:30 pm <br>
 Registration Link : [https://go.gov.sg/tpk2sec-aug25](https://go.gov.sg/tpk2sec-aug25)
 
-
+###### [Triple P 2025 Publicity Brochure](/files/Triple_P_L2_Teen__Aug_25_.pdf)
 
 <h4><font color="#ABE9CD">4. Events Photo</font></h4>
 
