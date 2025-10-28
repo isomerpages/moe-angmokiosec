@@ -19,38 +19,8 @@ Seminar Timing : 10:00 am - 12:30 pm <br>
 Registration Link : [https://go.gov.sg/tpk2sec-aug25](https://go.gov.sg/tpk2sec-aug25)
 
 
-<h4><font color="#ABE9CD">4. Useful Resources for Parents </font></h4>
 
-(a) MOE Parent Kit<br>
-<a href="https://go.gov.sg/moe-parentkit"><font color="#62C183">https://go.gov.sg/moe-parentkit</font></a>
+<h4><font color="#ABE9CD">4. Events Photo</font></h4>
 
-<p><a href="/files/journeying-through-challenging-times-together.pdf">
-<img src="/images/MOE%20Parent%20Kit.png" style="width:30%">
-</a></p>
+![CNY Lohei](/images/PSG_2025.jpg)
 
-Details of the upcoming parenting Zoom webinar series conducted in English  on Saturdays are as follows.<br><br>
-<b>
-Seminar 1: Raising Responsible Teenagers <br>
-Seminar 2:  Raising Competent Teenagers <br>
-Seminar 3: Getting Teenagers Connected <br><br>
-Seminar 1 &amp; 2: <br>
-Date: 14 September 2024 <br>
-Time:  10am – 12.30pm <br><br>
-Seminar 3: <br>
-Date: 21 September 2024<br>
-Time: 10am – 12.00pm
-</b>
-
-
-
-
-
-<h4><font color="#ABE9CD">5. Events Photo</font></h4>
-
-![CNY Lohei](/images/PSG%202023/psg%203_2023.jpg)
-
-![PSG GP1](/images/PSG%202023/psg%201%20_2023.jpg)
-
-![PSG GP2](/images/PSG%202023/psg%202_2023.jpg)
-
-![PSG GP3](/images/PSG%202023/psg%204_2023.jpg)
