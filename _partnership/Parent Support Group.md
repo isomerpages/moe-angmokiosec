@@ -17,7 +17,7 @@ variant: markdown
 
 
 
-<h4><font color="#ABE9CD">3. Positive Parenting Programme </font></h4>
+<h4><font color="#ABE9CD">3. Triple P 2025 (Eng) </font></h4>
 
 Triple P Parenting Zoom webinar series. The webinar series will be conducted on Saturdays and in English. 
 
