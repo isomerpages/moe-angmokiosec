@@ -1,6 +1,0 @@
-collections:
-  open-house-old:
-    output: true
-    order:
-      - Open House.md
-      - Corporate Video.md
