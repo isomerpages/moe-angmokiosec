@@ -2,5 +2,5 @@ collections:
   open-house:
     output: true
     order:
-      - Corporate Video.md
       - Open House.md
+      - Corporate Video.md
