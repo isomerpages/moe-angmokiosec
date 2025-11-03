@@ -23,3 +23,30 @@ Registration Link : [https://go.gov.sg/tpl2sec-aug25](https://go.gov.sg/tpl2sec-
 <h4><font color="#ABE9CD">4. Events Photo</font></h4>
 
 ![CNY Lohei](/images/PSG_2025.jpg)
+
+Dear Fellow Parents,
+
+Welcome to Ang Mo Kio Secondary School. Our AMKSS Parents Support Group (PSG) is here to support the transition of your children and you to AMKSS.
+
+Established since Dec 2003, AMKSS-PSG is a voluntary group with the following objectives:
+- to promote school, home and community collaboration for mutual benefit and quality of education.
+- to support the school initiatives and projects in order to help our children achieve excellence in the holistic education.
+- to grow the network among parents through activities with the school.
+
+We now have a team of more than 50 active parents in PSG and many have children who have already graduated from AMKSS.
+
+We sincerely welcome you and/or your spouse to join us as a member by volunteering your time and expertise. Do approach us via Whatsapp or email for any information or support required.
+
+As PSG member, you will:
+1. Enjoy subsidised educational talks/ workshops and other events.
+2. Network with fellow parents in the same school.
+3. Be kept informed of the latest development in Singapore education landscape and happenings in AMKSS.
+4. Have the opportunity to give feedback, brainstorm ideas, assist and co-ordinate projects, etc
+5. Be more in touch with the school’s programmes by participating and contributing new ideas that will improve our children’s well-being and learning.
+
+Come join us by completing this PSG Membership form (https://go.gov.sg/psg-signup) .
+
+Yours sincerely,
+Ms Janet Choy
+Chairman, AMKSS Parent Support Group (PSG)
+AMKSSPSG@gmail.com
