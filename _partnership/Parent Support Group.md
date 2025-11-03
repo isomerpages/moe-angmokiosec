@@ -44,9 +44,9 @@ As PSG member, you will:
 4. Have the opportunity to give feedback, brainstorm ideas, assist and co-ordinate projects, etc
 5. Be more in touch with the school’s programmes by participating and contributing new ideas that will improve our children’s well-being and learning.
 
-Come join us by completing this PSG Membership form (https://go.gov.sg/psg-signup) .
+Come join us by completing this PSG Membership form [https://go.gov.sg/psg-signup](https://go.gov.sg/psg-signup) .
 
-Yours sincerely,
-Ms Janet Choy
-Chairman, AMKSS Parent Support Group (PSG)
-AMKSSPSG@gmail.com
+Yours sincerely, <br>
+Ms Janet Choy <br>
+Chairman, AMKSS Parent Support Group (PSG)<br>
+[AMKSSPSG@gmail.com](AMKSSPSG@gmail.com)
