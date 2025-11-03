@@ -1,19 +1,19 @@
 ---
-title: e Open House
-permalink: /e-open-house/
+title: Open House
+permalink: /open-house/
 description: ""
 variant: markdown
 ---
 <style>  
 img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
 }  
 </style>  
 
 	
-  <img src="/images/Open_house_poster_2025.png" alt="e Open House" style="width:100%;">
+  <img src="/images/Open_house_poster_2025.png" alt="Open House" style="width:100%;">
 
 
 <br>
