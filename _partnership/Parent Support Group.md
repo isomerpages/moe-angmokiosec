@@ -49,4 +49,4 @@ Come join us by completing this PSG Membership form [https://go.gov.sg/psg-signu
 Yours sincerely, <br>
 Ms Janet Choy <br>
 Chairman, AMKSS Parent Support Group (PSG)<br>
-[AMKSSPSG@gmail.com](AMKSSPSG@gmail.com)
+<a href="mailto:AMKSSPSG@gmail.com" rel="noopener noreferrer nofollow" target="_blank">AMKSSPSG@gmail.com</a>
