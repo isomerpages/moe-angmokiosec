@@ -4,7 +4,7 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
-##### **[2026 Secondary One Posting Exercise](https://go.gov.sg/2026sec1posting/)**
+##### **[2026 Secondary One Posting Exercise](https://go.gov.sg/2026sec1posting)**
 
 
 
