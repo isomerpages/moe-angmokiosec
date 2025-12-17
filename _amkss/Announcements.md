@@ -6,7 +6,7 @@ variant: markdown
 ---
 ##### 2026 Secondary 1 Registration 
 
-Dear Parents/Guardians and Students, <br>Welcome to Ang Mo Kio Secondary School!
+Dear Parents / Guardians and Students, <br>Welcome to Ang Mo Kio Secondary School!
 
 All information with regards to the Secondary 1 Registration will be communicated through Parents Gateway (PG) and the 2026 Sec 1 Posting Microsite here: [2026 Secondary One Posting Exercise](https://go.gov.sg/2026sec1posting)
 
