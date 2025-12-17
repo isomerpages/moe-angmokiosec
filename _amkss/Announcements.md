@@ -10,7 +10,7 @@ Dear parents/guardians and students, welcome to Ang Mo Kio Secondary School!
 
 All information with regards to the Secondary 1 Registration will be communicated through Parents Gateway (PG) and the 2026 Sec 1 Posting Microsite here: [2026 Secondary One Posting Exercise](https://go.gov.sg/2026sec1posting)
 
-Secondary 1 students are to report to school on Friday 2 January 2026 at 7.20am. Parents and students are NOT required to physically report to Ang Mo Kio Secondary School for the registration in December 2025.
+Secondary 1 students are to report to school on Friday 2 January 2026 at 7.20am. <br>Parents and students are<b> NOT</b> required to physically report to Ang Mo Kio Secondary School for the registration in December 2025.
 
 
 
