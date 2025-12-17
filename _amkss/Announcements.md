@@ -4,18 +4,17 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
-##### **[2025 Semester 2 School Matters](/amksian-experience/2025-semester-2-school-matters/)**
-Dear AMKsians, please click on the link above to access the following documents:
-*  Class Timetable 2025, Semester 2
-*  Classroom Allocation 2025
-*  HBL Schedule 2025
+##### 2026 Secondary 1 Registration 
+
+Dear parents/guardians and students, welcome to Ang Mo Kio Secondary School!
+
+All information with regards to the Secondary 1 Registration will be communicated through Parents Gateway (PG) and the 2026 Sec 1 Posting Microsite here: [2026 Secondary One Posting Exercise](https://go.gov.sg/2026sec1posting)
+
+Secondary 1 students are to report to school on Friday 2 January 2026 at 7.20am. <br>Parents and students are<b> NOT</b> required to physically report to Ang Mo Kio Secondary School for the registration in December 2025.
 
 
-##### **Collection of School Graduation Certificates 2024 Cohort** 
 
-Dear 4N Graduates of 2024 Cohort (4A1/4A2/4A3): <br> <br>
-The School Graduation Certificates (SGC) folders (together with SGC testimonials and CCA Reports) are ready for collection. Collection is to be done within three months from now <b>i.e. by 29 Aug 2025 (Friday). </b><br><br>
-Do remember to bring along your proof of identity (EZ Link card or IC) to collect your certificates from the school’s General Office, between Monday to Friday (except public holidays),<b> 9am to 5pm.</b> Thank you. 
+
 
 ##### **Parents Gateway**  
 
