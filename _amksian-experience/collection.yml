@@ -2,6 +2,7 @@ collections:
   amksian-experience:
     output: true
     order:
+      - 2026 Secondary 1 Registration.md
       - Full Subject Based Banding.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
