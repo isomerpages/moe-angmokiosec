@@ -4,7 +4,7 @@ permalink: /amkss/announcements/
 description: ""
 variant: markdown
 ---
-##### Secondary 1 Registration 
+##### 2026 Secondary 1 Registration 
 
 Dear parents/guardians and students, welcome to Ang Mo Kio Secondary School!
 
