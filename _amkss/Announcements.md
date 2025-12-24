@@ -12,7 +12,7 @@ All information with regards to the Secondary 1 Registration will be communicate
 
 Secondary 1 students are to report to school on Friday 2 January 2026 at 7.20am. <br>Parents and students are<b> NOT</b> required to physically report to Ang Mo Kio Secondary School for the registration in December 2025.
 
-##### 2026 First Day of School Matters
+##### [2026 First Day of School Matters](2026%20Semester%201%20School%20Matters.md)
 
 Dear AMKsians, <br>Please click on the link above to access the following documents: <br>
 * Class Timetable 2026, Semester 1 Odd Week <br>
