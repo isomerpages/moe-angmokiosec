@@ -8,16 +8,16 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Class_Sem_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Class Timetable 2025, Semester 2 </a>
+<p><a href="/files/Class_Odd_Week_Sem_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Class Timetable 2026, Semester 1 Odd Week </a>
 </p>
 </li>
 
 <li>
-<p><a href="/files/Classroom_allocation_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Classroom Allocation 2025</a>
+<p><a href="/files/Class_Even_Week_Sem_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Class Timetable 2026, Semester 1 Even Week</a>
 </p>
 </li>
 	<li>
-<p><a href="/files/HBL_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Schedule 2025</a>
+<p><a href="/files/HBL_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Schedule 2026</a>
 </p>
 <p></p>
 </li>
