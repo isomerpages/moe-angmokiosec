@@ -17,7 +17,7 @@ description: ""
 </p>
 </li>
 	<li>
-<p><a href="/files/HBL_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Schedule 2026</a>
+<p><a href="/files/HBL Schedule 2026_updated_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Schedule 2026 Updated</a>
 	</p>
 </li>
 	<li>
