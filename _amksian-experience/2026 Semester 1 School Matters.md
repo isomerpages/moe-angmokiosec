@@ -18,8 +18,7 @@ description: ""
 </li>
 	<li>
 <p><a href="/files/HBL_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Schedule 2026</a>
-</p>
-<p></p>
+	</p>
 </li>
-</ul>
-<p></p>
+	<li>
+<p><a href="/files/First_Day_Of_School_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School Programme 2026</a></p></li></ul>
