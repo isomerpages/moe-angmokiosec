@@ -8,9 +8,16 @@ variant: markdown
 
 Dear Parents / Guardians and Students, <br>Welcome to Ang Mo Kio Secondary School!
 
-All information with regards to the Secondary 1 Registration will be communicated through Parents Gateway (PG) and the 2026 Sec 1 Posting Microsite.<br>Please click the link below to access the site.<br><b>[2026 Secondary One Registration Exercise](https://go.gov.sg/2026sec1posting)</b>.
+All information with regards to the Secondary 1 Registration will be communicated through Parents Gateway (PG) and the 2026 Sec 1 Posting Microsite.<br>Please click the link below to access the site.<br><b>[2026 Secondary One Registration Exercise](https://go.gov.sg/2026sec1posting)</b>
 
 Secondary 1 students are to report to school on Friday 2 January 2026 at 7.20am. <br>Parents and students are<b> NOT</b> required to physically report to Ang Mo Kio Secondary School for the registration in December 2025.
+
+##### <b> [2026 First Day of School Matters](/amksian-experience/2026-semester-1-school-matters/)</b>
+
+Dear AMKsians, <br>Please click on the link above to access the following documents: <br>
+* Class Timetable 2026, Semester 1 Odd Week <br>
+* Class Timetable 2026, Semester 1 Even Week <br>
+*  HBL Schedule 2026
 
 
 
