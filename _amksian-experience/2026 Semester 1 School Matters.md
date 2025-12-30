@@ -25,4 +25,4 @@ description: ""
 		</p>
 </li>
 	<li>
-<p><a href="/files/AMKSS Classroom Allocation 2026.pdf" rel="noopener noreferrer nofollow" target="_blank">AMKSS Classroom Allocation 2026</a></p></li></ul>
+<p><a href="/files/amkss classroom allocation 2026.pdf" rel="noopener noreferrer nofollow" target="_blank">AMKSS Classroom Allocation 2026</a></p></li></ul>
