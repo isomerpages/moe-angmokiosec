@@ -21,4 +21,8 @@ description: ""
 	</p>
 </li>
 	<li>
-<p><a href="/files/First_Day_Of_School_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School Programme 2026</a></p></li></ul>
+<p><a href="/files/First_Day_Of_School_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">First Day of School Programme 2026</a>
+		</p>
+</li>
+	<li>
+<p><a href="/files/AMKSS Classroom Allocation 2026.pdf" rel="noopener noreferrer nofollow" target="_blank">AMKSS Classroom Allocation 2026</a></p></li></ul>
