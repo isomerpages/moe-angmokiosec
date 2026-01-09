@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 *  [Student Calendar 2026](/files/Students_Calendar_2026__Updated_24_Nov_.pdf)
+*  [CCA Schedule 2026](/files/CCA_Schedule_2026.pdf)
 *  [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
 * [Parent Support Group (PSG)](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/parent-support-group/)
 * [School Achievements](https://staging.d2qcf83lbf7y8u.amplifyapp.com/partnership/alumni/)
