@@ -19,7 +19,7 @@ Dear AMKsians, <br>Please click on the links below to access the respective docu
 * [Class Timetable 2026, Semester 1 Even Week](/files/Class_Even_Week_Sem_1_2026.pdf) <br>
 * [HBL Schedule 2026 updated](/files/HBL_Schedule_2026_updated.pdf) <br>
 * [First Day of School Programme 2026](/files/First_Day_Of_School_School_Website.pdf) <br>
-* [AMKSS Classroom Allocation 2026](/files/amkss%20classroom%20allocation%202026.pdf)
+* [AMKSS Classroom Allocation 2026](/files/amkss%20classroom%20allocation%202026.pdf) <br>
 * [CCA Schedule 2026](/files/CCA_Schedule_2026.pdf)
 
 
