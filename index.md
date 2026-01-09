@@ -26,7 +26,7 @@ sections:
           link_url: /files/CCA_Schedule_2026.pdf
         - title: 2026 Student Calendar
           date: 30 December 2025
-          announcement: Please click on the link to access 2026 School Calendar
+          announcement: Please click on the link to access 2026 Student Calendar
           link_text: 2026 Student Calendar
           link_url: /files/Students_Calendar_2026__Updated_24_Nov_.pdf
 ---
