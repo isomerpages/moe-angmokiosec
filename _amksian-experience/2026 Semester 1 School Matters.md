@@ -27,5 +27,5 @@ description: ""
 	<li>
 <p><a href="/files/amkss classroom allocation 2026.pdf" rel="noopener noreferrer nofollow" target="_blank">AMKSS Classroom Allocation 2026</a></p></li>
 <li>
-<p><a href="/files/amkss classroom allocation 2026.pdf" rel="noopener noreferrer nofollow" target="_blank">AMKSS Classroom Allocation 2026</a></p></li>
+<p><a href="/files/CCA_Schedule_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule 2026</a></p></li>
 </ul>
