@@ -8,20 +8,20 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Class_Odd_Week_Sem_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Welcome Address </a>
+<p><a href="/files/2026_S1OC_Parent_Engagement__P_Welcome_Address_.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Welcome Address </a>
 </p>
 </li>
 
 <li>
-<p><a href="/files/Class_Even_Week_Sem_1_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Address</a>
+<p><a href="/files/2026_S1OC_Parent_Engagement__YH_Address_.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Address</a>
 </p>
 </li>
 	<li>
-<p><a href="/files/HBL_Schedule_2026_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP Briefing</a>
+<p><a href="/files/2026_S1OC_Parent_Engagement__PDLP_.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP Briefing</a>
 	</p>
 </li>
 	<li>
-<p><a href="/files/First_Day_Of_School_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA LEAPS 2.0</a>
+<p><a href="/files/2026_S1OC_Parent_Engagement__CCA_LEAPS_2_0_.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA LEAPS 2.0</a>
 		</p>
 </li>
 	
