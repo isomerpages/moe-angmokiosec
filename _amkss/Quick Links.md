@@ -4,6 +4,10 @@ permalink: /amkss/quick-links/
 description: ""
 variant: markdown
 ---
+*  [S1OC Principal's Welcome Address](/files/2026_S1OC_Parent_Engagement__P_Welcome_Address_.pdf)
+*  [S1OC Year Head's Address](/files/2026_S1OC_Parent_Engagement__YH_Address_.pdf)
+*  [S1OC PDLP Briefing](/files/2026_S1OC_Parent_Engagement__PDLP_.pdf)
+*  [S1OC CCA LEAPS 2.0](/files/2026_S1OC_Parent_Engagement__CCA_LEAPS_2_0_.pdf)
 *  [Student Calendar 2026](/files/Students_Calendar_2026__Updated_24_Nov_.pdf)
 *  [CCA Schedule 2026](/files/CCA_Schedule_2026.pdf)
 *  [Application Form for LOA](https://go.gov.sg/amkssloaapplication)
