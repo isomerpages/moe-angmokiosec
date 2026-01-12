@@ -19,6 +19,12 @@ sections:
       title: 2026 Semester 1  School Matters
       id: announcements
       announcement_items:
+        - title: 2026 S1OC Parent Engagement
+          date: 12 January 2026
+          announcement: Please click on the link to access 2026 S1OC Parent Engagement
+            Materials
+          link_text: 2026 S1OC Parent Engagement Materials
+          link_url: /2026-secondary-one-orientation-camp-s1oc-parent-engagement-materials/
         - title: 2026 CCA Schedule
           date: 09 January 2026
           announcement: Please click on the link to access 2026 CCA Schedule
@@ -29,10 +35,4 @@ sections:
           announcement: Please click on the link to access 2026 Student Calendar
           link_text: 2026 Student Calendar
           link_url: /files/Students_Calendar_2026__Updated_24_Nov_.pdf
-        - title: 2026 S1OC Parent Engagement
-          date: 12 January 2026
-          announcement: Please click on the link to access 2026 S1OC Parent Engagement
-            Materials
-          link_text: 2026 S1OC Parent Engagement Materials
-          link_url: /2026-secondary-one-orientation-camp-s1oc-parent-engagement-materials/
 ---
