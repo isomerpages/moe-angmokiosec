@@ -23,6 +23,5 @@ description: ""
 	<li>
 <p><a href="/files/2026_S1OC_Parent_Engagement__CCA_LEAPS_2_0_.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA LEAPS 2.0</a>
 		</p>
-</li>
-	
+</li>	
 </ul>
