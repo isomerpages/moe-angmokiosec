@@ -167,24 +167,24 @@ variant: markdown
 “Ang Mo Kio! Ace! Ace! So!!!”, That’s the battle cry that will ring out whenever our badminton players are about to step on
 court to battle in the recent National School Games badminton competition. Cheering before a match has been a tradition of
 the badminton team all these years and this year was no different. It has not only helped enhance team spirit and unity but
-also given our players a psychological edge during the match.
+also given our players a psychological edge during the match. <br>
 
 Team AMKSS trains thrice a week in order to help the students build badminton skills and to train their grit and resilience in
 getting things right. Our senior school teams have consistently achieved Top 4 placing in the very competitive South Zone
 Badminton Competitions over the years. One of our alumni, Mr Kelvin Ho, is the coach of our national players like Loh Kean
-Yew and Yeo Jia Min.
+Yew and Yeo Jia Min.<br><br>
 This year, our C Division boys and girls continued our tradition of making our presence felt in the highly competitive arena by
 coming in First Place in their respective leagues (League 3 for the girls and League 4 for the boys). Although our B Division
 boys and girls did not make it into the top 4, they displayed resilience and good sportsmanship. With the lessons learnt from
-this year, our B division teams will be training hard to achieve the top four positions in their league next year.
+this year, our B division teams will be training hard to achieve the top four positions in their league next year.<br><br>
 Besides pushing boundaries in the sports arena, Team AMKSS also seeks developmental opportunities by empowering our
 student leaders and members to learn and grow through the planning and execution of bonding sessions and friendly
 matches. In May this year, our Secondary 3 badminton leaders were involved in the planning and execution of our CCA’s
 bonding session as well as our Sec 4 graduation ceremony. This gave them the opportunity of experiencing the rigour of
-planning activities as well as running an event.
+planning activities as well as running an event. <br><br>
 In February this year, our Secondary 2 badminton leaders organised a Secondary 1 Welcome Ceremony to induct their
 juniors into the CCA. Besides introducing them to the captains, coaches and teachers-in-charge, ice breakers and bonding
 games like Pictionary were played. Goodie bags and prizes were given out to all participants and winners of the bonding
 games respectively. It was a fun filled afternoon and from the smiles on the faces of the Secondary 1s, one could clearly tell
-they enjoyed the session a lot.
+they enjoyed the session a lot.<br><br>
 As we look ahead to 2026, our hope is for the Badminton club to continue to grow in strength and unity.
