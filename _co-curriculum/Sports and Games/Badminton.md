@@ -109,7 +109,7 @@ variant: markdown
 </span></td>
   </tr>
 	<tr>
-    <td class="tg-wpup"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Milan Yong Jee Kia (3/4)<br>Cheng Mei Ting (3/4)
+    <td class="tg-wpup"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Ang Wern Ni Gianna (3/2)<br>Ong Yi Leng (3/3)
 			</span></td>
     <td class="tg-wpup"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Poh Xiang Jun Aden (3/1)<br>Wong Guan Lin (3/4)</span></td>
   </tr>
