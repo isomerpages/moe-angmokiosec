@@ -88,14 +88,14 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Executive Committee for 2023/2024 GIRLS TEAM</th>
-    <th class="tg-avji">Executive Committee for 2023/2024 BOYS TEAM</th>
+    <th class="tg-mwif">Executive Committee for 2024/2025 GIRLS TEAM</th>
+    <th class="tg-avji">Executive Committee for 2024/2025 BOYS TEAM</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Wong Kar Wai Kaylin (4/4)</span></td>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Bryan Lim En Song (4/3)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Alyssa Lim Jia Qi (4A2)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Damien Goh Jin Wei (4A3)</span></td>
   </tr>
   <tr>
     <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Karina Ling Sing Tee (4/2)<br>Chloe Choo Shi Mun (4/4)
