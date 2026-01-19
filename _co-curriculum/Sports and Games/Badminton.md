@@ -111,7 +111,7 @@ variant: markdown
 	<tr>
     <td class="tg-wpup"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Ang Wern Ni Gianna (3/2)<br>Ong Yi Leng (3/3)
 			</span></td>
-    <td class="tg-wpup"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Poh Xiang Jun Aden (3/1)<br>Wong Guan Lin (3/4)</span></td>
+    <td class="tg-wpup"><b><u>Sec 3 Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Ho Yu Hang (3/2)<br>Wong Kai Kit Damien (3/4)</span></td>
   </tr>
   
   
