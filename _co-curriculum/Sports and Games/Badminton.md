@@ -32,10 +32,10 @@ variant: markdown
     <td class="tg-wpup">Ms Amiliyah (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Bryan Yam<br></td>
+    <td class="tg-bapb">Mdm Anantha<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mdm Anantha<br></td>
+    <td class="tg-wpup">Mr Bryan Yam<br></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mr Lim Kwang Hock<br></td>
