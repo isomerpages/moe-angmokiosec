@@ -136,10 +136,11 @@ variant: markdown
 </thead>
 <tbody>
 	<tr>
-		<td class="tg-bapb"><u>C Division 2024</u> <br>Qualified for League 3 of Badminton National School Games – Girls<br></td>
+		<td class="tg-bapb">First place for 2025 Singapore Schools Sports Council Badminton National ‘C’ Division League 3 – Girls
+<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Qualified for League 4 of Badminton National School Games - Boys</td>
+    <td class="tg-wpup">First place for 2025 Singapore Schools Sports Council Badminton National ‘C’ Division League 4 - Boys</td>
   </tr>
   <tr>
     <td class="tg-bapb">South Zone Badminton Competition B Boys (Top 8) in 2024<br></td>
