@@ -98,14 +98,14 @@ variant: markdown
     <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Damien Goh Jin Wei (4A3)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Karina Ling Sing Tee (4/2)<br>Chloe Choo Shi Mun (4/4)
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Milan Yang Jae Kia (4/4)<br>Cheng Mei Ting (4/4)
 </span></td>
-    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Chen Wei Chen (4/1)<br>Kwok Zung Han (4/4)
+    <td class="tg-wpup"><b><u>B Division Vice-Captains</u></b><br><span style="font-weight:400;color:#004D2E">Poh Xiang Jun Aden (4/1)<br>Wong Guan Lin (4/4)
 </span></td>
   </tr>  
   <tr>
-    <td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Alyssa Lim Jia Qi (3A2)</span></td>
-		<td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Damien Goh Jin Wei (3A3)
+    <td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kwok Si Tung (3/4)</span></td>
+		<td class="tg-bapb"><b><u>Sec 3 Captain</u></b><br><span style="font-weight:400;color:#004D2E">Lim Jing Hang (3/4)
 </span></td>
   </tr>
 	<tr>
