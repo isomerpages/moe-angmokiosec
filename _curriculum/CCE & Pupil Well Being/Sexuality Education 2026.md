@@ -52,7 +52,7 @@ information on MOE Sexuality Education.</p>
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
 in the school curriculum.</p>
 </li>
 <li>
@@ -87,7 +87,7 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
-<p><strong>At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2025:</u></strong>
+<p><strong>At Ang Mo Kio Secondary School, the following Sexuality Education lessons will be taught in <u>2026:</u></strong>
 </p>
 <h6>SECONDARY 1</h6>
 <img style="width: 100%" height="auto" width="100%" alt="Sec 1 2023" src="/images/Sec_1_SexEd_2025.png">
