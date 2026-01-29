@@ -110,12 +110,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <h5><em><u>eTeens</u></em><u> Programme:</u></h5>
 <ol start="8">
 <li>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions</p>
+<p>eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.</p>
 </li>
 <li>
 <p>Students are taught skills such as decision-making, assertiveness and
@@ -125,7 +120,7 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2025</u>:</strong>
+<p><strong>At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2026</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="e teen 2023" src="/images/e_Teens_2025.png">
