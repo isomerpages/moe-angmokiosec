@@ -123,7 +123,7 @@ Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Ang Mo Kio Secondary School, the eTeens Programme will be implemented as follows in&nbsp;<u>2026</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="e teen 2023" src="/images/e_Teens_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="e teen 2023" src="/images/e_teens_2026.png">
 </div>
 <h5>Information for Parents</h5>
 <ol start="10">
