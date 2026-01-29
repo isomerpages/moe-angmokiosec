@@ -44,7 +44,7 @@ ones.</p>
 </ol>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF ANG MO KIO SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF ANG MO KIO SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
