@@ -141,7 +141,7 @@ The completed form is to be submitted by <u><b>06/02/2026.</b></u></p>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>eTeens programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/2025_eTeens_Programme_Opt_out_form_24_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+at the start of the year and is also available&nbsp;<a href="/files/2025_eTeens_Programme_Opt_out_form_24_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by <u><b>06/02/2026.</b></u></p>
 </li>
 <li>
