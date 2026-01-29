@@ -135,7 +135,7 @@ external providers.</p>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available&nbsp;<a href="/files/2025_Annex_A_Opt_out_form_Sec__updated_24_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+at the start of the year and is also available&nbsp;<a href="/files/2026_Annex_A_Opt_out_form_Sec__updated_22_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by <u><b>06/02/2026.</b></u></p>
 </li>
 <li>
