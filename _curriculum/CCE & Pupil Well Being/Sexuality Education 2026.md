@@ -93,19 +93,19 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Sec 1 2023" src="/images/Sec_1_2026.png">
 <h6>SECONDARY 2</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 2 2023" src="/images/Sec_2_SexEd_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 2 2023" src="/images/Sec_2_2026.png">
 </div>
 <h6>SECONDARY 3</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 3 2023" src="/images/Sec_3_SexEd_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 3 2023" src="/images/Sec_3_2026.png">
 </div>
 <h6>SECONDARY 4</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 4 2023" src="/images/Sec_4_SexEd_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 4 2023" src="/images/Sec_4_2026.png">
 </div>
 <h6>SECONDARY 5</h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 5 2023" src="/images/Sec_5_SexEd_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 5 2023" src="/images/Sec_5_2026.png">
 </div>
 <h5><em><u>eTeens</u></em><u> Programme:</u></h5>
 <ol start="8">
