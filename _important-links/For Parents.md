@@ -31,4 +31,3 @@ variant: markdown
 </p>
 </li>
 </ul>
-<p></p>
