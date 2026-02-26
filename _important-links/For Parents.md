@@ -24,14 +24,10 @@ variant: markdown
 </li>
 	<li>
 <p><a href="/files/DMA_Parent_Guide_for_Option_A__Windows_Devices_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide For Option A (Windows Devices)</a>
-</p>
-</li>
+	</p>
+	</li>
 	<li>
-<p><a href="files/DMA_Parent_Guide_for_Option_B__Windows_Devices_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide For Option B (Windows Devices)</a>
-</p>
-</li>
-	
-<p>
-</p>
-
+<p><a href="/files/DMA_Parent_Guide_for_Option_B__Windows_Devices_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide For Option B (Windows Devices)</a>
+	</p>
+	</li>
 </ul>
