@@ -2,7 +2,7 @@
 title: For Parents
 permalink: /quick-link/for-parents/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <ul data-tight="true" class="tight">
 <li>
@@ -17,5 +17,17 @@ variant: tiptap
 <p><a href="https://go.gov.sg/amkssdma" rel="noopener noreferrer nofollow" target="_blank">AMKSS DMA OPTION FORM</a>
 </p>
 </li>
+	<li>
+<p><a href="/files/DMA_Parent_Guide_for_Default_Option__Windows_Devices_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide For Default Option (Windows Devices)
+</a>
+</p>
+</li>
+	<li>
+<p><a href="/files/DMA_Parent_Guide_for_Option_A__Windows_Devices_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide For Option A (Windows Devices)</a>
+	</p>
+	</li>
+	<li>
+<p><a href="/files/DMA_Parent_Guide_for_Option_B__Windows_Devices_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide For Option B (Windows Devices)</a>
+	</p>
+	</li>
 </ul>
-<p></p>
