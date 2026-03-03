@@ -20,16 +20,19 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-60pa"><span style="font-weight:700">Type of Stall</span></th>
-    <th class="tg-60pa"><span style="font-weight:700">Closing Date</span></th>
-    <th class="tg-60pa"><span style="font-weight:700">Requirements</span></th>
+    <th class="tg-60pa"><span style="font-weight:700"></span></th>
+    <th class="tg-60pa"><span style="font-weight:700"></span></th>
+    <th class="tg-60pa"><span style="font-weight:700"></span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-60xp">Asia Cuisine (Halal Japanese/Korean/Western etc)</td>
-    <td class="tg-60xp">21 Feb 2025</td>
-    <td class="tg-60xp">Halal</td>
-  </tr>  
+    <td class="tg-60xp"></td>
+    <td class="tg-60xp">SAC Members</td>
+      </tr>  
+	<tr>
+    <td class="tg-60xp">1</td>
+    <td class="tg-60xp">Mr Mervyn Toh (Chairman)</td>
+      </tr>
 </tbody>
 </table>
