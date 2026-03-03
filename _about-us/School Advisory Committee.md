@@ -6,9 +6,9 @@ variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-74pa{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nlyn{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:top}
@@ -28,7 +28,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-60xp"></td>
-    <td class="tg-60xp">SAC Members</td>
+    <td class="tg-60xp"><b>SAC Members</b></td>
       </tr>  
 	<tr>
     <td class="tg-60xp">1</td>
