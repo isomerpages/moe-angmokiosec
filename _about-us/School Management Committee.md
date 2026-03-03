@@ -27,9 +27,12 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-60xp">Asia Cuisine (Halal Japanese/Korean/Western etc)</td>
-    <td class="tg-60xp">21 Feb 2025</td>
-    
-  </tr>  
+    <td class="tg-60xp">School Leaders</td>
+    <td class="tg-60xp">Designation</td>    
+  </tr> 
+	<tr>
+    <td class="tg-60xp">Mr Ashraf Maniam</td>
+    <td class="tg-60xp">Principal</td>
+      </tr>
 </tbody>
 </table>
