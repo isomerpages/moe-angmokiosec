@@ -4,4 +4,63 @@ permalink: /about-us/school-advisory-committee/
 description: ""
 variant: markdown
 ---
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" width="200px"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 205px;" class="ive_eobj_center" alt="mdm daisy koh swee hong.jpg" src="/images/mdm%20daisy%20koh%20swee%20hong.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mdm Daisy Koh Swee Hong</b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Chairman</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" width="200px"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 205px;" class="ive_eobj_center" alt="Mr Mervyn Toh.jpg" src="/images/Mr%20Mervyn%20Toh.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Mervyn Toh</b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Vice-Chairman</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" width="200px"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 205px;" class="ive_eobj_center" alt="mr shaw swee tat.jpg" src="/images/principal%20Mr%20Ashraf.jpeg"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Ashraf Hyder Yusoff Maniam</b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Secretary</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 15px 0px 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 183px;" class="ive_eobj_center" alt="MR KELVIN WANGTreasurer.png" width="100%" src="/images/MR%20KELVIN%20WANGTreasurer.png"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Kelvin Wang</b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Treasurer</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 198px;" class="ive_eobj_center" alt="MR TAN WOON SZU.jpg" src="/images/MR%20TAN%20WOON%20SZU.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Tan Woon Szu</b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Member</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 198px;" class="ive_eobj_center" alt="Lee Yong Li-removebg-preview 1.jpg" src="/images/Lee%20Yong%20Li-removebg-preview%201.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mdm Annie Lee Yong Li</b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Member</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 204px;" class="ive_eobj_center" alt="MR CHARLES TAN WU HAO.jpg" src="/images/DR%20ADRIAN%20LOOMember.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Dr Adrian Loo </b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Member</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 204px;" class="ive_eobj_center" alt="MR CHARLES TAN WU HAO.jpg" src="/images/Christopher_Yong_new_SAC_Member_1.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Christopher Yong </b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Member</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 154px; height: 204px;" class="ive_eobj_center" alt="DR ADRIAN LOOMember.jpg" src="/images/Ong_Hong_Woon_new_SAC_member.png"><br style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;">Mr Ong Hong Woon</b></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Member</div></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-74pa{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-nlyn{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:top}
+.tg .tg-60xp{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:middle}
+.tg .tg-xar3{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:middle}
+.tg .tg-didf{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-60pa"><span style="font-weight:700"></span></th>
+    <th class="tg-60pa"><span style="font-weight:700"></span></th>
+    <th class="tg-60pa"><span style="font-weight:700"></span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-60xp"></td>
+    <td class="tg-60xp"><b>SAC Members</b></td>
+      </tr>  
+	<tr>
+    <td class="tg-60xp">1</td>
+    <td class="tg-60xp">Mr Mervyn Toh (Chairman)</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">2</td>
+    <td class="tg-60xp">Dr Adrian Loo Hock Beng (Vice - Chairman)</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">3</td>
+    <td class="tg-60xp">Mr Ashraf Maniam (Hon Secretary)</td>
+		</tr>
+	<tr>
+    <td class="tg-60xp">4</td>
+    <td class="tg-60xp">Mr Kelvin Wang Soon Lian</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">5</td>
+    <td class="tg-60xp">Mdm Annie Lee Yong Li</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">6</td>
+    <td class="tg-60xp">Mr Ong Hong Woon, Arthur</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">7</td>
+    <td class="tg-60xp">Mr Edwin Tan Cheng Siong</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">8</td>
+    <td class="tg-60xp">Mr Shawn Teo</td>
+      </tr>
+</tbody>
+</table>

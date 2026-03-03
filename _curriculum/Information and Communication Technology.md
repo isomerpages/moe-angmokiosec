@@ -17,7 +17,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/2025%20Dept%20Photos/information_and_communication_technology_department_2.jpg" alt="School Uniform" style="width:90%;">
 
 
 <style type="text/css">
