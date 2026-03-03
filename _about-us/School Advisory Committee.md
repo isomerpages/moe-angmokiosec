@@ -19,7 +19,7 @@ variant: markdown
 </style>
 
   
-#### <b>School Management Committe
+#### <b>School Advisory Committee
 </b><table class="tg">
 <thead></thead>
 <tbody>
