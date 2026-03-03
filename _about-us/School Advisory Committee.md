@@ -17,11 +17,13 @@ variant: markdown
 .tg .tg-didf{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-
   
-#### <b>School Advisory Committee
-</b><table class="tg">
-<thead></thead>
+<table class="tg">
+<thead>
+	<tr>
+    <th class="tg-60pa"><span style="font-weight:700">Type of Stall</span></th>
+		</tr>
+</thead>
 <tbody>
   <tr>
     <td class="tg-60xp"><b></b></td>
@@ -60,14 +62,4 @@ variant: markdown
     <td class="tg-60xp">Mr Shawn Teo</td>
       </tr>
 	
-</tbody></table><b>
-</b>
-
-
-
-
-
-
-
-
-
+</tbody></table>
