@@ -148,6 +148,23 @@ variant: markdown
     <td class="tg-60xp">Mr Ian Mui Jun Xian</td>
     <td class="tg-60xp">Subject Head Covering (Humanities)</td>
       </tr>
-</tbody>
+	<tr>
+    <td class="tg-60xp"><b>Executive and Administrative Staff</b></td>
+    <td class="tg-60xp"><b></b></td>
+      </tr>  
+	<tr>
+    <td class="tg-60xp">Ms Leona Cheong</td>
+    <td class="tg-60xp">Administration Manager</td>
+      </tr> 
+	<tr>
+    <td class="tg-60xp">Mr Liang Lan Tsun</td>
+    <td class="tg-60xp">Operations Manager</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">Mr Chee Nai Long</td>
+    <td class="tg-60xp">Operations Manager</td>
+      </tr>
+		<tr>
+</tr></tbody>
 </table><b>
 </b>
