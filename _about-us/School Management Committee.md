@@ -39,6 +39,22 @@ variant: markdown
     <td class="tg-60xp">Mr Martin Chan Weng Onn</td>
     <td class="tg-60xp">Vice - Principal</td>
       </tr>
+	<tr>
+    <td class="tg-60xp"><b>Heads of Department</b></td>
+    <td class="tg-60xp"><b></b></td>
+      </tr>  
+	<tr>
+    <td class="tg-60xp">Ms Han Siu Yin</td>
+    <td class="tg-60xp">English Language &amp; Literature</td>
+      </tr> 
+	<tr>
+    <td class="tg-60xp">Mr Sundram Letchemee</td>
+    <td class="tg-60xp">Information and Communications Technology</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">Mdm Jessica Lew Ching Min</td>
+    <td class="tg-60xp">Science</td>
+      </tr>
 </tbody>
 </table><b>
 </b>
