@@ -100,48 +100,53 @@ variant: markdown
     <td class="tg-60xp">Assistant Year Head (Lower Secondary)</td>
       </tr> 
 	<tr>
-    <td class="tg-60xp">Mr Sundram Letchemee</td>
-    <td class="tg-60xp">Information and Communications Technology</td>
+    <td class="tg-60xp">Mrs Joselyn Luei Sin Yen</td>
+    <td class="tg-60xp">Assistant Year Head (Upper Secondary)</td>
       </tr>
 	<tr>
-    <td class="tg-60xp">Mdm Jessica Lew Ching Min</td>
-    <td class="tg-60xp">Science</td>
+    <td class="tg-60xp">Mdm Karen Teng</td>
+    <td class="tg-60xp">Subject Head (Additional Mathematics)</td>
       </tr>
 		<tr>
-    <td class="tg-60xp">Mrs Linda Wang-Chan Mui Kiang</td>
-    <td class="tg-60xp">Character and Citizenship Education</td>
+    <td class="tg-60xp">Mr Desmond Tong</td>
+    <td class="tg-60xp">Subject Head (Data Management)
+</td>
       </tr>
 		<tr>
-    <td class="tg-60xp">Mr Muhammad Redzuan Bin Fadil</td>
-    <td class="tg-60xp">Discipline</td>
+    <td class="tg-60xp">Mdm Peggy Teng</td>
+    <td class="tg-60xp">Subject Head (Design &amp; Technology)</td>
       </tr>
 		<tr>
-    <td class="tg-60xp">Mr Nor Azahar Bin Mohd Ismail</td>
-    <td class="tg-60xp">Humanities</td>
+    <td class="tg-60xp">Miss Tay Siew Peng</td>
+    <td class="tg-60xp">Level Head (Science)</td>
       </tr>
 	<tr>
-    <td class="tg-60xp">Mdm Ng Kae Pheng</td>
-    <td class="tg-60xp">Mathematics</td>
+    <td class="tg-60xp">Mr Alvin Yap</td>
+    <td class="tg-60xp">Subject Head (Physical Education and CCA)</td>
       </tr>
 	<tr>
-    <td class="tg-60xp">Mr Thanaraj s/o Kalliya Perumal</td>
-    <td class="tg-60xp">Physical Education and CCA</td>
+    <td class="tg-60xp">Ms Cheryl Ang</td>
+    <td class="tg-60xp">Subject Head (Aesthetics)</td>
       </tr>
 	<tr>
-    <td class="tg-60xp">Miss Tan Chwee Luan</td>
-    <td class="tg-60xp">Mother Tongue Languages</td>
+    <td class="tg-60xp">Miss Evelyn Yong</td>
+    <td class="tg-60xp">Subject Head (Chinese Language)</td>
       </tr>
 	<tr>
-    <td class="tg-60xp">Mr Vincent Voo Teck Hong</td>
-    <td class="tg-60xp">School Staff Developer</td>
+    <td class="tg-60xp">Ms Diana Goh Chern</td>
+    <td class="tg-60xp">Subject Head (Character and Citizenship Education)</td>
       </tr>
 	<tr>
-    <td class="tg-60xp">Mrs Deepa Sharav</td>
-    <td class="tg-60xp">Year Head (Upper Secondary)</td>
+    <td class="tg-60xp">Ms Faralina Bte Mohamed Ali</td>
+    <td class="tg-60xp">Level Head (English Language and Literature)</td>
       </tr>
 	<tr>
-    <td class="tg-60xp">Ms Michelle Ong Meixue</td>
-    <td class="tg-60xp">Year Head (Lower Secondary)</td>
+    <td class="tg-60xp">Miss Tan Jieying</td>
+    <td class="tg-60xp">Subject Head (Student Leadership)</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">Mr Ian Mui Jun Xian</td>
+    <td class="tg-60xp">Subject Head Covering (Humanities)</td>
       </tr>
 </tbody>
 </table><b>
