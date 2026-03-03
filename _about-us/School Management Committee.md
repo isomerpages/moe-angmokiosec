@@ -166,5 +166,4 @@ variant: markdown
       </tr>
 		<tr>
 </tr></tbody>
-</table><b>
-</b>
+</table>
