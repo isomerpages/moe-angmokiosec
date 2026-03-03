@@ -55,6 +55,42 @@ variant: markdown
     <td class="tg-60xp">Mdm Jessica Lew Ching Min</td>
     <td class="tg-60xp">Science</td>
       </tr>
+		<tr>
+    <td class="tg-60xp">Mrs Linda Wang-Chan Mui Kiang</td>
+    <td class="tg-60xp">Character and Citizenship Education</td>
+      </tr>
+		<tr>
+    <td class="tg-60xp">Mr Muhammad Redzuan Bin Fadil</td>
+    <td class="tg-60xp">Discipline</td>
+      </tr>
+		<tr>
+    <td class="tg-60xp">Mr Nor Azahar Bin Mohd Ismail</td>
+    <td class="tg-60xp">Humanities</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">Mdm Ng Kae Pheng</td>
+    <td class="tg-60xp">Mathematics</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">Mr Thanaraj s/o Kalliya Perumal</td>
+    <td class="tg-60xp">Physical Education and CCA</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">Miss Tan Chwee Luan</td>
+    <td class="tg-60xp">Mother Tongue Languages</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">Mr Vincent Voo Teck Hong</td>
+    <td class="tg-60xp">School Staff Developer</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">Mrs Deepa Sharav</td>
+    <td class="tg-60xp">Year Head (Upper Secondary)</td>
+      </tr>
+	<tr>
+    <td class="tg-60xp">Ms Michelle Ong Meixue</td>
+    <td class="tg-60xp">Year Head (Lower Secondary)</td>
+      </tr>
 </tbody>
 </table><b>
 </b>
