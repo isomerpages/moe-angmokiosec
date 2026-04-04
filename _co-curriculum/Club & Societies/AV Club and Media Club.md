@@ -26,20 +26,20 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">MR KOH KIAN NENG (IC)<br></td>
+    <td class="tg-bapb">Mr Koh Kian Neng (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">MDM KWA LENG LENG (2IC)<br></td>
+    <td class="tg-wpup">Mdm Kwa Leng Leng (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">MDM SITI RADZIAH MUSTAFA
+    <td class="tg-bapb">Mdm Siti Radziah Mustafa
 <br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">MISS AUDREY FERNG YUNG YING<br></td>
+    <td class="tg-wpup">Miss Audrey Ferng Yung Ying<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">MR SHASHIDAREN RAJENDRAN<br></td>
+    <td class="tg-bapb">Mr Shashidaren Rajendran<br></td>
   </tr>
   
 </tbody>
@@ -63,19 +63,19 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">LI BOXIAN (3/2)</span></td>
+    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Li Boxian (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">CLARE TAN SHI YING (3/3)</span></td>
+    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Clare Tan Shi Ying (3/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>2nd Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">LUCIEN TAN JUN YE (3/3)</span></td>
+    <td class="tg-mwif"><u>2nd Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Lucien Tan Jun Ye (3/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">MEGAN SO WEI LING (3/2)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">Megan So Wei Ling (3/2)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">HUANG ZEN TUO KEANE (3A2)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">Huang Zen Tuo Keane (3A2)</span></td>
   </tr>
  </tbody>
 </table>
