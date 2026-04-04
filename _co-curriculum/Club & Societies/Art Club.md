@@ -117,24 +117,13 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Painting Workshop (Virtual) 2020, Ang Mo Kio Library , Singapore</td>
+    <td class="tg-bapb">CCA Experience with Exchange Students from Brunei, 2025
+</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Engage the Public - Art Festival 2019, Compass One Shopping Mall, Singapore</td>
+    <td class="tg-wpup">Creative Bins Collaboration with Ang Mo Kio Town Council, Singapore 2025</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Art Outreach Programme 2019, MOE Kindergarten, Fern Green Primary School, Singapore</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Junior Show 2019 , Ang Mo Kio Secondary School, Singapore</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">CNY "Design your chalkboard", Ang Mo Kio Secondary School, Singapore</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">"Art is Fun 2018", Ang Mo Kio National Library, Singapore</td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 <br>
 
