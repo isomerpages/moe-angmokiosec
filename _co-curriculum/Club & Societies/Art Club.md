@@ -24,10 +24,10 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">MS Adibah Azri (IC)</td>
+    <td class="tg-ymba">Ms Adibah Azri (IC)</td>
   </tr>
 	<tr>
-    <td class="tg-wpup">MISS Han Jili</td>
+    <td class="tg-wpup">Miss Han Jili</td>
   </tr>
 	
 </tbody>
