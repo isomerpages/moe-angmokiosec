@@ -5,15 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Drama%202023/b2205293.jpeg" alt="Drama" style="width:80%;">  
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT3zFU2O0q8JAY3y4p5DEHZrd4cj3xYQ9u_301-cplHzrLW5V72XTlcO3cev0Yl-Z4AAoTbzVp74pxI/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -141,4 +133,3 @@ Library, where they brought to life well-loved Singaporean myths such
 as Kusu Island, Sang Nila Utama, Redhill, and Radin Mas. Through these
 performances, students deepened their appreciation of local culture
 while sharing meaningful stories with the community.
-
