@@ -117,22 +117,22 @@ The Audio-Visual (AV) Media Club: Fostering Technical Skills and Leadership
 The AV Media Club plays a pivotal role in enhancing students’ technical skills
 while allowing them to contribute to various school events. Through a diverse
 range of activities, the club nurtures creativity, leadership as well as teamwork
-and prepares students for future success in media-related fields and beyond.
-Technical Support and Media Production:<br>
+and prepares students for future success in media-related fields and beyond.<br><br>
+<b>Technical Support and Media Production:</b><br>
 ● Students in the AV Media Club manage the Public Announcement (PA)
 system during assemblies and school-wide events, ensuring clear and
 efficient communication.<br>
 ● As the resident photographers and videographers for all school
 performances and special occasions, members gain invaluable hands-on
 experience in media production and content creation.<br><br>
-Key Involvement in Major School Events:<br>
+<b>Key Involvement in Major School Events:</b><br>
 ● This year, the AV Media Club played an integral role in the success of
 major school events, including Awards Day, Chinese New Year
 Celebration, Hari Raya Concert, National Day Celebration, Teachers’
 cum EAS' Day Celebrations, and the Graduation Ceremony. <br>
 ● The club’s technical expertise ensured the smooth execution of these
 significant events.<br><br>
-Encouraging Volunteerism and Innovation:<br>
+<b>Encouraging Volunteerism and Innovation:</b><br>
 ● The AV Media Club promotes a spirit of initiative and innovation. For
 instance, Secondary Three students helped co-plan the Makers’ Education
 Programme, which provided AMKsians with the opportunity to explore
