@@ -108,9 +108,7 @@ Photography &amp; Videography Contest
 			</td></tr><tr>
     <td class="tg-wpup">Better Internet Video challenge 2025 -
 Participation</td>
-  </tr>
-
-  
+  </tr>  
 	</tbody>
 </table>
 <br>
