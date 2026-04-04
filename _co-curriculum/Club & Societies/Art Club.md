@@ -91,48 +91,12 @@ variant: markdown
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-wpup">2023 World Trauma Day 2023 Design Youth Challenge, Second Place</td>
+    <td class="tg-wpup">2025 LiveOn Design Competition: Top 5</td>
   </tr>
 	<tr>
-    <td class="tg-bapb">2023 Suzhou International Youth Postcard Drawing, Participation</td>
+    <td class="tg-bapb">2025 Yellow Ribbon Art Competition: Certificate of Participation</td>
   </tr>
-	<tr>
-    <td class="tg-wpup">2022 Singapore Youth Festival (Visual Arts): Certificate of Recognition</td>
-  </tr>
-	<tr>
-    <td class="tg-bapb">2022 Singapore Youth Festival, Artvocacy, Participation</td>
-  </tr>
-	<tr>
-    <td class="tg-wpup">2022 Live On Festival, Participation </td>
-  </tr>
-	<tr>
-    <td class="tg-bapb">2021 40th UOB Painting of the year, Certificate of Participation </td>
-  </tr>
-	<tr>
-    <td class="tg-wpup">2021 SYFgoesOnline!, Participation </td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">2020 Singapore Youth Festival (Visual Arts) - Special Provision</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">2019 Singapore Young Illustrator Competition - Editor's Choice</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">2019 Sustainability Art @ Compass One Shopping Mall</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">2018 Uniquely Us Art Exhibition @ Ang Mo Kio Library</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">2018 Draw My Stamp Story Competition- Most Commendable Award</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">2018 Ang Mo Kio Division’s Neighbourliness Design Competition - Certificate of Participation</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">2018 Singapore Youth Festival (Visual Arts)- Certificate of Participation</td>
-  </tr>
-</tbody>
+	</tbody>
 </table>
 <br>
 <style type="text/css">
