@@ -75,31 +75,9 @@ variant: markdown
     <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">MEGAN SO WEI LING (3/2)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">Kopparthi Nitya Sri Sowmya (2C)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">HUANG ZEN TUO KEANE (3A2)</span></td>
   </tr>
-  <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">Teo Jing Jing (2E)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>AV Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Tay Jun Wee (3A1)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>Media Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Jeremy Ng Jun Hong (2B)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>Photography Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Tan Zhi Ming Ryan (2C)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>AV Unit 2nd I/C</u>
-<br><span style="font-weight:400;color:#004D2E">Goh Jun Yu (2G)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>Media Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">Eric Knya Yi Kai (2E)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>Photography Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">Huang Zen Tuo Keane (2B)</span></td>
-  </tr>
-</tbody>
+ </tbody>
 </table>
 <br>
 <style type="text/css">
