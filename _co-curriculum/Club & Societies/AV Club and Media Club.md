@@ -129,7 +129,7 @@ experience in media production and content creation.<br><br>
 ● This year, the AV Media Club played an integral role in the success of
 major school events, including Awards Day, Chinese New Year
 Celebration, Hari Raya Concert, National Day Celebration, Teachers’
-cum EAS' Day Celebrations, and the Graduation Ceremony. <br>
+cum EAS' Day Celebration, and the Graduation Ceremony. <br>
 ● The club’s technical expertise ensured the smooth execution of these
 significant events.<br><br>
 <b>Encouraging Volunteerism and Innovation:</b><br>
