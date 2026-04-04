@@ -86,20 +86,32 @@ variant: markdown
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mwif{background-color:#FFF;border-color:inherit;color:#004D2E;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-t70x{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:top}
+.tg .tg-74pa{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-bapb{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:middle}
+.tg .tg-wpup{background-color:#FFF;color:#004D2E;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Achievements of the CCA<br></th>
+    <th class="tg-74pa"><span style="font-weight:700"><b>Achievements of the CCA</b></span></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">3D-Tronics Digital Making Competition 2022 - Most Friendlist Award</span><br><span style="font-weight:400;color:#004D2E">Canon Youth Photography Awards 2021 – “Discovering Nature” – Secondary Category - Winner</span><br><span style="font-weight:400;color:#004D2E">IgnITE Skills Challenge 2021 - 2 teams (Finalist)</span><br><span style="font-weight:400;color:#004D2E">MOE Our Schools, Our Stories Photo Contest 2021 - Honourable Mention</span><br><span style="font-weight:400;color:#004D2E">PacificLight Crea8 Sustainability Re-Crea8 Competition 2021</span><br><span style="font-weight:400;color:#004D2E">1st Runner Up (Lower Secondary)</span><br><span style="font-weight:400;color:#004D2E">Winner ( Upper Secondary)</span><br><span style="font-weight:400;color:#004D2E">CAPTURE Youth Photography Challenge – Advanced</span></td>
+	<tr>
+    <td class="tg-wpup">MOE Our Schools, Our Stories
+Photography &amp; Videography Contest
+2025 - Participation</td>
   </tr>
-</tbody>
+	<tr>
+    <td class="tg-bapb">National Youth Technology Challenge
+2025 - Participation
+			</td></tr><tr>
+    <td class="tg-wpup">Better Internet Video challenge 2025 -
+Participation</td>
+  </tr>
+
+  
+	</tbody>
 </table>
 <br>
 
