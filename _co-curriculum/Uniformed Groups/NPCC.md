@@ -67,6 +67,3 @@ just with performances, but with memories that will last a lifetime.<br><br>
 Overall, ATC was not only challenging but also a fun and meaningful
 experience. It helped us build friendships, develop resilience, and adapt
 better to nature and the outdoor environment.<br>
-
-
-
