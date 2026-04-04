@@ -127,7 +127,7 @@ unity and shared passion in our artistic endeavours.<br><br>
 This year marked a significant milestone as we achieved the Distinction
 Award at the Singapore Youth Festival Arts Presentation, a testament to our
 dedication and artistic excellence. We also performed at various
-school events, including MTL Fortnight, Hari Raya Celebrations, Awards Day,
+school events, including MTL Fortnight, Hari Raya Celebration, Awards Day,
 National Day and the AMKsian Showcase, providing numerous opportunities
 for us to showcase our talents.<br><br>
 Our commitment to excellence extends beyond the school as we participated
@@ -151,6 +151,3 @@ In essence, Gemilang Sari is more than a dance group; it is a nurturing
 environment where members develop both their artistic talents and
 interpersonal connections whilst celebrating the rich heritage of Malay dance
 under our guiding motto of unity and collective passion.
-
-
-
