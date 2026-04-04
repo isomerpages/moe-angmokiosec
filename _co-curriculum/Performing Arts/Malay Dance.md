@@ -75,16 +75,18 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Haidah Binte Mohamed Hanafie (3/1)</span></b></td>
+    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Nyla Farzana Binte Fahmy (3A1)</span></b></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u><b>Rehearsal Mistress</b></u><b><br><span style="font-weight:400;color:#004D2E">Airis Arissa Binte Muhammad Zulkifli (3A2)</span></b></td>
+    <td class="tg-mwif"><u><b>Vice-Chairperson
+</b></u><b><br><span style="font-weight:400;color:#004D2E">Airis Sabieha Binti Anuar (3A1)</span></b></td>
   </tr>
+	
   <tr>
-    <td class="tg-bapb"><u><b>Quarter Mistress (Costumes / Makeup / Props)</b></u><b><br><span style="font-weight:400;color:#004D2E">Ayra Nadyne Binte Noor Indra Gunawan (3A2)</span></b></td>
+    <td class="tg-bapb"><u><b>Quarter Mistress (Costumes / Makeup / Props)</b></u><b><br><span style="font-weight:400;color:#004D2E">Putri Ryhana Qistina Binte Muhammad Haikal (3A1)</span></b></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u><b>Publicity In Charge</b></u><b><br><span style="font-weight:400;color:#004D2E">Hizsyahirah Binte Muhammad Hiszar (3A1)</span></b></td>
+    <td class="tg-mwif"><u><b>Publicity In Charge</b></u><b><br><span style="font-weight:400;color:#004D2E">Arya Ardini Binte Muhammad Zulkifli (3A3)</span></b></td>
   </tr>
   
 </tbody>
