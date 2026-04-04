@@ -32,13 +32,13 @@ variant: markdown
     <td class="tg-wpup">Mdm Kwa Leng Leng (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Siti Radziah<br></td>
+    <td class="tg-bapb">Mdm Siti Radziah Mustafa<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Audrey Ferng<br></td>
+    <td class="tg-wpup">Miss Audrey Ferng Yung Ying<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Shashidaren<br></td>
+    <td class="tg-bapb">Mr Shashidaren Rajendran<br></td>
   </tr>
   
 </tbody>
@@ -57,7 +57,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Executive Committee for 2023/2024<br></th>
+    <th class="tg-mwif">Executive Committee for 2025/2026<br></th>
   </tr>
 </thead>
 <tbody>
