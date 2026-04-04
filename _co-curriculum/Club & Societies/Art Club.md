@@ -24,10 +24,10 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">MS ADIBAH AZRI (IC)</td>
+    <td class="tg-ymba">MS Adibah Azri (IC)</td>
   </tr>
 	<tr>
-    <td class="tg-wpup">MISS HAN JILI</td>
+    <td class="tg-wpup">MISS Han Jili</td>
   </tr>
 	
 </tbody>
@@ -51,22 +51,22 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">RENEE NG KAI LI (3/4) </span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Renee Ng Kai Li (3/4) </span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Vice President</u><br><span style="font-weight:400;color:#004D2E">SAXENA NISHNA (3/1)</span></td>
+    <td class="tg-mwbt"><u>Vice President</u><br><span style="font-weight:400;color:#004D2E">Saxena Nishna (3/1)</span></td>
   </tr>
 	<tr>
-		<td class="tg-mwbt"><u>Project Manager</u><br><span style="font-weight:400;color:#004D2E">ZHENG QIAO YAN RENEE (3/1)</span></td>
+		<td class="tg-mwbt"><u>Project Manager</u><br><span style="font-weight:400;color:#004D2E">Zheng Qiao Yan Renee (3/1)</span></td>
 	</tr>
 	<tr>
-		<td class="tg-mwbt"><u>Assistant Project Manager</u><br><span style="font-weight:400;color:#004D2E">CAO ZIXUAN (3/3)</span></td>
+		<td class="tg-mwbt"><u>Assistant Project Manager</u><br><span style="font-weight:400;color:#004D2E">Cao Zixuan (3/3)</span></td>
 	</tr>
 	<tr>
-		<td class="tg-mwbt"><u>Welfare Officer</u><br><span style="font-weight:400;color:#004D2E">SHIRAISHI AYAKA (3/4)</span></td>
+		<td class="tg-mwbt"><u>Welfare Officer</u><br><span style="font-weight:400;color:#004D2E">Shiraishi Ayaka (3/4)</span></td>
 	</tr>
 	<tr>
-		<td class="tg-mwbt"><u>Logistics Officer</u><br><span style="font-weight:400;color:#004D2E">LIM JIA RAE (3/3)</span></td>
+		<td class="tg-mwbt"><u>Logistics Officer</u><br><span style="font-weight:400;color:#004D2E">Lim Jia Rae (3/3)</span></td>
 	</tr>
 	
 </tbody>
