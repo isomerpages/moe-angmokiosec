@@ -113,12 +113,53 @@ Participation</td>
 </table>
 <br>
 
-The school’s Audio-Visual (AV) Media Club provides students with valuable technical skills and inculcates the spirit of volunteerism and initiative. Our regular activities include setting up the public announcement (PA) system for morning assembly on Monday &amp; Thursday and afternoon assembly on Wednesday and for all school events. Our students are also resident photographers for all school performances and special occasions. 
-
-This year the AV Media Club students were involved in numerous major school events, Awards’ Day 2023, Family Day 2023, Teachers’ Day cum EAS Celebrations and Farewell Assembly.
-
-Our members also participated in various competitions this year, Character building is also emphasized upon in the CCA. We hope to nurture students who are able to work in a confident manner both individually and in teams, be adaptable, and have the self-discipline to put in their best in the tasks they are assigned. At the end of each training session, students’ works are shared and they get to learn from one another. 
-
-This year our students have also taken part in numerous competitions such as 2023 Crea8 Sustainability Competition, Our School, Our Stories Photography and Videography Contest 2023 which allow them to build on their competencies and confidence. 
-
-In addition, our students are trained in simple coding, microbit and Game Maker. This training in computational thinking will equip them with the skills required for Singapore’s Smart Nation initiative. Learning journeys were also organized to allow students to relate and apply what they have learnt in the CCA.
+The Audio-Visual (AV) Media Club: Fostering Technical Skills and Leadership
+The AV Media Club plays a pivotal role in enhancing students’ technical skills
+while allowing them to contribute to various school events. Through a diverse
+range of activities, the club nurtures creativity, leadership as well as teamwork
+and prepares students for future success in media-related fields and beyond.
+Technical Support and Media Production:<br>
+● Students in the AV Media Club manage the Public Announcement (PA)
+system during assemblies and school-wide events, ensuring clear and
+efficient communication.<br>
+● As the resident photographers and videographers for all school
+performances and special occasions, members gain invaluable hands-on
+experience in media production and content creation.<br><br>
+Key Involvement in Major School Events:<br>
+● This year, the AV Media Club played an integral role in the success of
+major school events, including Awards Day, Chinese New Year
+Celebration, Hari Raya Concert, National Day Celebration, Teachers’
+cum EAS' Day Celebrations, and the Graduation Ceremony. <br>
+● The club’s technical expertise ensured the smooth execution of these
+significant events.<br><br>
+Encouraging Volunteerism and Innovation:<br>
+● The AV Media Club promotes a spirit of initiative and innovation. For
+instance, Secondary Three students helped co-plan the Makers’ Education
+Programme, which provided AMKsians with the opportunity to explore
+3D printing in hands-on sessions. This initiative reflects the club’s
+commitment to fostering curiosity and developing problem-solving skills
+among students.<br><br>
+Participation in Competitions and Skill Enhancement:<br>
+● Club members participated actively in various competitions, such as the
+Better Internet Challenge 2025, the Our School, Our Stories Photography
+and Videography Contest 2025, and the National Youth Technology
+Championship 2025.<br>
+● These competitions provided students with opportunities to enhance
+their skills, build confidence, and develop strong teamwork abilities,
+while gaining recognition for their talents. <br><br>
+Character Development and Skill Building: <br>
+● The AV Media Club places strong emphasis on character development to
+help students become more confident, adaptable, and disciplined.<br>
+● The club also offers coding training sessions, aligned with Singapore’s
+Smart Nation initiative, to promote computational thinking and prepare
+students for the future digital landscape.<br><br>
+Learning Journeys and Real-World Exposure:<br>
+● In addition to training sessions, the club organizes enriching learning
+journeys, such as visits to the Singapore Oceanarium at Resorts World
+Singapore and workshops on Artificial Intelligence (AI) in storyboarding. <br>
+● These excursions offer students with real-world exposure, allowing them
+to apply the skills they have learned in practical, hands-on environments. <br><br>
+The AV Media Club offers a well-rounded experience that equips students
+with a diverse set of technical, creative, and leadership skills. Through their
+involvement, students not only gain expertise in media production but also
+develop a strong sense of responsibility, initiative, and teamwork.
