@@ -20,12 +20,32 @@ variant: markdown
 <br>
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 736px;" class="iveo_table ives_tab_modern2 ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Achievements of the CCA</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">Excellent Unit Award - Gold</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">First Aid Championships (Junior Category) 2025 - Gold</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;">First Aid Championships (Senior Category) 2025 - Gold</div></td></tr></tbody></table><br>
 
-AMKSS Red Cross is a Uniform Group that promotes discipline and teamwork. We aim to inculcate seven fundamental principles which are namely, Humanity, Impartiality, Neutrality, Independence, Voluntary Service, Unity, and Universality in all our cadets. 
-
-The Red Cross Youth Unit trains in six core subjects: Red Cross Knowledge, First Aid, Disaster Management, Youth Ambassador Blood Programme, Service Learning, and Youth Leadership. AMKSS Red Cross Youth also does its part in raising funds for the Red Cross Youth Society by carrying out community service projects and fundraising activities. 
-
-All our cadets are given ample opportunities to participate in various activities ranging from competitions to leadership camps. These include the First Aid Competition and leadership camps like Unit Specialist’ Programme, Warrant Officer Programme, and the Red Cross Youth Challenge. These expose the cadets to different leadership styles and skills as well as help them develop a passion for volunteerism. 
-
-Other than competitions and leadership camps, the cadets also participate in National Day Parade, National Camp, and Cadet Modular Workshops to help them gain more experience in the CCA and also bond with members of other Red Cross Youth Units and other Uniformed Groups. 
-
-The Red Cross Youth members are also trained to become confident and competent leaders with a strong sense of responsibility. Each cadet is trained to react well in emergencies or in stressful situations by utilising the knowledge and skills they have learnt in Red Cross Youth. AMKSS Red Cross Youth strives to make our cadets strong and well-rounded individuals.
+AMKSS Red Cross is a Uniformed Group that promotes discipline and teamwork.
+We aim to inculcate seven fundamental principles, namely, Humanity,
+Impartiality, Neutrality, Independence, Voluntary Service, Unity, and
+Universality in all our cadets.<br><br>
+The Red Cross Youth Unit trains in six core subjects: Red Cross Knowledge,
+First Aid, Disaster Management, Youth Ambassador Blood Programme, Service
+Learning, and Youth Leadership. AMKSS Red Cross Youth also does its part
+in raising funds for the Red Cross Youth Society by carrying out community
+service projects and fundraising activities.<br><br>
+Every one of our cadets is given ample opportunities to participate in
+various activities, and can expect to take part in a wide variety of events. For
+example, our cadets participate in competitions such as the annual First Aid
+Championships that put their skills to the test. We also send our cadets for
+leadership camps like the Unit Specialist’ Programme, Unit Leader Programme,
+and the Red Cross Youth Challenge which help to build their confidence as
+well as strengthen leadership abilities.<br><br>
+Other than competitions and leadership camps, our cadets are also able to
+participate in the school’s National Day Parade, National Camp, and Cadet
+Modular Workshops to help them gain more experience and bond with
+members of other Red Cross Youth Units and other Uniformed Groups. Such
+events allow for cadets to showcase their skills, foster camaraderie, and
+deepen their understanding of Red Cross principles.<br><br>
+Our Red Cross Youth members are also trained to become confident and
+competent leaders with a strong sense of responsibility, whilst gaining valuable
+life skills which can aid them both in school and beyond. Each cadet is trained
+to react well during emergencies or when in stressful situations by utilising the
+knowledge and skills they have learnt in Red Cross Youth. AMKSS Red Cross
+Youth strives to make our cadets strong and well-rounded individuals, with a
+strong sense of discipline and leadership.
