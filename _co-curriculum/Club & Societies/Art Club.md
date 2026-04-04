@@ -127,51 +127,9 @@ variant: markdown
 </table>
 <br>
 
-Art Club is a place where students’ creativity and imagination are allowed to take flight. It also provides an avenue for students to develop their critical thinking skills. Pupils in the Art Club are exposed to a variety of art forms, techniques, exhibitions and other art-related activities. This year, students were taught mixed media techniques, watercolour, acrylic painting and pen drawings.
- 
-As part of an effort to cultivate appreciation for the visual arts, Art Club ran the Secondary 1 Museum Based Learning (Virtual) for the school. The Art club members were also tasked to produce art pieces for fund-raising and tokens of appreciation for special guests. Through weekly sessions of fun filled activities, we hope to foster a strong sense of belonging as well as develop positive values in all members.
+The Art Club is a creative hub where our ARTists work on exciting projects that enhance the school environment and contribute to various school events, including designing murals, posters, camp t-shirts, and Teachers’ Day gifts. Our club focuses on three key principles to provide our members with a rich artistic journey:
 
-Art Club strives to cultivate a love and appreciation for the visual arts in every member of the club. We aim to make an impact in the community by engaging in various types of community projects through art outreach programmes, art festivals (Compass One Mall) and painting workshops (AMK Library).
- 
-We aim to provide a platform for all members to engage in the following art forms:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-74pa{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-nlyn{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:top}
-.tg .tg-60xp{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:middle}
-.tg .tg-xar3{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:middle}
-.tg .tg-didf{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-60pa"><span style="font-weight:700">2 D Art Forms</span></th>
-    <th class="tg-60pa"><span style="font-weight:700">3 D Art Forms</span></th>
-    <th class="tg-60pa"><span style="font-weight:700">Digital Art Form</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-60xp">Acrylic Painting</td>
-    <td class="tg-60xp">Ceramics</td>
-    <td class="tg-60xp">Photography</td>
-  </tr>
-  <tr>
-    <td class="tg-xar3">Charcoal Drawing</td>
-    <td class="tg-nlyn">Paper Mache Sculpture</td>
-    <td class="tg-xar3">Poster Design</td>
-  </tr>
-  <tr>
-    <td class="tg-60xp">Watercolour Painting</td>
-    <td class="tg-didf">Special Effects</td>
-    <td class="tg-60xp">Digital Drawing with Procreate</td>
-  </tr>
-  
-</tbody>
-</table>
+●	A – Appreciating Art: Members will deepen their appreciation for the arts by participating in meaningful projects within the school and the community. <br>
+●	R – Reach through Enrichment: We encourage ARTists to reach their full potential by engaging in enrichment workshops beyond the academic curriculum. <br>
+●	T – Talent Development: ARTists are given opportunities to further develop their talents through self-initiated workshops and activities, allowing them to grow as creative leaders.
+Art Club aims to be a place where ARTists can unleash their creativity, take part in exciting community projects and competitions, and grow in a supportive and inspiring environment
