@@ -126,24 +126,12 @@ img {
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2025 (Accomplishment)<br></td>
+    <td class="tg-wpup">Singapore International Choral Festival 2025 (Silver Award)<br></td>
   </tr>
 	<tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Accomplishment)<br></td>
+    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023/2025 (Cert. of Accomplishment)<br></td>
   </tr>
-	 <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 (Special Consideraton)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)<br></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-wpup">School Performances for events such as Awards Day, AMKsian Showcase and Chinese New Year</td>
-  </tr>
-	 <tr>
-    <td class="tg-bapb">SuperNova (Choir Exchange with other secondary schools)<br></td>
-  </tr>
+	
 </tbody>
 </table>
 <br>
