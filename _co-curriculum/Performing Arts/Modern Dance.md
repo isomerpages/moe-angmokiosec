@@ -81,19 +81,20 @@ variant: markdown
     <td class="tg-uzvj"><u>Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Lin Wenle Lucinda (3/3) </span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><u><b>Secretary</b></u><b><br><span style="font-weight:400;color:#004D2E">Gan Xin Yin (3/4)</span></b></td>
+    <td class="tg-bapb"><u><b>Secretary</b></u><b><br><span style="font-weight:400;color:#004D2E">Oh Hui Qin Yvonne (3/3)</span></b></td>
   </tr>
   <tr>
     <td class="tg-uzvj"><u>Wardrobe (Costumes) </u><br><span style="font-weight:400;color:#004D2E">Tan Yu Xuan (Chen Yuxuan) (3A2) </span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><u><b>Wardrobe (Make Up and Props) </b></u><b><br><span style="font-weight:400;color:#004D2E">Yukie Law Yu Qi (3/3)</span></b></td>
+    <td class="tg-bapb"><u><b>Wardrobe (Make Up and Props) </b></u><b><br><span style="font-weight:400;color:#004D2E">Cho Kai Xin (3/2)
+</span></b></td>
   </tr>
   <tr>
-    <td class="tg-uzvj"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">Lin Xi'en, Janelle (3/3)</span></td>
+    <td class="tg-uzvj"><u>Rehearsal Mistress</u><br><span style="font-weight:400;color:#004D2E">Koh Mei Xuan, Evis (3A2)</span></td>
   </tr>
 	<tr>
-    <td class="tg-bapb"><u><b>Publicity I/C </b></u><b><br><span style="font-weight:400;color:#004D2E">Claire Ng Ding Ya (3/3) </span></b></td>
+    <td class="tg-bapb"><u><b>Publicity I/C </b></u><b><br><span style="font-weight:400;color:#004D2E">Yolanda Li Jingqian (3/3)</span></b></td>
   </tr>
 </tbody>
 </table>
@@ -118,15 +119,7 @@ variant: markdown
 	<tr>
     <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2025 (Accomplishment)</td>
   </tr>
-	<tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2023 (Distinction)</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2021 (Distinction)</td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2019 (Distinction)</td>
-  </tr>
+	
   </tbody>
 </table>
 <br>
