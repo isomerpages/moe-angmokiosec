@@ -19,16 +19,54 @@ Thamimul Ansary</div></td></tr></tbody></table>
 <table class="iveo_table ives_tab_modern2 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 736px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Achievements of the CCA</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: center;">Unit Overall Proficiency Award: Distinction
 </td></tr></tbody></table><br>
 
-Every Friday, cadets of The Ang Mo Kio NPCC come together for their weekly training. The juniors eagerly await the training planned for them, while the seniors look forward to imparting their knowledge to their juniors.
+##### Civil Defence Course @ SCDF’s 3rd Division Headquarters
+<b>LCP (NPCC) Wang Pu</b><br>
+Instead of textbooks and classrooms, we spent the day with SCDF learning
+real-life emergency skills—leadership, teamwork, and resilience in action.
+The day began with a safety briefing, reminding us that in any crisis, staying
+calm and following procedures is key. This set the tone for everything that
+followed. Next came first aid training. We learned CPR using mannequins,
+practiced bandaging wounds, and even tried the recovery position. What
+once seemed like textbook knowledge became hands-on skills we could
+really use.<br><br>
+The highlight, however, was fire-fighting practice. After learning the “fire
+triangle,” we took turns using extinguishers to put out real flames. The
+roar of fire was scary at first, but applying the PASS method—Pull, Aim,
+Squeeze, Sweep—gave us the confidence to handle it. The cheers and
+teamwork made the experience both thrilling and memorable.<br><br>
+Beyond the skills, the course also built camaraderie. Working alongside
+cadets from different schools from NPCC Area 11, we encouraged each
+other, shared laughs, and formed friendships through shared challenges.
+By the end of the day, we weren’t just students - we were cadets ready
+to serve. The Civil Defence Course showed us that NPCC is more than
+just campcraft and drills; it’s a CCA that teaches life-saving skills, builds
+confidence, and strengthens bonds.<br><br>
 
-  
+##### 3D2N Adventure Training Camp (ATC) @ Pulau Ubin
+<b>LCP Tan Zheng Yu</b><br>
+The Adventure Training Camp (ATC) is an exciting event where NPCC
+cadets from different schools in Area 11 - such as Yio Chu Kang Secondary,
+Anderson Secondary, Deyi Secondary, Mayflower Secondary, Presbyterian
+High, and St. Nicholas - come together for a memorable camping
+experience.<br><br>
+One of the first activities we tried was learning how to pitch a tent.
+Although many of us struggled at first, we worked together and eventually
+managed to get it standing. We also enjoyed outdoor cooking, where we
+had the chance to bond, share stories, and get to know one another better.
+Of course, the camp wasn’t without challenges. We had to complete a
+7km hike around Pulau Ubin under the scorching hot sun. Abseiling was
+one of the scariest activities, as many of us were nervous about stepping
+off from such a height. However, with encouragement and teamwork, we
+persevered and made it down safely.<br><br>
+The camp ended on a high note with the much-anticipated campfire
+night. Under the starry sky, cadets from different schools came together
+to perform skits, dances, and campfire songs. The lively atmosphere was
+filled with cheers, laughter, and the warmth of friendship. It was the
+perfect way to celebrate our shared experiences - ending the camp not
+just with performances, but with memories that will last a lifetime.<br><br>
+Overall, ATC was not only challenging but also a fun and meaningful
+experience. It helped us build friendships, develop resilience, and adapt
+better to nature and the outdoor environment.<br>
 
-Our core activities include foot drills, camp craft and physical training. Foot drills teach cadets how to recognise, understand, follow and give military commands. Through foot drills, cadets learn the importance of teamwork, discipline and alertness. During camp craft lessons, cadets learn to pitch tents, flagpoles and tie knots. These skills are used during the annual Pulau Ubin Adventure-Survival Training Camp, Inter-Unit Camp Craft Competition, and are useful in many daily situations. Physical training such as cardio exercises ensures that cadets are healthy and active. We also often arrange regular friendly games which enable the entire unit to bond.
 
-  
 
-Besides the weekly training, cadets also attend courses such as Crime Scene Investigation (CSI), Basic Law, Anti-Drug Abuse and Homefront Security at the Home Team Academy and school exchanges. The Secondary 2 and 3 cadets always look forward to the annual 0.22 Revolver Live Shoot. Our cadets often participate in other meaningful and enjoyable enrichment activities such as a rigorous two day 1 Star Kayaking Course, hiking in our beautiful reserves and volunteering at soup kitchens.
-
-  
-
-We are proud and extremely delighted to be awarded Gold in the annual Unit Overall Proficiency Award for 2019. It signifies the excellence in standard of the trainings and activities that are planned for our NPCC cadets. The cadets are guided by our passionate and committed Cadet Inspectors, who also facilitate many of the trainings.
