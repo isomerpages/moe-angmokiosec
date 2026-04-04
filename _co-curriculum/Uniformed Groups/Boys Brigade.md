@@ -20,9 +20,31 @@ variant: markdown
 <div style="margin: 0px; outline: 0px; padding: 0px; line-height: 24px !important; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-weight: 400; text-align: center;"><u><b>Founder's Award</b><br>WO Ethan Ong Minjun<br>WO Lim Jun Lun, Felix <br> WO Foo Kai Zhe <br> WO Warren Goh Yuzhe <br> SSG Matthew Lim <br> SSG Ko Ko Kyaw
 </u></div></td></tr></tbody></table>
 
-The 64th Singapore Boys’ Brigade Company of Ang Mo Kio Secondary School is a co-curricular activity (CCA) dedicated to the holistic development of our students. Guided by the mission<i> “to nurture youth, based on sound values, to lead and serve,” </i>the Company seeks to instil discipline, resilience, and strong moral character in our Boys. Members are provided with opportunities to develop their leadership skills, strengthen camaraderie, and grow as responsible young men through a wide range of meaningful and engaging activities.<br><br>
-With the strong support of teachers, officers, alumni, and student leaders, the Company has consistently attained the <b>High Distinction Award</b>, the highest accolade conferred on BB Companies in Singapore, for nearly a decade. In addition, our Boys have excelled in national competitions organised by BBHQ, achieving at least a Silver Honours Roll in every category.<br><br>
-A distinctive feature of the 64th Company is its <b>Pipe Band</b>, proudly sponsored by Teck Ghee Community Club. Under the instruction of professionals from Beyond The Octave (BTO) and the guidance of our Pipe and Drum Sergeants, Boys are trained in playing the Bagpipes and Drums. The band performs regularly at school and community events, including the annual Enrolment &amp; Dedication Ceremony, where we welcome our new Secondary One members and bid farewell to our graduating cohort.<br><br>
-In recent years, the Company has been honoured to play a part in national celebrations. Our Boys have taken on the esteemed responsibility of hoisting the National Flag with Senior Minister Lee Hsien Loong at the <b>Teck Ghee National Day Observance Ceremony</b>, while the Pipe Band has been invited to perform at key events, such as the <b>Founder’s Award Presentation Ceremony </b> and other BBHQ functions.<br><br>
-<b>Character development</b> forms the cornerstone of our programmes. Through participation in national initiatives such as the <b>BB Share-A-Gift, BB Cares Project,</b> and the <b>National Purple Parade</b>, our Boys learn the importance of compassion, empathy, and service to the community.<br><br>
-The 64th Singapore Company remains committed to providing our Boys with a supportive environment where they can discover their talents, develop strong values, and create lasting memories throughout their Boys’ Brigade journey.
+The 64th Singapore Boys’ Brigade (BB) Company of Ang Mo Kio Secondary School is a CCA
+dedicated to developing young men of character and service. Guided by the mission “To
+nurture youth, based on sound values, to lead and serve,” the Company strives to build
+disciplined, respectful, and responsible boys through fun, meaningful, and challenging
+activities that encourage growth in leadership and teamwork.<br><br>
+With a team of committed teachers, officers, alumni, and student leaders, the Company
+has consistently attained the High Distinction Award — the highest accolade for BB
+Companies in Singapore — for nearly a decade. Our members have also excelled in national
+competitions organised by BB Headquarters (BBHQ), achieving at least a Silver Award in
+every category.<br><br>
+Our Pipe Band, proudly sponsored by Teck Ghee Community Club, offers an unique
+opportunity for members to learn the bagpipes and drums under the guidance of
+professional instructors from Beyond The Octave (BTO). Led by our dedicated Pipe and
+Drum Sergeants, the band aims to nurture musical talent and camaraderie among the boys.
+They perform at key events such as the annual Enrolment &amp; Dedication Ceremony, where
+we welcome new Secondary 1 members and bid farewell to our graduating Secondary 4s.<br><br>
+This year, our Boys once again had the honour of hoisting the National Flag alongside
+Senior Minister Lee Hsien Loong at the Teck Ghee National Day Observance Ceremony. The
+Pipe Band also performed familiar National Day tunes for the community. Beyond that, the
+band represented the Company at several BBHQ events, including the Founder’s Award
+Presentation Ceremony at SAFRA Toa Payoh.<br><br>
+Character development remains at the heart of all our activities. Through initiatives such
+as BB Share-A-Gift, BB Cares Project, and overseas immersion trips, our Boys have learnt
+to demonstrate compassion, empathy, and gratitude. These experiences continue to shape
+them into caring and responsible individuals.<br><br>
+Through these meaningful experiences, the Boys of the 64th Singapore Company continue
+to grow in skill, spirit, and service — creating lasting memories and leaving a proud legacy
+in their BB journey.
