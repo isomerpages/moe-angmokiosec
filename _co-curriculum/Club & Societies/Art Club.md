@@ -131,5 +131,5 @@ The Art Club is a creative hub where our ARTists work on exciting projects that 
 
 ●	A – Appreciating Art: Members will deepen their appreciation for the arts by participating in meaningful projects within the school and the community. <br>
 ●	R – Reach through Enrichment: We encourage ARTists to reach their full potential by engaging in enrichment workshops beyond the academic curriculum. <br>
-●	T – Talent Development: ARTists are given opportunities to further develop their talents through self-initiated workshops and activities, allowing them to grow as creative leaders.
+●	T – Talent Development: ARTists are given opportunities to further develop their talents through self-initiated workshops and activities, allowing them to grow as creative leaders. <br><br>
 Art Club aims to be a place where ARTists can unleash their creativity, take part in exciting community projects and competitions, and grow in a supportive and inspiring environment
