@@ -139,7 +139,7 @@ Programme, which provided AMKsians with the opportunity to explore
 3D printing in hands-on sessions. This initiative reflects the club’s
 commitment to fostering curiosity and developing problem-solving skills
 among students.<br><br>
-Participation in Competitions and Skill Enhancement:<br>
+<b>Participation in Competitions and Skill Enhancement:</b><br>
 ● Club members participated actively in various competitions, such as the
 Better Internet Challenge 2025, the Our School, Our Stories Photography
 and Videography Contest 2025, and the National Youth Technology
@@ -147,13 +147,13 @@ Championship 2025.<br>
 ● These competitions provided students with opportunities to enhance
 their skills, build confidence, and develop strong teamwork abilities,
 while gaining recognition for their talents. <br><br>
-Character Development and Skill Building: <br>
+<b>Character Development and Skill Building:</b><br>
 ● The AV Media Club places strong emphasis on character development to
 help students become more confident, adaptable, and disciplined.<br>
 ● The club also offers coding training sessions, aligned with Singapore’s
 Smart Nation initiative, to promote computational thinking and prepare
 students for the future digital landscape.<br><br>
-Learning Journeys and Real-World Exposure:<br>
+<b>Learning Journeys and Real-World Exposure:</b><br>
 ● In addition to training sessions, the club organizes enriching learning
 journeys, such as visits to the Singapore Oceanarium at Resorts World
 Singapore and workshops on Artificial Intelligence (AI) in storyboarding. <br>
