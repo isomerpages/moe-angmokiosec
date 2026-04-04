@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Club & Societies
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS0ev4JU5ZfxGCObcijXELkU7tyQiejMbDbbco_YtrihHCRZwXZMm0bgCUrAEXbtgFBurq4gm1HpDvf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTodburZUYh0gsI2EW-mvNSCmln7jxyEkBsLPk6WY3NmZS0F_mGTtE4xCE-S-AoyX-FgFRRFdiwXI6P/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
