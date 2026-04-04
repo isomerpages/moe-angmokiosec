@@ -39,13 +39,13 @@ img {
     <td class="tg-bapb">Mrs Daphne Chong (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mdm Sun Ying (2IC)<br></td>
+    <td class="tg-wpup">Mrs Clara Tan<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mrs Clara Tan<br></td>
+    <td class="tg-bapb">Mr Ten Cherk Ping<br></td>
   </tr>
 	<tr>
-    <td class="tg-wpup">Mr Ten Cherk Ping<br></td>
+    <td class="tg-wpup"><br></td>
   </tr>
 	
   
@@ -90,21 +90,21 @@ img {
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2024/2025<br></th>
+    <th class="tg-avji">Executive Committee for 2025/2026<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><u>President</u><br><span style="font-weight:400;color:#004D2E">Felicia Ong Si Ting (3/2)</span></td>
+    <td class="tg-bapb"><u>President</u><br><span style="font-weight:400;color:#004D2E">Gregory Leong Zheng Xiang (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice President (Music)</u><br><span style="font-weight:400;color:#004D2E">Li Yue (3/2)</span></td>
+    <td class="tg-mwif"><u>Vice President (Music)</u><br><span style="font-weight:400;color:#004D2E">Ong Guang Jie Reyes (3A2)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><u>Vice President (Admin)</u><br><span style="font-weight:400;color:#004D2E">Leong Kai Xin (3/1)<br>Seto Cheng Ting(3/3)</span></td>
+    <td class="tg-bapb"><u>Vice President (Admin)</u><br><span style="font-weight:400;color:#004D2E">Isaac Seow Zhi Xin (3/4)<br>Ng See Ning Clarice (3/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice President (Welfare)</u><br><span style="font-weight:400;color:#004D2E">Tai Ci Xuan Jannelle (3/3)</span></td>
+    <td class="tg-mwif"><u>Vice President (Welfare)</u><br><span style="font-weight:400;color:#004D2E">Gerard Benjamin Chua Jinn Zach (3/2)<br>Heng Qi Zhen (3/4)</span></td>
   </tr>  
 </tbody>
 </table>
