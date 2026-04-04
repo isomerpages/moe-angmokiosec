@@ -26,19 +26,20 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Koh Kian Neng Wilson (IC)<br></td>
+    <td class="tg-bapb">MR KOH KIAN NENG (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mdm Kwa Leng Leng (2IC)<br></td>
+    <td class="tg-wpup">MDM KWA LENG LENG (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Siti Radziah Mustafa<br></td>
+    <td class="tg-bapb">MDM SITI RADZIAH MUSTAFA
+<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Audrey Ferng Yung Ying<br></td>
+    <td class="tg-wpup">MISS AUDREY FERNG YUNG YING<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Shashidaren Rajendran<br></td>
+    <td class="tg-bapb">MR SHASHIDAREN RAJENDRAN<br></td>
   </tr>
   
 </tbody>
