@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Club & Societies
 variant: markdown
 ---
-
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTodburZUYh0gsI2EW-mvNSCmln7jxyEkBsLPk6WY3NmZS0F_mGTtE4xCE-S-AoyX-FgFRRFdiwXI6P/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <br>
 <style type="text/css">
@@ -25,10 +24,10 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">Ms Adibah Azri (IC)</td>
+    <td class="tg-ymba">MS ADIBAH AZRI (IC)</td>
   </tr>
 	<tr>
-    <td class="tg-wpup">Miss Han Jili</td>
+    <td class="tg-wpup">MISS HAN JILI</td>
   </tr>
 	
 </tbody>
