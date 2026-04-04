@@ -23,19 +23,36 @@ variant: markdown
 
 
 
-The AMKSS NCC (Air) unit seeks to nurture cadets into extraordinary youth leaders who embody the National Cadet Corps’ core values and contribute to the development of the unit, school, community and nation.
+The AMKSS NCC (Air) unit seeks to nurture cadets into extraordinary youth
+leaders who embody the National Cadet Corps’ core values and contribute to
+the development of the unit, school, community and nation.<br><br>
+The unit, in collaboration with NCC HQ, exposes cadets to a wide range of
+activities ranging from aeromodelling, precision drills, military experiences
+such as joyrides and live range, to adventure-based activities such as kayaking
+and paintball. Not only do these activities instil important values and skills, but
+they also inculcate an intrinsic sense of discipline and resilience. Cadets are also
+imparted important knowledge about military aircrafts, drills and environmental
+conservation to allow for the holistic development of each cadet. Additionally,
+the cadets get to bond during their cohort camps, CAMP FORGE and Camp STEEL,
+as well as annual in-school camps, which heighten their sense of belonging to
+the unit.<br><br>
+Every year, our cadets have the opportunity to participate in a multitude of
+activities. Our Secondary Three cadets can look forward to attaining their One
+Star Kayaking certification after an exciting two-day kayaking course. The Sports
+Championships organised by NCC HQ also provides our cadets a platform to
+build camaraderie and strong friendships through competing with other NCC
+units in various sports like Captain’s Ball and soccer.<br><br>
+This year, our PDS team put in great effort to choreograph their routine and
+gave their best at the 14th PDS &amp; FSD Competition. Although they did not win
+an award, the experience was a valuable one as they learnt important lessons
+about teamwork, resilience and pushing through challenges together. Our
+Secondary One cadets also took part in the Air Competition organised by NCC
+HQ, where Avid Ong did the school proud by clinching 2nd runner-up in the Paper
+Glider Competition. We are also proud to share that both our Unit Sergeant
+Major, Potluru Sathwik and Assistant Sergeant Major, Brian Lim, received the
+Outstanding NCC Cadet Award which is the highest honour awarded to NCC
+cadets. We are extremely proud of all our cadets for their achievements, hard
+work and unwavering spirit!<br><br>
+NCC (Air) will continue to provide exciting opportunities for our cadets and is
+committed to developing generations of outstanding leaders.
 
-  
-The unit, in collaboration with NCC HQ, exposes cadets to a wide range of activities ranging from aeromodelling, precision drills, military experiences such as joyrides and live range, to adventure-based activities such as kayaking and paintball. Not only do these activities instil important values and skills, but they also inculcate an intrinsic sense of discipline and resilience. Cadets are also imparted important knowledge about military aircrafts, drills and environmental conservation to allow for the holistic development of each cadet. Additionally, the cadets get to bond during their cohort camps, CAMP FORGE and Camp STEEL, as well as annual in-school camps, which heighten their sense of belonging to the unit. 
-
-  
-
-Every year, our cadets have the opportunity to participate in a multitude of activities. Our Secondary Three cadets can look forward to attaining their One Star Kayaking certification after an exciting two-day kayaking course. The Sports Championships organised by NCC HQ also provides our cadets a platform to build camaraderie and strong friendships through competing with other NCC units in various sports like Captain’s Ball and soccer. 
-
-  
-
-This year, our PDS team did our school proud by achieving a commendable 4th placing in the Air District which qualified them a spot in the 13th PDS &amp; FSD Competition Grand Finals. It was by no means an easy feat as the team had to choreograph the entire performance and execute it with precision, coordination and creativity. The impressive results attained by our cadets definitely boosted their morale! It was also heartwarming to see the cadets who have graduated turn up for the Grand Finals to show their support to their juniors. 
-
-Understanding the importance of contributing back to society, our cadets take part in a series of community events. Every year, our unit ardently supports the Walk for Rice Campaign whereby the cadets and Teacher Officers walk and track their mileage to raise funds for needy families residing in the South-east district. 
-
-NCC (Air) will continue to provide exciting opportunities for our cadets and is committed to developing generations of outstanding leaders.
