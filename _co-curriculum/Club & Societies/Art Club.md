@@ -28,7 +28,7 @@ variant: markdown
     <td class="tg-ymba">Ms Adibah Azri (IC)</td>
   </tr>
 	<tr>
-    <td class="tg-wpup">Ms Han Jili</td>
+    <td class="tg-wpup">Miss Han Jili</td>
   </tr>
 	
 </tbody>
@@ -47,24 +47,27 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2023</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Office Bearers for 2025</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">Pestano Yuanne Carlos Santiago </span></td>
+    <td class="tg-mwbt"><u>President</u><br><span style="font-weight:400;color:#004D2E">RENEE NG KAI LI (3/4) </span></td>
   </tr>
   <tr>
-    <td class="tg-mwbt"><u>Vice President(s)</u><br><span style="font-weight:400;color:#004D2E">Haidah Nadhirah Binte Khairil Azhar</span><br><span style="font-weight:400;color:#004D2E">Tay Kay Xin</span></td>
+    <td class="tg-mwbt"><u>Vice President</u><br><span style="font-weight:400;color:#004D2E">SAXENA NISHNA (3/1)</span></td>
   </tr>
 	<tr>
-		<td class="tg-mwbt"><u>Welfare Officer, Upper Secondary</u><br><span style="font-weight:400;color:#004D2E">Claire Ng Jia Li</span></td>
+		<td class="tg-mwbt"><u>Project Manager</u><br><span style="font-weight:400;color:#004D2E">ZHENG QIAO YAN RENEE (3/1)</span></td>
 	</tr>
 	<tr>
-		<td class="tg-mwbt"><u>Welfare Officer, Lower Secondary</u><br><span style="font-weight:400;color:#004D2E">Han Wen</span></td>
+		<td class="tg-mwbt"><u>Assistant Project Manager</u><br><span style="font-weight:400;color:#004D2E">CAO ZIXUAN (3/3)</span></td>
 	</tr>
 	<tr>
-		<td class="tg-mwbt"><u>Logistics Officer</u><br><span style="font-weight:400;color:#004D2E">Tan Si En Micole</span></td>
+		<td class="tg-mwbt"><u>Welfare Officer</u><br><span style="font-weight:400;color:#004D2E">SHIRAISHI AYAKA (3/4)</span></td>
+	</tr>
+	<tr>
+		<td class="tg-mwbt"><u>Logistics Officer</u><br><span style="font-weight:400;color:#004D2E">LIM JIA RAE (3/3)</span></td>
 	</tr>
 	
 </tbody>
