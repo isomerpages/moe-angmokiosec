@@ -16,14 +16,31 @@ variant: markdown
 <br>
 <table class="iveo_table ives_tab_modern2 ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: none; color: rgb(0, 77, 46); font-family: Outfit, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 736px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: center;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Achievements of the CCA</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(229, 229, 229);"><td style="margin: 0px; outline: 0px; padding: 2px 10px; text-align: center;">Puan Noor Aishah Gold Award: From 2015 - 2024 (There is no unit award given in 2020)<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table><br>
 
-The AMKSS Girl Guides Company strives to develop young girls into compassionate and confident youth leaders and mentors who have a keen interest in giving back to the community. The Girl Guides has iterated the slogan “Be Prepared” for any situation and emphasises the importance of learning essential survival skills such as camp craft and field cooking. Through instilling moral values, the Girl Guides serves to develop the girls’ characters. Girl Guides are exposed to a range of global issues, which cultivates a deeper understanding of the world, fostering empathy and greater social responsibility.  <br><br>
-
-The 5-point programme ensures the holistic development of every Guide through building competencies in five areas: Personal &amp; Social Development, Outdoors, Home, Community and International. To make the Guiding experience more enriching, AMKSS Girl Guides unit continually collaborates with external organisations and other Uniformed Groups units to conduct sessions such as basic first-aid training, air pistol and kayaking workshops.<br><br>
-
-World Thinking Day, South Division Day, skills sharing, outdoor camping and service learning are a regular part of the Girl Guides programme. Through these activities, our Guides learn the true meaning of commitment, leadership and teamwork.<br><br>
-
-This year, some Guides were enrolled in the Singapore Cancer Society Smoke-Free Ambassador’s programme. Guides not only learnt about the harmful effects of smoking, but also took on an active role in advocating anti-smoking to other students. Our Guides also took on the role of ambassadors at Gardens By The Bay in 2023. In addition to acquiring valuable knowledge on sustainability efforts, they conducted garden trails and facilitated educational programmes for visitors. Since 2023, Guides have been volunteering their time at Lions Home for the Elders.<br><br>
-
-Secondary 3 Girl Guides had the exciting opportunity to host the South Division Patc Challenge for South Division Day 2024. This experience enhanced their interpersonal skills and self-confidence. <br><br>
-
-AMKSS Girl Guides Unit will continue to provide a nurturing and fun environment that recognises and maximises the diverse strengths of the girls and cater to their holistic development.
+The AMKSS Girl Guides Company strives to develop our Guides into compassionate
+and confident youth leaders and mentors who have a keen interest in giving back to
+the community. We iterate the slogan “Be Prepared” for any situation and emphasise
+the importance of learning essential survival skills such as camp craft and field cooking.
+Through instilling moral values, we seek to develop the girls’ characters. Our Guides are
+also exposed to a range of global issues and this helps to cultivate a deeper understanding
+of the world, fostering empathy and greater social responsibility. To make the guiding
+experience more enriching, AMKSS Girl Guides unit continually collaborates with external
+organisations and other Uniformed Groups units to conduct sessions such as basic firstaid
+training, air pistol and kayaking workshops. World Thinking Day, South Division Day,
+skills sharing, outdoor camping and service learning are a regular part of the Girl Guides
+programme. Through these activities, our Guides learn the true meaning of commitment,
+leadership and teamwork.<br><br>
+This year, some of our Guides were enrolled in the Singapore Cancer Society Smoke-
+Free Ambassador’s programme where they not only learned about the harmful effects
+of smoking, but also played an active role in advocating anti-smoking messages to other
+students. Our Guides have also been serving as ambassadors at Gardens by The Bay since
+2023 where they conduct garden trails and facilitate educational programmes for visitors.
+This year, our Guides extended their friendliness by hosting students from Brunei and
+brought them on an educational tour to highlight the different features in Gardens by
+the Bay.. Our Guides also demonstrated their kindness and community spirit by spending
+time with the young children at the Little Seeds Preschool. In addition, our Secondary 3
+Girl Guides had the exciting opportunity to host the South Division Patch Challenge for
+South Division Day 2025 and this experience has helped to build their interpersonal skills
+and self-confidence.<br><br>
+AMKSS Girl Guides Unit will continue to provide a nurturing and fun environment that
+recognises and maximises the diverse strengths of the girls and caters to their holistic
+development.
