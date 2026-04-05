@@ -58,3 +58,5 @@ The attainment of the following awards affirms the school’s efforts to promote
 • BCA Green Mark Award (Gold) 2022 – 2023<br>
 • Eco-School International Green Flag 2022 &amp; 2023<br>
 • SGA Yellow Flame Award 2019<br>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQR2I51w0DYapqh_c0OcEczVHUXBYXjxA6kHUy0oIL-nGMeI9sKPWB8HELFWa8rRT2ljpv8oQA3HScL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
