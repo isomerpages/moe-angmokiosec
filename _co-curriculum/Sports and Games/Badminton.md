@@ -180,7 +180,7 @@ this year, our B division teams will be training hard to achieve the top four po
 Besides pushing boundaries in the sports arena, Team AMKSS also seeks developmental opportunities by empowering our
 student leaders and members to learn and grow through the planning and execution of bonding sessions and friendly
 matches. In May this year, our Secondary 3 badminton leaders were involved in the planning and execution of our CCA’s
-bonding session as well as our Sec 4 graduation ceremony. This gave them the opportunity of experiencing the rigour of
+bonding session as well as our Secondary 4 graduation ceremony. This gave them the opportunity of experiencing the rigour of
 planning activities as well as running an event. <br><br>
 In February this year, our Secondary 2 badminton leaders organised a Secondary 1 Welcome Ceremony to induct their
 juniors into the CCA. Besides introducing them to the captains, coaches and teachers-in-charge, ice breakers and bonding
