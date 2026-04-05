@@ -107,14 +107,14 @@ variant: markdown
     <td class="tg-bapb"><b><u>C Division Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Chee Tao Yang (2/8)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Eason So Jun Wei (Sec 2/2)
+    <td class="tg-wpup"><b><u>C Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Eason So Jun Wei (2/2)
 </span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Division Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">SHEVONNE TEO XUN FEI (Sec 2/6)</span></td>
+    <td class="tg-bapb"><b><u>C Division Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Shevonne Teo Xun Fei (2/6)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Girls Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">ONG JING YEE (Sec 2/8)</span></td>
+    <td class="tg-wpup"><b><u>C Division Girls Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Ong Jing Yee (2/8)</span></td>
   </tr>
 </tbody>
 </table>
