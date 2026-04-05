@@ -6,14 +6,7 @@ variant: markdown
 ---
 <p style="text-align:center;"> <strong>We believe in giving the best of ourselves in<br>all endeavours and to show care<br>and concern for our pupils and for one another.</strong></p>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Teachers%20Creed%201.jpg" alt="Teacher's Creed" style="width:45%;">  
+ 
   
 
 
@@ -29,5 +22,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Teachers%20Creed%203.jpg" alt="Teacher's Creed" style="width:45%;">  
-
+<img src="/images/Teacher_s_Creed.jpg" alt="Teacher's Creed" style="width:75%;">
