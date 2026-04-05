@@ -122,8 +122,28 @@ variant: markdown
 </table>
 <br>
 
-The AMKSS Table Tennis CCA aims to cultivate sportsmanship, team spirit, life-long skills and a sense of belonging among our student players through our twice weekly training sessions (Tuesday and Thursday), coaching clinic (Wednesday), National School Games competition and our Values-In-Action (VIA) programme.<br><br>
-Every year, we take in fresh untrained students and help them to acquire the fundamental skills of playing table tennis through a structured programme comprising of stroke and footwork drills for both singles and doubles play. Every training is a progression towards mastering the techniques and strategies of winning in the game. The ITTF bronze and silver awards are also conducted once a year during the June and December term break for students who have attained sufficient competency to achieve it.<br><br>
-In February 2024, the B Division Girls’ participated in the South Zone National School Games team event. This annual competition is always intense with many schools vying for national honours. In addition, the display of sportsmanship, hysteria moments of winning and losing, and pre-match anxiety always leave behind many fond memories where the players remember for a long time.<br><br>
-In March this year, the Schools Sports Council introduced the pool and league competition for the C Division Girls. This has allowed the team to play more matches and gain more playing experience. The league competition will soon end in April before the quarter finals to finals journey next begin.<br><br>
-In AMKSS table tennis, our main focus is not about competing and winning, but also about developing players with R3ICH values. We recognise the importance of building strong bonds among the players. As such, we organise bonding activities to allow the players from various levels to converge and get to know one another better.
+AMKSS Table Tennis aims to cultivate sportsmanship, team spirit, life-long skills
+and a sense of belonging among our student players through our twice weekly
+training sessions, National School Games competition and our Values-In-Action
+(VIA) programme.<br><br>
+Every year, we take in fresh untrained students and help them to acquire the
+fundamental skills of playing table tennis through a structured programme
+comprising of stroke and footwork drills for both singles and doubles play.
+Every training is a progression towards mastering the techniques and strategies
+of winning in the game. The ITTF bronze and silver awards competitions are
+also conducted twice a year during the June and December term break for
+students who have attained sufficient competency to participate in them.<br><br>
+In February 2025, the B Division team participated in the South Zone National
+School Games team event. This annual competition is always intense with many
+schools vying for national honours. The display of sportsmanship, hysterical
+moments of winning and losing, and pre-match anxiety always create many
+fond memories for players.<br><br>
+In AMKSS Table Tennis, our main focus is not only about competing and winning,
+but also about developing players with R3ICH values. We also recognise the
+importance of building strong bonds among the players so we organise bonding
+activities to allow the players from various levels to converge and get to know
+one another better. In addition, we will invite other schools to participate in
+friendly matches in November to help our players in their preparation for
+the competitions which will be held next year. This platform also provides
+an opportunity for those who are unable to make it into the school team to
+compete as well.
