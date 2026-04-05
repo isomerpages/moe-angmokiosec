@@ -153,3 +153,17 @@ Towards greater social responsibility
 </tbody>
 </table>
 
+The Humanities curriculum promotes learner-directed inquiry and the application of research skills through Geographical,
+Historical, and Issue Investigations. These projects encourage students to explore real-world issues critically and meaningfully,
+equipping them with the Emerging 21st Century Competencies needed to become informed, concerned, and participative
+citizens of Singapore and the world. Participation in external competitions such as the NUS Geography Challenge, MOE History
+Challenge, NLB History Scene Investigation, and Hwa Chong Model United Nations further enriches their learning, deepens
+their passion for the Humanities, and allows them to apply classroom knowledge to authentic global contexts.
+
+##### <b>HCI MUN</b>
+
+
+##### <b>NUS GEOG CHALLENGE</b>
+
+##### <b>S4 URA &amp; PUNGGOL TOWN INQUIRY LEARNING</b>
+
