@@ -59,6 +59,9 @@ img {
   <tr>
     <td class="tg-wpup">Mr Mohamed Yasin Bin Abdul Latif</td>
   </tr>
+	<tr>
+    <td class="tg-bapb">Mr Leon Lu Sunjie<br><span style="font-weight:400;color:#004D2E"></span></td>
+  </tr>
 	 
 </tbody>
 </table>
