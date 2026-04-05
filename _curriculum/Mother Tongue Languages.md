@@ -135,6 +135,7 @@ Year and Hari Raya also foster appreciation for our shared traditions and Singap
 classroom, Talent Development programmes inspire students to explore the arts and take part in competitions where they
 can discover and shine in their talents.
 ##### <b>COMPETITIONS</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQThEQVq-kzEzgHfiKQPn1Pw0U92tbaK-WVexIlLD9n2Vge0kA63G2jigwPxMgFH4d7x91r6HRNJf2U/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### <b>LEARNING JOURNEY</b>
 
