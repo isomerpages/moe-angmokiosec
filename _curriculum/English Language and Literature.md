@@ -130,3 +130,4 @@ strengthen their research and critical thinking skills, enabling them to present
 
 
 ##### <b>S1 CLUSTER PLAIN ENGLISH SPEAKING COMPETITION</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEIN-S4ige6I7cZlemyKbshuSg-jb4vGCVTEOHUkkAc2foLCDgk9QvWV6rKiZkd15ZdTQwVTGNBnLX/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
