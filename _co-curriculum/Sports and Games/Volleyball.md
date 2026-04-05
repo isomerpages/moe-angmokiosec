@@ -26,11 +26,8 @@ variant: markdown
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-bapb">Mr Sebastian Wang (IC)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Miss Zhang RuiFang (2IC)<br></td>
+   <tr>
+    <td class="tg-wpup">Miss Zhang RuiFang (IC)<br></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mrs Koh Hui Teng<br></td>
