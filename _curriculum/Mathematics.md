@@ -164,3 +164,4 @@ Competition and the Singapore and Asian Schools Math
 Olympiad provides opportunities to stretch their problemsolving
 abilities and develop higher-order thinking skills.
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzWvMsmyROECw9_ZZD8zKWktpVIdYVLFG8DrY-oAQHfX2RUwSzhHN44C1lSs8I_BKW1KaXnWROUJS1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
