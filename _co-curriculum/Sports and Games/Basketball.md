@@ -102,6 +102,36 @@ League 4, ‘C’ Division”
 </tbody>
 </table>
 <br>
-The AMKBB team is dedicated to cultivating self-discipline, respect, and teamwork among its players. Our training sessions are meticulously organized to enable students to enhance their physical prowess and stamina, refine their techniques through structured drills, and cultivate camaraderie through friendly matches. CCA leaders oversee the execution of tailored training regimes at the onset of each session, encompassing activities like skipping, completing a 2.4km run, and engaging in circuit exercises. Furthermore, the coach collaborates closely with the players to impart tactical knowledge and facilitate effective communication on the court.<br><br>
-In the National School Games 2024, our AMKBB teams showcased their dedication and skill on the court. While the B Division boys unfortunately did not advance, their participation served as a valuable learning experience, contributing to their growth and development as athletes. Despite the outcome, they displayed resilience and determination, setting a commendable example for sportsmanship.<br><br>
-On the other hand, our C Division boys demonstrated exceptional prowess, winning all three of their current tier matches with flying colors. Their outstanding performance has propelled them to the next round of the competition, marking a significant achievement for the team and the school. This success is a testament to their hard work, discipline, and unwavering commitment to excellence. As they continue their journey in the tournament, we stand behind them, cheering them on every step of the way.
+
+##### <b>A Year of Grit and Growth</b><br>
+The 2025 season has been an extraordinary journey for our school’s
+basketball team, marked by determination, growth, and the unyielding
+spirit of teamwork. From the very first training session, the players
+committed themselves to hard work and discipline, balancing their
+academic responsibilities with the rigors of competitive sport.<br><br>
+Last year, in the C Division National School Games, the team achieved
+fourth place in League 5 — a remarkable feat that set the foundation
+for greater success. Building on this achievement, the team moved up
+to League 4 this year and made history by being crowned champions, a
+reflection of their steady progress and relentless drive to improve.
+In addition to their National School Games triumph, the team also took
+part in the Yuying Challenge Cup, where they rose to the occasion once
+again. Battling against three other schools in the Under-16 category,
+they displayed skill, teamwork, and composure, eventually emerging as
+champions of the tournament.<br><br>
+The highlight of the season, however, came during the C Division
+National School Games Finals, where they faced tough opponents
+with courage and composure. In a thrilling match against Westwood
+Secondary, our team clinched the championship title with a hard-fought
+55–50 victory — a testament to their perseverance and unity.<br><br>
+Beyond the scoreboard, this season has been about more than just
+winning. The players displayed sportsmanship, encouraged one another
+through challenges, and grew not only as athletes but also as individuals.
+The unwavering support from school leaders, coach, teachers, peers,
+and parents fueled their success and reminded the team of the larger
+community that stands behind them.<br><br>
+As the season closes, we celebrate not just the championship trophies,
+but also the lessons learned on and off the court — resilience, teamwork,
+and the belief that with dedication, anything is possible. The basketball
+team has truly made our school proud, and their legacy will inspire
+future players to carry the torch even higher.
