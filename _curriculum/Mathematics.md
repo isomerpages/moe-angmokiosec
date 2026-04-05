@@ -99,9 +99,7 @@ The goals of the secondary mathematics education are:
   <tr>
     <td class="tg-bapb">Mr Robert Ho</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Ang Yew Weng</td>
-  </tr>
+ 
 	
   
 </tbody>
