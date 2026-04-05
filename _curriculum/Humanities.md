@@ -164,5 +164,6 @@ their passion for the Humanities, and allows them to apply classroom knowledge t
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReVGuEdNYDgdXENjfdLFdT3RAEiTLdCN4b33Xtyt31jnaJRB5dasogZItg-pOmFeg2GrcJ3eqzTLwt/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### <b>NUS GEOG CHALLENGE</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNGM_kvxTD-UOFkgGQU4jTR8e31ZSt3KNhR0okY-FX10xCDWOda7UihSy09fIkQU4V3nP2EEl4Brq-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### <b>S4 URA &amp; PUNGGOL TOWN INQUIRY LEARNING</b>
