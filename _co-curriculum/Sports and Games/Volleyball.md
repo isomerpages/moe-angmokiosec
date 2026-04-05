@@ -173,5 +173,5 @@ handmade tokens of appreciation, and a video montage. As we bid farewell
 to them, we cherish the memories made together and remain committed
 to building upon the hard work of our seniors, forging ahead as one AMKSS
 Volleyball.<br><br>
-One Court. One Team. One Dream.<br><br>
+One Court. One Team. One Dream.<br>
 Ang Mo Kio, ACE!
