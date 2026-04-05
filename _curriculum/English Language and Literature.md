@@ -108,7 +108,13 @@ _Target Group: Respective Levels_
     
 
 *   To develop research and critical thinking skills and ability to express views and ideas with clarity and conviction (Class Debates)<br> _Target Group: Upper Secondary_
-    
 
-  
-
+The English Language curriculum at AMKSS seeks to nurture discerning readers and articulate communicators. Through
+the EL Reading Programme, students engage critically with The Straits Times and ST-IN, as well as guided reading sessions,
+deepening their appreciation of language while developing metacognitive and inquiry-based reading habits. Lessons are
+infused with multiliteracy practices and dialogue-based inquiry to promote deeper understanding and enjoyment of the
+language. The English and Literature Creative Performance Tasks provide authentic opportunities for students to collaborate
+and express their creativity through activities such as research and presentations on “How to Make AMKSS a Greener and
+More Sustainable School,” blackout poetry, and character song lists. Complementing these, the Oracy Programme builds
+students’ fluency, confidence, and expressiveness through platforms such as article sharing, while class debates further
+strengthen their research and critical thinking skills, enabling them to present their ideas with clarity and conviction.
