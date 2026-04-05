@@ -76,25 +76,25 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">GIANN LIM JIAQI (3/4)</span></td>
+    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">Gianne Lim Jiaqi (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">ONG YEE XUAN (3/4)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Ong Yee Xuan (3/4)</span></td>
   </tr>
   
   <tr>
-    <td class="tg-bapb"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">ALLYSSA LIM EN QI (2/4)<br>HANG SOK QI (2/2)</span></td>
+    <td class="tg-bapb"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Allyssa Lim En Qi (2/4)<br>Hang Sok Qi (2/2)</span></td>
   </tr>
  
   <tr>
     <td class="tg-frvs">EXCO Member</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Welfare - LAU ZI XUAN (3/4)
+    <td class="tg-bapb">Welfare - Lau Zi Xuan (3/4)
 		</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Logistics - OONG YOK LENG (3A3)</td>
+    <td class="tg-wpup">Logistics - Oong Yok Leng (3A3)</td>
   </tr>
 </tbody>
 </table>
