@@ -36,10 +36,10 @@ img {
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mrs Daphne Chong (IC)<br></td>
+    <td class="tg-bapb">Mrs Clara Tan (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mrs Clara Tan<br></td>
+    <td class="tg-wpup">Mdm Daphne Chong (2IC)<br></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mr Ten Cherk Ping<br></td>
