@@ -124,3 +124,13 @@ Every AMKsian is passionate about the learning of the Language and understanding
 2.  S1 Sahibba Inter-School Competition (Scrabble)
 3.  Drama Competition / VIA Programme
 
+
+The Mother Tongue Languages (MTL) curriculum brings language learning to life through authentic and immersive experiences
+that help students connect deeply with their linguistic and cultural roots. Through meaningful MTL Performance Tasks, students
+apply what they learn in real-world settings, developing creativity, confidence, and strong communication skills. The annual
+MTL Fortnight is a highlight of the year, offering exciting hands-on experiences such as Text Recital, Cross Talk, Seal Carving,
+Spin Top, Kuih Making, Malay Dance, and the Language Carnival. The Reading Programme further cultivates a love for reading
+and strengthens students’ language proficiency through engaging texts and activities. Festive celebrations like Chinese New
+Year and Hari Raya also foster appreciation for our shared traditions and Singapore’s vibrant multicultural identity. Beyond the
+classroom, Talent Development programmes inspire students to explore the arts and take part in competitions where they
+can discover and shine in their talents.
