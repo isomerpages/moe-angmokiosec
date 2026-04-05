@@ -134,3 +134,8 @@ and strengthens students’ language proficiency through engaging texts and acti
 Year and Hari Raya also foster appreciation for our shared traditions and Singapore’s vibrant multicultural identity. Beyond the
 classroom, Talent Development programmes inspire students to explore the arts and take part in competitions where they
 can discover and shine in their talents.
+##### <b>COMPETITIONS</b>
+
+##### <b>LEARNING JOURNEY</b>
+
+##### <b>MTL FORTNIGHT</b>
