@@ -145,8 +145,33 @@ League 3 (Boys): 1st Runner Up
 </table>
 <br>
 
-Welcome to AMKSS Volleyball – One Court. One Team. One Dream.<br><br>
-AMKSS Volleyballers pride themselves as a group of dedicated and passionate individuals who come together to grow as a team. With collective effort, we continue to bond as one and strive towards our goals – on court, and off the court.<br><br> 
-On the court, we strive to become a spirited group of student athletes who display sportsmanship, teamwork, and resilience. Over the years, AMKSS Volleyball has grown in an environment where everyone’s contribution is valued. Besides training hard to improve our technical skills, we also participate in friendly matches and exchange with other schools and compete in thrilling tournaments like the National School Games. In defeat, we support one another to become stronger. In victory, we celebrate our successes together. Beyond the results, our collective effort and strength shines.<br><br>
-Off the court, we develop trust and build relationships through various bonding activities. This included our recent farewell celebration on 5 April 2024. As part of the celebration, our teachers, coaches, and CCA leaders organised a series of team-building games and a mini volleyball tournament. During the activities, everyone was grouped into mixed groups and got a chance to know more about our other teammates, especially our Secondary One juniors. After the games, we presented awards, handmade tokens of appreciation, and a video montage to honour our graduating cohort in a simple but heartwarming farewell ceremony. As we bid farewell to our seniors, we cherish the opportunities to create shared memories and bonds. More importantly, we strive to continue building on the hard work of our seniors to forge ahead as one AMKSS Volleyball.<br><br>
+AMKSS Volleyballers pride ourselves on being a dedicated and passionate
+group of individuals who grow together as one team. With collective effort,
+we continue to bond as a family and strive towards our goals both on and off
+the court.<br><br>
+On the court, we aim to be spirited student-athletes who display sportsmanship,
+teamwork, and resilience. Over the years, AMKSS Volleyball has flourished in
+an environment where everyone’s contribution is valued. Beyond training
+hard to sharpen our technical skills, we also take part in friendly matches,
+school exchanges, and thrilling tournaments such as the National School
+Games. In 2025, our ‘C’ Division Boys did the school proud by emerging as First
+Runner-Up in the National School Games (League 3). In defeat, we support
+one another to grow stronger; in victory, we celebrate our successes together.
+Above all, it is our collective effort and unity that truly shine.<br><br>
+Each year, AMKSS Volleyball also enjoys an enriching exchange with Waseda
+Shibuya Senior High School, where both teams host and visit one another.
+Through competitive tournaments and fun bonding games, we learn from
+one another, grow in friendship, and build lasting ties that extend beyond the
+court.<br><br>
+Off the court, we continue to build trust and strengthen bonds through
+various activities. As part of our recent Volleyball Bonding Day, our teachers,
+coaches, and CCA leaders organised team-building games and a mini volleyball
+tournament. These activities gave volleyballers the opportunity to connect
+more deeply with teammates. To conclude the day, we held a simple but
+heartwarming farewell ceremony for our graduating seniors, with awards,
+handmade tokens of appreciation, and a video montage. As we bid farewell
+to them, we cherish the memories made together and remain committed
+to building upon the hard work of our seniors, forging ahead as one AMKSS
+Volleyball.<br><br>
+One Court. One Team. One Dream.<br><br>
 Ang Mo Kio, ACE!
