@@ -86,3 +86,7 @@ Through these platforms, our students not only stretch their learning and deepen
 a lifelong passion and curiosity for the natural world.
 
 ##### <b>BIOLOGY PRACTICAL LESSON ON PHOTOSYNTHESIS</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHG2VwhTtZg_VpvJ6xU43PnweIjh3nGOCaJso_jLqlNnE1qvXWQPWXssuZUwMRm6fN1PnfosRrLUvB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+##### <b>IGNITE CHALLENGE GOLD AND SILVER WINNERS</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTevtKsNdn_jbWplqDbDW52eC4p8MM9eEoe1i4RXC9QqXJ-hjwwH_eH_nXm8zV3L1kgxYJ6Ejzbrib8/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
