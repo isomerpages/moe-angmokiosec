@@ -32,10 +32,10 @@ To be an ACE (articulate, confident and expressive) user of the English Language
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Cha Wan Cheng</span><br><span style="font-weight:400;color:#004D2E">(HOD / English Language)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Ms Han Siu Yin</span><br><span style="font-weight:400;color:#004D2E">(HOD / English Language)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Ms A'bidah Binte Abdul Gafoor</span><br><span style="font-weight:400;color:#004D2E">(LH / English Language)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Ms Faralina Bte Mohamed Ali</span><br><span style="font-weight:400;color:#004D2E">(LH / English Language &amp; Literature)</span></td>
   </tr>
   <tr>
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Elinawaty Hairul</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
