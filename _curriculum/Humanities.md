@@ -35,7 +35,7 @@ Towards greater social responsibility
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Nor Azahar Bin Mohd Ismail</span><br><span style="font-weight:400;color:#004D2E">(HOD / Humanities)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Mohammad Suhaimi</span><br><span style="font-weight:400;color:#004D2E">(SH / Humanities)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Ian Mui Jun Xian</span><br><span style="font-weight:400;color:#004D2E">(SH (Covering) / Humanities)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mdm G Anantha</td>
@@ -55,12 +55,7 @@ Towards greater social responsibility
   <tr>
     <td class="tg-wpup">Miss Ong Lay Hoon</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Ian Mui Jun Xian</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mr Sebastian Wang</td>
-  </tr>
+  
  
 </tbody>
 </table>
