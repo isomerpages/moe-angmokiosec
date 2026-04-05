@@ -95,3 +95,4 @@ a lifelong passion and curiosity for the natural world.
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSn3cimyUhD4sK7K5dqxtytH0SxJ4CZWtp9Lnz--Cj0GCCHiw-Rx9lPKF-dmS-PE8iLINzq5gKYeFU7/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### <b>SINGAPORE JUNIOR PHYSICS OLYMPIAD(SJPO) AWARD WINNERS</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVJF9uKH6moX3-Ffm75a3JLjK6dkQH7TqTF4l5FKC6g1kEvE0PBXtwI_SVPSTSrhWFEySXvoPz8M1j/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
