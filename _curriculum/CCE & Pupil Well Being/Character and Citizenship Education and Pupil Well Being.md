@@ -111,4 +111,11 @@ active citizenship for life.
 ##### <b>ECG CAREER CONFERENCE</b>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiNKoqEN04BW9tX0wP00-F9jADW6ZRYwQTzQgw5l-r2dRZYY2mnQh_7ijtFx6nI4gVlZGRbbDee3ZY/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
+##### <b>SEC 2 EXPERIENCE ITE PROGRAMME</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQETFJVFiWrbDPxMZZCzcMalM5bUepcF10mfewGlTLD_UaQaEmSMdLgJwlz-xrPPM7N7tWPq0_f7KeP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
+##### <b>NE LJs</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKclTLydnt0QpwOa6kzxbTmNuILRmHzY1N7SeIk6YQXprP8jloHyMBJAtYA8jwnKj2DHXT9m3B-ZUS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+##### <b>SEC 3 NS ENGAGEMENT TALK</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfOcgAktD04ril2B8Ixnq9YtlsBrdipJh4cQeA3oxmwo-t4ctLOUSc44W7MTTzfFiWBNKa7ezLUYlp/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
