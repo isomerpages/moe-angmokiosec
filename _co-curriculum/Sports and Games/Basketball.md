@@ -62,13 +62,13 @@ variant: markdown
   </tr>
 	
   <tr>
-    <td class="tg-wpup"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">MORITZ MARLEY MENON (2/2)</span></td>
+    <td class="tg-wpup"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Moritz Marley Menon (2/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">TAY BO YU CADEN (2/3)</span></td>
+    <td class="tg-bapb"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tay Bo Yu Caden (2/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Vice-Captain (PTI)</u></b><br><span style="font-weight:400;color:#004D2E">LOH PEI JUN (2/4)<br>LIM KIN KHAI (2/2)</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice-Captain (PTI)</u></b><br><span style="font-weight:400;color:#004D2E">Loh Pei Jun (2/4)<br>Lim Kin Khai (2/2)</span></td>
   </tr>
 </tbody>
 </table>
