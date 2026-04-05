@@ -91,20 +91,14 @@ variant: markdown
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-bapb">National School Games 2024<br></td>
+    <td class="tg-bapb">2025 National School Games: Champion in
+League 4, ‘C’ Division”
+<br></td>
   </tr>
 	<tr>
-    <td class="tg-wpup">South Zone B and C Division Basketball Championships 2023<br></td>
+    <td class="tg-wpup">2025 Yuying Challenge Cup: Champion<br></td>
   </tr>
-  <tr>
-    <td class="tg-bapb">South Zone B and C Division Basketball Championships 2019<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">First runners-up for Ace Challenge 2019<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Basketball Clinic by Singapore Slingers</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
