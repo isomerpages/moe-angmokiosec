@@ -40,7 +40,9 @@ variant: markdown
   <tr>
     <td class="tg-bapb">Mr Lim Kwang Hock<br></td>
   </tr>
-  
+	<tr>
+    <td class="tg-wpup">Mr Leon<br></td>
+  </tr>  
   <tr>    
 </tr></tbody>
 </table>
