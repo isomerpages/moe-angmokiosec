@@ -47,25 +47,28 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Executive Committee for 2024 / 2025<br></th>
+    <th class="tg-mwif">Executive Committee for 2025 / 2026<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Kwa Kai Jie, Kayden (3A3)</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Ashton Tan Pin Yee (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Lee Si Kai, Samuel (Li Sikai) (3/2)</span></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Guay Ee Kiat Owen (2C)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Albert Lau Zi Hang (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Albert Lau Zi Hang (2E)</span></td>
+    <td class="tg-bapb"><b><u>B Division Vice-Captain (PTI)</u></b><br><span style="font-weight:400;color:#004D2E">Guay Ee Kiat Owen (3/4)<br>Jayden Lee Zheng Le (3/4)</span></td>
+  </tr>
+	
+  <tr>
+    <td class="tg-wpup"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Guay Ee Kiat Owen (2C)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>Physical Training Instructors</u></b><br><span style="font-weight:400;color:#004D2E">Ashton Tan Pin Yee (2H)<br>Moritz Marley Menon (1/2)</span></td>
+    <td class="tg-bapb"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Albert Lau Zi Hang (2E)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wpup"><b><u>Physical Training Instructors</u></b><br><span style="font-weight:400;color:#004D2E">Ashton Tan Pin Yee (2H)<br>Moritz Marley Menon (1/2)</span></td>
   </tr>
 </tbody>
 </table>
