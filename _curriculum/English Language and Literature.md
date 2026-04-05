@@ -126,6 +126,7 @@ strengthen their research and critical thinking skills, enabling them to present
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVs1hRbvPReGQ23b2mj2eeiIIuKIPP1ZLfhu055xGT9qCWOguOblyOWEmKHhg9xnksY0IB5TW_GLQe/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ##### <b>LITERATURE’ BLACKOUT POETRY</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT21BjAEXGH9ZDet32uq8abOca5uJNSyBfRUsBYEj6Du-lr9k2Kz5VxTX16PfMVB_wMSPUjpl0y2gyu/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 ##### <b>S1 CLUSTER PLAIN ENGLISH SPEAKING COMPETITION</b>
