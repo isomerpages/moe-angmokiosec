@@ -71,34 +71,30 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-74pa"><span style="font-weight:700">Executive Committee for 2024 / 2025</span></th>
+    <th class="tg-74pa"><span style="font-weight:700">Executive Committee for 2025 / 2026</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan Yun Xin (3/3)</span></td>
+    <td class="tg-bapb"><b><u>Overall Captain</u></b><br><span style="font-weight:400;color:#004D2E">GIANN LIM JIAQI (3/4)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Shermane Goh (3/3)</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">ONG YEE XUAN (3/4)</span></td>
   </tr>
+  
   <tr>
-    <td class="tg-bapb">Poh Xin Hui (3/1)</td>
+    <td class="tg-bapb"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">ALLYSSA LIM EN QI (2/4)<br>HANG SOK QI (2/2)</span></td>
   </tr>
-  <tr>
-    <td class="tg-wpup"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Gianne Lim (2H)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Charleen Chan (2B)</td>
-  </tr>
+ 
   <tr>
     <td class="tg-frvs">EXCO Member</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Welfare - Tian Ziwen (3/3)
+    <td class="tg-bapb">Welfare - LAU ZI XUAN (3/4)
 		</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Logistics - Rachel Leong (3A1)</td>
+    <td class="tg-wpup">Logistics - OONG YOK LENG (3A3)</td>
   </tr>
 </tbody>
 </table>
@@ -120,7 +116,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">2024 National School Games</td>
+    <td class="tg-bapb">2025 National School Games</td>
   </tr>
 </tbody>
 </table>
