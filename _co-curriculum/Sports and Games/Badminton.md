@@ -161,7 +161,7 @@ variant: markdown
 </table>
 
 
-<h5 style="color:black" align="left"><i>For AMKSS, For Team, For Self - We serve</i></h5>
+<h5 style="color:black" align="left"><i><b>For AMKSS, For Team, For Self - We serve</b></i></h5>
 
 
 “Ang Mo Kio! Ace! Ace! So!!!”, That’s the battle cry that will ring out whenever our badminton players are about to step on
