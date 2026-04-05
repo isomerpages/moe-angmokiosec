@@ -41,9 +41,7 @@ variant: markdown
   <tr>
     <td class="tg-bapb">Ms Shalynn Sasha Chua<br></td>
   </tr>
-	<tr>
-    <td class="tg-wpup">Mr Zulfiqar Bin Sukiman<br></td>
-  </tr>
+	
   
 </tbody>
 </table>
