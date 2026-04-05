@@ -75,21 +75,22 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2023 / 2024</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Executive Committee for 2025 / 2026</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Habiib Zhoriff Bin Zulkaflee</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">KOY HIOK HIAN</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Li Jiacheng Timothy</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">KOH YAM JOON SKY</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Tan You Liang Samoeul</span></td>
+    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">MUHAMMAD SHAHEIZRY LUQ-HIDAYAT BIN
+ISAM</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Niqil Danish Bin Mohamed Yazid</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">LUCAS LIM</span></td>
   </tr>
 </tbody>
 </table>
@@ -112,10 +113,12 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-		<td class="tg-bapb"><b><u>B Division</u></b><br><span style="font-weight:400;color:#004D2E"></span> <span style="font-weight:400;color:#004D2E">Qualified for League 3 of Football National School Games</span></td>
+		<td class="tg-bapb"><b><u>B Division</u></b><br><span style="font-weight:400;color:#004D2E"></span> <span style="font-weight:400;color:#004D2E">B Division League 3 of Football National
+School Games</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division</u></b><br><span style="font-weight:400;color:#004D2E">Qualified for League 2 of Football National School Games </span></td>
+    <td class="tg-wpup"><b><u>C Division</u></b><br><span style="font-weight:400;color:#004D2E">League 1 of Football National School Games
+</span></td>
   </tr>
 </tbody>
 </table>
