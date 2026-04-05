@@ -149,92 +149,18 @@ The goals of the secondary mathematics education are:
 </tbody>
 </table>
 
-#### Activities for the Year
+Mathematics at AMKSS emphasizes authentic learning
+experiences that connect theory with real-world applications.
+Lessons are designed to encourage exploration, discovery,
+and purposeful problem-solving, instilling joy in learning
+and nurturing enthusiasm for mathematical thinking. This
+approach enhances students’ critical and inventive thinking,
+communication, collaboration, and information literacy.
+Through Computational Thinking Enrichment in the lower
+and middle secondary levels, students learn to represent and
+solve problems using Flowgorithm programming. Participation
+in external competitions such as the Australian Mathematics
+Competition and the Singapore and Asian Schools Math
+Olympiad provides opportunities to stretch their problemsolving
+abilities and develop higher-order thinking skills.
 
-*   To spark students’ interest in Mathematics
-*   To apply Mathematical skills and concepts to real-life situations
-*   To apply 21st century ICT skills to solve problems in real world context
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nlyn{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:top}
-.tg .tg-mcu8{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-60xp{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:middle}
-.tg .tg-didf{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:top}
-.tg .tg-xar3{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mcu8"><span style="font-weight:700">S/No</span></th>
-    <th class="tg-mcu8"><span style="font-weight:700">Level</span></th>
-    <th class="tg-mcu8"><span style="font-weight:700">Activity</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-60xp">1</td>
-    <td class="tg-60xp">Sec 1</td>
-    <td class="tg-didf">MATH-OPOLY</td>
-  </tr>
-  <tr>
-    <td class="tg-xar3">2</td>
-    <td class="tg-xar3">Sec 2</td>
-    <td class="tg-nlyn">Math/Humanities/EL Trail @ Changi Airport</td>
-  </tr>
-  <tr>
-    <td class="tg-didf">3</td>
-    <td class="tg-didf">Sec 3</td>
-    <td class="tg-didf">STEM Learning Journey @ Gardens by the Bay</td>
-  </tr>
-</tbody>
-</table>
-
-**<u>External Mathematics Competitions</u>**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nlyn{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:top}
-.tg .tg-mcu8{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-didf{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-mcu8"><span style="font-weight:700">S/No</span></th>
-    <th class="tg-mcu8"><span style="font-weight:700">Level</span></th>
-    <th class="tg-mcu8"><span style="font-weight:700">Competition</span></th>
-    <th class="tg-mcu8"><span style="font-weight:700">Awards</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-didf">1</td>
-    <td class="tg-didf">Lower Sec</td>
-    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Singapore and Asian Maths Olympiad (SASMO) 2024</span></td>
-    <td class="tg-didf">1 Gold,  10 Bronze</td>
-  </tr>
-  <tr>
-    <td class="tg-nlyn">2</td>
-    <td class="tg-nlyn">Upper Sec</td>
-    <td class="tg-nlyn">Singapore and Asian Maths Olympiad (SASMO) 2024</td>
-    <td class="tg-nlyn">1 Gold, 8 Silver, 8 Bronze</td>
-  </tr>
-	<tr>
-    <td class="tg-didf">3</td>
-    <td class="tg-didf">All Levels</td>
-    <td class="tg-didf"><span style="font-weight:400;color:#004D2E">Australian Maths Competition (AMC) 2023</span></td>
-    <td class="tg-didf">18 Distinctions, 78 Credits</td>
-  </tr>
-</tbody>
-</table>
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGZxQZ7WKrjccNFRXObfn2SHjfprgRTBR9oTxTGvcSz4iQjPrhVmmZLMFz4sUAd1l5obVRhUU0V9UM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
