@@ -153,10 +153,3 @@ Towards greater social responsibility
 </tbody>
 </table>
 
-#### Photo Gallery
-
-![](/images/Learning%20%20Humanities%201.jpg)
-
-![](/images/Learning%20%20Humanities%202.jpg)
-
-![](/images/Learning%20%20Humanities%203.jpg)
