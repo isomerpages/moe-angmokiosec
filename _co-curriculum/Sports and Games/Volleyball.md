@@ -92,22 +92,22 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">CHEN YONG SHUN WINSTON (Sec 3A2)</span></td>
+    <td class="tg-bapb"><b><u>B Division Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Chen Yong Shun Winston (3A2)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">WANG YANZHAO (SEC 3/1)</span></td>
+    <td class="tg-wpup"><b><u>B Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Wang Yanzhao (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">ANG YUE ER JOVIE (Sec 3/3)</span></td>
+    <td class="tg-bapb"><b><u>B Division Girls Captain</u></b><br><span style="font-weight:400;color:#004D2E">Ang Yue Er Jovie (3/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Girls Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">CATHLEIGH TAN XUAN ZHEN (SEC 3/1)</span></td>
+    <td class="tg-wpup"><b><u>B Division Girls Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Cathleigh Tan Xuan Zhen (3/1)</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Division Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">CHEE TAO YANG (Sec 2/8)</span></td>
+    <td class="tg-bapb"><b><u>C Division Boys Captain</u></b><br><span style="font-weight:400;color:#004D2E">Chee Tao Yang (2/8)</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">EASON SO JUN WEI (Sec 2/2)
+    <td class="tg-wpup"><b><u>C Division Boys Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Eason So Jun Wei (Sec 2/2)
 </span></td>
   </tr>
   <tr>
