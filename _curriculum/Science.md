@@ -4,6 +4,21 @@ permalink: /curriculum/science/
 description: ""
 variant: markdown
 ---
+#### Vision
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img src="/images/Science_Vision1.jpg" alt="Science Vision" style="width:75%;"> 
+
+
+
+
+
 #### Staff Details
 
 
