@@ -83,7 +83,7 @@ variant: markdown
   </tr>
   
   <tr>
-    <td class="tg-bapb"><b><u>C Division Vice Captain</u></b><br><span style="font-weight:400;color:#004D2E">Allyssa Lim En Qi (2/4)<br>Hang Sok Qi (2/2)</span></td>
+    <td class="tg-bapb"><b><u>C Division Vice Captains</u></b><br><span style="font-weight:400;color:#004D2E">Allyssa Lim En Qi (2/4)<br>Hang Sok Qi (2/2)</span></td>
   </tr>
  
   <tr>
