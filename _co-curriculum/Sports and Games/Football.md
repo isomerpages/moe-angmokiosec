@@ -80,17 +80,16 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">KOY HIOK HIAN</span></td>
+    <td class="tg-bapb"><b><u>B Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Koy Hiok Hian</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">KOH YAM JOON SKY</span></td>
+    <td class="tg-wpup"><b><u>B Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Koh Yam Joon Sky</span></td>
   </tr>
   <tr>
-    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">MUHAMMAD SHAHEIZRY LUQ-HIDAYAT BIN
-ISAM</span></td>
+    <td class="tg-bapb"><b><u>C Division Captain</u></b><br><span style="font-weight:400;color:#004D2E">Muhammad Shaheizry Luq-Hidayat Bin Isam</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">LUCAS LIM</span></td>
+    <td class="tg-wpup"><b><u>C Division Vice-Captain</u></b><br><span style="font-weight:400;color:#004D2E">Lucas Lim </span></td>
   </tr>
 </tbody>
 </table>
@@ -113,7 +112,7 @@ ISAM</span></td>
 </thead>
 <tbody>
   <tr>
-		<td class="tg-bapb"><b><u>B Division</u></b><br><span style="font-weight:400;color:#004D2E"></span> <span style="font-weight:400;color:#004D2E">B Division League 3 of Football National
+		<td class="tg-bapb"><b><u>B Division</u></b><br><span style="font-weight:400;color:#004D2E"></span> <span style="font-weight:400;color:#004D2E">League 3 of Football National
 School Games</span></td>
   </tr>
   <tr>
