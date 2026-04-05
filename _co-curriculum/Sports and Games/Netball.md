@@ -108,40 +108,14 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">South Zone Netball Competition B Division - Top 8 (2025)<br></td>
+    <td class="tg-ymba">League 2 C Division Third Runner Up (2025)<br></td>
   </tr>
 	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Qualified for League 2 C Division (2024) </span></td>
+    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">South Zone Netball
+Competition B Division - Top 8 (2025)
+ </span></td>
   </tr>
-	<tr>
-    <td class="tg-ymba">South Zone Netball Competition B Division Third Runner Up (2024)<br></td>
-  </tr>
-	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">South Zone Netball Competition C Division Second Runner Up (2023)</span></td>
-  </tr>
-	<tr>
-    <td class="tg-ymba">South Zone Netball Competition C Division - Top 8 (2022)<br></td>
-  </tr>
-	<tr>
-    <th class="tg-7btt">Achievements of the CCA (Carnivals)<br></th>
-  </tr>
-
-</tbody><tbody>
-  <tr>
-    <td class="tg-ymba">Punggol U14 Carnival Division 2 First position (2024)<br></td>
-  </tr>
-	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Netops Carnival B Division First Runner Up (2024)</span></td>
-  </tr>
-	<tr>
-    <td class="tg-ymba">Netops Carnival (March) C Division Second Runner Up (2023)<br></td>
-  </tr>
-	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Netops Carnival (November) B Division Third Runner Up (2023)</span></td>
-  </tr>
-	<tr>
-    <td class="tg-ymba">Punggol U14 Carnival Division 2 Second Runner Up (2023)<br></td>
-  </tr>
+	
 </tbody>
 </table>
 <br>
