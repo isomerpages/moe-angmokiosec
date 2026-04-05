@@ -38,7 +38,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Miss Evelyn Yong JiaHui</span><br><span style="font-weight:400;color:#004D2E">(SH / Chinese Language)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Sun Ying</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Lam Tze Kim</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
   </tr>
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Rajan Bhattarai</span><br><span style="font-weight:400;color:#004D2E"></span></td>
