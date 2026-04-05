@@ -137,15 +137,11 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">South Zone 'C' Division Volleyball Championships 2023 (Boys): 4th Position<br></td>
+    <td class="tg-bapb">2025 Singapore Schools Sports Council Volleyball National ‘C’ Division
+League 3 (Boys): 1st Runner Up
+<br></td>
   </tr>
-   <tr>
-    <td class="tg-wpup">South Zone 'B' Division Volleyball Championships 2022 (Girls): 2nd Position</td>
-  </tr>
-	<tr>
-    <td class="tg-bapb">South Zone 'B' Division Volleyball Championships 2021 (Girls): 3rd Position<br></td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 <br>
 
