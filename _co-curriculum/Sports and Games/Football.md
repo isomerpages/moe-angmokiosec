@@ -51,16 +51,14 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwbt"><span style="font-weight:700">Coaches</span></th>
+    <th class="tg-mwbt"><span style="font-weight:700">Coach</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Hairil Amin ('B' Division)</td>
+    <td class="tg-bapb">Mr Hairil Amin ('B' &amp; 'C'  Division)</td>
   </tr>
-  <tr>
-    <td class="tg-wpup">Mr Deon Lim ('C' Division)</td>
-  </tr>
+  
 </tbody>
 </table>
 <br>
