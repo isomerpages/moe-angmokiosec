@@ -72,7 +72,17 @@ variant: markdown
 	<tr>
     <td class="tg-wpup">Mdm Yeo Ah Wee</td>
   </tr>
-  
-</tbody>
+  </tbody>
 </table>
+At AMKSS, Science education nurtures curiosity, critical inquiry, and innovation. Through the Sec 2 Science Investigative and
+Research Work, students develop inventive thinking, teamwork, and communication skills. The Lower Secondary Science Quiz
+also engages all Secondary 1 students in real-world problem-solving, helping them appreciate science’s role in sustainability
+and human progress.<br><br>
+Our students continue to shine beyond the classroom by participating in a wide range of national competitions. These include
+the Singapore Junior Physics and Biology Olympiads, International Biomedical Quiz, Elementz Competition, Singapore Youth
+Science Fair, and the annual ignITE Challenge. In addition, selected students take part in the biannual National Crystal Growing
+Challenge during NUS Chemistry Week, where they experience the fascinating art of crystallization.<br><br>
+Through these platforms, our students not only stretch their learning and deepen their scientific knowledge but also cultivate
+a lifelong passion and curiosity for the natural world.
 
+##### <b>BIOLOGY PRACTICAL LESSON ON PHOTOSYNTHESIS</b>
