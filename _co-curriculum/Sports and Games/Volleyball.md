@@ -69,7 +69,7 @@ variant: markdown
     <td class="tg-bapb"><b><u>Girls Coach</u></b><br><span style="font-weight:400;color:#004D2E">Mr Teo Kee Theng</span></td>
   </tr>
   <tr>
-    <td class="tg-wpup"><b><u>Boys Coach</u></b><br><span style="font-weight:400;color:#004D2E">Mr Wong Fong Siang </span></td>
+    <td class="tg-wpup"><b><u>Boys Coach</u></b><br><span style="font-weight:400;color:#004D2E">Mr Wong Fong Siang (Leon) </span></td>
   </tr>
 </tbody>
 </table>
@@ -87,7 +87,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-avji">Executive Committee for 2024/2025<br></th>
+    <th class="tg-avji">Executive Committee for 2025/2026<br></th>
   </tr>
 </thead>
 <tbody>
