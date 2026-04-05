@@ -4,9 +4,6 @@ permalink: /curriculum/science/
 description: ""
 variant: markdown
 ---
-#### Vision
-
-![](/images/Science_Vision.jpg)
 
 #### Staff Details
 
@@ -69,11 +66,12 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-wpup">Mdm Nurshuaidah Musa</td>
+  </tr> 
+    <tr>
+    <td class="tg-bapb">Mdm Thevita</td>
   </tr>
-  
-  
-  <tr>
-    <td class="tg-bapb">Mdm Yeo Ah Wee</td>
+	<tr>
+    <td class="tg-wpup">Mdm Yeo Ah Wee</td>
   </tr>
   
 </tbody>
