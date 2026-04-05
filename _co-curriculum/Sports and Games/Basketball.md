@@ -113,7 +113,7 @@ Last year, in the C Division National School Games, the team achieved
 fourth place in League 5 — a remarkable feat that set the foundation
 for greater success. Building on this achievement, the team moved up
 to League 4 this year and made history by being crowned champions, a
-reflection of their steady progress and relentless drive to improve.
+reflection of their steady progress and relentless drive to improve.<br><br>
 In addition to their National School Games triumph, the team also took
 part in the Yuying Challenge Cup, where they rose to the occasion once
 again. Battling against three other schools in the Under-16 category,
