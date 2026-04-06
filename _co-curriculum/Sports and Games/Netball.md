@@ -108,48 +108,59 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ymba">South Zone Netball Competition B Division - Top 8 (2025)<br></td>
+    <td class="tg-ymba">League 2 C Division Third Runner Up (2025)<br></td>
   </tr>
 	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Qualified for League 2 C Division (2024) </span></td>
+    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">South Zone Netball
+Competition B Division - Top 8 (2025)
+ </span></td>
   </tr>
-	<tr>
-    <td class="tg-ymba">South Zone Netball Competition B Division Third Runner Up (2024)<br></td>
-  </tr>
-	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">South Zone Netball Competition C Division Second Runner Up (2023)</span></td>
-  </tr>
-	<tr>
-    <td class="tg-ymba">South Zone Netball Competition C Division - Top 8 (2022)<br></td>
-  </tr>
-	<tr>
-    <th class="tg-7btt">Achievements of the CCA (Carnivals)<br></th>
-  </tr>
-
-</tbody><tbody>
-  <tr>
-    <td class="tg-ymba">Punggol U14 Carnival Division 2 First position (2024)<br></td>
-  </tr>
-	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Netops Carnival B Division First Runner Up (2024)</span></td>
-  </tr>
-	<tr>
-    <td class="tg-ymba">Netops Carnival (March) C Division Second Runner Up (2023)<br></td>
-  </tr>
-	<tr>
-    <td class="tg-wpup"><b></b><span style="font-weight:400;color:#004D2E">Netops Carnival (November) B Division Third Runner Up (2023)</span></td>
-  </tr>
-	<tr>
-    <td class="tg-ymba">Punggol U14 Carnival Division 2 Second Runner Up (2023)<br></td>
-  </tr>
+	
 </tbody>
 </table>
 <br>
 
-Motto: “Teamwork and Trust: Dominating the court, one pass at a time”. <br><br>
-Ang Mo Kio Secondary School (AMKSS) Netball has developed me into the player and student leader I am today. My teammates and I have benefited greatly from the bonding camps and Values-In-Action (VIA) experiences which helped to enhance our skills as well as to foster the team spirit and a more bonded team overall. The bonding camps included tough training sessions and team-building activities that allowed us to engage with experienced coaches, gaining insights and inspiration to elevate our game. Additionally, the VIA experiences have offered numerous opportunities for us to develop valuable life skills like empathy and gratitude.  <br><br>
-Through attending activities and reflections, I have become more confident to express my feelings and thoughts freely to help create a more supportive and appreciative environment for our CCA. Throughout the year, our team has been given numerous opportunities to participate in various carnivals and friendly matches, which allowed us to gain valuable experience and exposure to the game. Players could apply their skills learnt during training against different opponents from diverse schools and clubs. The friendly matches encourage a competitive yet supportive environment, while cultivating good sportsman like behavior to our opponents, helping players to build resilience and adapt their playing styles to suit that particular gameplay. <br><br>
-Earlier this year, the AMKSS Netball B Division team clinched 4th place in South Zone during the National School Games (NSG) 2024 and 3rd place in C Division South Zone NSG in 2023 too. I was proud to see the many months of hard work and effort put in during training had paid off during the games this year as our team demonstrated exceptional teamwork, determination and resilience on the court. The dedication and hard work from our team is evident in the way of play and sportsmanship shown throughout the NSG competition. <br><br>The AMKSS Netball team will always hold a special place in my heart. The sweat and tears that we share as a team during our hardest and most difficult training is what bonds us even closer together. This sense of belonging in our team is the most important base of our CCA, with players supporting each other both on and off the court. Furthermore, the dedication and commitment of our coaches and teachers, who are our biggest cheerleaders, to nurture the growth of our players while creating a positive training environment has not been an easy task for them. Their passion and effort put in for the sport and for the well-being of our players is evident in every training session. We take pride in our sport and this together with the trust and teamwork within the team allows us to always strive for the best.<br><br>
-As we look ahead to the future of our Netball CCA in 2025, we intend to nurture a closely knit team and to fulfill our team motto to the fullest : “Teamwork and trust, dominating the court, one pass at a time”.  <br>
-
-•	Stacey Soh, Captain of B Division Netball (2024)
+##### <b>Motto: “Teamwork and Trust: Dominating the court, one pass at a time”. </b><br>
+Embarking on my secondary school journey, netball was a complete
+enigma to me, a sport I had never imagined playing. Stepping into it was
+like boarding a ship without a map, the seas were unpredictable and at
+first I struggled to find my place. I had never been a natural team player
+but through training sessions, matches and shared experiences, netball
+gradually instilled in me the values of unity, trust and collaboration.
+Being part of a team is not about standing out individually but about
+lifting one another, communicating openly and working together
+toward a collective goal.<br><br>
+This year brought significant achievements for our school teams. The
+B Division girls demonstrated tremendous tenacity and secured a
+position in the Top 8 of the South Zone National School Games. While
+we did not reach our highest aspirations, we left the court without
+regrets, proud of our relentless determination displayed until the final
+whistle. Beyond medals and rankings, what truly mattered was the
+indomitable spirit and perseverance evident in every match. Similarly,
+the C Division girls showed remarkable resilience, achieving fourth
+position in League 2 after months of dedicated effort and unwavering
+commitment, reflecting our team’s core strength and discipline.<br><br>
+Our most meaningful experiences often emerged from team-building
+activities through camps, inter-league competitions and friendly games
+with other schools. These activities significantly enhanced cohesion,
+communication, trust, and mutual understanding among different
+levels, strengthening our camaraderie and building confidence to
+support each other both on and off the court. We also attended the
+sports injury workshop at ITE which provided valuable insights on how
+we could better protect our bodies while training.<br><br>
+Beyond regular training, we engaged extensively in Values-In-Action
+activities. One of the highlights is coaching young netball players at
+Mayflower Primary School. These experiences revealed that netball
+extends far beyond competition—it’s about giving back, supporting
+others, and inspiring enthusiasm for the sport. Coaching younger
+players proved particularly enriching, developing our leadership skills
+while teaching us patience, empathy, and responsibility as we guided
+and inspired the next generation.<br><br>
+None of this would have been possible without our dedicated coach
+and teachers, whose steadfast guidance and encouragement pushed
+us beyond our limits. They nurtured not only our athletic skills but
+also our personal growth, and we remain profoundly grateful for
+their unwavering dedication. Looking ahead, our team builds upon
+these experiences, continuing to inspire one another whilst living by
+our motto: “Teamwork and Trust, dominating the court, one pass at a
+time.”

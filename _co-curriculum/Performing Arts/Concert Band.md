@@ -184,11 +184,9 @@ img {
 }  
 </style>  
 
-The Ang Mo Kio Secondary School Concert Band offers Amksians a platform to explore and develop their musical passions. While many view music making as an innate talent, we believe it is truly about dedication, passion and a willingness to learn—qualities that our Band seeks to cultivate in its members.
-  
-
-This year has been particularly eventful and fulfilling for the Concert Band. Apart from having the privilege of performing at the Esplanade Concert Hall as part of the 'Esplanade Presents Limelight’ series this year, the Concert Band was also invited to take part in this year’s National Day Parade 2024. As part of the National Day Parade this year, a selected group of 30 band members participated in the Military Tattoo, where they trained intensively from May to August, learning to march in formation alongside three other schools as well as the Singapore Armed Forces Band.
-
-  
-
-In addition to these significant events, the band furthermore had opportunities to showcase its talents at our school's Annual Speech Day (Awards Day) and the biennial arts performances, NOMAD. With more concerts on the horizon, we are excited for what’s next to come for our dedicated musicians.
+The Ang Mo Kio Secondary School Concert Band provides AMKsians with a platform to develop as musicians while learning the value of teamwork and dedication. Beyond music, it is a place where we build friendships, share memorable experiences and grow together as a team. <br><br>
+2025 has been a year filled with achievements and meaningful performances. At the Singapore Youth Festival Arts Presentation 2025, the Band received a Certificate of Distinction. It was a truly rewarding experience, and we could not have been more proud of this collective achievement as it was a testament to our unwavering dedication. Within school, we also played an active role in school-based events such as Chinese New Year Celebration, National Day celebration and Awards Day. In addition, we performed alongside our Alumni band in our school’s Alumni concert, Retour - Timeless Tunes. We always look forward to these special moments where we have the opportunity to create cherished memories as we perform alongside our bandmates, both past and present. Apart from the band alumni, we also had the special opportunity to support our school’s alumni, the Ang Mo Kio Secondary School Social Move, in their community efforts by performing for Kebun Baru Community Club’s Chinese New Year Celebrations. It was a meaningful experience as we brought joy to the community especially our seniors by playing familiar tunes for them!<br><br>
+Through our various performances, we hone our skills as musicians. In this year, we had the opportunity to further hone our skills through our first international exchange with Ratwinit Bangkaeo School from Thailand, as well as a masterclass by Nonesuch Reed Quintet. These experiences hold a special place in our hearts as we had the chance to experience cross-cultural exchanges in music, and also to learn from more experienced others.<br><br>
+The Band goes beyond creating musicians. It brings us together as a family. Our shared experiences create lasting memories and friendships that extend far beyond rehearsals and performances, living up to our motto: One band, One sound, One family.<br><br>
+With more concerts on the horizon, we are excited for what’s next to come for our dedicated musicians.<br><br>
+Let’s continue to strive for the best, Ang Mo Kio Secondary School Concert Band!

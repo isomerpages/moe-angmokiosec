@@ -51,3 +51,17 @@ To inculcate an appreciation of various art forms, chiefly Visual arts, Dance, D
 *   Digital Art
 *   Photography
 *   Animation
+
+The Aesthetics programme provides students with avenues to explore, create, and express themselves through art and
+music. Performing Arts-Based Learning (PABL) experiences at Secondary Two expose students to different art forms and
+musical cultures. Students experience a live music performance that is specially produced and staged at a professional
+concert venue. The performances feature a variety of musical cultures, including local or locally inspired works, to develop
+students’ sense of identity, appreciation and pride in our shared culture and heritage. The General Music Programme (GMP)
+deepens students’ appreciation of music from both local and global cultures, whilst encouraging them to express themselves
+confidently and creatively through musical performance and composition. Our Art Programme nurtures students’ critical and
+creative thinking by engaging them in meaningful art-making experiences and reflective portfolio work. Through hands-on
+practice and guided exploration, students learn to express their ideas visually, experiment with different media, and develop
+a deeper understanding of the artistic process. Students are also introduced to a wide range of art forms, from traditional to
+contemporary and digital, allowing them to appreciate the diversity of artistic expression and its relevance in today’s world.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAX8qviHjnQN-uQSMrm41VWDTcnIUGx0NtAWHfEqAaf3cJdVR3BL2RR6MLX-NtPgrEDL3p9dP_KaSr/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

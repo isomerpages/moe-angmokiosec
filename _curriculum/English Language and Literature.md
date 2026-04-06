@@ -32,10 +32,10 @@ To be an ACE (articulate, confident and expressive) user of the English Language
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Cha Wan Cheng</span><br><span style="font-weight:400;color:#004D2E">(HOD / English Language)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Ms Han Siu Yin</span><br><span style="font-weight:400;color:#004D2E">(HOD / English Language)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Ms A'bidah Binte Abdul Gafoor</span><br><span style="font-weight:400;color:#004D2E">(LH / English Language)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Ms Faralina Bte Mohamed Ali</span><br><span style="font-weight:400;color:#004D2E">(LH / English Language &amp; Literature)</span></td>
   </tr>
   <tr>
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mrs Elinawaty Hairul</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
@@ -108,121 +108,26 @@ _Target Group: Respective Levels_
     
 
 *   To develop research and critical thinking skills and ability to express views and ideas with clarity and conviction (Class Debates)<br> _Target Group: Upper Secondary_
-    
 
-  
+The English Language curriculum at AMKSS seeks to nurture discerning readers and articulate communicators. Through
+the EL Reading Programme, students engage critically with The Straits Times and ST-IN, as well as guided reading sessions,
+deepening their appreciation of language while developing metacognitive and inquiry-based reading habits. Lessons are
+infused with multiliteracy practices and dialogue-based inquiry to promote deeper understanding and enjoyment of the
+language. The English and Literature Creative Performance Tasks provide authentic opportunities for students to collaborate
+and express their creativity through activities such as research and presentations on “How to Make AMKSS a Greener and
+More Sustainable School,” blackout poetry, and character song lists. Complementing these, the Oracy Programme builds
+students’ fluency, confidence, and expressiveness through platforms such as article sharing, while class debates further
+strengthen their research and critical thinking skills, enabling them to present their ideas with clarity and conviction.
 
-##### **EL Week 2022**
+##### <b>BOOK BUFFET @ AMKSS LIBRARY</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWh6yWVsnjCW3QIIG4GCslqnsHIBjtKJofFxDinqFpz31iKKpbM-tSMRL_ucINkvcbFN1Wmt7BOAWs/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-_Target Group: All_
+##### <b>DRAMA PLAYS’ DON’T KNOW DON’T CARE - PERFECTING PRATAS</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVs1hRbvPReGQ23b2mj2eeiIIuKIPP1ZLfhu055xGT9qCWOguOblyOWEmKHhg9xnksY0IB5TW_GLQe/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-  
-
-*   To instil stronger interest and love for the language
-*   To infuse multi-literacies in the learning of language (e.g. poetry, songs, images)
-*   To develop AMKsians’ oracy skills and strengthen self-confidence through class and school-level presentations
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-m9vb{background-color:#E5E5E5;color:#004D2E;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-24tc{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-60xp{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:middle}
-.tg .tg-xar3{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-24tc">Activities for EL Week 2022<br></th>
-    <th class="tg-24tc">Target Group<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-60xp">Blackout Poetry<br>Language Games<br></td>
-    <td class="tg-60xp">Sec 1E/NA<br>Sec 1NT<br></td>
-  </tr>
-  <tr>
-    <td class="tg-xar3">Listen Clozely<br></td>
-    <td class="tg-xar3">All Sec 2 classes<br></td>
-  </tr>
-  <tr>
-    <td class="tg-m9vb">Literary Morning Song<br>Selected student(s) from each Sec 3 class to share their analysis of figurative language use in songs of their choice<br></td>
-    <td class="tg-60xp">All Sec 3 classes<br></td>
-  </tr>
-  <tr>
-    <td class="tg-xar3">55-Word Story<br>Language Games<br></td>
-    <td class="tg-xar3">Sec 4E/5NA/4NA/4NTOOS<br>Sec 4NT<br></td>
-  </tr>
-  <tr>
-    <td class="tg-60xp">Song Dedication to Teachers<br></td>
-    <td class="tg-60xp">All</td>
-  </tr>
-</tbody>
-</table>
-
-#### EL Competitions
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xsva{background-color:#E5E5E5;color:#004D2E;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-nlyn{background-color:#FFF;color:#004D2E;text-align:left;vertical-align:top}
-.tg .tg-24tc{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-didf{background-color:#E5E5E5;color:#004D2E;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-24tc">Competitions for Year 2022<br></th>
-    <th class="tg-24tc">Target Group<br></th>
-    <th class="tg-24tc">Latest Achievements<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-didf">The Queens Commonwealth Essay Writing Competition<br></td>
-    <td class="tg-didf">All<br></td>
-    <td class="tg-xsva">2021<br>64 Bronze Awards<br>25 Silver Awards<br></td>
-  </tr>
-  <tr>
-    <td class="tg-nlyn">Orator’s Trophy 2022<br></td>
-    <td class="tg-nlyn">Selected Upper and Lower Sec students<br></td>
-    <td class="tg-nlyn">Participation</td>
-  </tr>
-</tbody>
-</table>
-
-#### Photo Gallery
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Blackout%20Poetry%20(EL%20Week%202022).jpeg" alt="Blackout Poetry (EL Week 2022)" style="width:40%;">  
-  
+##### <b>LITERATURE’ BLACKOUT POETRY</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT21BjAEXGH9ZDet32uq8abOca5uJNSyBfRUsBYEj6Du-lr9k2Kz5VxTX16PfMVB_wMSPUjpl0y2gyu/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
-<p style="text-align:center;"> <strong>Blackout Poetry (EL Week 2022)</strong></p>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/Class%20Debate.jpeg" alt="Class Debate" style="width:75%;">  
-  
-
-
-<p style="text-align:center;"> <strong>Class Debate</strong></p>
+##### <b>S1 CLUSTER PLAIN ENGLISH SPEAKING COMPETITION</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEIN-S4ige6I7cZlemyKbshuSg-jb4vGCVTEOHUkkAc2foLCDgk9QvWV6rKiZkd15ZdTQwVTGNBnLX/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

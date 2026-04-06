@@ -45,3 +45,18 @@ To further their learning about food security and sustainability, and its import
 
 ##### Moving on… 
 Heartened by the rich learning and student engagement in these Learning Festival programmes, AMKSS will continue to explore and organise meaningful and authentic learning opportunities for our students to grow holistically in areas of STEM (Science, Technology, Engineering &amp; Mathematics).
+<br><br>
+The school’s ALP in Environmental Sustainability through STEM equips students with 21st Century Competencies by developing
+them in scientific inquiry skills. It creates opportunities for students to apply what they have learnt in class in areas of STEM
+(Science, Technology, Engineering &amp; Mathematics) through hands-on and minds-on activities. The curriculum comprises three
+major themes: Biodiversity, Energy and Resources, and Electronics &amp; Coding.<br><br>
+Beyond the ALP, we adopt a whole-school approach to integrate Environment Sustainability Education (ESE) in the school
+curriculum and promote practices in the management of resources to not only create a greener school environment and
+achieve energy efficiency and waste management, but more importantly to inculcate social responsibility in our students.<br><br>
+The attainment of the following awards affirms the school’s efforts to promote environmental sustainability:<br>
+• Young Sustainability Champion (3rd Placing in Senior Category) 2024<br>
+• BCA Green Mark Award (Gold) 2022 – 2023<br>
+• Eco-School International Green Flag 2022 &amp; 2023<br>
+• SGA Yellow Flame Award 2019<br>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQR2I51w0DYapqh_c0OcEczVHUXBYXjxA6kHUy0oIL-nGMeI9sKPWB8HELFWa8rRT2ljpv8oQA3HScL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

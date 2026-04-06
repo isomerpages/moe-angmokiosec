@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYta6AcUrSD22lpTxV3DbEGksz1NzxpYh3nEOqpNtLWz2rSisNKfjfIO6J7H0Ki5foCGbK4qgybg8C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8hFIInmmV13jihAFLrEnqzTfGXJMR-FtJU1CWvb5UiIbh_yA3iF7IZz4whTC2omUzrbhCCZHpEDJ_/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,10 +25,10 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (2IC)<br></td>
+    <td class="tg-bapb">Mdm Siti Nadhirah Hanafi (IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Ms Nur Afiqah</td>
+    <td class="tg-wpup">Mdm Nur Afiqah</td>
   </tr>
 </tbody>
 </table>
@@ -76,16 +75,18 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Haidah Binte Mohamed Hanafie (3/1)</span></b></td>
+    <td class="tg-bapb"><u><b>Chairperson</b></u><b><br><span style="font-weight:400;color:#004D2E">Nyla Farzana Binte Fahmy (3A1)</span></b></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u><b>Rehearsal Mistress</b></u><b><br><span style="font-weight:400;color:#004D2E">Airis Arissa Binte Muhammad Zulkifli (3A2)</span></b></td>
+    <td class="tg-mwif"><u><b>Vice-Chairperson
+</b></u><b><br><span style="font-weight:400;color:#004D2E">Airis Sabieha Binti Anuar (3A1)</span></b></td>
   </tr>
+	
   <tr>
-    <td class="tg-bapb"><u><b>Quarter Mistress (Costumes / Makeup / Props)</b></u><b><br><span style="font-weight:400;color:#004D2E">Ayra Nadyne Binte Noor Indra Gunawan (3A2)</span></b></td>
+    <td class="tg-bapb"><u><b>Quarter Mistress (Costumes / Makeup / Props)</b></u><b><br><span style="font-weight:400;color:#004D2E">Putri Ryhana Qistina Binte Muhammad Haikal (3A1)</span></b></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u><b>Publicity In Charge</b></u><b><br><span style="font-weight:400;color:#004D2E">Hizsyahirah Binte Muhammad Hiszar (3A1)</span></b></td>
+    <td class="tg-mwif"><u><b>Publicity In Charge</b></u><b><br><span style="font-weight:400;color:#004D2E">Arya Ardini Binte Muhammad Zulkifli (3A3)</span></b></td>
   </tr>
   
 </tbody>
@@ -111,25 +112,42 @@ variant: markdown
 	<tr>
     <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2025 (Distinction)<br></td>
   </tr>
-	<tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2023 (Distinction)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2021 (Accomplishment)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Singapore Youth Festival Arts Presentation 2019 (Accomplishment)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bapb">Singapore Youth Festival Arts Presentation 2017 (Distinction)</td>
-  </tr>
+	
 </tbody>
 </table>
 <br>
 
 
-The AMKSS Malay Dance Group, known as Gemilang Sari, is a dedicated group of dancers passionate about promoting Malay dance and culture. This close-knit CCA aims to develop its members into poised and confident performers, fostering a sense of mutual care and support. Guided by the motto ‘Satu Hati, Satu Jiwa’ which means ‘One Heart, One Soul’ in English, the group emphasizes unity and shared passion in their artistic endeavors
- <br><br>
-The group has performed and participated at various school events, such as NOMAD, MTL Fortnight, Hari Raya Celebrations, Awards Day and the AMKsian Showcase. In March this year, the dancers had the opportunity to collaborate with dancers from Mayflower Secondary School in a production titled ‘The Museum’. This collaboration was a valuable learning experience, allowing the dancers to exchange ideas and techniques, thereby enhancing their performance skills, and fostering creativity through teamwork. These experiences enhance the dancers' skills and provide numerous opportunities to showcase their talents and share their love for dance.<br><br>
-Last year, the dancers had a chance to perform on an international platform of the Muara Festival while this year, the dancers participated in a traditional Malay Dance Competition, Mutiara Tari 2024. These prestigious events provided the dancers with opportunities to showcase their talents beyond the school setting, gaining exposure to a wider audience and receiving valuable feedback from professionals in the field. Participation in these events not only honed their dance skills but also instilled a sense of discipline and resilience. Moreover, these experiences fostered camaraderie among the dancers and allowed them to build connections with peers who share their passion for Malay dance.<br><br>
-In essence, Gemilang Sari is more than a dance group; it is a nurturing environment where members can develop both their artistic talents and interpersonal connections while celebrating the rich heritage of Malay dance. The motto ‘Satu Hati, Satu Jiwa’ encapsulates the spirit of unity and collective passion that defines the group's ethos.
+The AMKSS Malay Dance Group, known as Gemilang Sari, is a dedicated group
+of dancers passionate about promoting Malay dance and culture. This closeknit
+CCA aims to develop our members into poised and confident performers
+while fostering a sense of mutual care and support. Guided by the motto ‘Satu
+Hati, Satu Jiwa’ which means ‘One Heart, One Soul’ in English, we emphasise
+unity and shared passion in our artistic endeavours.<br><br>
+This year marked a significant milestone as we achieved the Distinction
+Award at the Singapore Youth Festival Arts Presentation, a testament to our
+dedication and artistic excellence. We also performed at various
+school events, including MTL Fortnight, Hari Raya Celebration, Awards Day,
+National Day and the AMKsian Showcase, providing numerous opportunities
+for us to showcase our talents.<br><br>
+Our commitment to excellence extends beyond the school as we participated
+actively in exchange programmes, festivals as well as workshops and through
+all these, we gained valuable exposure and learning opportunities. This year,
+we collaborated with Tampines Secondary School and Yuan Ching Secondary
+School, and gained meaningful experiences in our preparation for the
+Singapore Youth Festival Arts Presentation. Our dance leaders also took part
+in AMPLIFIED! DanceLab25: Youth Leadership Dance Camp organised by the
+Arts Education Branch, further developing their leadership and artistic growth.
+In addition, our dancers also had the honour of performing at the prestigious
+Muara Festival 2025 at the Esplanade Outdoor Theatre as part of the Muara
+Youth Development Programme. These programmes have honed our dance
+skills whilst instilling discipline, resilience, and camaraderie among members.<br><br>
+Beyond performances, we also actively engaged ourselves in community
+service through our Values in Action (VIA) programme, where we introduced
+preschool students from My First Skool to the beauty of Malay dance. These
+initiatives have helped develop our dancers’ leadership skills whilst fostering
+creativity through teamwork and cultural exchange.<br><br>
+In essence, Gemilang Sari is more than a dance group; it is a nurturing
+environment where members develop both their artistic talents and
+interpersonal connections whilst celebrating the rich heritage of Malay dance
+under our guiding motto of unity and collective passion.

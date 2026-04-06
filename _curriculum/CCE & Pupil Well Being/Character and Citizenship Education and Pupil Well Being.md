@@ -98,3 +98,27 @@ The school’s National Education programme is anchored on the following citizen
   
 
 The school celebrates the four National Education Commemorative Days in a year: Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. Activities are carefully planned to guide students to deepen their understanding of the citizenship dispositions and to apply it in their journey as AMKsians. Beyond the commemorative days, students will also be exposed to current affairs through their lessons and also on learning journeys organised by the school or their CCAs.
+<br><br>
+Character and Citizenship Education (CCE) lies at the heart of AMKSS’s mission to nurture well-rounded individuals. Guided
+by the CCE 2021 framework, the programme develops students’ identity, relationships, and decision-making capacities,
+equipping them with the values, social-emotional competencies, and civic dispositions essential for future readiness. Student
+Development Experiences such as Values-In-Action (VIA) projects promote intergenerational learning and community
+engagement, while the annual Career Conference exposes students to insights from professionals across various industries.
+Collaborations with the Ministry of Social and Family Development (MSF) Families for Life further reinforce the importance
+of family values and meaningful relationships. Together, these initiatives help AMKsians build good character, resilience, and
+active citizenship for life.
+
+##### <b>ECG CAREER CONFERENCE</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQiNKoqEN04BW9tX0wP00-F9jADW6ZRYwQTzQgw5l-r2dRZYY2mnQh_7ijtFx6nI4gVlZGRbbDee3ZY/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+##### <b>SEC 2 EXPERIENCE ITE PROGRAMME</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQETFJVFiWrbDPxMZZCzcMalM5bUepcF10mfewGlTLD_UaQaEmSMdLgJwlz-xrPPM7N7tWPq0_f7KeP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+##### <b>NE LJs</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKclTLydnt0QpwOa6kzxbTmNuILRmHzY1N7SeIk6YQXprP8jloHyMBJAtYA8jwnKj2DHXT9m3B-ZUS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+##### <b>SEC 3 NS ENGAGEMENT TALK</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfOcgAktD04ril2B8Ixnq9YtlsBrdipJh4cQeA3oxmwo-t4ctLOUSc44W7MTTzfFiWBNKa7ezLUYlp/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+##### <b>VIA</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTytU5oxP1jQ_cov9YJn3xfG3Tt_UkTwcdEMj21qUmmSDqBb1fKaHOuUH6KC7jqxJV8NFTIRclQS1lQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

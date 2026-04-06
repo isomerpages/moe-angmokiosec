@@ -191,6 +191,15 @@ It was an enriching and fulfilling session as all the students succeeded and bro
 
 <br>
 
+The Design &amp; Technology (D&amp;T) and Nutrition &amp; Food Science (NFS) programmes develop students into creative and critical
+thinkers who can apply knowledge and skills to solve real-world problems. In D&amp;T, students undertake a progressive series
+of design-and-make projects from Secondary 1 to 5, learning to turn ideas into reality through thoughtful design processes.
+They acquire essential knowledge in structures, mechanisms, electronics, and material properties, integrating these elements
+to create functional prototypes. In NFS, students learn through a blend of theory and practice—from Food and Consumer
+Education (FCE) in the lower secondary to Nutrition and Food Science (NFS) in the upper secondary. The programme equips
+them with nutritional knowledge, consumer awareness, and culinary skills that empower them to make informed decisions
+for healthy living.
+
 #### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRivt1iljNqV2a7G4_PZAuRbnZFmb8AyJNcwPkUgCSrOKle7Vll1deSzEtHge7dBdi98luhn0enog43/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5YEUxuW1HC1QimTsT4JklXNFuD7bCR-E10MZZ5JdVJvNKockbvth_5nva-HMB3cPlbauHj1AHgTHp/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

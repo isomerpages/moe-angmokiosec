@@ -29,3 +29,12 @@ variant: markdown
 #### Sec 3 Marbling on Tote Bag
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3pVz7FgLIl-GYoWtxP5RJ3xOJiVq1jn3540d_izKL05uwR8LuUDlfbUZuEPIgh2uulAz_s0xyA1Fs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+The LLP Integrated Arts Programme is designed to expose every student to drama, visual arts, dance, and music. Secondary
+Two students are given the opportunity to further pursue their talent or interest in either dance or drama. Opportunities are
+provided for students to hone their talents through Performing Arts CCAs and N-level Art/ O-Level Music programmes, as well
+as through platforms such as Lunchtime Performances, school and external concerts and the biennial Night of Music, Arts
+and Dance (NOMAD). Our students are also given opportunities to explore different Arts activities during the year-end postexamination
+programmes. Examples of workshops include Marbling and Paper Quilling sessions. Additionally, our students are exposed to various arts performances during our school’s assembly programmes, such as performances by the SAF Central Band and MICappella.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhwi-ShTvQ6Lvb5cPUjV1XbHwR2PMviq6F47hPIa56r0RkVT7BtD90VfxZHBwDUAgePujdOwcvHUk7/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

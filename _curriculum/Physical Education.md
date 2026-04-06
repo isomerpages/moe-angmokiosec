@@ -59,6 +59,9 @@ img {
   <tr>
     <td class="tg-wpup">Mr Mohamed Yasin Bin Abdul Latif</td>
   </tr>
+	<tr>
+    <td class="tg-bapb">Mr Leon Lu Sunjie<br><span style="font-weight:400;color:#004D2E"></span></td>
+  </tr>
 	 
 </tbody>
 </table>
@@ -133,3 +136,18 @@ At the end of the year, as part of our sports exposure programme, we give our Se
   
 
 These activities give students a new experience and also opens up their options on healthy living. Students pick up new skills and this allows them to broaden their options with regards to leading a healthy lifestyle, allowing them to make more informed choices when they decide on what to do to stay healthy.
+<br><br>
+The Physical Education (PE) programme seeks to instil lifelong habits of health, fitness, and active living. Students participate
+in a wide range of sports and games, learning essential skills that support physical well-being and holistic development. The
+Department takes great pride in ensuring the lessons are engaging for all students and make them enjoy physical activity and
+sports. Opportunities are given to students of all competency levels to ensure no one is left behind and everyone gets to learn
+and play. Events such as the Sports Fiesta, Family Day, Life Run, and Inter-Class Games cultivate camaraderie, sportsmanship,
+and a strong sporting culture within AMKSS. Through friendly competition where every child gets to play, they apply what
+they have learnt while embracing teamwork and resilience.<br><br>
+Level Camps offer further opportunities for character-building and personal growth, challenging students physically and
+mentally in authentic, outdoor settings that foster adaptability, confidence, and perseverance.<br><br>
+The Post Exam programme is also aimed at giving students different sports activities not provided for in the PE curriculum.
+The aim of the programme is to give students opportunities to learn new physical activities/skills which they can do as part of
+their recreational pursuits. Our students learn to cycle, inline skate as well as bowl as part of their time in AMKSS.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGYEBAVvrJIrqjbmyAaq6NavuOOY7EdIJKTj7M_mKJ8HmBq1peo4n7oi6EZy6_RakuMjCKQusuFafG/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

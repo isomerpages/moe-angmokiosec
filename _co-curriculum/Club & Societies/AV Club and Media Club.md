@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Club & Societies
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSY5O2DZDjBlsjqm84ibSlbs5-dtEEJT98fGoH9wjS93f31Js4yAxxg-trkW3UZZyVjmt5nyahENUn0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQBGp13JWG_mkyh2QndUTAxLGCEuXcLaoZfCAnOV7Fjt8Qkd_weVQnTNGNMkoumZXGwZSOsZYHCjvMt/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 <style type="text/css">
@@ -26,19 +26,20 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Mr Koh Kian Neng Wilson (IC)<br></td>
+    <td class="tg-bapb">Mr Koh Kian Neng (IC)<br></td>
   </tr>
   <tr>
     <td class="tg-wpup">Mdm Kwa Leng Leng (2IC)<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mdm Siti Radziah<br></td>
+    <td class="tg-bapb">Mdm Siti Radziah Mustafa
+<br></td>
   </tr>
   <tr>
-    <td class="tg-wpup">Miss Audrey Ferng<br></td>
+    <td class="tg-wpup">Miss Audrey Ferng Yung Ying<br></td>
   </tr>
   <tr>
-    <td class="tg-bapb">Mr Shashidaren<br></td>
+    <td class="tg-bapb">Mr Shashidaren Rajendran<br></td>
   </tr>
   
 </tbody>
@@ -57,48 +58,26 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Executive Committee for 2023/2024<br></th>
+    <th class="tg-mwif">Executive Committee for 2025/2026<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Kang Jun Wei Xander (3/4)</span></td>
+    <td class="tg-mwif"><u>Chairperson</u><br><span style="font-weight:400;color:#004D2E">Li Boxian (3/2)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Lau Xu Yue (3/1)</span></td>
+    <td class="tg-mwif"><u>1st Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Clare Tan Shi Ying (3/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>2nd Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Ethan Jayben Joshua (3/1)</span></td>
+    <td class="tg-mwif"><u>2nd Vice-Chairperson</u><br><span style="font-weight:400;color:#004D2E">Lucien Tan Jun Ye (3/3)</span></td>
   </tr>
   <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">Song Cheng Hong (3A1)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (AV)</u><br><span style="font-weight:400;color:#004D2E">Megan So Wei Ling (3/2)</span></td>
   </tr>
 	<tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">Kopparthi Nitya Sri Sowmya (2C)</span></td>
+    <td class="tg-mwif"><u>Vice-Chairperson (Photography)</u><br><span style="font-weight:400;color:#004D2E">Huang Zen Tuo Keane (3A2)</span></td>
   </tr>
-  <tr>
-    <td class="tg-mwif"><u>Vice-Chairperson (Media)</u><br><span style="font-weight:400;color:#004D2E">Teo Jing Jing (2E)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>AV Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Tay Jun Wee (3A1)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>Media Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Jeremy Ng Jun Hong (2B)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>Photography Unit 1st I/C</u><br><span style="font-weight:400;color:#004D2E">Tan Zhi Ming Ryan (2C)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>AV Unit 2nd I/C</u>
-<br><span style="font-weight:400;color:#004D2E">Goh Jun Yu (2G)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>Media Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">Eric Knya Yi Kai (2E)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwif"><u>Photography Unit 2nd I/C</u><br><span style="font-weight:400;color:#004D2E">Huang Zen Tuo Keane (2B)</span></td>
-  </tr>
-</tbody>
+ </tbody>
 </table>
 <br>
 <style type="text/css">
@@ -107,29 +86,80 @@ variant: markdown
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mwif{background-color:#FFF;border-color:inherit;color:#004D2E;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-t70x{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:top}
+.tg .tg-74pa{background-color:#FFF;color:#004D2E;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-bapb{background-color:#E5E5E5;color:#004D2E;text-align:center;vertical-align:middle}
+.tg .tg-wpup{background-color:#FFF;color:#004D2E;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Achievements of the CCA<br></th>
+    <th class="tg-74pa"><span style="font-weight:700"><b>Achievements of the CCA</b></span></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">3D-Tronics Digital Making Competition 2022 - Most Friendlist Award</span><br><span style="font-weight:400;color:#004D2E">Canon Youth Photography Awards 2021 – “Discovering Nature” – Secondary Category - Winner</span><br><span style="font-weight:400;color:#004D2E">IgnITE Skills Challenge 2021 - 2 teams (Finalist)</span><br><span style="font-weight:400;color:#004D2E">MOE Our Schools, Our Stories Photo Contest 2021 - Honourable Mention</span><br><span style="font-weight:400;color:#004D2E">PacificLight Crea8 Sustainability Re-Crea8 Competition 2021</span><br><span style="font-weight:400;color:#004D2E">1st Runner Up (Lower Secondary)</span><br><span style="font-weight:400;color:#004D2E">Winner ( Upper Secondary)</span><br><span style="font-weight:400;color:#004D2E">CAPTURE Youth Photography Challenge – Advanced</span></td>
+	<tr>
+    <td class="tg-wpup">MOE Our Schools, Our Stories
+Photography &amp; Videography Contest
+2025 - Participation</td>
   </tr>
-</tbody>
+	<tr>
+    <td class="tg-bapb">National Youth Technology Challenge
+2025 - Participation
+			</td></tr><tr>
+    <td class="tg-wpup">Better Internet Video challenge 2025 -
+Participation</td>
+  </tr>  
+	</tbody>
 </table>
 <br>
 
-The school’s Audio-Visual (AV) Media Club provides students with valuable technical skills and inculcates the spirit of volunteerism and initiative. Our regular activities include setting up the public announcement (PA) system for morning assembly on Monday &amp; Thursday and afternoon assembly on Wednesday and for all school events. Our students are also resident photographers for all school performances and special occasions. 
-
-This year the AV Media Club students were involved in numerous major school events, Awards’ Day 2023, Family Day 2023, Teachers’ Day cum EAS Celebrations and Farewell Assembly.
-
-Our members also participated in various competitions this year, Character building is also emphasized upon in the CCA. We hope to nurture students who are able to work in a confident manner both individually and in teams, be adaptable, and have the self-discipline to put in their best in the tasks they are assigned. At the end of each training session, students’ works are shared and they get to learn from one another. 
-
-This year our students have also taken part in numerous competitions such as 2023 Crea8 Sustainability Competition, Our School, Our Stories Photography and Videography Contest 2023 which allow them to build on their competencies and confidence. 
-
-In addition, our students are trained in simple coding, microbit and Game Maker. This training in computational thinking will equip them with the skills required for Singapore’s Smart Nation initiative. Learning journeys were also organized to allow students to relate and apply what they have learnt in the CCA.
+The Audio-Visual (AV) Media Club: Fostering Technical Skills and Leadership
+The AV Media Club plays a pivotal role in enhancing students’ technical skills
+while allowing them to contribute to various school events. Through a diverse
+range of activities, the club nurtures creativity, leadership as well as teamwork
+and prepares students for future success in media-related fields and beyond.<br><br>
+<b>Technical Support and Media Production:</b><br>
+● Students in the AV Media Club manage the Public Announcement (PA)
+system during assemblies and school-wide events, ensuring clear and
+efficient communication.<br>
+● As the resident photographers and videographers for all school
+performances and special occasions, members gain invaluable hands-on
+experience in media production and content creation.<br><br>
+<b>Key Involvement in Major School Events:</b><br>
+● This year, the AV Media Club played an integral role in the success of
+major school events, including Awards Day, Chinese New Year
+Celebration, Hari Raya Concert, National Day Celebration, Teachers’
+cum EAS' Day Celebration, and the Graduation Ceremony. <br>
+● The club’s technical expertise ensured the smooth execution of these
+significant events.<br><br>
+<b>Encouraging Volunteerism and Innovation:</b><br>
+● The AV Media Club promotes a spirit of initiative and innovation. For
+instance, Secondary Three students helped co-plan the Makers’ Education
+Programme, which provided AMKsians with the opportunity to explore
+3D printing in hands-on sessions. This initiative reflects the club’s
+commitment to fostering curiosity and developing problem-solving skills
+among students.<br><br>
+<b>Participation in Competitions and Skill Enhancement:</b><br>
+● Club members participated actively in various competitions, such as the
+Better Internet Challenge 2025, the Our School, Our Stories Photography
+and Videography Contest 2025, and the National Youth Technology
+Championship 2025.<br>
+● These competitions provided students with opportunities to enhance
+their skills, build confidence, and develop strong teamwork abilities,
+while gaining recognition for their talents. <br><br>
+<b>Character Development and Skill Building:</b><br>
+● The AV Media Club places strong emphasis on character development to
+help students become more confident, adaptable, and disciplined.<br>
+● The club also offers coding training sessions, aligned with Singapore’s
+Smart Nation initiative, to promote computational thinking and prepare
+students for the future digital landscape.<br><br>
+<b>Learning Journeys and Real-World Exposure:</b><br>
+● In addition to training sessions, the club organizes enriching learning
+journeys, such as visits to the Singapore Oceanarium at Resorts World
+Singapore and workshops on Artificial Intelligence (AI) in storyboarding. <br>
+● These excursions offer students with real-world exposure, allowing them
+to apply the skills they have learned in practical, hands-on environments. <br><br>
+The AV Media Club offers a well-rounded experience that equips students
+with a diverse set of technical, creative, and leadership skills. Through their
+involvement, students not only gain expertise in media production but also
+develop a strong sense of responsibility, initiative, and teamwork.

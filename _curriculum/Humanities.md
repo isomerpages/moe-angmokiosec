@@ -35,7 +35,7 @@ Towards greater social responsibility
     <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mr Nor Azahar Bin Mohd Ismail</span><br><span style="font-weight:400;color:#004D2E">(HOD / Humanities)</span></td>
   </tr>
   <tr>
-    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Mohammad Suhaimi</span><br><span style="font-weight:400;color:#004D2E">(SH / Humanities)</span></td>
+    <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mr Ian Mui Jun Xian</span><br><span style="font-weight:400;color:#004D2E">(SH (Covering) / Humanities)</span></td>
   </tr>
   <tr>
     <td class="tg-bapb">Mdm G Anantha</td>
@@ -55,12 +55,7 @@ Towards greater social responsibility
   <tr>
     <td class="tg-wpup">Miss Ong Lay Hoon</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Ian Mui Jun Xian</td>
-  </tr>
-  <tr>
-    <td class="tg-wpup">Mr Sebastian Wang</td>
-  </tr>
+  
  
 </tbody>
 </table>
@@ -158,10 +153,18 @@ Towards greater social responsibility
 </tbody>
 </table>
 
-#### Photo Gallery
+The Humanities curriculum promotes learner-directed inquiry and the application of research skills through Geographical,
+Historical, and Issue Investigations. These projects encourage students to explore real-world issues critically and meaningfully,
+equipping them with the Emerging 21st Century Competencies needed to become informed, concerned, and participative
+citizens of Singapore and the world. Participation in external competitions such as the NUS Geography Challenge, MOE History
+Challenge, NLB History Scene Investigation, and Hwa Chong Model United Nations further enriches their learning, deepens
+their passion for the Humanities, and allows them to apply classroom knowledge to authentic global contexts.
 
-![](/images/Learning%20%20Humanities%201.jpg)
+##### <b>HCI MUN</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReVGuEdNYDgdXENjfdLFdT3RAEiTLdCN4b33Xtyt31jnaJRB5dasogZItg-pOmFeg2GrcJ3eqzTLwt/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-![](/images/Learning%20%20Humanities%202.jpg)
+##### <b>NUS GEOG CHALLENGE</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNGM_kvxTD-UOFkgGQU4jTR8e31ZSt3KNhR0okY-FX10xCDWOda7UihSy09fIkQU4V3nP2EEl4Brq-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-![](/images/Learning%20%20Humanities%203.jpg)
+##### <b>S4 URA &amp; PUNGGOL TOWN INQUIRY LEARNING</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTY-FQh9CK3fxtZOIDw6JKVu4wOswXKJEQdkmm-R9NuRgmoo5k9OxSburk2AdDg-CY3IomIxKTOs4of/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

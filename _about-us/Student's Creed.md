@@ -2,6 +2,7 @@
 title: Student's Creed
 permalink: /about-us/students-creed/
 description: ""
+variant: markdown
 ---
 <p style="text-align:center;"> <strong>We believe we have the power to be the best<br>that we can be</strong></p>
 
@@ -18,17 +19,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/DSC_8535%202000x1335.jpg" alt="Student's Creed" style="width:55%;">  
+<img src="/images/Student_Creed.jpg" alt="Student's Creed" style="width:100%;">  
   
-</body>
+
 <br>
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/DSC_8525%202000x1335.jpg" alt="Student's Creed" style="width:55%;">  
-  
-</body>

@@ -38,7 +38,7 @@ Every AMKsian is passionate about the learning of the Language and understanding
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Miss Evelyn Yong JiaHui</span><br><span style="font-weight:400;color:#004D2E">(SH / Chinese Language)</span></td>
   </tr>
   <tr>
-    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Sun Ying</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
+    <td class="tg-t70x"><span style="font-weight:400;color:#004D2E">Mdm Lam Tze Kim</span><br><span style="font-weight:400;color:#004D2E">(Senior Teacher)</span></td>
   </tr>
   <tr>
     <td class="tg-fi1r"><span style="font-weight:400;color:#004D2E">Mrs Rajan Bhattarai</span><br><span style="font-weight:400;color:#004D2E"></span></td>
@@ -50,23 +50,20 @@ Every AMKsian is passionate about the learning of the Language and understanding
   <tr>
     <td class="tg-wpup">Miss Tai Xiao Ling</td>
   </tr>
-  <tr>
-    <td class="tg-bapb">Mr Chee Yao Seong, Bernard</td>
-  </tr>
-	<tr>
-    <td class="tg-wpup">Mdm Siti Nadhirah Binte Hanafi</td>
+  	<tr>
+    <td class="tg-bapb">Mdm Siti Nadhirah Binte Hanafi</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms Siti Radziah Binte Mustafa</td>
+    <td class="tg-wpup">Ms Siti Radziah Binte Mustafa</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Muhammad Azizan</td>
+    <td class="tg-bapb">Mr Muhammad Azizan</td>
   </tr>
   <tr>
-    <td class="tg-bapb">Ms Nur Afiqah</td>
+    <td class="tg-wpup">Ms Nur Afiqah</td>
   </tr>
   <tr>
-    <td class="tg-wpup">Mr Tan Kim Huat</td>
+    <td class="tg-bapb">Mr Tan Kim Huat</td>
   </tr>
   
   
@@ -127,69 +124,21 @@ Every AMKsian is passionate about the learning of the Language and understanding
 2.  S1 Sahibba Inter-School Competition (Scrabble)
 3.  Drama Competition / VIA Programme
 
-#### Activities for the Year
 
-##### **Chinese New Year Celebration**
+The Mother Tongue Languages (MTL) curriculum brings language learning to life through authentic and immersive experiences
+that help students connect deeply with their linguistic and cultural roots. Through meaningful MTL Performance Tasks, students
+apply what they learn in real-world settings, developing creativity, confidence, and strong communication skills. The annual
+MTL Fortnight is a highlight of the year, offering exciting hands-on experiences such as Text Recital, Cross Talk, Seal Carving,
+Spin Top, Kuih Making, Malay Dance, and the Language Carnival. The Reading Programme further cultivates a love for reading
+and strengthens students’ language proficiency through engaging texts and activities. Festive celebrations like Chinese New
+Year and Hari Raya also foster appreciation for our shared traditions and Singapore’s vibrant multicultural identity. Beyond the
+classroom, Talent Development programmes inspire students to explore the arts and take part in competitions where they
+can discover and shine in their talents.
+##### <b>COMPETITIONS</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQThEQVq-kzEzgHfiKQPn1Pw0U92tbaK-WVexIlLD9n2Vge0kA63G2jigwPxMgFH4d7x91r6HRNJf2U/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-**Objective:**
+##### <b>LEARNING JOURNEY</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtWfY_mqK3Wb8BTBh5ic-GyPbQale89eLuM4-P6BtgbmOOkqyV97h5QRTOpZFMXP7wva3MJRCObM6X/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-*   To understand the significance of Chinese New Year (CNY) and practices at CNY
-
-**Activities organized for pupils:**
-
-1.  Classroom activities (lesson package on Chinese Cultures)
-2.  Classroom decoration
-3.  Lion Dance troupe was invited to grace the occasion
-4.  Performance by teachers and pupils
-
-  
-
-##### **Hari Raya Celebration**
-
-**Activities organized for pupils:**
-
-1.  Pre-Hari Raya Celebration (Designing of Hari Raya Cards)
-2.  Performance
-3.  Classroom activities
-
-  
-
-##### **Mid-Autumn Festival Celebration**
-
-**Objective:**
-
-*   To understand the significance of Mid-Autumn
-
-**Activities organized for pupils:**
-
-1.  Performances
-2.  Tea Appreciation and mooncakes food-tasting
-3.  Stations games related to Mid-Autumn Festival
-
-  
-
-##### **MTL Fortnight**
-
-**Objective:**
-
-*   To create an immersive environment for students to use their Mother Tongue Languages and appreciate the culture associated with Mother Tongue Languages
-
-**CL Activities includes:**
-
-1.  Opera Performance
-2.  Diabolo
-3.  Spin Top
-4.  Seal Carving
-5.  Paper Cutting
-6.  Wax Painting
-7.  Cross Talk Workshop and Competition
-8.  Public Speaking Workshop and Competition
-9.  Comic Writing Workshop
-
-**ML Activities includes:**
-
-1.  Online Insta Singing Competition
-2.  Malay Dance / Traditional Kuih / Pottery Workshops
-3.  Inter-class word games competition (Fikir-Fikir , Sahibba)
-4.  Malay Song and Poetry Appreciation
-5.  Virtual World Exhibition
+##### <b>MTL FORTNIGHT</b>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZaPs7s0jiqUc6d4fcLaLtlL3YOExdrZfDjpApwoivqec7ggpTdcOS17w-tsKZnjlk1KkvLJwyXdjs/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
