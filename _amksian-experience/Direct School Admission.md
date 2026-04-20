@@ -75,7 +75,7 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <p>Team AMKSS seeks opportunities that enable our players and leaders to plan, organise and implement a variety of programmes to benefit both the school and community. Annually, we organise a primary school badminton competition, the “AMKSS Invitational”, to promote the sport, encourage friendly sparring and help raise the standards of the sport amongst primary school students. In addition, players assist in the coaching of students in Ang Mo Kio Primary School as part of our partnership and outreach efforts with our community. </p>
 
 <div class="isomer-image-wrapper">
-<img style="width:80%;" height="auto" width="100%" alt="Badminton" src="/images/Badminton_DSA.jpg">
+<img style="width:80%;" height="auto" width="100%" alt="Badminton" src="/images/Badminton_1.jpg">
 </div>
 <h4>Volleyball</h4>
 <p>Established in 1999, the Ang Mo Kio Volleyball Team has grown from humble beginnings into a formidable force in both the South Zone and National competitions. Over the years, our teams have consistently outperformed expectations, earning a reputation for grit, skill, and determination.</p>
