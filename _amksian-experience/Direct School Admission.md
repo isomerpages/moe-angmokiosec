@@ -118,7 +118,7 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <h4>Basketball (Boys)</h4>
 <p>Basketball was reinstated as a full CCA in 2016. Having previously been offered as a second CCA for many years, the school began developing players from Secondary 1 due to the overwhelming interest shown by students.</p>
 <p>The Basketball CCA emphasises the values of sportsmanship, fair play, respect and excellence, equipping our student-athletes with the mindset and character needed to perform both on and off the court. Through training sessions held twice a week, students develop fundamental basketball skills, physical fitness, tactical awareness and mental resilience to overcome challenges in competition and in life.</p>
-<p>We hope to develop our boys to challenge themselves with more established schools in the basketball arena. Our basketball programme aims to develop and sustain our students’ skills, passion, and interest in the sport. As we continue to strive for excellence in competitions, we are driven to develop leaders and inculcate values of discipline and resilience in all our students.</p>
+<p>Our basketball programme provides students with numerous opportunities to grow through friendly matches, mini-competitions and inter-school engagements, fostering camaraderie within the basketball community while sharpening our players’ competitive edge.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" alt="Basketball" src="/images/Basketball_2025.jpg">
 </div>
