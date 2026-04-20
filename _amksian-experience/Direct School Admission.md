@@ -5,18 +5,8 @@ description: ""
 variant: markdown
 ---
 <h4>Ang Mo Kio Secondary School Direct School Admission Exercise  - For admission to Secondary 1 in 2027</h4>
-<p>Direct School Admission (DSA) is an MOE initiative designed to give selected
-schools greater flexibility in student admission, so that a more diverse
-range of student achievements and talents can be recognised.</p>
-<p>In April 2008, MOE approved the school’s application for niche development
-in the area of Symphonic Band. Since then, Ang Mo Kio Secondary School
-(AMKSS) has been offering discretionary admission to talented band students
-who displayed the passion for band music. With the introduction of the
-Learning for Life Programme (LLP) in Arts Education, AMKSS has offered
-DSA places for a wider range of performing arts from 2017. From 2019, we
-have broadened our DSA offerings to include the area of Sports as well.
-Up to 20% of the Secondary One vacancies will be offered for DSA places
-for&nbsp;<strong>Concert Band, Choir, Modern Dance, Malay Dance, English Drama, Badminton, Basketball, Football, Netball and Volleyball</strong>.</p>
+<p>Direct School Admission (DSA) is an MOE initiative designed to give selected schools greater flexibility in student admission, so that a more diverse range of student achievements and talents can be recognised.</p>
+<p>In April 2008, MOE approved the school’s application for niche development in the area of Symphonic Band.  Since then, Ang Mo Kio Secondary School (AMKSS) has been offering discretionary admission to talented band students who displayed the passion for band music.  With the introduction of the Learning for Life Programme (LLP) in Arts Education, AMKSS has offered DSA places for a wider range of performing arts from 2017.  From 2019, we have broadened our DSA offerings to include the area of Sports as well.  Up to 20% of the Secondary One vacancies will be offered for DSA places for <b>Concert Band, Choir, Modern Dance, Malay Dance, English Drama, Badminton, Basketball, Football, Netball and Volleyball.  </b></p>
 <p>In line with the school's belief to provide a balanced and holistic education,
 the Co-Curricular Programmes have been designed to allow our students to
 experience an enriching learning journey over the four years in school,
