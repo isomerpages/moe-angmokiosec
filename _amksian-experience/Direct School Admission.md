@@ -119,6 +119,8 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 <p>As we continue striving for excellence, our basketball programme remains committed to developing skilled players, confident leaders and resilient individuals with a lifelong passion for the sport.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%;" height="auto" width="100%" alt="Basketball" src="/images/Basketball_2025.jpg">
+	<br>
+	<img style="width:100%;" height="auto" width="100%" alt="Basketball" src="/images/Basketball.jpg">
 </div>
 <h4>Netball (Girls)</h4>
 <p>At Ang Mo Kio Secondary School, netball is not just a sport but it strives to nurture students in personal growth in terms of character building and technical skills.</p>
