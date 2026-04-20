@@ -76,6 +76,8 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 
 <div class="isomer-image-wrapper">
 <img style="width:80%;" height="auto" width="100%" alt="Badminton" src="/images/Badminton_1.jpg">
+	<br>
+	<img style="width:80%;" height="auto" width="100%" alt="Badminton" src="/images/Badminton_26.jpg">
 </div>
 <h4>Volleyball</h4>
 <p>Established in 1999, the Ang Mo Kio Volleyball Team has grown from humble beginnings into a formidable force in both the South Zone and National competitions. Over the years, our teams have consistently outperformed expectations, earning a reputation for grit, skill, and determination.</p>
