@@ -148,8 +148,7 @@ will be assessed based on their potential.</p>
 <p>4.&nbsp;<strong><em>You will receive notification from the school by 31 July 2026 if your child has been shortlisted to undergo Direct School Admission (DSA) selection.  The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by 31 July 2026.</em></strong> .</p>
 <p>5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face
 interview and audition/trial in our school from <strong><em>20 July 2026</em></strong> to <strong><em>14 August 2026</em></strong>.</p>
-<p>6.&nbsp; Shortlisted applicants will be notified of their application
-status by <strong><em>4 Sept 2025</em></strong>.</p>
+<p>6.&nbsp; <b>All applicants will receive their application outcomes between 17 and 28 Aug 2026.</b></p>
 <p>7.&nbsp; Students who are successfully admitted to the school via DSA
 are expected to honour their commitment to the school and participate in
 the activities related to the talent they are selected for from year 1-4.</p>
