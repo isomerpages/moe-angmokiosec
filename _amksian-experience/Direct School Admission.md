@@ -140,14 +140,14 @@ will be shortlisted/given an offer</font></li></ul></div></td></tr></tbody></tab
 
 <h4>Application Procedure</h4>
 <p>1.&nbsp; Application for DSA-Sec can be submitted through the online <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec
-Portal</a>. The application is free-of-charge and will be open from&nbsp; <strong><em>7 May 2025, 11 am to 3 June 2025, 3pm</em></strong>.
+Portal</a>. The application is free-of-charge and will be open from&nbsp; <strong><em>6 May 2026, 11.00 am to 2 June 2026, 4.30pm</em></strong>.
 For more details, please refer to <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>.</p>
 <p>2.&nbsp; Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 <p>3.&nbsp; Applicants who do not have prior experience may also apply and
 will be assessed based on their potential.</p>
-<p>4.&nbsp;<strong><em>You will receive notification from the school by 1 August 2025 if your child has been shortlisted to undergo Direct School Admission (DSA) selection.  The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by 1 August 2025.</em></strong> .</p>
+<p>4.&nbsp;<strong><em>You will receive notification from the school by 31 July 2026 if your child has been shortlisted to undergo Direct School Admission (DSA) selection.  The shortlisted applicants will be informed of the day and time of their trial session at least 2 weeks in advance and latest by 31 July 2026.</em></strong> .</p>
 <p>5.&nbsp; Shortlisted applicants will be invited for a one-day face-to-face
-interview and trial in our school from <strong><em>14 July 2025</em></strong> to <strong><em>15 August 2025</em></strong>.</p>
+interview and audition/trial in our school from <strong><em>20 July 2026</em></strong> to <strong><em>14 August 2026</em></strong>.</p>
 <p>6.&nbsp; Shortlisted applicants will be notified of their application
 status by <strong><em>4 Sept 2025</em></strong>.</p>
 <p>7.&nbsp; Students who are successfully admitted to the school via DSA
