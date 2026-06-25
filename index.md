@@ -16,15 +16,14 @@ sections:
           description: ""
           url: /amkss/quick-links
   - announcements:
-      title: 2026 Semester 1  School Matters
+      title: 2026 Semester 2  School Matters
       id: announcements
       announcement_items:
-        - title: 2026 S1OC Parent Engagement
+        - title: 2026 Semester 2 Timetable
           date: 12 January 2026
-          announcement: Please click on the link to access 2026 S1OC Parent Engagement
-            Materials
-          link_text: 2026 S1OC Parent Engagement Materials
-          link_url: /2026-secondary-one-orientation-camp-s1oc-parent-engagement-materials/
+          announcement: Please click on the link to access 2026 Semester 2 Timetable
+          link_text: 2026 Semester 2 Timetable
+          link_url: /2026-secondary-one-orientation-camp-s1oc-parent-engagement-materials//amksian-experience/2026-semester-2-school-matters/
         - title: 2026 CCA Schedule
           date: 09 January 2026
           announcement: Please click on the link to access 2026 CCA Schedule
