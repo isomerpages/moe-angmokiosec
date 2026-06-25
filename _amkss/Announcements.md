@@ -7,8 +7,8 @@ variant: markdown
 ##### <b> 2026 Semester 2  School Matters</b>
 
 Dear AMKsians, <br>Please click on the links below to access the respective documents: <br>
-* [Class Timetable 2026, Semester 2 Odd Week](/files/Class_Odd_Week_Sem_1_2026.pdf) <br>
-* [Class Timetable 2026, Semester 2 Even Week](/files/Class_Even_Week_Sem_1_2026.pdf) <br>
+* [Class Timetable 2026, Semester 2 Odd Week](/files/Class_Sem_2_Odd_2026_updated.pdf) <br>
+* [Class Timetable 2026, Semester 2 Even Week](/files/Class_Sem_2_Even_2026_updated.pdf) <br>
 * [HBL Schedule 2026 updated](/files/HBL_Schedule_2026_updated.pdf) <br>
 
 * [AMKSS Classroom Allocation 2026](/files/amkss%20classroom%20allocation%202026.pdf) <br>
