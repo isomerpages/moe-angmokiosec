@@ -20,7 +20,7 @@ sections:
       id: announcements
       announcement_items:
         - title: 2026 Semester 2 Timetable
-          date: 12 January 2026
+          date: 26 June 2026
           announcement: Please click on the link to access 2026 Semester 2 Timetable
           link_text: 2026 Semester 2 Timetable
           link_url: /amksian-experience/2026-semester-2-school-matters/
