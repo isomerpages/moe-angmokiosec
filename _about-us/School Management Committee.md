@@ -83,6 +83,11 @@ variant: markdown
     <td class="tg-60xp">Mother Tongue Languages</td>
       </tr>
 	<tr>
+    <td class="tg-60xp">Mdm Peggy Teng</td>
+    <td class="tg-60xp">Craft &amp; Technology</td>
+      </tr>
+	
+	<tr>
     <td class="tg-60xp">Mr Vincent Voo Teck Hong</td>
     <td class="tg-60xp">School Staff Developer</td>
       </tr>
@@ -116,10 +121,6 @@ variant: markdown
 </td>
       </tr>
 		<tr>
-    <td class="tg-60xp">Mdm Peggy Teng</td>
-    <td class="tg-60xp">Subject Head (Design &amp; Technology)</td>
-      </tr>
-		<tr>
     <td class="tg-60xp">Miss Tay Siew Peng</td>
     <td class="tg-60xp">Level Head (Science)</td>
       </tr>
@@ -149,7 +150,7 @@ variant: markdown
       </tr>
 	<tr>
     <td class="tg-60xp">Mr Ian Mui Jun Xian</td>
-    <td class="tg-60xp">Subject Head Covering (Humanities)</td>
+    <td class="tg-60xp">Subject Head (Humanities)</td>
       </tr>
 	<tr>
     <td class="tg-60xp"><b>Executive and Administrative Staff</b></td>
