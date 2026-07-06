@@ -85,8 +85,7 @@ variant: markdown
 	<tr>
     <td class="tg-60xp">Mdm Peggy Teng</td>
     <td class="tg-60xp">Craft &amp; Technology</td>
-      </tr>
-	
+      </tr>	
 	<tr>
     <td class="tg-60xp">Mr Vincent Voo Teck Hong</td>
     <td class="tg-60xp">School Staff Developer</td>

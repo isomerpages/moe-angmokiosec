@@ -69,11 +69,9 @@ img {
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bapb">Ms Cherie Chai</td>
+    <td class="tg-bapb">Dr Nicholas Tham</td>
   </tr>
-	<tr>
-    <td class="tg-wpup">Ms Natalie Ng</td>
-  </tr>
+	
 </tbody>
 </table>
 <br>
