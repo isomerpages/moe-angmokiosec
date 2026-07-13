@@ -64,7 +64,7 @@ img {
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mwif">Instructors<br></th>
+    <th class="tg-mwif">Instructor<br></th>
   </tr>
 </thead>
 <tbody>
